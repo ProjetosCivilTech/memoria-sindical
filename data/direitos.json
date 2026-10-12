@@ -1,0 +1,293 @@
+{
+  "metadados": {
+    "versao": "1.0.0",
+    "atualizado_em": "2026-10-12",
+    "fontes": [
+      "Acordos Coletivos de Trabalho (ACTs)",
+      "Dissídios Coletivos (DCs)",
+      "Acórdãos do TST"
+    ],
+    "periodo": "1988-2026",
+    "documentos_analisados": 36,
+    "total_clausulas_base": 1955,
+    "ids_canonicos": 171,
+    "observacao": "Números estimados a partir da base consolidada. Serão refinados com a extração completa."
+  },
+
+  "totais": {
+    "clausulas_nao_financeiras": 1180,
+    "ano_mais_produtivo": 2013,
+    "ano_mais_produtivo_qtd": 64,
+    "direitos_em_risco": 45
+  },
+
+  "por_tema": {
+    "saude": {
+      "rotulo": "Saúde e Segurança",
+      "total": 320,
+      "exemplos": "Assistência médica, CIPA, saúde do empregado, CAT/LISA, exames periódicos, adicionais de insalubridade"
+    },
+    "familia": {
+      "rotulo": "Família e Cuidados",
+      "total": 245,
+      "exemplos": "Licença-maternidade, licença-paternidade, reembolso-creche, auxílio a dependentes com deficiência, licença-adoção"
+    },
+    "diversidade": {
+      "rotulo": "Diversidade e Inclusão",
+      "total": 180,
+      "exemplos": "Direitos LGBTQIA+, direitos PCD, igualdade racial, mulher ecetista, empregado com HIV, mulheres na liderança"
+    },
+    "condicoes": {
+      "rotulo": "Condições de Trabalho",
+      "total": 280,
+      "exemplos": "Distribuição domiciliária, adicional noturno, transporte noturno, itens de proteção, EPI, ergonomia"
+    },
+    "sindical": {
+      "rotulo": "Democracia Sindical",
+      "total": 155,
+      "exemplos": "Liberação de dirigentes, delegado sindical, acesso às dependências, desconto assistencial, quadro de avisos"
+    }
+  },
+
+  "radar_governos": [
+    {
+      "nome": "Sarney/Collor (1988-1992)",
+      "cor": "#555555",
+      "scores": {
+        "saude": 45,
+        "familia": 35,
+        "diversidade": 15,
+        "condicoes": 40,
+        "sindical": 25
+      }
+    },
+    {
+      "nome": "Itamar/FHC (1993-2002)",
+      "cor": "#777777",
+      "scores": {
+        "saude": 58,
+        "familia": 48,
+        "diversidade": 25,
+        "condicoes": 52,
+        "sindical": 38
+      }
+    },
+    {
+      "nome": "Lula/Dilma (2003-2015)",
+      "cor": "#C8102E",
+      "scores": {
+        "saude": 88,
+        "familia": 92,
+        "diversidade": 78,
+        "condicoes": 85,
+        "sindical": 72
+      }
+    },
+    {
+      "nome": "Temer/Bolsonaro (2016-2022)",
+      "cor": "#2D2D2D",
+      "scores": {
+        "saude": 52,
+        "familia": 45,
+        "diversidade": 32,
+        "condicoes": 42,
+        "sindical": 22
+      }
+    },
+    {
+      "nome": "Lula (2023-2026)",
+      "cor": "#8B0000",
+      "scores": {
+        "saude": 82,
+        "familia": 85,
+        "diversidade": 92,
+        "condicoes": 80,
+        "sindical": 76
+      }
+    }
+  ],
+
+  "divergencias_fentect_findect": [
+    {
+      "ano": 2013,
+      "id_canonico": "SIN_FORNECIMENTO_MANUAL",
+      "score_similaridade": 0.11,
+      "tipo": "material",
+      "magnitude": 9,
+      "descricao": "FINDECT inclui Lei de Acesso à Informação + termo de confidencialidade para manuais estratégicos"
+    },
+    {
+      "ano": 2013,
+      "id_canonico": "PRO_PROCESSO_PERMANENTE_NEGOCIACAO",
+      "score_similaridade": 0.21,
+      "tipo": "material",
+      "magnitude": 8,
+      "descricao": "FINDECT adota mesas temáticas amplas; DC fixa cronograma específico"
+    },
+    {
+      "ano": 2013,
+      "id_canonico": "FIN_REAJUSTE_SALARIAL",
+      "score_similaridade": 0.28,
+      "tipo": "material",
+      "magnitude": 8,
+      "descricao": "DC: 8% salário + 6,27% benefícios; FINDECT: apenas 8% salário"
+    },
+    {
+      "ano": 2013,
+      "id_canonico": "PRO_VIGENCIA",
+      "score_similaridade": 0.28,
+      "tipo": "material",
+      "magnitude": 8,
+      "descricao": "DC: vigência até revogação (máx 4 anos); FINDECT: prazo fixo de 1 ano"
+    },
+    {
+      "ano": 2013,
+      "id_canonico": "PRO_GARANTIAS_EMPREGADO_ESTUDANTE",
+      "score_similaridade": 0.48,
+      "tipo": "material",
+      "magnitude": 6,
+      "descricao": "DC refere 'FENTECT e sindicatos'; FINDECT refere apenas 'Sindicato'"
+    },
+    {
+      "ano": 2013,
+      "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+      "score_similaridade": 0.52,
+      "tipo": "material",
+      "magnitude": 6,
+      "descricao": "DC: 11 fixos para FENTECT + 5 por sindicato; FINDECT: escalonado por tamanho da base"
+    },
+    {
+      "ano": 2013,
+      "id_canonico": "SIN_QUADRO_AVISOS",
+      "score_similaridade": 0.75,
+      "tipo": "material",
+      "magnitude": 4,
+      "descricao": "DC: entidades vinculadas à FENTECT; FINDECT: Sindicato dos Empregados"
+    },
+    {
+      "ano": 2013,
+      "id_canonico": "FIN_PLR",
+      "score_similaridade": 0.78,
+      "tipo": "material",
+      "magnitude": 3,
+      "descricao": "DC: participação da FENTECT; FINDECT: Sindicato ou Federação filiada"
+    },
+    {
+      "ano": 2013,
+      "id_canonico": "SIN_ANISTIA",
+      "score_similaridade": 0.84,
+      "tipo": "material",
+      "magnitude": 2,
+      "descricao": "DC: Comissão de Anistia da FENTECT; FINDECT: Federação filiada"
+    },
+    {
+      "ano": 2013,
+      "id_canonico": "SOC_SAUDE_EMPREGADO",
+      "score_similaridade": 0.87,
+      "tipo": "material",
+      "magnitude": 2,
+      "descricao": "DC: 'apoio da FENTECT e das entidades sindicais'; FINDECT: 'apoio das entidades sindicais'"
+    }
+  ],
+
+  "eventos_timeline": [
+    {
+      "ano": 1988,
+      "categoria": "Saúde",
+      "titulo": "Greve histórica de 29 dias",
+      "descricao": "Após 29 dias de greve, a categoria conquista reajuste de 35% e a criação do benefício de assistência médica hospitalar para todos os empregados.",
+      "fonte": "ACT 1988-1989"
+    },
+    {
+      "ano": 1993,
+      "categoria": "Condições",
+      "titulo": "Primeira cláusula de distribuição domiciliária",
+      "descricao": "Regulamentação do limite de peso transportado por carteiros — 10kg para homem e 8kg para mulher. Marco inicial das cláusulas de proteção física.",
+      "fonte": "ACT 1993"
+    },
+    {
+      "ano": 1999,
+      "categoria": "Saúde",
+      "titulo": "Reembolso de medicamentos",
+      "descricao": "Criação de cláusula específica para reembolso de medicamentos de uso contínuo para portadores de doenças crônicas (diabetes, hipertensão, etc.).",
+      "fonte": "ACT 1999-2000"
+    },
+    {
+      "ano": 2003,
+      "categoria": "Família",
+      "titulo": "Reembolso-creche ampliado",
+      "descricao": "Ampliação do reembolso-creche para incluir todos os filhos até o 7º ano, incluindo enteados e tutelados. Reconhecimento da responsabilidade parental compartilhada.",
+      "fonte": "ACT 2003-2004"
+    },
+    {
+      "ano": 2008,
+      "categoria": "Família",
+      "titulo": "Prorrogação da licença-maternidade",
+      "descricao": "Adesão à Lei 11.770/2008: prorrogação de 60 dias da licença-maternidade. Direito estendido também a empregadas adotantes.",
+      "fonte": "ACT 2008-2009"
+    },
+    {
+      "ano": 2013,
+      "categoria": "Diversidade",
+      "titulo": "Licença-adoção para união homoafetiva",
+      "descricao": "Conquista histórica: extensão da licença-adoção para empregados(as) em união estável homoafetiva, desde que o companheiro(a) não utilize o mesmo benefício em outra instituição.",
+      "fonte": "DC 2013-2014"
+    },
+    {
+      "ano": 2014,
+      "categoria": "Condições",
+      "titulo": "Adicional de periculosidade para motociclistas",
+      "descricao": "Lei 12.997/2014 garante adicional de periculosidade. Luta sindical garante ACUMULAÇÃO com o AADC de 30% — ganho de até 60% sobre o salário para motociclistas.",
+      "fonte": "ACT 2014-2015"
+    },
+    {
+      "ano": 2016,
+      "categoria": "Saúde",
+      "titulo": "Exames específicos por perfil",
+      "descricao": "Inclusão de exames de câncer de pele para trabalhadores expostos ao sol e anemia falciforme para empregados afrodescendentes. Reconhecimento das especificidades de saúde.",
+      "fonte": "ACT 2016-2017"
+    },
+    {
+      "ano": 2018,
+      "categoria": "Diversidade",
+      "titulo": "Combate à discriminação LGBTQIA+",
+      "descricao": "Cláusula específica de combate à discriminação por orientação sexual e identidade de gênero. Marco na proteção da população LGBTQIA+ na categoria.",
+      "fonte": "ACT 2018-2019"
+    },
+    {
+      "ano": 2020,
+      "categoria": "Sindical",
+      "titulo": "Ataque às cláusulas sindicais na pandemia",
+      "descricao": "Direção dos Correios tenta retirar 45 cláusulas do ACT, incluindo liberação de dirigentes, delegado sindical e acesso às dependências. Resistência sindical impede retirada total.",
+      "fonte": "DC 2020-2021"
+    },
+    {
+      "ano": 2022,
+      "categoria": "Sindical",
+      "titulo": "Pior reajuste em 34 anos",
+      "descricao": "Reajuste de apenas 0,8% — muito abaixo da inflação do período. Perda real significativa para toda a categoria.",
+      "fonte": "ACT 2022-2023"
+    },
+    {
+      "ano": 2023,
+      "categoria": "Diversidade",
+      "titulo": "Direitos PCD e mulheres na liderança",
+      "descricao": "Novas cláusulas específicas para pessoas com deficiência e criação de programa de incentivo a mulheres em cargos de liderança.",
+      "fonte": "ACT 2023-2024"
+    },
+    {
+      "ano": 2024,
+      "categoria": "Sindical",
+      "titulo": "Retomada do diálogo e recomposição",
+      "descricao": "Com a retomada do diálogo tripartite, conquista de reajuste de 6,5% e recomposição de cláusulas retiradas nos anos anteriores. Valorização das mesas de negociação.",
+      "fonte": "ACT 2024-2025"
+    },
+    {
+      "ano": 2025,
+      "categoria": "Família",
+      "titulo": "AADC durante gestação e licença-maternidade",
+      "descricao": "Cláusula específica garante manutenção do Adicional de Atividade de Distribuição e Coleta (AADC) durante gestação e licença-maternidade — proteção da renda da gestante.",
+      "fonte": "ACT 2024-2025"
+    }
+  ]
+}
