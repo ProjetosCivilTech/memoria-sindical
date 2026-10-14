@@ -1,8 +1,7 @@
 /* ============================================================
    Batalha pelo Salário — Gráficos Dinâmicos
    Memória Sindical | Raio-X da Luta
-   Base: 1995 (pós-Plano Real)
-   Versão: dois gráficos animados em paralelo + lazy loading
+   Versão: eixo duplo (Poder de Compra + VA/VC) + loop + lazy
    ============================================================ */
 
 'use strict';
@@ -25,7 +24,6 @@ const CORES = {
   branco:        '#FFFFFF',
 };
 
-/* Cores por orientação política */
 const CORES_GOVERNO = {
   progressista: '#1E7A3C',
   conservador:  '#C8102E',
@@ -60,9 +58,14 @@ const EVENTOS_CONQUISTA = {
     descricao: 'Criação da Gratificação de Quebra de Caixa para atendentes comerciais.',
     impacto: 'Novo benefício',
   },
+  1999: {
+    titulo: 'Criação do Vale Cesta (VC)',
+    descricao: 'Instituído no ACT 1999/2000, substituindo a cesta básica em alimentos.',
+    impacto: 'R$ 40/mês',
+  },
   2008: {
     titulo: 'AADC Consolidado em 30%',
-    descricao: 'Consolidação definitiva do Adicional de Atividade de Distribuição e Coleta.',
+    descricao: 'Consolidação do AADC após 3 greves sucessivas. Benefício separado do salário-base.',
     impacto: '+30% AADC',
   },
   2014: {
@@ -77,7 +80,7 @@ const EVENTOS_CONQUISTA = {
   },
 };
 
-const ANOS_CHAVE = [1993, 1995, 1997, 2002, 2008, 2013, 2014, 2020, 2022, 2024];
+const ANOS_CHAVE = [1993, 1995, 1997, 1999, 2002, 2008, 2013, 2014, 2020, 2022, 2024];
 const MARGEM_GANHO = 0.1;
 const PAUSA_LOOP_MS = 4000;
 
@@ -87,14 +90,12 @@ const PAUSA_LOOP_MS = 4000;
 
 let chartSalarioReal = null;
 let chartReajustesGoverno = null;
-
 let loopTimeoutSalario = null;
 let loopTimeoutGoverno = null;
-
 let dadosGlobais = null;
 
 /* ------------------------------------------------------------
-   PLUGIN: TROFÉUS DE CONQUISTA DENTRO DOS GRÁFICOS
+   PLUGIN: TROFÉUS DE CONQUISTA
    ------------------------------------------------------------ */
 
 const conquistasPlugin = {
@@ -169,8 +170,15 @@ function formatarInflacao(valor) {
   return '×' + Math.round(valor).toLocaleString('pt-BR');
 }
 
+function formatarRS(valor) {
+  return 'R$ ' + valor.toLocaleString('pt-BR', {
+    minimumFractionDigits: 2,
+    maximumFractionDigits: 2,
+  });
+}
+
 /* ------------------------------------------------------------
-   LÓGICA DE CORES E TAMANHOS DOS PONTOS
+   LÓGICA DE CORES E TAMANHOS
    ------------------------------------------------------------ */
 
 function corDoPonto(s) {
@@ -214,10 +222,8 @@ function renderKPIs(dados) {
   const inflacaoX = ultimo.inflacao_acumulada / primeiro.inflacao_acumulada;
   document.getElementById('kpi-inflacao').textContent = formatarInflacao(inflacaoX);
 
-  const greves = (dados.eventos_timeline || []).filter(e =>
-    (e.titulo || '').toLowerCase().includes('greve')
-  ).length;
-  document.getElementById('kpi-greves').textContent = greves;
+  const totalGreves = dados.metadados?.total_greves_historicas || 0;
+  document.getElementById('kpi-greves').textContent = totalGreves;
 
   let maior = { ano: null, pct: 0 };
   for (const s of serie) {
@@ -232,7 +238,7 @@ function renderKPIs(dados) {
 }
 
 /* ------------------------------------------------------------
-   GRÁFICO 0 — REAJUSTES POR GOVERNO (animado, com troféus)
+   GRÁFICO 0 — REAJUSTES POR GOVERNO (linha)
    ------------------------------------------------------------ */
 
 function renderizarReajustesGoverno(dados) {
@@ -255,33 +261,47 @@ function renderizarReajustesGoverno(dados) {
 
   const ctx = canvas.getContext('2d');
 
+  const corPonto = (s) => {
+    if (EVENTOS_CONQUISTA[s.ano]) return CORES.conquista;
+    return CORES_GOVERNO[s.orientacao] || CORES_GOVERNO['—'];
+  };
+
   chartReajustesGoverno = new Chart(ctx, {
-    type: 'bar',
+    type: 'line',
     data: {
       labels: serie.map(s => s.ano),
       datasets: [{
         label: 'Reajuste nominal (%)',
         data: serie.map(s => s.reajuste_pct),
-        backgroundColor: serie.map(s =>
-          CORES_GOVERNO[s.orientacao] || CORES_GOVERNO['—']
+        borderColor: CORES.vermelho,
+        backgroundColor: 'rgba(200, 16, 46, 0.12)',
+        borderWidth: 3,
+        pointBackgroundColor: serie.map(corPonto),
+        pointBorderColor: serie.map(s =>
+          EVENTOS_CONQUISTA[s.ano] ? CORES.conquista :
+          (s.estimado ? CORES.cinza : CORES.branco)
         ),
-        borderColor: serie.map(s =>
-          EVENTOS_CONQUISTA[s.ano] ? CORES.conquista : 'transparent'
+        pointBorderWidth: serie.map(s =>
+          EVENTOS_CONQUISTA[s.ano] ? 3 : (s.estimado ? 2 : 2)
         ),
-        borderWidth: serie.map(s => EVENTOS_CONQUISTA[s.ano] ? 3 : 0),
-        borderRadius: 4,
-        borderSkipped: false,
+        pointRadius: serie.map(s =>
+          EVENTOS_CONQUISTA[s.ano] ? 8 :
+          (s.reajuste_pct >= 8 ? 6 : 3)
+        ),
+        pointHoverRadius: 10,
+        tension: 0.3,
+        fill: false,
       }]
     },
     options: {
       responsive: true,
       maintainAspectRatio: false,
       animation: {
-        duration: 500,
+        duration: 400,
         easing: 'easeOutQuart',
         delay: (context) => {
           if (context.type === 'data' && context.mode === 'default') {
-            return context.dataIndex * 70;
+            return context.dataIndex * 90;
           }
           return 0;
         },
@@ -291,14 +311,19 @@ function renderizarReajustesGoverno(dados) {
         },
       },
       interaction: { mode: 'index', intersect: false },
-      layout: {
-        padding: { top: 10, bottom: 5 },
-      },
+      layout: { padding: { top: 10, bottom: 5 } },
       plugins: {
-        legend: { display: false },
+        legend: {
+          position: 'top',
+          labels: {
+            font: { family: FONTE_TEXTO, size: 13 },
+            padding: 16,
+            usePointStyle: true,
+          }
+        },
         subtitle: {
           display: true,
-          text: '🟢 Progressista | 🔴 Conservador | ⚪ Transição | 🏆 Conquista sindical',
+          text: '🟢 Progressista | 🔴 Conservador | ⚪ Transição | 🟡 Conquista sindical',
           position: 'bottom',
           font: { family: FONTE_TEXTO, size: 11, style: 'italic' },
           color: CORES.cinza,
@@ -323,6 +348,7 @@ function renderizarReajustesGoverno(dados) {
               }
               if (s.ipca_ano) linhas.push(`IPCA do ano: ${s.ipca_ano}%`);
               if (s.observacao) linhas.push(s.observacao);
+              if (s.estimado) linhas.push('⚠️ Dado estimado');
               return linhas;
             }
           }
@@ -343,6 +369,11 @@ function renderizarReajustesGoverno(dados) {
           }
         },
         x: {
+          title: {
+            display: true,
+            text: 'Ano',
+            font: { family: FONTE_TEXTO, size: 12 }
+          },
           grid: { display: false },
           ticks: {
             font: { family: FONTE_TEXTO, size: 11 },
@@ -355,7 +386,6 @@ function renderizarReajustesGoverno(dados) {
     }
   });
 
-  /* Pausa ao passar o mouse */
   canvas.addEventListener('mouseenter', () => {
     if (loopTimeoutGoverno) {
       clearTimeout(loopTimeoutGoverno);
@@ -367,8 +397,6 @@ function renderizarReajustesGoverno(dados) {
       loopTimeoutGoverno = setTimeout(reiniciarReajustesGoverno, 2000);
     }
   });
-
-  /* Duplo clique = replay */
   canvas.addEventListener('dblclick', () => {
     if (loopTimeoutGoverno) clearTimeout(loopTimeoutGoverno);
     loopTimeoutGoverno = null;
@@ -388,7 +416,7 @@ function reiniciarReajustesGoverno() {
 }
 
 /* ------------------------------------------------------------
-   GRÁFICO 1 — PODER DE COMPRA (animado, com troféus)
+   GRÁFICO 1 — PODER DE COMPRA + VA/VC (EIXO DUPLO)
    ------------------------------------------------------------ */
 
 function renderizarSalarioReal(dados) {
@@ -413,7 +441,7 @@ function renderizarSalarioReal(dados) {
   const ctx = canvas.getContext('2d');
 
   const gradient = ctx.createLinearGradient(0, 0, 0, 400);
-  gradient.addColorStop(0, 'rgba(30, 122, 60, 0.20)');
+  gradient.addColorStop(0, 'rgba(30, 122, 60, 0.15)');
   gradient.addColorStop(1, 'rgba(200, 16, 46, 0.15)');
 
   chartSalarioReal = new Chart(ctx, {
@@ -428,12 +456,28 @@ function renderizarSalarioReal(dados) {
           backgroundColor: gradient,
           borderWidth: 3,
           pointBackgroundColor: serie.map(corDoPonto),
-          pointBorderColor: CORES.branco,
-          pointBorderWidth: 2,
+          pointBorderColor: serie.map(s => s.estimado ? CORES.conquista : CORES.branco),
+          pointBorderWidth: serie.map(s => s.estimado ? 3 : 2),
           pointRadius: serie.map(raioDoPonto),
           pointHoverRadius: 10,
           tension: 0.3,
           fill: { target: { value: 100 } },
+          yAxisID: 'y',
+        },
+        {
+          label: 'VA + VC (R$/mês)',
+          data: serie.map(s => s.va_vc_total),
+          borderColor: CORES.ganho,
+          backgroundColor: 'rgba(30, 122, 60, 0.10)',
+          borderWidth: 3,
+          pointBackgroundColor: CORES.ganho,
+          pointBorderColor: serie.map(s => s.va_vc_estimado ? CORES.conquista : CORES.branco),
+          pointBorderWidth: serie.map(s => s.va_vc_estimado ? 3 : 2),
+          pointRadius: 4,
+          pointHoverRadius: 9,
+          tension: 0.3,
+          fill: false,
+          yAxisID: 'y1',
         },
         {
           label: `Referência ${anoBase} (100)`,
@@ -443,6 +487,7 @@ function renderizarSalarioReal(dados) {
           borderDash: [6, 4],
           pointRadius: 0,
           fill: false,
+          yAxisID: 'y',
         }
       ]
     },
@@ -464,9 +509,7 @@ function renderizarSalarioReal(dados) {
         },
       },
       interaction: { mode: 'index', intersect: false },
-      layout: {
-        padding: { top: 10, bottom: 5 },
-      },
+      layout: { padding: { top: 10, bottom: 5 } },
       plugins: {
         legend: {
           position: 'top',
@@ -478,7 +521,7 @@ function renderizarSalarioReal(dados) {
         },
         subtitle: {
           display: true,
-          text: '🟢 Ganho real | 🔴 Perda real | 🟡 Conquista sindical',
+          text: `🔴 Poder de Compra (salário-base, base 100 = ${anoBase}) | 🟢 VA + VC em R$/mês (23 vales + cesta) — VC instituído no ACT 1999/2000`,
           position: 'bottom',
           font: { family: FONTE_TEXTO, size: 11, style: 'italic' },
           color: CORES.cinza,
@@ -486,33 +529,54 @@ function renderizarSalarioReal(dados) {
         },
         tooltip: {
           ...TOOLTIP_PADRAO,
-          filter: (item) => item.datasetIndex === 0,
+          displayColors: true,
           callbacks: {
             title: (items) => `Ano ${items[0].label}`,
             label: (ctx) => {
               const s = serie[ctx.dataIndex];
-              const dif = s.salario_real - 100;
-              const status = dif >= 0 ? '✅ Ganho' : '❌ Perda';
-              return [
-                `Poder de compra: ${s.salario_real.toFixed(1)}`,
-                `${status}: ${dif > 0 ? '+' : ''}${dif.toFixed(1)}%`,
-              ];
+
+              if (ctx.datasetIndex === 0) {
+                const dif = s.salario_real - 100;
+                const status = dif >= 0 ? '✅ Ganho' : '❌ Perda';
+                return [
+                  ` Poder de compra: ${s.salario_real.toFixed(1)}`,
+                  ` ${status}: ${dif > 0 ? '+' : ''}${dif.toFixed(1)}%`,
+                ];
+              }
+
+              if (ctx.datasetIndex === 1 && s.va_vc_total) {
+                const linhas = [
+                  ` VA + VC total: ${formatarRS(s.va_vc_total)}/mês`,
+                  ` VR unitário: ${formatarRS(s.va_vr_unit)} × 23 = ${formatarRS(s.va_vr_mes)}`,
+                  ` Vale Cesta: ${formatarRS(s.vc_reais)}`,
+                ];
+                if (s.ano === 1999) {
+                  linhas.push('━━━━━━━━━━━━━━━━━━━━━━');
+                  linhas.push('✨ VC instituído neste ano (ACT 1999/2000)');
+                  linhas.push('   Substituiu a cesta básica em alimentos');
+                }
+                if (s.va_vc_estimado) {
+                  linhas.push(' ⚠️ VC estimado (interpolação IPCA)');
+                }
+                return linhas;
+              }
+
+              return [];
             },
             afterLabel: (ctx) => {
+              if (ctx.datasetIndex !== 0) return [];
               const s = serie[ctx.dataIndex];
               const linhas = [];
 
               if (EVENTOS_CONQUISTA[s.ano]) {
                 linhas.push('━━━━━━━━━━━━━━━━━━━━━━');
                 linhas.push(`🏆 ${EVENTOS_CONQUISTA[s.ano].titulo}`);
-                linhas.push(EVENTOS_CONQUISTA[s.ano].descricao);
-                linhas.push(`Impacto: ${EVENTOS_CONQUISTA[s.ano].impacto}`);
-                return linhas;
+                linhas.push(EVENTOS_CONQUISTA[s.ano].impacto);
               }
-
               if (s.reajuste_pct) linhas.push(`Reajuste: +${s.reajuste_pct}%`);
               if (s.ipca_ano)     linhas.push(`IPCA: ${s.ipca_ano}%`);
               if (s.governo)      linhas.push(`Governo: ${s.governo}`);
+              if (s.estimado)     linhas.push('⚠️ Reajuste estimado');
               return linhas;
             }
           }
@@ -521,15 +585,38 @@ function renderizarSalarioReal(dados) {
       scales: {
         y: {
           type: 'linear',
+          position: 'left',
           min: 0,
           max: 120,
           title: {
             display: true,
-            text: `Poder de compra (base 100 = ${anoBase})`,
-            font: { family: FONTE_TEXTO, size: 12 }
+            text: `Poder de Compra (base 100 = ${anoBase})`,
+            font: { family: FONTE_TEXTO, size: 12 },
+            color: CORES.vermelho,
           },
           grid: { color: 'rgba(0,0,0,0.05)' },
-          ticks: { font: { family: FONTE_TEXTO, size: 11 } }
+          ticks: {
+            font: { family: FONTE_TEXTO, size: 11 },
+            color: CORES.vermelho,
+          }
+        },
+        y1: {
+          type: 'linear',
+          position: 'right',
+          min: 0,
+          max: 2000,
+          title: {
+            display: true,
+            text: 'VA + VC (R$ / mês)',
+            font: { family: FONTE_TEXTO, size: 12 },
+            color: CORES.ganho,
+          },
+          grid: { drawOnChartArea: false },
+          ticks: {
+            font: { family: FONTE_TEXTO, size: 11 },
+            color: CORES.ganho,
+            callback: (v) => 'R$ ' + v.toLocaleString('pt-BR'),
+          }
         },
         x: {
           title: {
@@ -550,7 +637,6 @@ function renderizarSalarioReal(dados) {
     }
   });
 
-  /* Pausa ao passar o mouse */
   canvas.addEventListener('mouseenter', () => {
     if (loopTimeoutSalario) {
       clearTimeout(loopTimeoutSalario);
@@ -562,8 +648,6 @@ function renderizarSalarioReal(dados) {
       loopTimeoutSalario = setTimeout(reiniciarAnimacaoSalario, 2000);
     }
   });
-
-  /* Duplo clique = replay */
   canvas.addEventListener('dblclick', () => {
     if (loopTimeoutSalario) clearTimeout(loopTimeoutSalario);
     loopTimeoutSalario = null;
@@ -583,7 +667,7 @@ function reiniciarAnimacaoSalario() {
 }
 
 /* ------------------------------------------------------------
-   GRÁFICO 2 — REAJUSTES (verde = ganho real | cinza = perda)
+   GRÁFICO 2 — REAJUSTES (verde = ganho | cinza = perda)
    ------------------------------------------------------------ */
 
 function renderizarReajustes(dados) {
@@ -819,8 +903,8 @@ function renderizarTimeline(dados) {
   }
 
   const icones = {
-    ganho:  '🔺',
-    perda:  '🔻',
+    ganho:  '🟢',
+    perda:  '🔴',
     neutro: '⚪',
   };
 
@@ -891,9 +975,10 @@ document.addEventListener('visibilitychange', () => {
     lazyChart('grafico-governos',          () => renderizarGovernos(dados));
     lazyChart('grafico-act-dc',            () => renderizarActVsDc(dados));
 
-    console.log('[Raio-X/Financeiro] Página inicializada (gráficos em lazy load).');
+    console.log('[Raio-X/Financeiro] Página inicializada (lazy load).');
     console.log(`[Raio-X/Financeiro] Base: ${dados.metadados?.ano_base}`);
     console.log(`[Raio-X/Financeiro] Período: ${dados.metadados?.periodo_analisado}`);
+    console.log(`[Raio-X/Financeiro] Greves: ${dados.metadados?.total_greves_historicas}`);
   } catch (err) {
     console.error('[Raio-X/Financeiro]', err);
     mostrarErro('Não foi possível carregar data/financeiro.json');

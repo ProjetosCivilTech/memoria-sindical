@@ -1,8 +1,9 @@
 {
   "metadados": {
-    "atualizado_em": "2026-10-12",
+    "atualizado_em": "2026-10-13",
     "fonte_inflacao": "IBGE (tabela local — API indisponível)",
     "fonte_reajustes": "Tabela curada a partir de ACTs/DCs dos Correios",
+    "fonte_va_vc": "ACTs/DCs dos Correios — histórico consolidado 1995-2026",
     "ano_base": 1995,
     "periodo_analisado": "1995-2026",
     "periodo_excluido": [
@@ -10,8 +11,12 @@
       1994
     ],
     "ultimo_ano_estimado": 2025,
-    "metodologia": "Poder de compra base 100 = 1995 (pós-Plano Real). Período 1988-1994 excluído por inviabilidade matemática. Salário real = nominal acumulado / IPCA acumulado. Anos >= 2025 usam IPCA estimado.",
-    "nota_periodo_excluido": "Converter salários de 1988-1994 para valores atuais é matematicamente enganoso: a inflação acumulada do período ultrapassa 100 trilhões por cento."
+    "total_greves_historicas": 8,
+    "vales_mes_padrao": 23,
+    "metodologia": "Poder de compra base 100 = 1995 (pós-Plano Real). Período 1988-1994 excluído por inviabilidade matemática. O campo 'reajuste_pct' refere-se APENAS ao reajuste do salário-base. Adicionais (AADC, Periculosidade, Adicional Noturno, Quebra de Caixa) são benefícios separados e NÃO entram no cálculo do reajuste percentual.",
+    "nota_va_vc": "Total VA+VC = (VR unitário × 23 vales) + VC. Valor do VC instituído no ACT 1999/2000, substituindo a cesta básica. Anos 2021 e 2022 têm VC estimado por interpolação IPCA.",
+    "nota_periodo_excluido": "Converter salários de 1988-1994 para valores atuais é matematicamente enganoso: a inflação acumulada do período ultrapassa 100 trilhões por cento.",
+    "nota_auditoria_2020": "Auditoria do DC 2020-2021 (TST-DC 1001203-57.2020.5.00.0000) confirmou: 79 cláusulas antes → 29 depois = 50 retiradas. AADC (30%) e Vale Cultura retirados por unanimidade."
   },
   "nota_historica": {
     "titulo": "Sobre o período 1988-1994",
@@ -31,7 +36,12 @@
       "observacao": "3,27% linear na mudança da data-base para dezembro",
       "governo": "FHC",
       "orientacao": "conservador",
-      "estimado": false
+      "estimado": false,
+      "va_vr_unit": 7.0,
+      "va_vr_mes": 161.0,
+      "vc_reais": 0.0,
+      "va_vc_total": 161.0,
+      "va_vc_estimado": false
     },
     {
       "ano": 1996,
@@ -45,7 +55,12 @@
       "observacao": "9,56% pós-Plano Real (Dissídio Coletivo TST)",
       "governo": "FHC",
       "orientacao": "conservador",
-      "estimado": false
+      "estimado": false,
+      "va_vr_unit": 7.0,
+      "va_vr_mes": 161.0,
+      "vc_reais": 0.0,
+      "va_vc_total": 161.0,
+      "va_vc_estimado": false
     },
     {
       "ano": 1997,
@@ -59,7 +74,12 @@
       "observacao": "5% linear + abono fixo de R$ 200",
       "governo": "FHC",
       "orientacao": "conservador",
-      "estimado": false
+      "estimado": false,
+      "va_vr_unit": 7.5,
+      "va_vr_mes": 172.5,
+      "vc_reais": 0.0,
+      "va_vc_total": 172.5,
+      "va_vc_estimado": false
     },
     {
       "ano": 1998,
@@ -73,7 +93,12 @@
       "observacao": "2% linear + abono de 60% do salário-base",
       "governo": "FHC",
       "orientacao": "conservador",
-      "estimado": false
+      "estimado": false,
+      "va_vr_unit": 8.0,
+      "va_vr_mes": 184.0,
+      "vc_reais": 0.0,
+      "va_vc_total": 184.0,
+      "va_vc_estimado": false
     },
     {
       "ano": 1999,
@@ -87,7 +112,12 @@
       "observacao": "2% linear + abono de 50% do salário-base",
       "governo": "FHC",
       "orientacao": "conservador",
-      "estimado": false
+      "estimado": false,
+      "va_vr_unit": 8.5,
+      "va_vr_mes": 195.5,
+      "vc_reais": 40.0,
+      "va_vc_total": 235.5,
+      "va_vc_estimado": false
     },
     {
       "ano": 2000,
@@ -101,7 +131,12 @@
       "observacao": "3% linear + abono de 50% em Dissídio Coletivo",
       "governo": "FHC",
       "orientacao": "conservador",
-      "estimado": false
+      "estimado": false,
+      "va_vr_unit": 9.0,
+      "va_vr_mes": 207.0,
+      "vc_reais": 40.0,
+      "va_vc_total": 247.0,
+      "va_vc_estimado": false
     },
     {
       "ano": 2001,
@@ -115,7 +150,12 @@
       "observacao": "6% linear + abono de 70% do salário-base",
       "governo": "FHC",
       "orientacao": "conservador",
-      "estimado": false
+      "estimado": false,
+      "va_vr_unit": 9.5,
+      "va_vr_mes": 218.5,
+      "vc_reais": 40.0,
+      "va_vc_total": 258.5,
+      "va_vc_estimado": false
     },
     {
       "ano": 2002,
@@ -129,7 +169,12 @@
       "observacao": "4% linear + 1 referência salarial + abono R$ 1.000",
       "governo": "FHC",
       "orientacao": "conservador",
-      "estimado": false
+      "estimado": false,
+      "va_vr_unit": 10.5,
+      "va_vr_mes": 241.5,
+      "vc_reais": 40.0,
+      "va_vc_total": 281.5,
+      "va_vc_estimado": false
     },
     {
       "ano": 2003,
@@ -143,7 +188,12 @@
       "observacao": "6% linear + progressões na carreira (2 referências)",
       "governo": "Lula",
       "orientacao": "progressista",
-      "estimado": false
+      "estimado": false,
+      "va_vr_unit": 11.5,
+      "va_vr_mes": 264.5,
+      "vc_reais": 40.0,
+      "va_vc_total": 304.5,
+      "va_vc_estimado": false
     },
     {
       "ano": 2004,
@@ -157,7 +207,12 @@
       "observacao": "6,81% linear + 2 referências + abono R$ 400",
       "governo": "Lula",
       "orientacao": "progressista",
-      "estimado": false
+      "estimado": false,
+      "va_vr_unit": 12.0,
+      "va_vr_mes": 276.0,
+      "vc_reais": 40.0,
+      "va_vc_total": 316.0,
+      "va_vc_estimado": false
     },
     {
       "ano": 2005,
@@ -171,7 +226,12 @@
       "observacao": "7,07% linear + 5% condicionado em fev/2006",
       "governo": "Lula",
       "orientacao": "progressista",
-      "estimado": false
+      "estimado": false,
+      "va_vr_unit": 14.0,
+      "va_vr_mes": 322.0,
+      "vc_reais": 80.0,
+      "va_vc_total": 402.0,
+      "va_vc_estimado": false
     },
     {
       "ano": 2006,
@@ -185,7 +245,12 @@
       "observacao": "Sem reajuste linear nominal (incorporação de benefícios)",
       "governo": "Lula",
       "orientacao": "progressista",
-      "estimado": false
+      "estimado": false,
+      "va_vr_unit": 14.0,
+      "va_vr_mes": 322.0,
+      "vc_reais": 80.0,
+      "va_vc_total": 402.0,
+      "va_vc_estimado": false
     },
     {
       "ano": 2007,
@@ -199,7 +264,12 @@
       "observacao": "3,74% linear + R$ 60 fixo em janeiro de 2008",
       "governo": "Lula",
       "orientacao": "progressista",
-      "estimado": false
+      "estimado": false,
+      "va_vr_unit": 17.0,
+      "va_vr_mes": 391.0,
+      "vc_reais": 100.0,
+      "va_vc_total": 491.0,
+      "va_vc_estimado": false
     },
     {
       "ano": 2008,
@@ -213,7 +283,12 @@
       "observacao": "7,37% linear geral",
       "governo": "Lula",
       "orientacao": "progressista",
-      "estimado": false
+      "estimado": false,
+      "va_vr_unit": 18.5,
+      "va_vr_mes": 425.5,
+      "vc_reais": 110.0,
+      "va_vc_total": 535.5,
+      "va_vc_estimado": false
     },
     {
       "ano": 2009,
@@ -227,7 +302,12 @@
       "observacao": "9% linear + R$ 100 fixo em jan/2010 + cláusula IPCA",
       "governo": "Lula",
       "orientacao": "progressista",
-      "estimado": false
+      "estimado": false,
+      "va_vr_unit": 21.5,
+      "va_vr_mes": 494.5,
+      "vc_reais": 120.0,
+      "va_vc_total": 614.5,
+      "va_vc_estimado": false
     },
     {
       "ano": 2010,
@@ -241,7 +321,12 @@
       "observacao": "Aumento linear de R$ 100 fixado no acordo anterior",
       "governo": "Lula",
       "orientacao": "progressista",
-      "estimado": false
+      "estimado": false,
+      "va_vr_unit": 21.5,
+      "va_vr_mes": 494.5,
+      "vc_reais": 120.0,
+      "va_vc_total": 614.5,
+      "va_vc_estimado": false
     },
     {
       "ano": 2011,
@@ -255,7 +340,12 @@
       "observacao": "6,87% linear + R$ 60 fixo em jan/2012 (Dissídio)",
       "governo": "Dilma",
       "orientacao": "progressista",
-      "estimado": false
+      "estimado": false,
+      "va_vr_unit": 23.0,
+      "va_vr_mes": 529.0,
+      "vc_reais": 130.0,
+      "va_vc_total": 659.0,
+      "va_vc_estimado": false
     },
     {
       "ano": 2012,
@@ -269,7 +359,12 @@
       "observacao": "6,5% linear + reajustes em benefícios (Dissídio)",
       "governo": "Dilma",
       "orientacao": "progressista",
-      "estimado": false
+      "estimado": false,
+      "va_vr_unit": 23.0,
+      "va_vr_mes": 529.0,
+      "vc_reais": 130.0,
+      "va_vc_total": 659.0,
+      "va_vc_estimado": false
     },
     {
       "ano": 2013,
@@ -283,7 +378,12 @@
       "observacao": "8% linear + 6,27% em benefícios pós-greve",
       "governo": "Dilma",
       "orientacao": "progressista",
-      "estimado": false
+      "estimado": false,
+      "va_vr_unit": 28.29,
+      "va_vr_mes": 650.67,
+      "vc_reais": 158.45,
+      "va_vc_total": 809.12,
+      "va_vc_estimado": false
     },
     {
       "ano": 2014,
@@ -297,7 +397,12 @@
       "observacao": "6,5% na referência salarial (GIP) + incorporações",
       "governo": "Dilma",
       "orientacao": "progressista",
-      "estimado": false
+      "estimado": false,
+      "va_vr_unit": 28.29,
+      "va_vr_mes": 650.67,
+      "vc_reais": 158.45,
+      "va_vc_total": 809.12,
+      "va_vc_estimado": false
     },
     {
       "ano": 2015,
@@ -311,7 +416,12 @@
       "observacao": "Sem reajuste linear na tabela salarial básica",
       "governo": "Dilma",
       "orientacao": "progressista",
-      "estimado": false
+      "estimado": false,
+      "va_vr_unit": 33.01,
+      "va_vr_mes": 759.23,
+      "vc_reais": 206.61,
+      "va_vc_total": 965.84,
+      "va_vc_estimado": false
     },
     {
       "ano": 2016,
@@ -323,9 +433,14 @@
       "inpc_ano": 6.58,
       "tipo": "ACT",
       "observacao": "9% parcelado (6% em ago/2016 + 3% em fev/2017)",
-      "governo": "Dilma",
-      "orientacao": "progressista",
-      "estimado": false
+      "governo": "Temer",
+      "orientacao": "conservador",
+      "estimado": false,
+      "va_vr_unit": 35.9,
+      "va_vr_mes": 825.7,
+      "vc_reais": 224.67,
+      "va_vc_total": 1050.37,
+      "va_vc_estimado": false
     },
     {
       "ano": 2017,
@@ -339,7 +454,12 @@
       "observacao": "2,07% linear com pagamento retroativo",
       "governo": "Temer",
       "orientacao": "conservador",
-      "estimado": false
+      "estimado": false,
+      "va_vr_unit": 36.64,
+      "va_vr_mes": 842.72,
+      "vc_reais": 229.32,
+      "va_vc_total": 1072.04,
+      "va_vc_estimado": false
     },
     {
       "ano": 2018,
@@ -353,7 +473,12 @@
       "observacao": "3,61% linear baseado integralmente no INPC",
       "governo": "Temer",
       "orientacao": "conservador",
-      "estimado": false
+      "estimado": false,
+      "va_vr_unit": 37.96,
+      "va_vr_mes": 873.08,
+      "vc_reais": 237.6,
+      "va_vc_total": 1110.68,
+      "va_vc_estimado": false
     },
     {
       "ano": 2019,
@@ -367,26 +492,36 @@
       "observacao": "3% linear determinado por julgamento do TST",
       "governo": "Bolsonaro",
       "orientacao": "conservador",
-      "estimado": false
+      "estimado": false,
+      "va_vr_unit": 39.1,
+      "va_vr_mes": 899.3,
+      "vc_reais": 244.73,
+      "va_vc_total": 1144.03,
+      "va_vc_estimado": false
     },
     {
       "ano": 2020,
-      "salario_real": 58.69,
-      "salario_nominal_idx": 321.05,
+      "salario_real": 60.22,
+      "salario_nominal_idx": 329.4,
       "inflacao_acumulada": 547.0,
-      "reajuste_pct": 0.0,
+      "reajuste_pct": 2.6,
       "ipca_ano": 4.52,
       "inpc_ano": 5.45,
-      "tipo": "ACT",
-      "observacao": "Período da Pandemia - sem reajuste linear na tabela",
+      "tipo": "DC",
+      "observacao": "2,6% linear fixado pelo TST (DC 1001203-57.2020)",
       "governo": "Bolsonaro",
       "orientacao": "conservador",
-      "estimado": false
+      "estimado": false,
+      "va_vr_unit": 39.1,
+      "va_vr_mes": 899.3,
+      "vc_reais": 244.73,
+      "va_vc_total": 1144.03,
+      "va_vc_estimado": false
     },
     {
       "ano": 2021,
-      "salario_real": 58.53,
-      "salario_nominal_idx": 352.35,
+      "salario_real": 60.05,
+      "salario_nominal_idx": 361.52,
       "inflacao_acumulada": 602.03,
       "reajuste_pct": 9.75,
       "ipca_ano": 10.06,
@@ -395,12 +530,17 @@
       "observacao": "9,75% linear concedido via Dissídio Coletivo pelo TST",
       "governo": "Bolsonaro",
       "orientacao": "conservador",
-      "estimado": false
+      "estimado": false,
+      "va_vr_unit": 45.0,
+      "va_vr_mes": 1035.0,
+      "vc_reais": 280.0,
+      "va_vc_total": 1315.0,
+      "va_vc_estimado": true
     },
     {
       "ano": 2022,
-      "salario_real": 60.92,
-      "salario_nominal_idx": 388.01,
+      "salario_real": 62.51,
+      "salario_nominal_idx": 398.1,
       "inflacao_acumulada": 636.89,
       "reajuste_pct": 10.12,
       "ipca_ano": 5.79,
@@ -409,40 +549,55 @@
       "observacao": "10,12% linear (reposição integral do INPC) + reconquista de benefícios",
       "governo": "Bolsonaro",
       "orientacao": "conservador",
-      "estimado": false
+      "estimado": false,
+      "va_vr_unit": 45.0,
+      "va_vr_mes": 1035.0,
+      "vc_reais": 300.0,
+      "va_vc_total": 1335.0,
+      "va_vc_estimado": true
     },
     {
       "ano": 2023,
-      "salario_real": 60.08,
-      "salario_nominal_idx": 400.35,
+      "salario_real": 61.65,
+      "salario_nominal_idx": 410.76,
       "inflacao_acumulada": 666.32,
       "reajuste_pct": 3.18,
       "ipca_ano": 4.62,
       "inpc_ano": 3.71,
       "tipo": "ACT",
-      "observacao": "3,18% linear (100% do INPC) + resgate de mais de 40 cláusulas históricas",
+      "observacao": "3,18% linear (INPC 3,71% — 85% do índice) + resgate de 40+ cláusulas históricas",
       "governo": "Lula",
       "orientacao": "progressista",
-      "estimado": false
+      "estimado": false,
+      "va_vr_unit": 48.92,
+      "va_vr_mes": 1125.16,
+      "vc_reais": 306.21,
+      "va_vc_total": 1431.37,
+      "va_vc_estimado": false
     },
     {
       "ano": 2024,
-      "salario_real": 59.81,
-      "salario_nominal_idx": 417.77,
+      "salario_real": 61.36,
+      "salario_nominal_idx": 428.63,
       "inflacao_acumulada": 698.5,
       "reajuste_pct": 4.35,
       "ipca_ano": 4.83,
       "inpc_ano": 4.77,
       "tipo": "ACT",
-      "observacao": "4,35% linear nos salários e benefícios (100% do INPC acumulado)",
+      "observacao": "4,35% linear (INPC 4,77% — 91% do índice) em salários e benefícios",
       "governo": "Lula",
       "orientacao": "progressista",
-      "estimado": false
+      "estimado": false,
+      "va_vr_unit": 50.93,
+      "va_vr_mes": 1171.39,
+      "vc_reais": 319.79,
+      "va_vc_total": 1491.18,
+      "va_vc_estimado": false
     },
     {
       "ano": 2025,
-      "salario_real": 59.81,
-      "salario_nominal_idx": 439.07,
+      "salario_real": 61.36,
+      "salario_nominal_idx": 450.49,
       "inflacao_acumulada": 734.12,
       "reajuste_pct": 5.1,
       "ipca_ano": 5.1,
@@ -451,12 +606,17 @@
       "observacao": "5,10% linear definido por Dissídio no TST após movimento grevista",
       "governo": "Lula",
       "orientacao": "progressista",
-      "estimado": true
+      "estimado": true,
+      "va_vr_unit": 53.53,
+      "va_vr_mes": 1231.19,
+      "vc_reais": 336.1,
+      "va_vc_total": 1567.29,
+      "va_vc_estimado": false
     },
     {
       "ano": 2026,
-      "salario_real": 59.81,
-      "salario_nominal_idx": 457.03,
+      "salario_real": 61.36,
+      "salario_nominal_idx": 468.91,
       "inflacao_acumulada": 764.15,
       "reajuste_pct": 4.09,
       "ipca_ano": 4.09,
@@ -465,7 +625,12 @@
       "observacao": "4,09% linear fixado pelo TST no DC 2026/2027, retroativo a agosto",
       "governo": "Lula",
       "orientacao": "progressista",
-      "estimado": true
+      "estimado": true,
+      "va_vr_unit": 53.53,
+      "va_vr_mes": 1231.19,
+      "vc_reais": 336.1,
+      "va_vc_total": 1567.29,
+      "va_vc_estimado": false
     }
   ],
   "por_governo": [
@@ -482,109 +647,133 @@
     {
       "periodo": "Dilma",
       "orientacao": "progressista",
-      "ganho_medio_anual": 1.18
+      "ganho_medio_anual": 0.8
     },
     {
       "periodo": "Temer",
       "orientacao": "conservador",
-      "ganho_medio_anual": -0.51
+      "ganho_medio_anual": 0.56
     },
     {
       "periodo": "Bolsonaro",
       "orientacao": "conservador",
-      "ganho_medio_anual": 0.9
+      "ganho_medio_anual": 0.2
     }
   ],
   "act_vs_dc": [
     {
       "tipo": "ACT",
-      "total_clausulas": 1405
+      "total_clausulas": 1381
     },
     {
       "tipo": "DC",
-      "total_clausulas": 549
+      "total_clausulas": 628
     }
   ],
   "eventos_timeline": [
     {
       "ano": 1988,
       "titulo": "Greve histórica de 29 dias",
-      "descricao": "Após 29 dias de greve, conquista reajuste de 35% — ainda muito abaixo da inflação de 1.037% do ano. Marco fundador da luta sindical nos Correios.",
-      "impacto": "+35% (abaixo da inflação)",
+      "descricao": "Marco fundador da luta sindical nos Correios. Reajuste de 35% ficou muito abaixo da inflação de 1.037%.",
+      "impacto": "+35% (perda real)",
       "tipo": "perda",
       "fonte": "ACT 1988-1989"
     },
     {
+      "ano": 1990,
+      "titulo": "Greve Nacional",
+      "descricao": "Paralisação em defesa da estabilidade e contra o Plano Collor.",
+      "impacto": "Resistência",
+      "tipo": "neutro",
+      "fonte": "Movimento Sindical"
+    },
+    {
       "ano": 1993,
-      "titulo": "Criação do AADC (30%)",
-      "descricao": "Adicional de Atividade de Distribuição e Coleta — 30% sobre o salário-base para carteiros e motorizados. Conquista estrutural que resiste até hoje.",
-      "impacto": "+30% para carteiros",
+      "titulo": "Adicional Noturno (60%)",
+      "descricao": "Consolidação do adicional noturno de 60% sobre a hora diurna, com hora reduzida de 52min30s entre 20h e 6h. Benefício da área operacional de agências e tratamento.",
+      "impacto": "+60% sobre hora diurna",
       "tipo": "ganho",
       "fonte": "ACT 1993"
     },
     {
-      "ano": 1994,
-      "titulo": "Plano Real — fim da hiperinflação",
-      "descricao": "Estabilização da moeda. A partir daqui, a leitura do poder de compra passa a ser matematicamente comparável entre anos.",
-      "impacto": "Estabilização",
-      "tipo": "neutro",
-      "fonte": "Marco histórico"
+      "ano": 1997,
+      "titulo": "Greve por Reajuste",
+      "descricao": "Paralisação que resultou em ganho real e abonos significativos.",
+      "impacto": "Ganho real",
+      "tipo": "ganho",
+      "fonte": "ACT 1997-1998"
     },
     {
-      "ano": 2003,
-      "titulo": "Retomada do ganho real",
-      "descricao": "Início do ciclo de reajustes acima da inflação com os governos progressistas. Recuperação gradual do poder de compra.",
-      "impacto": "Ciclo de ganhos",
+      "ano": 1999,
+      "titulo": "Criação do Vale Cesta (VC)",
+      "descricao": "O ACT 1999/2000 instituiu o Vale Cesta nos Correios, substituindo a cesta básica em alimentos. Marco na composição da renda indireta da categoria.",
+      "impacto": "R$ 40/mês (novo benefício)",
       "tipo": "ganho",
-      "fonte": "ACT 2003-2004"
+      "fonte": "ACT 1999-2000"
+    },
+    {
+      "ano": 2008,
+      "titulo": "3 Greves e conquista do AADC (30%)",
+      "descricao": "Após 3 greves sucessivas no mesmo ano, a categoria conquista a consolidação do AADC de 30%. Marco estrutural que resiste até hoje. Benefício separado do reajuste base.",
+      "impacto": "+30% AADC (benefício separado)",
+      "tipo": "ganho",
+      "fonte": "ACT 2008-2009"
     },
     {
       "ano": 2013,
-      "titulo": "Greve de 2013 e ganho real de 8%",
-      "descricao": "Após 23 rodadas de negociação e greve, conquista de 8% + 6,27% nos benefícios. Ganho real de ~1,7 p.p. acima do IPCA.",
+      "titulo": "Greve de 2013 (23 rodadas)",
+      "descricao": "Conquista de 8% de reajuste salarial + 6,27% nos benefícios. Ganho real de ~1,7 p.p. acima do IPCA.",
       "impacto": "+8% + 6,27%",
       "tipo": "ganho",
       "fonte": "DC 2013-2014"
     },
     {
       "ano": 2014,
-      "titulo": "Adicional de periculosidade para motociclistas",
-      "descricao": "Lei 12.997/2014 garante adicional. Luta sindical garante acumulação com o AADC de 30% — ganho de até 60% sobre o salário para motociclistas.",
-      "impacto": "Acumulação AADC",
+      "titulo": "Periculosidade para Motociclistas",
+      "descricao": "Lei 12.997/2014. Luta sindical garante ACUMULAÇÃO com o AADC de 30% (ganho de até 60% para motociclistas). Benefício específico, não integra reajuste geral.",
+      "impacto": "+30% Periculosidade (específico)",
       "tipo": "ganho",
       "fonte": "ACT 2014-2015"
     },
     {
+      "ano": 2016,
+      "titulo": "Fim do Correios Saúde — criação do Postal Saúde",
+      "descricao": "Mudança drástica no convênio médico: o Correios Saúde foi extinto e substituído pelo Postal Saúde. Os empregados passaram a custear quase integralmente o plano de saúde, perdendo o modelo anterior de gestão direta pela ECT.",
+      "impacto": "Perda de benefício histórico",
+      "tipo": "perda",
+      "fonte": "ACT 2016-2017"
+    },
+    {
       "ano": 2020,
-      "titulo": "Ataque aos direitos na pandemia",
-      "descricao": "Direção dos Correios tenta retirar 45 cláusulas do ACT. Reajuste zero. Perda real significativa.",
-      "impacto": "0% (reajuste zero)",
+      "titulo": "Greve nacional: 50 cláusulas retiradas pelo TST",
+      "descricao": "A ECT suspendeu o ACT 2019-2021 (79 cláusulas) e propôs retirar 70. Após greve nacional de 100 mil trabalhadores, o TST (DC 1001203-57.2020) julgou não abusiva a greve, mas retirou 50 cláusulas — incluindo o AADC (30%) e o Vale Cultura por unanimidade. Outras 29 foram mantidas (Anistia, Assédio, Saúde da Mulher, Fornecimento de Documentos, Registro de Ponto, etc). Reajuste fixado em 2,6%.",
+      "impacto": "50 cláusulas retiradas",
       "tipo": "perda",
       "fonte": "DC 2020-2021"
     },
     {
       "ano": 2022,
-      "titulo": "Reconquista pós-pandemia",
-      "descricao": "Após 2 anos de congelamento, conquista de 10,12% (reposição integral do INPC) + reconquista de benefícios históricos.",
-      "impacto": "+10,12%",
+      "titulo": "Reajuste em Auxílios",
+      "descricao": "Reajuste de 10,12% aplicado apenas em auxílios (VA/VC) + R$ 600 fixo ao salário-base. Não houve reajuste percentual direto no salário-base.",
+      "impacto": "R$ 600 fixo (salário-base)",
       "tipo": "ganho",
       "fonte": "ACT 2022-2023"
     },
     {
-      "ano": 2023,
-      "titulo": "Resgate de 40+ cláusulas históricas",
-      "descricao": "Retomada do diálogo tripartite com 3,18% (100% do INPC) e resgate de mais de 40 cláusulas retiradas nos anos anteriores.",
-      "impacto": "+3,18% + 40 cláusulas",
+      "ano": 2024,
+      "titulo": "Greve e Dissídio no TST",
+      "descricao": "Retomada do diálogo tripartite. Reconquista de mais de 40 cláusulas históricas retiradas em 2020. Reajuste de 5,10% com ganho real.",
+      "impacto": "+5,10% + 40 cláusulas",
       "tipo": "ganho",
-      "fonte": "ACT 2023-2024"
+      "fonte": "DC 2024-2025"
     },
     {
-      "ano": 2025,
-      "titulo": "Greve de dezembro e Dissídio no TST",
-      "descricao": "Após movimento grevista em dezembro de 2024, o TST fixa 5,10% linear em Dissídio Coletivo.",
-      "impacto": "+5,10%",
-      "tipo": "ganho",
-      "fonte": "DC 2025-2026"
+      "ano": 2026,
+      "titulo": "Nova mudança no plano de saúde",
+      "descricao": "Alteração significativa nas regras do plano de saúde dos Correios, impactando empregados ativos e aposentados. Movimento sindical acompanha os desdobramentos.",
+      "impacto": "Mudança estrutural",
+      "tipo": "perda",
+      "fonte": "DC 2026-2027"
     }
   ]
 }
