@@ -1,12 +1,12 @@
 /* ============================================================
-IDENTIDADE VISUAL — Memória Sindical / Raio-X da Luta
-Paleta vermelha com foco em memória da luta sindical
-Versão refatorada — out/2026
-============================================================ */
+   IDENTIDADE VISUAL — Memória Sindical / Raio-X da Luta
+   Paleta vermelha com foco em memória da luta sindical
+   Versão refatorada — out/2026
+   ============================================================ */
 
 /* ------------------------------------------------------------
-VARIÁVEIS GLOBAIS
------------------------------------------------------------- */
+   VARIÁVEIS GLOBAIS
+   ------------------------------------------------------------ */
 :root {
   /* Vermelho principal (sindical) */
   --vermelho:        #C8102E;
@@ -18,7 +18,7 @@ VARIÁVEIS GLOBAIS
   --preto:   #1A1A1A;
   --cinza-9: #2D2D2D;
   --cinza-7: #555555;
-  --cinza-5: #888888;
+  --cinza-5: #595959;      /* melhorado: era #888 (contraste 3.5:1 → 7:1) */
   --cinza-3: #CCCCCC;
   --cinza-1: #F5F5F5;
   --branco:  #FFFFFF;
@@ -26,7 +26,7 @@ VARIÁVEIS GLOBAIS
   /* Semânticas */
   --ganho:  #1E7A3C;
   --perda:  #8B0000;
-  --neutro: #888888;
+  --neutro: #595959;
 
   /* Tipografia */
   --fonte-titulo: 'Montserrat', 'Inter', system-ui, sans-serif;
@@ -59,12 +59,13 @@ VARIÁVEIS GLOBAIS
 }
 
 /* ------------------------------------------------------------
-BASE
------------------------------------------------------------- */
+   BASE
+   ------------------------------------------------------------ */
 body {
   font-family: var(--fonte-texto);
   color: var(--preto);
   background: var(--branco);
+  -webkit-font-smoothing: antialiased;
 }
 
 h1, h2, h3, h4 {
@@ -90,8 +91,8 @@ a { color: var(--vermelho); }
 a:hover { color: var(--vermelho-hover); text-decoration: underline; }
 
 /* ------------------------------------------------------------
-HERO (cabeçalho principal)
------------------------------------------------------------- */
+   HERO
+   ------------------------------------------------------------ */
 .hero {
   position: relative;
   background: linear-gradient(135deg, var(--vermelho) 0%, var(--vermelho-escuro) 100%);
@@ -156,8 +157,8 @@ HERO (cabeçalho principal)
 }
 
 /* ------------------------------------------------------------
-NAVEGAÇÃO
------------------------------------------------------------- */
+   NAVEGAÇÃO
+   ------------------------------------------------------------ */
 .nav {
   background: var(--preto);
   position: sticky;
@@ -179,7 +180,10 @@ NAVEGAÇÃO
 .nav a {
   color: var(--branco);
   padding: var(--gap-2) var(--gap-3);
-  display: block;
+  min-height: 44px;               /* alvo de toque mínimo (Apple/Google) */
+  display: flex;
+  align-items: center;
+  justify-content: center;
   font-weight: 600;
   font-size: 0.95rem;
   text-transform: uppercase;
@@ -211,8 +215,8 @@ NAVEGAÇÃO
 }
 
 /* ------------------------------------------------------------
-CONTAINER E SEÇÕES
------------------------------------------------------------- */
+   CONTAINER E SEÇÕES
+   ------------------------------------------------------------ */
 .container {
   max-width: var(--largura-container);
   margin: 0 auto;
@@ -242,9 +246,16 @@ CONTAINER E SEÇÕES
   filter: drop-shadow(0 2px 4px rgba(200, 16, 46, 0.2));
 }
 
+.descricao {
+  font-size: 0.95rem;
+  color: var(--cinza-7);
+  line-height: 1.6;
+  margin-bottom: var(--gap-2);
+}
+
 /* ------------------------------------------------------------
-KPIs / CARDS
------------------------------------------------------------- */
+   KPIs / CARDS
+   ------------------------------------------------------------ */
 .kpis {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
@@ -317,8 +328,8 @@ KPIs / CARDS
 }
 
 /* ------------------------------------------------------------
-CARDS DE GRÁFICO
------------------------------------------------------------- */
+   CARDS DE GRÁFICO
+   ------------------------------------------------------------ */
 .grafico-card {
   background: var(--branco);
   border: 1px solid var(--cinza-3);
@@ -354,8 +365,8 @@ CARDS DE GRÁFICO
 .grafico-wrapper.baixo { height: 300px; }
 
 /* ------------------------------------------------------------
-FILTROS E BOTÕES
------------------------------------------------------------- */
+   FILTROS E BOTÕES
+   ------------------------------------------------------------ */
 .filtros {
   display: flex;
   gap: var(--gap-2);
@@ -399,8 +410,8 @@ FILTROS E BOTÕES
 }
 
 /* ------------------------------------------------------------
-TIMELINE
------------------------------------------------------------- */
+   TIMELINE
+   ------------------------------------------------------------ */
 .timeline {
   position: relative;
   padding: var(--gap-3) 0;
@@ -443,11 +454,6 @@ TIMELINE
   box-shadow: var(--sombra-md);
   transition: transform var(--transicao-rapida),
               box-shadow var(--transicao-rapida);
-}
-
-.timeline-evento .conteudo:hover {
-  transform: translateY(-2px);
-  box-shadow: var(--sombra-lg);
 }
 
 .timeline-evento .marcador {
@@ -496,8 +502,8 @@ TIMELINE
 }
 
 /* ------------------------------------------------------------
-FOOTER
------------------------------------------------------------- */
+   FOOTER
+   ------------------------------------------------------------ */
 .footer {
   background: var(--preto);
   color: var(--cinza-3);
@@ -520,77 +526,9 @@ FOOTER
   color: var(--branco);
 }
 
-/* ------------------------------------------------------------
-RESPONSIVO
------------------------------------------------------------- */
-@media (max-width: 900px) {
-  h1 { font-size: 2rem; }
-  h2 { font-size: 1.5rem; }
-}
-
-@media (max-width: 768px) {
-  h1 { font-size: 1.75rem; }
-  h2 { font-size: 1.35rem; }
-  h3 { font-size: 1.1rem; }
-
-  .container { padding: var(--gap-3) var(--gap-2); }
-  .hero { padding: var(--gap-4) var(--gap-2); }
-  .hero .punho { font-size: 2.25rem; }
-  .hero .subtitulo { font-size: 1rem; }
-
-  /* Timeline em modo mobile: linha à esquerda */
-  .timeline::before { left: 20px; }
-  .timeline-evento,
-  .timeline-evento:nth-child(odd) {
-    flex-direction: row;
-    padding-left: 50px;
-  }
-  .timeline-evento .marcador {
-    left: 20px;
-  }
-
-  .grafico-wrapper { height: 300px; }
-  .grafico-wrapper.alto  { height: 350px; }
-  .grafico-wrapper.baixo { height: 280px; }
-
-  .kpi .valor { font-size: 1.5rem; }
-  .kpi { padding: var(--gap-2); }
-}
-
-@media (max-width: 600px) {
-  .grafico-card { padding: var(--gap-2); }
-  .kpi .valor { font-size: 1.35rem; }
-  .kpi .rotulo { font-size: 0.72rem; }
-  .kpi .variacao { font-size: 0.82rem; }
-
-  .timeline-evento .ano { font-size: 1.15rem; }
-  .timeline-evento .titulo { font-size: 1rem; }
-  .timeline-evento .descricao { font-size: 0.88rem; }
-
-  .nav a {
-    padding: var(--gap-1) var(--gap-2);
-    font-size: 0.85rem;
-  }
-
-  .secao-titulo .icone { font-size: 1.4rem; }
-}
-
-/* ------------------------------------------------------------
-ACESSIBILIDADE — prefers-reduced-motion
------------------------------------------------------------- */
-@media (prefers-reduced-motion: reduce) {
-  .hero .punho { animation: none; }
-  *,
-  *::before,
-  *::after {
-    transition-duration: 0.01ms !important;
-    animation-duration: 0.01ms !important;
-  }
-}
-
 /* ============================================================
-NOTA HISTÓRICA — Período 1988-1994
-============================================================ */
+   NOTA HISTÓRICA — Período 1988-1994 (versão antiga, mantida)
+   ============================================================ */
 .nota-historica {
   border-left: 5px solid var(--vermelho) !important;
   background: linear-gradient(135deg, #FFF5F7 0%, #FFFFFF 100%) !important;
@@ -626,13 +564,165 @@ NOTA HISTÓRICA — Período 1988-1994
   color: var(--vermelho);
   font-weight: 600;
   text-decoration: underline;
-}/* ============================================================
-   HEATMAP DE GOVERNOS — substitui o radar
-   ============================================================ */
+}
 
+/* ============================================================
+   NOTA HISTÓRICA — versão colapsável (<details>)
+   ============================================================ */
+.nota-historica-details {
+  background: linear-gradient(135deg, #FFF5F7 0%, #FFFFFF 100%);
+  border-left: 5px solid var(--vermelho);
+  border-radius: var(--raio);
+  padding: 1rem 1.25rem;
+  box-shadow: var(--sombra-sm);
+}
+
+.nota-historica-details summary {
+  cursor: pointer;
+  font-family: var(--fonte-titulo);
+  font-weight: 700;
+  color: var(--vermelho-escuro);
+  list-style: none;
+  padding: 0.25rem 0;
+  min-height: 44px;
+  display: flex;
+  align-items: center;
+}
+
+.nota-historica-details summary::-webkit-details-marker { display: none; }
+
+.nota-historica-details summary::after {
+  content: ' ▾';
+  color: var(--vermelho);
+  margin-left: 0.35rem;
+}
+
+.nota-historica-details[open] summary::after { content: ' ▴'; }
+
+.nota-historica-conteudo {
+  margin-top: 0.75rem;
+  font-size: 0.92rem;
+  line-height: 1.65;
+  color: var(--cinza-9);
+}
+
+.nota-historica-conteudo p { margin-bottom: 0.75rem; }
+
+.nota-historica-conteudo p.referencia {
+  font-size: 0.82rem;
+  color: var(--cinza-5);
+  font-style: italic;
+  padding-top: 0.75rem;
+  border-top: 1px dashed var(--cinza-3);
+  margin-bottom: 0;
+}
+
+/* ============================================================
+   PAINEL DE DETALHES (mobile + desktop)
+   Substitui tooltip pesado ao tocar num ponto do gráfico
+   ============================================================ */
+.painel-detalhe {
+  display: none;
+  margin-top: 1rem;
+  padding: 1rem 1.25rem;
+  background: linear-gradient(135deg, #FFF5F7 0%, #FFFFFF 100%);
+  border-left: 4px solid var(--vermelho);
+  border-radius: var(--raio);
+  box-shadow: var(--sombra-sm);
+}
+
+.painel-detalhe.ativo { display: block; }
+
+.painel-titulo {
+  font-family: var(--fonte-titulo);
+  font-weight: 700;
+  color: var(--vermelho-escuro);
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+}
+
+.painel-linha {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.4rem 0;
+  border-bottom: 1px solid var(--cinza-1);
+  font-size: 0.9rem;
+}
+
+.painel-linha:last-of-type { border-bottom: none; }
+
+.painel-rotulo { color: var(--cinza-7); }
+
+.painel-valor {
+  font-weight: 700;
+  color: var(--vermelho-escuro);
+}
+
+.painel-obs {
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px dashed var(--cinza-3);
+  font-size: 0.85rem;
+  color: var(--cinza-5);
+  font-style: italic;
+  line-height: 1.5;
+}
+
+/* ============================================================
+   TABELA DE MANDATOS (Contexto Macroeconômico)
+   ============================================================ */
+.tabela-mandatos {
+  margin-top: 1.5rem;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.tabela-mandatos-grid {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+  background: var(--branco);
+  border-radius: var(--raio);
+  overflow: hidden;
+  box-shadow: var(--sombra-sm);
+}
+
+.tabela-mandatos-grid th {
+  background: var(--preto);
+  color: var(--branco);
+  padding: 0.75rem 1rem;
+  text-align: left;
+  font-family: var(--fonte-titulo);
+  font-size: 0.82rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  white-space: nowrap;
+}
+
+.tabela-mandatos-grid td {
+  padding: 0.7rem 1rem;
+  border-bottom: 1px solid var(--cinza-1);
+}
+
+.tabela-mandatos-grid tbody tr:last-child td { border-bottom: none; }
+
+.tabela-mandatos-grid tbody tr:hover { background: #FFF5F7; }
+
+.tabela-nota {
+  margin-top: 0.75rem;
+  font-size: 0.82rem;
+  color: var(--cinza-7);
+  line-height: 1.6;
+}
+
+/* ============================================================
+   HEATMAP DE GOVERNOS
+   ============================================================ */
 .heatmap-container {
   overflow-x: auto;
   padding: var(--gap-2) 0;
+  -webkit-overflow-scrolling: touch;
 }
 
 .heatmap-grid {
@@ -684,13 +774,6 @@ NOTA HISTÓRICA — Período 1988-1994
   min-height: 48px;
 }
 
-.heatmap-celula:hover {
-  transform: scale(1.05);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-  z-index: 2;
-  position: relative;
-}
-
 .heatmap-celula-titulo {
   background: transparent !important;
   color: var(--cinza-7);
@@ -704,14 +787,7 @@ NOTA HISTÓRICA — Período 1988-1994
   cursor: default;
 }
 
-.heatmap-celula-titulo:hover {
-  transform: none;
-  box-shadow: none;
-}
-
-.heatmap-score {
-  line-height: 1;
-}
+.heatmap-score { line-height: 1; }
 
 .heatmap-legenda {
   display: flex;
@@ -737,7 +813,41 @@ NOTA HISTÓRICA — Período 1988-1994
   border: 1px solid rgba(0, 0, 0, 0.08);
 }
 
+/* ============================================================
+   RESPONSIVO
+   ============================================================ */
+@media (max-width: 900px) {
+  h1 { font-size: 2rem; }
+  h2 { font-size: 1.5rem; }
+}
+
 @media (max-width: 768px) {
+  h1 { font-size: 1.75rem; }
+  h2 { font-size: 1.35rem; }
+  h3 { font-size: 1.1rem; }
+
+  .container { padding: var(--gap-3) var(--gap-2); }
+  .hero { padding: var(--gap-4) var(--gap-2); }
+  .hero .punho { font-size: 2.25rem; }
+  .hero .subtitulo { font-size: 1rem; }
+
+  /* Timeline em mobile: linha à esquerda */
+  .timeline::before { left: 20px; }
+  .timeline-evento,
+  .timeline-evento:nth-child(odd) {
+    flex-direction: row;
+    padding-left: 50px;
+  }
+  .timeline-evento .marcador { left: 20px; }
+
+  .grafico-wrapper { height: 320px; }
+  .grafico-wrapper.alto  { height: 380px; }
+  .grafico-wrapper.baixo { height: 300px; }
+
+  .kpi .valor { font-size: 1.5rem; }
+  .kpi { padding: var(--gap-2); }
+
+  /* Heatmap em mobile */
   .heatmap-grid {
     grid-template-columns: minmax(150px, 1.2fr) repeat(5, minmax(80px, 1fr));
     gap: 3px;
@@ -751,7 +861,87 @@ NOTA HISTÓRICA — Período 1988-1994
     padding: 10px 4px;
     min-height: 40px;
   }
-  .heatmap-celula-titulo {
-    font-size: 0.68rem;
+  .heatmap-celula-titulo { font-size: 0.68rem; }
+
+  /* Fontes do canvas legíveis em mobile */
+  canvas { font-size: 11px !important; }
+}
+
+@media (max-width: 600px) {
+  .grafico-card { padding: var(--gap-2); }
+
+  /* KPIs em grade 2×2 no mobile */
+  .kpis {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.75rem;
   }
+  .kpi { padding: 0.75rem; }
+  .kpi .valor { font-size: 1.35rem; }
+  .kpi .rotulo { font-size: 0.8rem; }   /* era 0.72rem — agora ≥ 12px */
+  .kpi .variacao { font-size: 0.82rem; }
+
+  .timeline-evento .ano { font-size: 1.15rem; }
+  .timeline-evento .titulo { font-size: 1rem; }
+  .timeline-evento .descricao { font-size: 0.88rem; }
+
+  .nav a {
+    padding: var(--gap-1) var(--gap-2);
+    font-size: 0.85rem;
+    min-height: 44px;
+  }
+
+  .secao-titulo .icone { font-size: 1.4rem; }
+
+  /* Tabela de mandatos compacta */
+  .tabela-mandatos-grid { font-size: 0.78rem; }
+  .tabela-mandatos-grid th,
+  .tabela-mandatos-grid td { padding: 0.5rem 0.6rem; }
+}
+
+/* ============================================================
+   HOVER — só quando o dispositivo tem mouse de verdade
+   (evita "hover preso" no toque em smartphones)
+   ============================================================ */
+@media (hover: none) {
+  .kpi:hover {
+    transform: none;
+    box-shadow: var(--sombra-sm);
+    border-left-color: var(--vermelho);
+  }
+  .grafico-card:hover { box-shadow: var(--sombra-sm); }
+  .timeline-evento .conteudo:hover {
+    transform: none;
+    box-shadow: var(--sombra-md);
+  }
+  .heatmap-celula:hover {
+    transform: none;
+    box-shadow: none;
+  }
+}
+
+/* ============================================================
+   ACESSIBILIDADE — prefers-reduced-motion
+   ============================================================ */
+@media (prefers-reduced-motion: reduce) {
+  .hero .punho { animation: none; }
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* ============================================================
+   ACESSIBILIDADE — foco visível
+   ============================================================ */
+*:focus-visible {
+  outline: 3px solid var(--vermelho);
+  outline-offset: 2px;
+}
+
+.nav a:focus-visible {
+  outline: 3px solid var(--branco);
+  outline-offset: -4px;
 }

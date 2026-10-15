@@ -1,0 +1,115 @@
+{
+  "metadados": {
+    "atualizado_em": "2026-10-15",
+    "fonte_inpc": "IBGE/SIDRA — Tabela 1736 (INPC mensal)",
+    "fonte_reajustes": "ACTs/DCs dos Correios (financeiro.json)",
+    "metodologia": "INPC acumulado por mandato = composição das variações mensais oficiais do IBGE. Reajuste acumulado = composição dos reajustes do salário-base no mesmo período. Ganho real = (fator_reajuste / fator_inpc - 1) × 100.",
+    "inpc_total_1995_2026": 665.01
+  },
+  "mandatos": [
+    {
+      "nome": "FHC 1",
+      "periodo": [
+        1995,
+        1998
+      ],
+      "orientacao": "conservador",
+      "meses_contados": 48,
+      "parcial": false,
+      "inpc_acumulado": 42.33,
+      "reajuste_acumulado": 21.18,
+      "ganho_real_pct": -14.86
+    },
+    {
+      "nome": "FHC 2",
+      "periodo": [
+        1999,
+        2002
+      ],
+      "orientacao": "conservador",
+      "meses_contados": 48,
+      "parcial": false,
+      "inpc_acumulado": 43.34,
+      "reajuste_acumulado": 15.82,
+      "ganho_real_pct": -19.2
+    },
+    {
+      "nome": "Lula 1",
+      "periodo": [
+        2003,
+        2006
+      ],
+      "orientacao": "progressista",
+      "meses_contados": 48,
+      "parcial": false,
+      "inpc_acumulado": 26.53,
+      "reajuste_acumulado": 21.22,
+      "ganho_real_pct": -4.2
+    },
+    {
+      "nome": "Lula 2",
+      "periodo": [
+        2007,
+        2010
+      ],
+      "orientacao": "progressista",
+      "meses_contados": 48,
+      "parcial": false,
+      "inpc_acumulado": 24.11,
+      "reajuste_acumulado": 21.41,
+      "ganho_real_pct": -2.18
+    },
+    {
+      "nome": "Dilma 1",
+      "periodo": [
+        2011,
+        2014
+      ],
+      "orientacao": "progressista",
+      "meses_contados": 48,
+      "parcial": false,
+      "inpc_acumulado": 26.33,
+      "reajuste_acumulado": 30.91,
+      "ganho_real_pct": 3.63
+    },
+    {
+      "nome": "Dilma 2 / Temer",
+      "periodo": [
+        2015,
+        2018
+      ],
+      "orientacao": "misto",
+      "meses_contados": 48,
+      "parcial": false,
+      "inpc_acumulado": 25.21,
+      "reajuste_acumulado": 15.27,
+      "ganho_real_pct": -7.94
+    },
+    {
+      "nome": "Bolsonaro",
+      "periodo": [
+        2019,
+        2022
+      ],
+      "orientacao": "conservador",
+      "meses_contados": 48,
+      "parcial": false,
+      "inpc_acumulado": 28.57,
+      "reajuste_acumulado": 27.72,
+      "ganho_real_pct": -0.66
+    },
+    {
+      "nome": "Lula 3",
+      "periodo": [
+        2023,
+        2026
+      ],
+      "orientacao": "progressista",
+      "meses_contados": 45,
+      "parcial": true,
+      "inpc_acumulado": 17.42,
+      "reajuste_acumulado": 18.19,
+      "ganho_real_pct": 0.66
+    }
+  ]
+}

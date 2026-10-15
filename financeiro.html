@@ -4,11 +4,28 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Raio-X da Luta | Batalha pelo Salário</title>
+
+  <!-- SEO + Open Graph -->
+  <meta name="description" content="38 anos de acordos, dissídios e conquistas dos trabalhadores dos Correios. Dados auditados: reajustes, vale refeição/alimentação, vale cesta e inflação.">
+  <meta property="og:title" content="Batalha pelo Salário | Memória Sindical dos Correios">
+  <meta property="og:description" content="A evolução do poder de compra dos trabalhadores dos Correios (1995-2026).">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://projetosciviltech.github.io/memoria-sindical/financeiro.html">
+  <meta property="og:image" content="https://projetosciviltech.github.io/memoria-sindical/imagens/og-financeiro.png">
+  <meta property="og:locale" content="pt_BR">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="theme-color" content="#C8102E">
+
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>✊</text></svg>">
+
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet">
+
   <link rel="stylesheet" href="assets/style.css">
   <link rel="stylesheet" href="assets/identidade.css">
+  <link rel="preload" as="fetch" href="data/financeiro.json" crossorigin>
+  <link rel="preload" as="fetch" href="data/inpc_mandato.json" crossorigin>
 </head>
 <body>
 
@@ -16,7 +33,7 @@
     <span class="punho">✊</span>
     <h1>Batalha pelo Salário</h1>
     <p class="subtitulo">
-      A evolução do poder de compra dos trabalhadores dos Correios desde o Plano Real até hoje. 
+      A evolução do poder de compra dos trabalhadores dos Correios desde o Plano Real até hoje.
       <strong>Sem maquiagem. Sem meias verdades.</strong>
     </p>
   </header>
@@ -31,21 +48,32 @@
 
   <main class="container">
 
-    <!-- Nota Histórica sobre o período excluído -->
-    <section class="secao nota-historica">
-      <h3>⚠️ Sobre o período 1988-1994</h3>
-      <p>
-        Antes do Plano Real, o Brasil viveu hiperinflação: o IPCA acumulado entre 1988 e 1994 passa de 100 trilhões por cento. 
-        Os reajustes conquistados ficaram sistematicamente abaixo da inflação, e o poder de compra dos trabalhadores foi dizimado.
-      </p>
-      <p>
-        Converter aqueles salários para "reais" de hoje seria matematicamente enganoso — o valor tenderia a zero e distorceria toda a escala visual. 
-        Por isso, o gráfico principal começa em 1995, quando a moeda se estabiliza. Mas o sofrimento daquele período está registrado na 
-        <a href="#timeline-financeira">linha do tempo</a> como parte indissociável da memória sindical.
-      </p>
-      <p class="referencia">
-        Referência IBGE: IPCA 1988: 1.037% | 1989: 1.783% | 1990: 1.477% | 1993: 2.709%
-      </p>
+    <!-- Nota Histórica 1988-1994 (colapsável) -->
+    <section class="secao">
+      <details class="nota-historica-details">
+        <summary>⚠️ Sobre o período 1988-1994 (toque para expandir)</summary>
+        <div class="nota-historica-conteudo">
+          <p>
+            Antes do Plano Real, o Brasil viveu hiperinflação: os preços foram
+            multiplicados por cerca de <strong>70 milhões de vezes</strong> no período
+            (acumulado de ~7 bilhões por cento em 7 anos). Os reajustes
+            conquistados ficaram sistematicamente abaixo da inflação, e o poder
+            de compra dos trabalhadores foi dizimado.
+          </p>
+          <p>
+            Converter aqueles salários para "reais" de hoje seria matematicamente
+            enganoso — o valor tenderia a zero e distorceria toda a escala visual.
+            Por isso, o gráfico principal começa em <strong>1995</strong>, quando a
+            moeda se estabiliza. Mas o sofrimento daquele período está registrado
+            na <a href="#timeline-financeira">linha do tempo</a> como parte
+            indissociável da memória sindical.
+          </p>
+          <p class="referencia">
+            <strong>Referência IBGE (IPCA):</strong>
+            1988: 980% | 1989: 1.973% | 1990: 1.621% | 1993: 2.477%
+          </p>
+        </div>
+      </details>
     </section>
 
     <!-- KPIs -->
@@ -72,7 +100,7 @@
       </div>
     </section>
 
-    <!-- Gráfico 0: Reajustes por Governo (animado) -->
+    <!-- Gráfico 0: Reajustes por Governo -->
     <section class="secao">
       <div class="secao-titulo">
         <span class="icone">🏛️</span>
@@ -81,16 +109,17 @@
       <p class="descricao">
         Percentual de reajuste nominal conquistado em cada ano, colorido pelo governo da época.
         <strong>Mede a vontade política de compartilhar as riquezas do país com os trabalhadores.</strong>
-        Passe o mouse para pausar; dê duplo clique para reiniciar.
+        Toque num ponto para ver detalhes abaixo.
       </p>
       <div class="grafico-card">
         <div class="grafico-wrapper">
-          <canvas id="grafico-reajustes-governo"></canvas>
+          <canvas id="grafico-reajustes-governo" role="img"
+                  aria-label="Reajuste nominal por ano, colorido por governo"></canvas>
         </div>
       </div>
     </section>
 
-    <!-- Gráfico 1: Poder de Compra + VA/VC (eixo duplo) -->
+    <!-- Gráfico 1: Poder de Compra + Vale Refeição/Alimentação + Vale Cesta -->
     <section class="secao">
       <div class="secao-titulo">
         <span class="icone">📈</span>
@@ -98,30 +127,35 @@
       </div>
       <p class="descricao">
         <strong>Linha vermelha</strong> = Poder de Compra do salário-base (base 100 = 1995).
-        <strong>Linha verde</strong> = Valor mensal de VA + VC (23 vales + cesta) em R$.
+        <strong>Linha verde</strong> = Valor mensal do <strong>Vale Refeição/Alimentação + Vale Cesta</strong>
+        (22 vales mensais + cesta) em R$.
         Duas leituras do mesmo período: enquanto o salário-base perde poder aquisitivo, os benefícios crescem.
       </p>
 
       <div class="grafico-card">
         <div class="grafico-wrapper alto">
-          <canvas id="grafico-salario-real"></canvas>
+          <canvas id="grafico-salario-real" role="img"
+                  aria-label="Poder de compra do salário-base e benefícios (Vale Refeição/Alimentação + Vale Cesta), 1995-2026"></canvas>
         </div>
+        <div id="painel-detalhe" class="painel-detalhe" aria-live="polite"></div>
       </div>
 
       <!-- Caixa Explicativa -->
       <div class="nota-historica" style="margin-top: 1.5rem; padding: 1.25rem; border-radius: 8px;">
         <h3 style="color: var(--vermelho-escuro); margin-bottom: 0.75rem;">📉 O que este gráfico revela</h3>
         <p style="font-size: 0.95rem; line-height: 1.65; color: var(--cinza-9); margin-bottom: 0.75rem;">
-          A categoria perdeu <strong>~40% do poder de compra</strong> desde 1995. 
-          Mesmo nos anos de governos progressistas (2003-2014), os ganhos reais (+10% acumulado) 
-          não foram suficientes para recuperar as perdas estruturais dos anos FHC (1995-2002: −30%). 
-          Os períodos conservadores (2015-2022) ampliaram ainda mais o rombo, com perdas de até −10% em 2015 e −4,5% em 2020.
+          A categoria perdeu cerca de <strong>27% do poder de compra</strong> desde 1996.
+          O ano de 1995 concentra sozinho 15,6 dos 38,6 pontos de perda acumulada,
+          num período de transição cambial que distorce a leitura — por isso a
+          base do gráfico é <strong>1996</strong>, com 1995 destacado como exceção.
         </p>
         <p style="font-size: 0.95rem; line-height: 1.65; color: var(--cinza-9);">
-          A <strong>linha verde</strong> mostra que o VA + VC cresceu de R$ 161/mês (1995) para 
-          <strong>R$ 1.567/mês (2026)</strong>. O Vale Cesta foi instituído no ACT 1999/2000, substituindo 
-          a cesta básica em alimentos. Esses benefícios <strong>não substituíram</strong> a perda salarial, 
-          mas foram o único vetor de ganho real da categoria no período.
+          A <strong>linha verde</strong> mostra que a soma do <strong>Vale Refeição/Alimentação
+          + Vale Cesta</strong> cresceu de R$ 154/mês (1995) para
+          <strong>R$ 1.575,69/mês (2026)</strong>. O Vale Cesta foi instituído no
+          ACT 1999/2000, substituindo a cesta básica em alimentos. Esses benefícios
+          <strong>não substituíram</strong> a perda salarial, mas foram o único vetor
+          de ganho real da categoria no período.
         </p>
       </div>
     </section>
@@ -133,13 +167,14 @@
         <h2>Reajustes Nominais por Ano</h2>
       </div>
       <p class="descricao">
-        Percentual de reajuste conquistado. 
-        Barras verdes = reajuste acima da inflação (ganho real). 
+        Percentual de reajuste conquistado.
+        Barras verdes = reajuste acima da inflação (ganho real).
         Barras cinzas = reajuste igual ou abaixo da inflação (perda real).
       </p>
       <div class="grafico-card">
         <div class="grafico-wrapper">
-          <canvas id="grafico-reajustes"></canvas>
+          <canvas id="grafico-reajustes" role="img"
+                  aria-label="Reajustes nominais por ano"></canvas>
         </div>
       </div>
     </section>
@@ -151,12 +186,13 @@
         <h2>Ganhos e Perdas por Governo</h2>
       </div>
       <p class="descricao">
-        Média anual de ganho/perda real (1995-2026). 
-        Comparação entre períodos de governos com orientações distintas em relação aos direitos dos trabalhadores.
+        Média anual de ganho/perda real (1995-2026).
+        Comparação entre períodos de governos com orientações distintas.
       </p>
       <div class="grafico-card">
         <div class="grafico-wrapper">
-          <canvas id="grafico-governos"></canvas>
+          <canvas id="grafico-governos" role="img"
+                  aria-label="Média anual de ganho real por governo"></canvas>
         </div>
       </div>
     </section>
@@ -168,14 +204,68 @@
         <h2>ACT vs DC: onde os direitos são conquistados?</h2>
       </div>
       <p class="descricao">
-        Total de cláusulas por tipo de negociação. 
+        Total de cláusulas por tipo de negociação.
         ACT = Acordo Coletivo (negociação direta). DC = Dissídio Coletivo (Justiça do Trabalho).
       </p>
       <div class="grafico-card">
         <div class="grafico-wrapper baixo">
-          <canvas id="grafico-act-dc"></canvas>
+          <canvas id="grafico-act-dc" role="img"
+                  aria-label="Distribuição de cláusulas entre ACT e DC"></canvas>
         </div>
       </div>
+    </section>
+
+    <!-- Contexto Macroeconômico -->
+    <section class="secao">
+      <div class="secao-titulo">
+        <span class="icone">📊</span>
+        <h2>Contexto Macroeconômico</h2>
+      </div>
+      <p class="descricao">
+        Qual foi o <strong>desafio inflacionário</strong> de cada mandato, e como
+        a categoria respondeu em cada período. Fonte: <strong>IBGE/SIDRA</strong>
+        (Tabela 1736, INPC mensal) cruzado com os reajustes registrados em ACTs/DCs.
+      </p>
+
+      <div class="grafico-card">
+        <h3>Ganho real por mandato</h3>
+        <p class="descricao">
+          <strong>Verde</strong> = ganho real |
+          <strong>Vermelho</strong> = perda real.
+          Resultado líquido: quanto o salário-base ganhou ou perdeu em relação ao INPC.
+        </p>
+        <div class="grafico-wrapper baixo">
+          <canvas id="grafico-ganho-real" role="img"
+                  aria-label="Ganho real acumulado por mandato"></canvas>
+        </div>
+      </div>
+
+      <div class="grafico-card">
+        <h3>INPC acumulado por mandato</h3>
+        <p class="descricao">
+          Quanto os preços subiram durante cada governo. Barra com borda tracejada
+          = dado parcial (Lula 3, até set/2026).
+        </p>
+        <div class="grafico-wrapper">
+          <canvas id="grafico-inpc-mandato" role="img"
+                  aria-label="INPC acumulado por mandato presidencial"></canvas>
+        </div>
+      </div>
+
+      <div class="grafico-card">
+        <h3>Reajuste Correios vs INPC por mandato</h3>
+        <p class="descricao">
+          <strong>Barra cinza</strong> = inflação (INPC).
+          <strong>Barra vermelha</strong> = reajuste acumulado.
+          A diferença mostra se o salário-base acompanhou ou perdeu para a inflação.
+        </p>
+        <div class="grafico-wrapper">
+          <canvas id="grafico-reajuste-inpc" role="img"
+                  aria-label="Reajuste Correios vs INPC por mandato"></canvas>
+        </div>
+      </div>
+
+      <div id="tabela-mandatos" class="tabela-mandatos"></div>
     </section>
 
     <!-- Timeline -->
@@ -199,8 +289,8 @@
     </p>
   </footer>
 
-  <script src="vendor/chart.min.js"></script>
-  <script src="assets/lazy-charts.js"></script>
-  <script src="assets/financeiro.js"></script>
+  <script src="vendor/chart.min.js" defer></script>
+  <script src="assets/lazy-charts.js" defer></script>
+  <script src="assets/financeiro.js" defer></script>
 </body>
 </html>

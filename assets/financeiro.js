@@ -1,32 +1,99 @@
 /* ============================================================
    Batalha pelo Salário — Gráficos Dinâmicos
    Memória Sindical | Raio-X da Luta
-   Versão: eixo duplo (Poder de Compra + VA/VC) + loop + lazy
+   Versão: eixo duplo + contexto macro + paleta Viridis
    ============================================================ */
 
 'use strict';
 
 /* ------------------------------------------------------------
-   CORES E FONTES
+   PALETA VIRIDIS
+   Perceptualmente uniforme, amigável para daltônicos.
+   Fonte: matplotlib (Nathaniel Smith & Stéfan van der Walt, 2015)
+   ------------------------------------------------------------ */
+
+const VIRIDIS = [
+  '#440154', // 0.0  roxo escuro  (menor)
+  '#482878', // 0.11
+  '#3E4989', // 0.22
+  '#31688E', // 0.33
+  '#26828E', // 0.44
+  '#1F9E89', // 0.55  teal
+  '#35B779', // 0.66  verde
+  '#6DCD59', // 0.77
+  '#B4DE2C', // 0.88  verde-amarelo
+  '#FDE725', // 1.0  amarelo    (maior)
+];
+
+function interpolarCor(c1, c2, t) {
+  const r1 = parseInt(c1.slice(1, 3), 16);
+  const g1 = parseInt(c1.slice(3, 5), 16);
+  const b1 = parseInt(c1.slice(5, 7), 16);
+  const r2 = parseInt(c2.slice(1, 3), 16);
+  const g2 = parseInt(c2.slice(3, 5), 16);
+  const b2 = parseInt(c2.slice(5, 7), 16);
+  const r = Math.round(r1 + (r2 - r1) * t);
+  const g = Math.round(g1 + (g2 - g1) * t);
+  const b = Math.round(b1 + (b2 - b1) * t);
+  return `rgb(${r}, ${g}, ${b})`;
+}
+
+/** t ∈ [0,1] → cor Viridis */
+function viridis(t) {
+  t = Math.max(0, Math.min(1, t));
+  const idx = t * (VIRIDIS.length - 1);
+  const i = Math.floor(idx);
+  const j = Math.min(i + 1, VIRIDIS.length - 1);
+  return interpolarCor(VIRIDIS[i], VIRIDIS[j], idx - i);
+}
+
+/** Escala aplicada a um array de valores (min → roxo, max → amarelo) */
+function viridisEscala(valores) {
+  const validos = valores.filter(v => typeof v === 'number' && !isNaN(v));
+  if (!validos.length) return valores.map(() => VIRIDIS[5]);
+  const min = Math.min(...validos);
+  const max = Math.max(...validos);
+  const range = max - min || 1;
+  return valores.map(v => viridis((v - min) / range));
+}
+
+/** Escala divergente: centro = tom neutro, extremos = roxo/amarelo */
+function viridisDivergente(valores, centro = 0) {
+  const maxAbs = Math.max(...valores.map(v => Math.abs(v - centro))) || 1;
+  return valores.map(v => viridis(((v - centro) / maxAbs + 1) / 2));
+}
+
+/* Cores fixas da paleta para uso direto */
+const V = {
+  roxo:       VIRIDIS[0],   // #440154
+  azul:       VIRIDIS[3],   // #31688E
+  teal:       VIRIDIS[5],   // #1F9E89
+  verde:      VIRIDIS[6],   // #35B779
+  verdeAm:    VIRIDIS[8],   // #B4DE2C
+  amarelo:    VIRIDIS[9],   // #FDE725
+};
+
+/* ------------------------------------------------------------
+   CORES E FONTES (compatibilidade)
    ------------------------------------------------------------ */
 
 const CORES = {
-  vermelho:      '#C8102E',
-  vermelhoEsc:   '#8B0000',
-  vermelhoClaro: 'rgba(200, 16, 46, 0.12)',
-  vermelhoArea:  'rgba(200, 16, 46, 0.20)',
+  vermelho:      V.azul,          // reaproveitado como cor de destaque principal
+  vermelhoEsc:   V.roxo,
+  vermelhoClaro: 'rgba(49, 104, 142, 0.12)',
+  vermelhoArea:  'rgba(49, 104, 142, 0.20)',
   cinza:         '#888888',
   cinzaClaro:    'rgba(136, 136, 136, 0.10)',
-  ganho:         '#1E7A3C',
-  perda:         '#8B0000',
-  conquista:     '#E6A817',
+  ganho:         V.verde,         // verde Viridis
+  perda:         V.roxo,          // roxo Viridis
+  conquista:     V.amarelo,       // amarelo Viridis (conquista)
   preto:         '#1A1A1A',
   branco:        '#FFFFFF',
 };
 
 const CORES_GOVERNO = {
-  progressista: '#1E7A3C',
-  conservador:  '#C8102E',
+  progressista: V.verde,
+  conservador:  V.azul,
   centro:       '#888888',
   '—':          '#CCCCCC',
 };
@@ -59,7 +126,7 @@ const EVENTOS_CONQUISTA = {
     impacto: 'Novo benefício',
   },
   1999: {
-    titulo: 'Criação do Vale Cesta (VC)',
+    titulo: 'Criação do Vale Cesta',
     descricao: 'Instituído no ACT 1999/2000, substituindo a cesta básica em alimentos.',
     impacto: 'R$ 40/mês',
   },
@@ -82,7 +149,6 @@ const EVENTOS_CONQUISTA = {
 
 const ANOS_CHAVE = [1993, 1995, 1997, 1999, 2002, 2008, 2013, 2014, 2020, 2022, 2024];
 const MARGEM_GANHO = 0.1;
-const PAUSA_LOOP_MS = 4000;
 
 /* ------------------------------------------------------------
    VARIÁVEIS GLOBAIS
@@ -90,9 +156,12 @@ const PAUSA_LOOP_MS = 4000;
 
 let chartSalarioReal = null;
 let chartReajustesGoverno = null;
-let loopTimeoutSalario = null;
-let loopTimeoutGoverno = null;
 let dadosGlobais = null;
+let dadosMacroGlobal = null;
+
+function prefereMenosMovimento() {
+  return window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+}
 
 /* ------------------------------------------------------------
    PLUGIN: TROFÉUS DE CONQUISTA
@@ -119,9 +188,9 @@ const conquistasPlugin = {
 
       ctx.beginPath();
       ctx.arc(xPos, yTrophy, 11, 0, Math.PI * 2);
-      ctx.fillStyle = 'rgba(230, 168, 23, 0.20)';
+      ctx.fillStyle = 'rgba(253, 231, 37, 0.30)';
       ctx.fill();
-      ctx.strokeStyle = CORES.conquista;
+      ctx.strokeStyle = V.amarelo;
       ctx.lineWidth = 1.5;
       ctx.stroke();
 
@@ -132,7 +201,7 @@ const conquistasPlugin = {
 
       ctx.font = `bold 10px ${FONTE_TEXTO}`;
       ctx.textBaseline = 'top';
-      ctx.fillStyle = CORES.conquista;
+      ctx.fillStyle = '#8B6B00';   // amarelo escurecido p/ contraste
       ctx.fillText(String(ano), xPos, chartArea.bottom - 16);
     });
 
@@ -154,7 +223,7 @@ async function carregarDados(caminho) {
 
 function mostrarErro(msg) {
   document.body.insertAdjacentHTML('afterbegin', `
-    <div style="background:${CORES.vermelho};color:#fff;padding:1rem;
+    <div style="background:${V.azul};color:#fff;padding:1rem;
                 text-align:center;font-family:${FONTE_TEXTO};">
       <strong>Erro:</strong> ${msg}
       <br><small>Abra o console (F12) para mais detalhes.</small>
@@ -182,19 +251,40 @@ function formatarRS(valor) {
    ------------------------------------------------------------ */
 
 function corDoPonto(s) {
-  if (EVENTOS_CONQUISTA[s.ano]) return CORES.conquista;
+  if (EVENTOS_CONQUISTA[s.ano]) return V.amarelo;
   if (typeof s.reajuste_pct === 'number' &&
       typeof s.ipca_ano === 'number' &&
       s.reajuste_pct > s.ipca_ano + MARGEM_GANHO) {
-    return CORES.ganho;
+    return V.verde;
   }
-  return CORES.perda;
+  return V.azul;
 }
 
 function raioDoPonto(s) {
   if (EVENTOS_CONQUISTA[s.ano]) return 8;
   if (ANOS_CHAVE.includes(s.ano)) return 6;
   return 3;
+}
+
+/* ------------------------------------------------------------
+   PAUSA FORA DA VIEWPORT
+   ------------------------------------------------------------ */
+
+const graficosPausados = new WeakSet();
+
+function pausarForaDaViewport(canvas, chart) {
+  if (!canvas || !chart || graficosPausados.has(canvas)) return;
+  graficosPausados.add(canvas);
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (!entry.isIntersecting && chart) {
+        chart.options.animation = false;
+      }
+    });
+  }, { threshold: 0.05 });
+
+  observer.observe(canvas);
 }
 
 /* ------------------------------------------------------------
@@ -238,7 +328,47 @@ function renderKPIs(dados) {
 }
 
 /* ------------------------------------------------------------
-   GRÁFICO 0 — REAJUSTES POR GOVERNO (linha)
+   PAINEL DE DETALHES
+   ------------------------------------------------------------ */
+
+function mostrarPainelDetalhe(s) {
+  const el = document.getElementById('painel-detalhe');
+  if (!el || !s) return;
+
+  const vaVc = s.va_vc_total ? `
+    <div class="painel-linha">
+      <span class="painel-rotulo">Vale Refeição/Alimentação + Cesta</span>
+      <span class="painel-valor">${formatarRS(s.va_vc_total)}/mês</span>
+    </div>` : '';
+
+  const reaj = s.reajuste_pct !== null && s.reajuste_pct !== undefined ? `
+    <div class="painel-linha">
+      <span class="painel-rotulo">Reajuste</span>
+      <span class="painel-valor">${s.reajuste_pct > 0 ? '+' : ''}${s.reajuste_pct}%</span>
+    </div>` : '';
+
+  const inflacao = s.ipca_ano ? `
+    <div class="painel-linha">
+      <span class="painel-rotulo">IPCA do ano</span>
+      <span class="painel-valor">${s.ipca_ano}%</span>
+    </div>` : '';
+
+  el.innerHTML = `
+    <div class="painel-titulo">${s.ano} — ${s.governo || '—'}</div>
+    <div class="painel-linha">
+      <span class="painel-rotulo">Poder de compra</span>
+      <span class="painel-valor">${(s.salario_real || 100).toFixed(1)}</span>
+    </div>
+    ${reaj}
+    ${inflacao}
+    ${vaVc}
+    ${s.observacao ? `<div class="painel-obs">${s.observacao}</div>` : ''}
+  `;
+  el.classList.add('ativo');
+}
+
+/* ------------------------------------------------------------
+   GRÁFICO 0 — REAJUSTES POR GOVERNO
    ------------------------------------------------------------ */
 
 function renderizarReajustesGoverno(dados) {
@@ -259,12 +389,12 @@ function renderizarReajustesGoverno(dados) {
     chartReajustesGoverno = null;
   }
 
+  const isMobile = window.innerWidth < 768;
+  const semAnimacao = prefereMenosMovimento();
   const ctx = canvas.getContext('2d');
 
-  const corPonto = (s) => {
-    if (EVENTOS_CONQUISTA[s.ano]) return CORES.conquista;
-    return CORES_GOVERNO[s.orientacao] || CORES_GOVERNO['—'];
-  };
+  // Cor de cada ponto: escala Viridis pelo valor do reajuste
+  const coresPontos = viridisEscala(serie.map(s => s.reajuste_pct));
 
   chartReajustesGoverno = new Chart(ctx, {
     type: 'line',
@@ -273,20 +403,20 @@ function renderizarReajustesGoverno(dados) {
       datasets: [{
         label: 'Reajuste nominal (%)',
         data: serie.map(s => s.reajuste_pct),
-        borderColor: CORES.vermelho,
-        backgroundColor: 'rgba(200, 16, 46, 0.12)',
+        borderColor: V.teal,
+        backgroundColor: 'rgba(31, 158, 137, 0.15)',
         borderWidth: 3,
-        pointBackgroundColor: serie.map(corPonto),
+        pointBackgroundColor: serie.map((s, i) =>
+          EVENTOS_CONQUISTA[s.ano] ? V.amarelo : coresPontos[i]
+        ),
         pointBorderColor: serie.map(s =>
-          EVENTOS_CONQUISTA[s.ano] ? CORES.conquista :
+          EVENTOS_CONQUISTA[s.ano] ? V.amarelo :
           (s.estimado ? CORES.cinza : CORES.branco)
         ),
-        pointBorderWidth: serie.map(s =>
-          EVENTOS_CONQUISTA[s.ano] ? 3 : (s.estimado ? 2 : 2)
-        ),
+        pointBorderWidth: serie.map(s => EVENTOS_CONQUISTA[s.ano] ? 3 : 2),
         pointRadius: serie.map(s =>
-          EVENTOS_CONQUISTA[s.ano] ? 8 :
-          (s.reajuste_pct >= 8 ? 6 : 3)
+          EVENTOS_CONQUISTA[s.ano] ? (isMobile ? 6 : 8) :
+          (s.reajuste_pct >= 8 ? (isMobile ? 4 : 6) : 3)
         ),
         pointHoverRadius: 10,
         tension: 0.3,
@@ -296,36 +426,37 @@ function renderizarReajustesGoverno(dados) {
     options: {
       responsive: true,
       maintainAspectRatio: false,
-      animation: {
-        duration: 400,
+      animation: semAnimacao ? false : {
+        duration: 600,
         easing: 'easeOutQuart',
         delay: (context) => {
           if (context.type === 'data' && context.mode === 'default') {
-            return context.dataIndex * 90;
+            return context.dataIndex * 60;
           }
           return 0;
-        },
-        onComplete: () => {
-          if (loopTimeoutGoverno) clearTimeout(loopTimeoutGoverno);
-          loopTimeoutGoverno = setTimeout(reiniciarReajustesGoverno, PAUSA_LOOP_MS);
         },
       },
       interaction: { mode: 'index', intersect: false },
       layout: { padding: { top: 10, bottom: 5 } },
+      onClick: (evt, elements) => {
+        if (elements.length > 0) {
+          mostrarPainelDetalhe(serie[elements[0].index]);
+        }
+      },
       plugins: {
         legend: {
           position: 'top',
           labels: {
-            font: { family: FONTE_TEXTO, size: 13 },
-            padding: 16,
+            font: { family: FONTE_TEXTO, size: isMobile ? 11 : 13 },
+            padding: isMobile ? 8 : 16,
             usePointStyle: true,
           }
         },
         subtitle: {
           display: true,
-          text: '🟢 Progressista | 🔴 Conservador | ⚪ Transição | 🟡 Conquista sindical',
+          text: '🎨 Intensidade = valor do reajuste (roxo ↓ | amarelo ↑) · 🏆 conquista sindical',
           position: 'bottom',
-          font: { family: FONTE_TEXTO, size: 11, style: 'italic' },
+          font: { family: FONTE_TEXTO, size: isMobile ? 10 : 11, style: 'italic' },
           color: CORES.cinza,
           padding: { top: 8 },
         },
@@ -358,65 +489,41 @@ function renderizarReajustesGoverno(dados) {
         y: {
           beginAtZero: true,
           title: {
-            display: true,
+            display: !isMobile,
             text: 'Reajuste nominal (%)',
             font: { family: FONTE_TEXTO, size: 12 }
           },
           grid: { color: 'rgba(0,0,0,0.05)' },
           ticks: {
-            font: { family: FONTE_TEXTO, size: 11 },
+            font: { family: FONTE_TEXTO, size: isMobile ? 10 : 11 },
+            maxTicksLimit: isMobile ? 5 : 8,
             callback: (v) => v + '%'
           }
         },
         x: {
           title: {
-            display: true,
+            display: !isMobile,
             text: 'Ano',
             font: { family: FONTE_TEXTO, size: 12 }
           },
           grid: { display: false },
           ticks: {
-            font: { family: FONTE_TEXTO, size: 11 },
+            font: { family: FONTE_TEXTO, size: isMobile ? 10 : 11 },
             autoSkip: false,
-            maxRotation: 60,
-            minRotation: 60,
+            maxTicksLimit: isMobile ? 8 : 32,
+            maxRotation: isMobile ? 90 : 60,
+            minRotation: isMobile ? 90 : 60,
           }
         }
       }
     }
   });
 
-  canvas.addEventListener('mouseenter', () => {
-    if (loopTimeoutGoverno) {
-      clearTimeout(loopTimeoutGoverno);
-      loopTimeoutGoverno = null;
-    }
-  });
-  canvas.addEventListener('mouseleave', () => {
-    if (chartReajustesGoverno && !loopTimeoutGoverno) {
-      loopTimeoutGoverno = setTimeout(reiniciarReajustesGoverno, 2000);
-    }
-  });
-  canvas.addEventListener('dblclick', () => {
-    if (loopTimeoutGoverno) clearTimeout(loopTimeoutGoverno);
-    loopTimeoutGoverno = null;
-    reiniciarReajustesGoverno();
-  });
-}
-
-function reiniciarReajustesGoverno() {
-  if (!chartReajustesGoverno || !dadosGlobais) return;
-  if (loopTimeoutGoverno) {
-    clearTimeout(loopTimeoutGoverno);
-    loopTimeoutGoverno = null;
-  }
-  chartReajustesGoverno.destroy();
-  chartReajustesGoverno = null;
-  renderizarReajustesGoverno(dadosGlobais);
+  pausarForaDaViewport(canvas, chartReajustesGoverno);
 }
 
 /* ------------------------------------------------------------
-   GRÁFICO 1 — PODER DE COMPRA + VA/VC (EIXO DUPLO)
+   GRÁFICO 1 — PODER DE COMPRA + VALE REFEIÇÃO/ALIMENTAÇÃO + CESTA
    ------------------------------------------------------------ */
 
 function renderizarSalarioReal(dados) {
@@ -438,11 +545,17 @@ function renderizarSalarioReal(dados) {
     chartSalarioReal = null;
   }
 
+  const isMobile = window.innerWidth < 768;
+  const semAnimacao = prefereMenosMovimento();
   const ctx = canvas.getContext('2d');
 
-  const gradient = ctx.createLinearGradient(0, 0, 0, 400);
-  gradient.addColorStop(0, 'rgba(30, 122, 60, 0.15)');
-  gradient.addColorStop(1, 'rgba(200, 16, 46, 0.15)');
+  // Gradiente Viridis para a área de "poder de compra"
+  const gradient = ctx.createLinearGradient(0, 0, 0, 500);
+  gradient.addColorStop(0, 'rgba(253, 231, 37, 0.20)');  // amarelo
+  gradient.addColorStop(1, 'rgba(68, 1, 84, 0.20)');     // roxo
+
+  // Cores dos pontos: escala Viridis do poder de compra
+  const coresPoder = viridisEscala(serie.map(s => s.salario_real));
 
   chartSalarioReal = new Chart(ctx, {
     type: 'line',
@@ -452,28 +565,30 @@ function renderizarSalarioReal(dados) {
         {
           label: `Poder de Compra (base 100 = ${anoBase})`,
           data: serie.map(s => s.salario_real),
-          borderColor: CORES.vermelho,
+          borderColor: V.roxo,
           backgroundColor: gradient,
           borderWidth: 3,
-          pointBackgroundColor: serie.map(corDoPonto),
-          pointBorderColor: serie.map(s => s.estimado ? CORES.conquista : CORES.branco),
+          pointBackgroundColor: serie.map((s, i) =>
+            EVENTOS_CONQUISTA[s.ano] ? V.amarelo : coresPoder[i]
+          ),
+          pointBorderColor: serie.map(s => s.estimado ? V.roxo : CORES.branco),
           pointBorderWidth: serie.map(s => s.estimado ? 3 : 2),
-          pointRadius: serie.map(raioDoPonto),
+          pointRadius: serie.map(s => isMobile ? raioDoPonto(s) * 0.7 : raioDoPonto(s)),
           pointHoverRadius: 10,
           tension: 0.3,
           fill: { target: { value: 100 } },
           yAxisID: 'y',
         },
         {
-          label: 'VA + VC (R$/mês)',
+          label: 'Vale Refeição/Alimentação + Cesta (R$/mês)',
           data: serie.map(s => s.va_vc_total),
-          borderColor: CORES.ganho,
-          backgroundColor: 'rgba(30, 122, 60, 0.10)',
+          borderColor: V.amarelo,
+          backgroundColor: 'rgba(253, 231, 37, 0.10)',
           borderWidth: 3,
-          pointBackgroundColor: CORES.ganho,
-          pointBorderColor: serie.map(s => s.va_vc_estimado ? CORES.conquista : CORES.branco),
+          pointBackgroundColor: V.amarelo,
+          pointBorderColor: serie.map(s => s.va_vc_estimado ? V.roxo : CORES.branco),
           pointBorderWidth: serie.map(s => s.va_vc_estimado ? 3 : 2),
-          pointRadius: 4,
+          pointRadius: isMobile ? 3 : 4,
           pointHoverRadius: 9,
           tension: 0.3,
           fill: false,
@@ -494,34 +609,35 @@ function renderizarSalarioReal(dados) {
     options: {
       responsive: true,
       maintainAspectRatio: false,
-      animation: {
-        duration: 400,
+      animation: semAnimacao ? false : {
+        duration: 800,
         easing: 'easeOutQuart',
         delay: (context) => {
           if (context.type === 'data' && context.mode === 'default') {
-            return context.dataIndex * 90;
+            return context.dataIndex * 40;
           }
           return 0;
-        },
-        onComplete: () => {
-          if (loopTimeoutSalario) clearTimeout(loopTimeoutSalario);
-          loopTimeoutSalario = setTimeout(reiniciarAnimacaoSalario, PAUSA_LOOP_MS);
         },
       },
       interaction: { mode: 'index', intersect: false },
       layout: { padding: { top: 10, bottom: 5 } },
+      onClick: (evt, elements) => {
+        if (elements.length > 0) {
+          mostrarPainelDetalhe(serie[elements[0].index]);
+        }
+      },
       plugins: {
         legend: {
           position: 'top',
           labels: {
-            font: { family: FONTE_TEXTO, size: 13 },
-            padding: 16,
+            font: { family: FONTE_TEXTO, size: isMobile ? 11 : 13 },
+            padding: isMobile ? 8 : 16,
             usePointStyle: true,
           }
         },
         subtitle: {
-          display: true,
-          text: `🔴 Poder de Compra (salário-base, base 100 = ${anoBase}) | 🟢 VA + VC em R$/mês (23 vales + cesta) — VC instituído no ACT 1999/2000`,
+          display: !isMobile,
+          text: `🟣 Poder de Compra (base 100 = ${anoBase}) | 🟡 Vale Refeição/Alimentação + Cesta (R$/mês, 22 vales)`,
           position: 'bottom',
           font: { family: FONTE_TEXTO, size: 11, style: 'italic' },
           color: CORES.cinza,
@@ -537,7 +653,7 @@ function renderizarSalarioReal(dados) {
 
               if (ctx.datasetIndex === 0) {
                 const dif = s.salario_real - 100;
-                const status = dif >= 0 ? '✅ Ganho' : '❌ Perda';
+                const status = dif >= 0 ? '▲ Ganho' : '▼ Perda';
                 return [
                   ` Poder de compra: ${s.salario_real.toFixed(1)}`,
                   ` ${status}: ${dif > 0 ? '+' : ''}${dif.toFixed(1)}%`,
@@ -546,17 +662,17 @@ function renderizarSalarioReal(dados) {
 
               if (ctx.datasetIndex === 1 && s.va_vc_total) {
                 const linhas = [
-                  ` VA + VC total: ${formatarRS(s.va_vc_total)}/mês`,
-                  ` VR unitário: ${formatarRS(s.va_vr_unit)} × 23 = ${formatarRS(s.va_vr_mes)}`,
+                  ` Vale Refeição/Alimentação + Cesta: ${formatarRS(s.va_vc_total)}/mês`,
+                  ` Vale Alimentação unitário: ${formatarRS(s.va_vr_unit)} × 22 = ${formatarRS(s.va_vr_mes)}`,
                   ` Vale Cesta: ${formatarRS(s.vc_reais)}`,
                 ];
                 if (s.ano === 1999) {
                   linhas.push('━━━━━━━━━━━━━━━━━━━━━━');
-                  linhas.push('✨ VC instituído neste ano (ACT 1999/2000)');
+                  linhas.push('✨ Vale Cesta instituído neste ano (ACT 1999/2000)');
                   linhas.push('   Substituiu a cesta básica em alimentos');
                 }
                 if (s.va_vc_estimado) {
-                  linhas.push(' ⚠️ VC estimado (interpolação IPCA)');
+                  linhas.push(' ⚠️ Valor estimado (interpolação IPCA)');
                 }
                 return linhas;
               }
@@ -589,15 +705,16 @@ function renderizarSalarioReal(dados) {
           min: 0,
           max: 120,
           title: {
-            display: true,
+            display: !isMobile,
             text: `Poder de Compra (base 100 = ${anoBase})`,
             font: { family: FONTE_TEXTO, size: 12 },
-            color: CORES.vermelho,
+            color: V.roxo,
           },
           grid: { color: 'rgba(0,0,0,0.05)' },
           ticks: {
-            font: { family: FONTE_TEXTO, size: 11 },
-            color: CORES.vermelho,
+            font: { family: FONTE_TEXTO, size: isMobile ? 10 : 11 },
+            color: V.roxo,
+            maxTicksLimit: isMobile ? 5 : 8,
           }
         },
         y1: {
@@ -606,30 +723,32 @@ function renderizarSalarioReal(dados) {
           min: 0,
           max: 2000,
           title: {
-            display: true,
-            text: 'VA + VC (R$ / mês)',
+            display: !isMobile,
+            text: 'Vale Refeição/Alimentação + Cesta (R$/mês)',
             font: { family: FONTE_TEXTO, size: 12 },
-            color: CORES.ganho,
+            color: '#8B6B00',    // amarelo escurecido (amarelo puro no branco é ilegível)
           },
           grid: { drawOnChartArea: false },
           ticks: {
-            font: { family: FONTE_TEXTO, size: 11 },
-            color: CORES.ganho,
+            font: { family: FONTE_TEXTO, size: isMobile ? 10 : 11 },
+            color: '#8B6B00',
+            maxTicksLimit: isMobile ? 5 : 8,
             callback: (v) => 'R$ ' + v.toLocaleString('pt-BR'),
           }
         },
         x: {
           title: {
-            display: true,
+            display: !isMobile,
             text: 'Ano',
             font: { family: FONTE_TEXTO, size: 12 }
           },
           grid: { display: false },
           ticks: {
-            font: { family: FONTE_TEXTO, size: 11 },
-            autoSkip: false,
-            maxRotation: 60,
-            minRotation: 60,
+            font: { family: FONTE_TEXTO, size: isMobile ? 10 : 11 },
+            autoSkip: true,
+            maxTicksLimit: isMobile ? 8 : 32,
+            maxRotation: isMobile ? 90 : 60,
+            minRotation: isMobile ? 90 : 60,
           },
           reverse: false,
         }
@@ -637,37 +756,11 @@ function renderizarSalarioReal(dados) {
     }
   });
 
-  canvas.addEventListener('mouseenter', () => {
-    if (loopTimeoutSalario) {
-      clearTimeout(loopTimeoutSalario);
-      loopTimeoutSalario = null;
-    }
-  });
-  canvas.addEventListener('mouseleave', () => {
-    if (chartSalarioReal && !loopTimeoutSalario) {
-      loopTimeoutSalario = setTimeout(reiniciarAnimacaoSalario, 2000);
-    }
-  });
-  canvas.addEventListener('dblclick', () => {
-    if (loopTimeoutSalario) clearTimeout(loopTimeoutSalario);
-    loopTimeoutSalario = null;
-    reiniciarAnimacaoSalario();
-  });
-}
-
-function reiniciarAnimacaoSalario() {
-  if (!chartSalarioReal || !dadosGlobais) return;
-  if (loopTimeoutSalario) {
-    clearTimeout(loopTimeoutSalario);
-    loopTimeoutSalario = null;
-  }
-  chartSalarioReal.destroy();
-  chartSalarioReal = null;
-  renderizarSalarioReal(dadosGlobais);
+  pausarForaDaViewport(canvas, chartSalarioReal);
 }
 
 /* ------------------------------------------------------------
-   GRÁFICO 2 — REAJUSTES (verde = ganho | cinza = perda)
+   GRÁFICO 2 — REAJUSTES (Viridis por intensidade)
    ------------------------------------------------------------ */
 
 function renderizarReajustes(dados) {
@@ -683,7 +776,14 @@ function renderizarReajustes(dados) {
     return ((inflAtual - inflAnt) / inflAnt) * 100;
   });
 
-  const ctx = document.getElementById('grafico-reajustes').getContext('2d');
+  const canvas = document.getElementById('grafico-reajustes');
+  if (!canvas) return;
+  const isMobile = window.innerWidth < 768;
+  const ctx = canvas.getContext('2d');
+
+  // Viridis por valor do reajuste
+  const coresBarras = viridisEscala(serie.map(s => s.reajuste_pct));
+
   new Chart(ctx, {
     type: 'bar',
     data: {
@@ -691,11 +791,7 @@ function renderizarReajustes(dados) {
       datasets: [{
         label: 'Reajuste conquistado (%)',
         data: serie.map(s => s.reajuste_pct),
-        backgroundColor: serie.map((s, i) =>
-          s.reajuste_pct >= inflacaoAnual[i] + MARGEM_GANHO
-            ? CORES.ganho
-            : CORES.cinza
-        ),
+        backgroundColor: coresBarras,
         borderRadius: 4,
         borderSkipped: false,
       }]
@@ -703,13 +799,14 @@ function renderizarReajustes(dados) {
     options: {
       responsive: true,
       maintainAspectRatio: false,
+      animation: prefereMenosMovimento() ? false : { duration: 600 },
       plugins: {
         legend: { display: false },
         subtitle: {
           display: true,
-          text: 'Verde = ganho real (acima do IPCA) | Cinza = perda real',
+          text: 'Viridis: roxo = reajuste baixo | amarelo = reajuste alto',
           position: 'bottom',
-          font: { family: FONTE_TEXTO, size: 11, style: 'italic' },
+          font: { family: FONTE_TEXTO, size: isMobile ? 10 : 11, style: 'italic' },
           color: CORES.cinza,
           padding: { top: 8 },
         },
@@ -723,7 +820,7 @@ function renderizarReajustes(dados) {
               const s = serie[i];
               const infl = inflacaoAnual[i];
               const ganho = s.reajuste_pct - infl;
-              const status = ganho >= MARGEM_GANHO ? '✅ ganho real' : '❌ perda real';
+              const status = ganho >= MARGEM_GANHO ? '▲ ganho real' : '▼ perda real';
               return [
                 `IPCA do ano: ${infl.toFixed(1)}%`,
                 `${status}: ${ganho > 0 ? '+' : ''}${ganho.toFixed(1)} p.p.`,
@@ -738,16 +835,24 @@ function renderizarReajustes(dados) {
         y: {
           beginAtZero: true,
           title: {
-            display: true,
+            display: !isMobile,
             text: 'Reajuste (%)',
             font: { family: FONTE_TEXTO, size: 12 }
           },
           grid: { color: 'rgba(0,0,0,0.05)' },
-          ticks: { font: { family: FONTE_TEXTO, size: 11 } }
+          ticks: {
+            font: { family: FONTE_TEXTO, size: isMobile ? 10 : 11 },
+            maxTicksLimit: isMobile ? 5 : 8,
+          }
         },
         x: {
           grid: { display: false },
-          ticks: { font: { family: FONTE_TEXTO, size: 11 } }
+          ticks: {
+            font: { family: FONTE_TEXTO, size: isMobile ? 10 : 11 },
+            maxTicksLimit: isMobile ? 8 : 20,
+            maxRotation: isMobile ? 90 : 45,
+            minRotation: isMobile ? 90 : 45,
+          }
         }
       }
     }
@@ -755,14 +860,21 @@ function renderizarReajustes(dados) {
 }
 
 /* ------------------------------------------------------------
-   GRÁFICO 3 — GOVERNOS
+   GRÁFICO 3 — GOVERNOS (Viridis divergente)
    ------------------------------------------------------------ */
 
 function renderizarGovernos(dados) {
   const g = dados.por_governo || [];
   if (!g.length) return;
 
-  const ctx = document.getElementById('grafico-governos').getContext('2d');
+  const canvas = document.getElementById('grafico-governos');
+  if (!canvas) return;
+  const isMobile = window.innerWidth < 768;
+  const ctx = canvas.getContext('2d');
+
+  // Viridis divergente: centro = 0 (neutro), extremos = roxo/amarelo
+  const cores = viridisDivergente(g.map(x => x.ganho_medio_anual), 0);
+
   new Chart(ctx, {
     type: 'bar',
     data: {
@@ -770,11 +882,7 @@ function renderizarGovernos(dados) {
       datasets: [{
         label: 'Média de ganho/perda real ao ano (%)',
         data: g.map(x => x.ganho_medio_anual),
-        backgroundColor: g.map(x => {
-          if (x.orientacao === 'progressista') return CORES.ganho;
-          if (x.orientacao === 'conservador')  return CORES.perda;
-          return CORES.cinza;
-        }),
+        backgroundColor: cores,
         borderRadius: 6,
         borderSkipped: false,
       }]
@@ -783,13 +891,14 @@ function renderizarGovernos(dados) {
       indexAxis: 'y',
       responsive: true,
       maintainAspectRatio: false,
+      animation: prefereMenosMovimento() ? false : { duration: 600 },
       plugins: {
         legend: { display: false },
         subtitle: {
           display: true,
-          text: 'Média anual de ganho real (reajuste − IPCA) por período',
+          text: 'Viridis: roxo = perda · amarelo = ganho',
           position: 'bottom',
-          font: { family: FONTE_TEXTO, size: 11, style: 'italic' },
+          font: { family: FONTE_TEXTO, size: isMobile ? 10 : 11, style: 'italic' },
           color: CORES.cinza,
           padding: { top: 8 },
         },
@@ -803,8 +912,8 @@ function renderizarGovernos(dados) {
             },
             afterLabel: (ctx) => {
               const o = g[ctx.dataIndex].orientacao;
-              return o === 'progressista' ? '🟢 Progressista'
-                   : o === 'conservador'  ? '🔴 Conservador'
+              return o === 'progressista' ? '▲ Progressista'
+                   : o === 'conservador'  ? '▼ Conservador'
                    : '⚪ Transição';
             }
           }
@@ -813,13 +922,13 @@ function renderizarGovernos(dados) {
       scales: {
         x: {
           title: {
-            display: true,
+            display: !isMobile,
             text: 'Média de ganho/perda real ao ano (%)',
             font: { family: FONTE_TEXTO, size: 12 }
           },
           grid: { color: 'rgba(0,0,0,0.05)' },
           ticks: {
-            font: { family: FONTE_TEXTO, size: 11 },
+            font: { family: FONTE_TEXTO, size: isMobile ? 10 : 11 },
             callback: (v) => (v > 0 ? '+' : '') + v + '%'
           },
           min: -10,
@@ -827,7 +936,7 @@ function renderizarGovernos(dados) {
         },
         y: {
           grid: { display: false },
-          ticks: { font: { family: FONTE_TEXTO, size: 12 } }
+          ticks: { font: { family: FONTE_TEXTO, size: isMobile ? 11 : 12 } }
         }
       }
     }
@@ -835,7 +944,7 @@ function renderizarGovernos(dados) {
 }
 
 /* ------------------------------------------------------------
-   GRÁFICO 4 — ACT vs DC
+   GRÁFICO 4 — ACT vs DC (2 cores Viridis)
    ------------------------------------------------------------ */
 
 function renderizarActVsDc(dados) {
@@ -843,17 +952,24 @@ function renderizarActVsDc(dados) {
   if (!d.length) return;
 
   const total = d.reduce((acc, x) => acc + x.total_clausulas, 0);
-  const ctx = document.getElementById('grafico-act-dc').getContext('2d');
+  const canvas = document.getElementById('grafico-act-dc');
+  if (!canvas) return;
+  const isMobile = window.innerWidth < 768;
+  const ctx = canvas.getContext('2d');
+
+  // Dois extremos da paleta
+  const cores = [V.azul, V.amarelo];
+
   new Chart(ctx, {
     type: 'doughnut',
     data: {
       labels: d.map(x => {
         const pct = ((x.total_clausulas / total) * 100).toFixed(1);
-        return `${x.tipo} — ${x.total_clausulas.toLocaleString('pt-BR')} cláusulas (${pct}%)`;
+        return `${x.tipo} — ${x.total_clausulas.toLocaleString('pt-BR')} (${pct}%)`;
       }),
       datasets: [{
         data: d.map(x => x.total_clausulas),
-        backgroundColor: [CORES.vermelho, CORES.cinza],
+        backgroundColor: cores,
         borderColor: CORES.branco,
         borderWidth: 3,
       }]
@@ -862,12 +978,13 @@ function renderizarActVsDc(dados) {
       responsive: true,
       maintainAspectRatio: false,
       cutout: '55%',
+      animation: prefereMenosMovimento() ? false : { duration: 600 },
       plugins: {
         legend: {
           position: 'bottom',
           labels: {
-            font: { family: FONTE_TEXTO, size: 12 },
-            padding: 16,
+            font: { family: FONTE_TEXTO, size: isMobile ? 10 : 12 },
+            padding: isMobile ? 8 : 16,
             usePointStyle: true,
           }
         },
@@ -888,6 +1005,275 @@ function renderizarActVsDc(dados) {
 }
 
 /* ------------------------------------------------------------
+   MACRO — INPC por mandato (Viridis por intensidade)
+   ------------------------------------------------------------ */
+
+function renderizarInpcMandato(dadosMacro) {
+  const canvas = document.getElementById('grafico-inpc-mandato');
+  if (!canvas) return;
+
+  const isMobile = window.innerWidth < 768;
+  const ms = dadosMacro.mandatos || [];
+
+  // Viridis por valor do INPC
+  const cores = viridisEscala(ms.map(m => m.inpc_acumulado));
+
+  new Chart(canvas.getContext('2d'), {
+    type: 'bar',
+    data: {
+      labels: ms.map(m => m.nome),
+      datasets: [{
+        label: 'INPC acumulado (%)',
+        data: ms.map(m => m.inpc_acumulado),
+        backgroundColor: cores,
+        borderColor: ms.map(m => m.parcial ? V.roxo : 'transparent'),
+        borderWidth: ms.map(m => m.parcial ? 2 : 0),
+        borderRadius: 4, borderSkipped: false,
+      }]
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      animation: prefereMenosMovimento() ? false : { duration: 600 },
+      plugins: {
+        legend: { display: false },
+        subtitle: {
+          display: true,
+          text: 'Viridis: roxo = INPC baixo | amarelo = INPC alto · borda tracejada = dado parcial',
+          position: 'bottom',
+          font: { family: FONTE_TEXTO, size: 10, style: 'italic' },
+          color: CORES.cinza, padding: { top: 6 }
+        },
+        tooltip: {
+          ...TOOLTIP_PADRAO,
+          callbacks: {
+            title: (i) => ms[i[0].dataIndex].nome,
+            label: (c) => {
+              const m = ms[c.dataIndex];
+              const l = [` INPC: ${m.inpc_acumulado}%`];
+              l.push(m.parcial ? ` ⚠ Parcial (${m.meses_contados}m)` : ` ${m.meses_contados} meses`);
+              return l;
+            }
+          }
+        }
+      },
+      scales: {
+        y: {
+          beginAtZero: true,
+          title: { display: !isMobile, text: 'INPC acumulado (%)',
+                   font: { family: FONTE_TEXTO, size: 12 } },
+          grid: { color: 'rgba(0,0,0,0.05)' },
+          ticks: { font: { family: FONTE_TEXTO, size: isMobile ? 10 : 11 },
+                   maxTicksLimit: isMobile ? 5 : 8,
+                   callback: (v) => v + '%' }
+        },
+        x: {
+          grid: { display: false },
+          ticks: { font: { family: FONTE_TEXTO, size: isMobile ? 10 : 11 },
+                   maxRotation: 45, minRotation: isMobile ? 45 : 0 }
+        }
+      }
+    }
+  });
+}
+
+/* ------------------------------------------------------------
+   MACRO — Reajuste vs INPC (2 cores Viridis)
+   ------------------------------------------------------------ */
+
+function renderizarReajusteVsInpc(dadosMacro) {
+  const canvas = document.getElementById('grafico-reajuste-inpc');
+  if (!canvas) return;
+
+  const isMobile = window.innerWidth < 768;
+  const ms = dadosMacro.mandatos || [];
+
+  new Chart(canvas.getContext('2d'), {
+    type: 'bar',
+    data: {
+      labels: ms.map(m => m.nome),
+      datasets: [
+        {
+          label: 'INPC acumulado (%)',
+          data: ms.map(m => m.inpc_acumulado),
+          backgroundColor: V.roxo,       // frio = referência
+          borderRadius: 3, borderSkipped: false,
+        },
+        {
+          label: 'Reajuste Correios (%)',
+          data: ms.map(m => m.reajuste_acumulado),
+          backgroundColor: V.amarelo,    // quente = resposta
+          borderRadius: 3, borderSkipped: false,
+        }
+      ]
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      animation: prefereMenosMovimento() ? false : { duration: 600 },
+      plugins: {
+        legend: {
+          position: 'top',
+          labels: {
+            font: { family: FONTE_TEXTO, size: isMobile ? 11 : 12 },
+            padding: 12, usePointStyle: true, boxWidth: 8,
+          }
+        },
+        tooltip: {
+          ...TOOLTIP_PADRAO,
+          displayColors: true,
+          callbacks: {
+            title: (i) => ms[i[0].dataIndex].nome,
+            label: (c) => ` ${c.dataset.label}: ${c.raw}%`,
+            afterBody: (c) => {
+              const m = ms[c[0].dataIndex];
+              const d = m.reajuste_acumulado - m.inpc_acumulado;
+              const st = d >= 0 ? '▲ Ganho real' : '▼ Perda real';
+              return `\n${st}: ${d > 0 ? '+' : ''}${d.toFixed(2)} p.p.`;
+            }
+          }
+        }
+      },
+      scales: {
+        y: {
+          beginAtZero: true,
+          title: { display: !isMobile, text: 'Acumulado no mandato (%)',
+                   font: { family: FONTE_TEXTO, size: 12 } },
+          grid: { color: 'rgba(0,0,0,0.05)' },
+          ticks: { font: { family: FONTE_TEXTO, size: isMobile ? 10 : 11 },
+                   maxTicksLimit: isMobile ? 5 : 8,
+                   callback: (v) => v + '%' }
+        },
+        x: {
+          grid: { display: false },
+          ticks: { font: { family: FONTE_TEXTO, size: isMobile ? 10 : 11 },
+                   maxRotation: 45, minRotation: isMobile ? 45 : 0 }
+        }
+      }
+    }
+  });
+}
+
+/* ------------------------------------------------------------
+   MACRO — Ganho real (Viridis divergente)
+   ------------------------------------------------------------ */
+
+function renderizarGanhoReal(dadosMacro) {
+  const canvas = document.getElementById('grafico-ganho-real');
+  if (!canvas) return;
+
+  const isMobile = window.innerWidth < 768;
+  const ms = dadosMacro.mandatos || [];
+
+  // Divergente: centro = 0 (perda/ganho neutro)
+  const cores = viridisDivergente(ms.map(m => m.ganho_real_pct), 0);
+
+  new Chart(canvas.getContext('2d'), {
+    type: 'bar',
+    data: {
+      labels: ms.map(m => m.nome),
+      datasets: [{
+        label: 'Ganho real (%)',
+        data: ms.map(m => m.ganho_real_pct),
+        backgroundColor: cores,
+        borderRadius: 4, borderSkipped: false,
+      }]
+    },
+    options: {
+      indexAxis: 'y',
+      responsive: true,
+      maintainAspectRatio: false,
+      animation: prefereMenosMovimento() ? false : { duration: 600 },
+      plugins: {
+        legend: { display: false },
+        subtitle: {
+          display: true,
+          text: 'Viridis: roxo = perda real · amarelo = ganho real',
+          position: 'bottom',
+          font: { family: FONTE_TEXTO, size: 10, style: 'italic' },
+          color: CORES.cinza, padding: { top: 6 }
+        },
+        tooltip: {
+          ...TOOLTIP_PADRAO,
+          callbacks: {
+            title: (i) => ms[i[0].dataIndex].nome,
+            label: (c) => {
+              const m = ms[c.dataIndex];
+              return [
+                ` Ganho real: ${m.ganho_real_pct > 0 ? '+' : ''}${m.ganho_real_pct}%`,
+                ` INPC: ${m.inpc_acumulado}%  |  Reajuste: ${m.reajuste_acumulado}%`
+              ];
+            }
+          }
+        }
+      },
+      scales: {
+        x: {
+          title: { display: !isMobile, text: 'Ganho/perda real acumulado (%)',
+                   font: { family: FONTE_TEXTO, size: 12 } },
+          grid: { color: 'rgba(0,0,0,0.05)' },
+          ticks: { font: { family: FONTE_TEXTO, size: isMobile ? 10 : 11 },
+                   callback: (v) => (v > 0 ? '+' : '') + v + '%' }
+        },
+        y: {
+          grid: { display: false },
+          ticks: { font: { family: FONTE_TEXTO, size: isMobile ? 11 : 12 } }
+        }
+      }
+    }
+  });
+}
+
+/* ------------------------------------------------------------
+   TABELA DE MANDATOS
+   ------------------------------------------------------------ */
+
+function renderizarTabelaMandatos(dadosMacro) {
+  const el = document.getElementById('tabela-mandatos');
+  if (!el) return;
+
+  const mandatos = dadosMacro.mandatos || [];
+  const coresGanho = viridisDivergente(mandatos.map(m => m.ganho_real_pct), 0);
+
+  const linhas = mandatos.map((m, i) => {
+    const cor = coresGanho[i];
+    const tag = m.parcial ? ' ⚠' : '';
+    const sinal = m.ganho_real_pct >= 0 ? '+' : '';
+    return `
+      <tr>
+        <td><strong>${m.nome}</strong>${tag}</td>
+        <td>${m.periodo[0]}-${m.periodo[1]}</td>
+        <td style="text-align:right">${m.inpc_acumulado}%</td>
+        <td style="text-align:right">${m.reajuste_acumulado}%</td>
+        <td style="text-align:right">
+          <span style="display:inline-block;padding:2px 8px;border-radius:4px;
+                       background:${cor};color:#fff;font-weight:700;font-size:0.85rem;">
+            ${sinal}${m.ganho_real_pct}%
+          </span>
+        </td>
+      </tr>`;
+  }).join('');
+
+  el.innerHTML = `
+    <table class="tabela-mandatos-grid">
+      <thead>
+        <tr>
+          <th>Mandato</th>
+          <th>Período</th>
+          <th style="text-align:right">INPC</th>
+          <th style="text-align:right">Reajuste</th>
+          <th style="text-align:right">Ganho real</th>
+        </tr>
+      </thead>
+      <tbody>${linhas}</tbody>
+    </table>
+    <p class="tabela-nota">
+      ⚠ = mandato com dado parcial (Lula 3 até set/2026).<br>
+      Cores Viridis: roxo = perda · amarelo = ganho. Fonte: IBGE/SIDRA (Tabela 1736) e ACTs/DCs.
+    </p>`;
+}
+
+/* ------------------------------------------------------------
    TIMELINE
    ------------------------------------------------------------ */
 
@@ -902,17 +1288,16 @@ function renderizarTimeline(dados) {
     return;
   }
 
-  const icones = {
-    ganho:  '🟢',
-    perda:  '🔴',
-    neutro: '⚪',
+  const icones = { ganho: '🟢', perda: '🔴', neutro: '⚪' };
+  const corPorTipo = {
+    ganho:  V.amarelo,
+    perda:  V.roxo,
+    neutro: CORES.cinza,
   };
 
   container.innerHTML = eventos.map(ev => {
     const tipo = ev.tipo || 'neutro';
-    const corImpacto = tipo === 'ganho' ? CORES.ganho
-                     : tipo === 'perda' ? CORES.perda
-                     : CORES.cinza;
+    const corImpacto = corPorTipo[tipo] || CORES.cinza;
     const icone = icones[tipo] || '•';
 
     return `
@@ -935,36 +1320,13 @@ function renderizarTimeline(dados) {
 }
 
 /* ------------------------------------------------------------
-   PAUSA / RETOMA QUANDO A ABA PERDE FOCO
-   ------------------------------------------------------------ */
-
-document.addEventListener('visibilitychange', () => {
-  if (document.hidden) {
-    if (loopTimeoutSalario) {
-      clearTimeout(loopTimeoutSalario);
-      loopTimeoutSalario = null;
-    }
-    if (loopTimeoutGoverno) {
-      clearTimeout(loopTimeoutGoverno);
-      loopTimeoutGoverno = null;
-    }
-  } else {
-    if (!loopTimeoutSalario && chartSalarioReal) {
-      loopTimeoutSalario = setTimeout(reiniciarAnimacaoSalario, PAUSA_LOOP_MS);
-    }
-    if (!loopTimeoutGoverno && chartReajustesGoverno) {
-      loopTimeoutGoverno = setTimeout(reiniciarReajustesGoverno, PAUSA_LOOP_MS);
-    }
-  }
-});
-
-/* ------------------------------------------------------------
    INICIALIZAÇÃO
    ------------------------------------------------------------ */
 
 (async function init() {
   try {
     const dados = await carregarDados('data/financeiro.json');
+    dadosGlobais = dados;
 
     renderKPIs(dados);
     renderizarTimeline(dados);
@@ -975,7 +1337,19 @@ document.addEventListener('visibilitychange', () => {
     lazyChart('grafico-governos',          () => renderizarGovernos(dados));
     lazyChart('grafico-act-dc',            () => renderizarActVsDc(dados));
 
-    console.log('[Raio-X/Financeiro] Página inicializada (lazy load).');
+    try {
+      const macro = await carregarDados('data/inpc_mandato.json');
+      dadosMacroGlobal = macro;
+      lazyChart('grafico-inpc-mandato',  () => renderizarInpcMandato(macro));
+      lazyChart('grafico-reajuste-inpc', () => renderizarReajusteVsInpc(macro));
+      lazyChart('grafico-ganho-real',    () => renderizarGanhoReal(macro));
+      renderizarTabelaMandatos(macro);
+      console.log('[Raio-X/Financeiro] Contexto macro carregado.');
+    } catch (e) {
+      console.warn('[Raio-X/Financeiro] inpc_mandato.json indisponível:', e.message);
+    }
+
+    console.log('[Raio-X/Financeiro] Página inicializada (lazy load, Viridis).');
     console.log(`[Raio-X/Financeiro] Base: ${dados.metadados?.ano_base}`);
     console.log(`[Raio-X/Financeiro] Período: ${dados.metadados?.periodo_analisado}`);
     console.log(`[Raio-X/Financeiro] Greves: ${dados.metadados?.total_greves_historicas}`);
