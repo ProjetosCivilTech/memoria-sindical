@@ -30,7 +30,7 @@
 
   <main class="container">
     <section class="secao">
-      <div class="secao-titulo"><span class="icone">📖</span><h2>Sobre o projeto</h2></div>
+      <div class="secao-titulo"><span class="icone"></span><h2>Sobre o projeto</h2></div>
       <p class="descricao">O <strong>Raio-X da Luta</strong> reúne, organiza e visualiza tudo o que foi negociado em Acordos Coletivos e Dissídios dos Correios (1988–2026). Uma ferramenta de memória sindical.</p>
     </section>
 
@@ -112,7 +112,7 @@
           <li><strong>Tempo de contribuição anterior:</strong> Muitos funcionários têm tempo em outros empregos que antecipa a aposentadoria</li>
         </ul>
         
-        <p><strong>🎯 Como usar estas projeções:</strong> Tratá-las como <strong>ferramenta de planejamento sindical</strong>, não como fato consumado. Servem para dimensionar riscos, planejar campanhas e pressionar por concursos, mas devem ser constantemente atualizadas com dados reais à medida que os anos avançam.</p>
+        <p><strong> Como usar estas projeções:</strong> Tratá-las como <strong>ferramenta de planejamento sindical</strong>, não como fato consumado. Servem para dimensionar riscos, planejar campanhas e pressionar por concursos, mas devem ser constantemente atualizadas com dados reais à medida que os anos avançam.</p>
         
         <p><strong>📝 Limitação adicional:</strong> A análise considera exclusivamente tempo de serviço nos Correios. Funcionários com tempo anterior em outras empresas podem se aposentar 3-5 anos antes do projetado.</p>
       </div>
@@ -129,33 +129,39 @@
   <script src="assets/lazy-charts.js"></script>
   <script>
   'use strict';
+  
   const PALETA = { 
     vermelho: '#C8102E', vermelhoEscuro: '#8B0000', preto: '#1A1A1A', 
     especial: '#FF5733', tempoContrib: '#003366', idade: '#28A745', 
     pdv: '#9B59B6',
     eraClassica: '#81C784', eraTransicao: '#FFB74D', eraPosReforma: '#E57373' 
   };
+  
   let DADOS_EFETIVO, DADOS_PROJ, DADOS_ONDAS, DADOS_RAIOX;
+  let dadosCarregados = false;
 
-    async function carregarDados() {
-    if (DADOS_EFETIVO) return;
-    const [res1, res2, res3, res4] = await Promise.all([
-      fetch('dados/efetivo_historico_projecao.json'),
-      fetch('dados/projecao_2026_2035.json'),
-      fetch('dados/ondas_aposentadoria.json'),
-      fetch('dados/raiox_aposentados.json')
-    ]);
-    if (!res1.ok || !res2.ok || !res3.ok || !res4.ok) throw new Error('Falha ao carregar JSONs');
-    
-    DADOS_EFETIVO = await res1.json();
-    DADOS_PROJ = await res2.json();
-    DADOS_ONDAS = await res3.json();
-    DADOS_RAIOX = await res4.json();
-
-    // DEBUG: Verificar no console do navegador se os dados estão limpos
-    console.log("✅ DADOS CARREGADOS:");
-    console.log("Efetivo 2025 (Real):", DADOS_EFETIVO.efetivo_real[DADOS_EFETIVO.anos.indexOf(2025)]);
-    console.log("Efetivo 2026 (Projeção):", DADOS_EFETIVO.efetivo_projecao[DADOS_EFETIVO.anos.indexOf(2026)]);
+  async function carregarDados() {
+    if (dadosCarregados) return;
+    try {
+      const [res1, res2, res3, res4] = await Promise.all([
+        fetch('dados/efetivo_historico_projecao.json'),
+        fetch('dados/projecao_2026_2035.json'),
+        fetch('dados/ondas_aposentadoria.json'),
+        fetch('dados/raiox_aposentados.json')
+      ]);
+      if (!res1.ok || !res2.ok || !res3.ok || !res4.ok) throw new Error('Falha ao carregar JSONs');
+      
+      DADOS_EFETIVO = await res1.json();
+      DADOS_PROJ = await res2.json();
+      DADOS_ONDAS = await res3.json();
+      DADOS_RAIOX = await res4.json();
+      
+      dadosCarregados = true;
+      console.log("✅ Dados carregados com sucesso");
+      console.log("Efetivo 2025:", DADOS_EFETIVO.efetivo_real[DADOS_EFETIVO.anos.indexOf(2025)]);
+    } catch (err) {
+      console.error("❌ Erro ao carregar dados:", err);
+    }
   }
 
   class AnimacaoTemporal {
@@ -218,6 +224,10 @@
 
   lazyChart('grafico-efetivo', async () => {
     await carregarDados();
+    if (!dadosCarregados || !DADOS_EFETIVO) {
+      console.error("Dados não carregados para gráfico de efetivo");
+      return;
+    }
     const ctx = document.getElementById('grafico-efetivo').getContext('2d');
     window.chartEfetivo = new Chart(ctx, {
       type: 'line',
@@ -270,6 +280,10 @@
 
   lazyChart('grafico-ondas', async () => {
     await carregarDados();
+    if (!dadosCarregados || !DADOS_ONDAS) {
+      console.error("Dados não carregados para gráfico de ondas");
+      return;
+    }
     const ctx = document.getElementById('grafico-ondas').getContext('2d');
     window.chartOndas = new Chart(ctx, {
       type: 'bar',
@@ -299,6 +313,10 @@
 
   lazyChart('grafico-projecao', async () => {
     await carregarDados();
+    if (!dadosCarregados || !DADOS_PROJ) {
+      console.error("Dados não carregados para gráfico de projeção");
+      return;
+    }
     const ctx = document.getElementById('grafico-projecao').getContext('2d');
     new Chart(ctx, {
       type: 'bar',
@@ -337,7 +355,6 @@
         }
       }
     });
-    // Atualizar KPIs com dados reais
     const efetivo2035 = DADOS_PROJ.efetivo[DADOS_PROJ.efetivo.length - 1];
     const queda = DADOS_PROJ.efetivo[0] - efetivo2035;
     const pctQueda = (queda / DADOS_PROJ.efetivo[0] * 100).toFixed(0);
@@ -347,6 +364,10 @@
 
   lazyChart('grafico-raiox', async () => {
     await carregarDados();
+    if (!dadosCarregados || !DADOS_RAIOX) {
+      console.error("Dados não carregados para gráfico raio-x");
+      return;
+    }
     const ctx = document.getElementById('grafico-raiox').getContext('2d');
     new Chart(ctx, {
       type: 'bar',
