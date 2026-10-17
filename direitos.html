@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Raio-X da Luta | Batalha pelos Direitos</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+  <link rel="stylesheet" href="assets/identidade.css">
+</head>
+<body>
+
+  <header class="hero">
+    <span class="punho">✊</span>
+    <h1>Batalha pelos Direitos</h1>
+    <p class="subtitulo">
+      As conquistas que vão além do salário. Saúde, família, diversidade, 
+      condições de trabalho e democracia sindical. 
+      <strong>38 anos de construção coletiva.</strong>
+    </p>
+  </header>
+
+  <nav class="nav">
+    <ul>
+      <li><a href="index.html">Início</a></li>
+      <li><a href="financeiro.html">Financeiro</a></li>
+      <li><a href="direitos.html" class="ativo">Direitos</a></li>
+    </ul>
+  </nav>
+
+  <main class="container">
+    
+    <section class="kpis">
+      <div class="kpi">
+        <div class="rotulo">Cláusulas Não Financeiras</div>
+        <div class="valor" id="kpi-total">—</div>
+        <div class="variacao">de 1988 a 2026</div>
+      </div>
+      <div class="kpi">
+        <div class="rotulo">Temas Cobertos</div>
+        <div class="valor" id="kpi-temas">—</div>
+        <div class="variacao">saúde, família, diversidade, condições…</div>
+      </div>
+      <div class="kpi">
+        <div class="rotulo">Ano Mais Produtivo</div>
+        <div class="valor" id="kpi-ano-produtivo">—</div>
+        <div class="variacao" id="kpi-ano-produtivo-qtd">—</div>
+      </div>
+      <div class="kpi">
+        <div class="rotulo">Direitos em Risco</div>
+        <div class="valor" id="kpi-risco">—</div>
+        <div class="variacao">tentativas de retirada em governos conservadores</div>
+      </div>
+    </section>
+
+    <section class="secao">
+      <div class="secao-titulo">
+        <span class="icone">🎯</span>
+        <h2>Direitos por Governo</h2>
+      </div>
+      <p class="descricao">
+        Score de conquistas por tema e por período de governo.
+        Quanto mais escura a célula, maior o volume de direitos garantidos.
+        Passe o mouse para ver o valor exato.
+      </p>
+      <div class="grafico-card">
+        <div id="heatmap-governos" class="heatmap-container"></div>
+      </div>
+    </section>
+
+    <section class="secao">
+      <div class="secao-titulo">
+        <span class="icone">📊</span>
+        <h2>Volume por Tema</h2>
+      </div>
+      <p class="descricao">
+        Total de cláusulas por categoria. 
+        Distribuição das cláusulas não financeiras nos 36 documentos analisados.
+      </p>
+      <div class="grafico-card">
+        <div class="grafico-wrapper">
+          <canvas id="grafico-temas"></canvas>
+        </div>
+      </div>
+    </section>
+
+    <section class="secao">
+      <div class="secao-titulo">
+        <span class="icone">⚡</span>
+        <h2>Onde FENTECT e FINDECT divergiram</h2>
+      </div>
+      <p class="descricao">
+        Cláusulas com redação diferente entre as federações. 
+        Em 2013-2014 e 2024-2025, as duas federações negociaram separadamente. 
+        O gráfico mostra onde os textos diferiram materialmente.
+      </p>
+      <div class="grafico-card">
+        <div class="grafico-wrapper">
+          <canvas id="grafico-divergencias"></canvas>
+        </div>
+      </div>
+    </section>
+
+    <section class="secao">
+      <div class="secao-titulo">
+        <span class="icone">🔥</span>
+        <h2>Marcos Históricos dos Direitos</h2>
+      </div>
+      <div class="timeline" id="timeline-direitos"></div>
+    </section>
+
+    <section class="secao">
+      <div class="secao-titulo">
+        <span class="icone">🗂️</span>
+        <h2>Explorar por Tema</h2>
+      </div>
+      <div class="kpis" id="cards-temas"></div>
+    </section>
+
+  </main>
+
+  <footer class="footer">
+    <p><strong>Memória Sindical</strong> — Raio-X da Luta dos Trabalhadores dos Correios</p>
+    <p style="font-size: 0.85rem; margin-top: 0.5rem;">
+      Dados extraídos de Acordos Coletivos de Trabalho, Dissídios Coletivos e 
+      Acórdãos do TST (1988–2026).
+    </p>
+    <p style="margin-top: 1rem;">
+      <a href="https://github.com/obs-sorocaba/Memoria_sindical" target="_blank" rel="noopener">Código-fonte no GitHub</a>
+    </p>
+  </footer>
+
+  <script src="vendor/chart.min.js"></script>
+  <script src="assets/lazy-charts.js"></script>
+  <script src="assets/direitos.js"></script>
+</body>
+</html>

@@ -1,0 +1,687 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Memória Sindical | Raio-X da Luta dos Correios</title>
+  <meta name="description" content="38 anos de Acordos, Dissídios, greves e conquistas dos trabalhadores dos Correios.">
+
+  <!-- Fontes -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet">
+
+  <!-- CSS (pasta assets/) -->
+  <link rel="stylesheet" href="assets/identidade.css">
+  <link rel="stylesheet" href="assets/style.css">
+
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+</head>
+<body>
+
+  <!-- ============================================================
+       HERO
+  ============================================================ -->
+  <header class="hero">
+    <span class="punho" aria-hidden="true">✊</span>
+    <h1>Raio-X da Luta</h1>
+    <p class="subtitulo">
+      A memória sindical dos trabalhadores dos Correios.<br>
+      <strong>38 anos</strong> de Acordos, Dissídios, greves e conquistas.<br>
+      Sem maquiagem. Sem meias verdades.
+    </p>
+  </header>
+
+  <!-- ============================================================
+       NAVEGAÇÃO
+  ============================================================ -->
+  <nav class="nav" aria-label="Navegação principal">
+    <ul>
+      <li><a href="index.html" class="ativo">Início</a></li>
+      <li><a href="financeiro.html">Financeiro</a></li>
+      <li><a href="direitos.html">Direitos</a></li>
+    </ul>
+  </nav>
+
+  <main class="container">
+
+    <!-- ============================================================
+         SOBRE O PROJETO
+    ============================================================ -->
+    <section class="secao">
+      <div class="secao-titulo">
+        <span class="icone" aria-hidden="true">📖</span>
+        <h2>Sobre o projeto</h2>
+      </div>
+      <p class="descricao">
+        O <strong>Raio-X da Luta</strong> reúne, organiza e visualiza tudo o que foi
+        negociado em <strong>Acordos Coletivos de Trabalho (ACTs)</strong> e
+        <strong>Dissídios Coletivos (DCs)</strong> entre os trabalhadores dos Correios
+        e a Empresa Brasileira de Correios e Telégrafos, de <strong>1988 a 2026</strong>.
+      </p>
+      <p class="descricao">
+        Cada cláusula — de reajuste salarial a licença-parental, de adicional de
+        periculosidade a direitos da população LGBTQIA+ — foi extraída diretamente
+        dos documentos oficiais e agora pode ser consultada, comparada e cruzada.
+      </p>
+      <p class="descricao">
+        É uma ferramenta de <strong>memória sindical</strong>. Para que as novas gerações
+        saibam exatamente <em>o que foi conquistado, quando e por quem</em> — e
+        o que pode ser perdido quando a luta arrefece.
+      </p>
+    </section>
+
+    <!-- ============================================================
+         EXPLORE
+    ============================================================ -->
+    <section class="secao">
+      <div class="secao-titulo">
+        <span class="icone" aria-hidden="true">🗺️</span>
+        <h2>Explore</h2>
+      </div>
+      <div class="kpis">
+        <a href="financeiro.html" class="kpi-link">
+          <div class="kpi">
+            <div class="rotulo">Página 1</div>
+            <div class="valor"> Financeiro</div>
+            <div class="variacao">Salário real vs inflação, ganhos e perdas por governo, reajustes ano a ano, ACT vs DC.</div>
+          </div>
+        </a>
+        <a href="direitos.html" class="kpi-link">
+          <div class="kpi">
+            <div class="rotulo">Página 2</div>
+            <div class="valor">✊ Direitos</div>
+            <div class="variacao">Cláusulas não financeiras: saúde, família, diversidade, condições de trabalho, direitos sindicais.</div>
+          </div>
+        </a>
+      </div>
+    </section>
+
+    <!-- ============================================================
+         A BASE EM NÚMEROS
+    ============================================================ -->
+    <section class="secao">
+      <div class="secao-titulo">
+        <span class="icone" aria-hidden="true">📊</span>
+        <h2>A base em números</h2>
+      </div>
+      <div class="kpis">
+        <div class="kpi">
+          <div class="rotulo">Documentos</div>
+          <div class="valor">36</div>
+          <div class="variacao">ACTs, DCs e Acórdãos TST</div>
+        </div>
+        <div class="kpi">
+          <div class="rotulo">Cláusulas</div>
+          <div class="valor">1.955</div>
+          <div class="variacao">extraídas dos PDFs originais</div>
+        </div>
+        <div class="kpi">
+          <div class="rotulo">IDs canônicos</div>
+          <div class="valor">171</div>
+          <div class="variacao">após normalização</div>
+        </div>
+        <div class="kpi">
+          <div class="rotulo">Período</div>
+          <div class="valor">1988–2026</div>
+          <div class="variacao">38 anos de história</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============================================================
+         QUADRO DE PESSOAL
+    ============================================================ -->
+    <section class="secao" id="pessoal">
+      <div class="secao-titulo">
+        <span class="icone" aria-hidden="true">👥</span>
+        <h2>Quadro de Pessoal</h2>
+      </div>
+      <p class="descricao">
+        Para entender o peso de cada conquista, é preciso olhar para o tamanho da base
+        representada. O quadro dos Correios cresceu de <strong>~70 mil</strong> funcionários
+        no final dos anos 80, atingiu um <strong>pico histórico de ~135 mil em 2014</strong>,
+        e hoje se estabiliza em torno de <strong>~90 mil</strong>. Entender essa evolução
+        — e o que vem pela frente — é fundamental para dimensionar a luta.
+      </p>
+
+      <!-- KPIs de Pessoal -->
+      <div class="kpis">
+        <div class="kpi">
+          <div class="rotulo">Efetivo atual</div>
+          <div class="valor">~90.000</div>
+          <div class="variacao negativa">▼ 33% desde o pico de 2014</div>
+        </div>
+        <div class="kpi">
+          <div class="rotulo">Pico histórico</div>
+          <div class="valor">~135.000</div>
+          <div class="variacao">atingido em 2014</div>
+        </div>
+        <div class="kpi">
+          <div class="rotulo">Projeção 2035</div>
+          <div class="valor">~65.000</div>
+          <div class="variacao negativa">▼ 28% em 10 anos (só aposentadorias)</div>
+        </div>
+        <div class="kpi">
+          <div class="rotulo">Já elegíveis hoje</div>
+          <div class="valor">~12.000</div>
+          <div class="variacao negativa">podem sair a qualquer momento</div>
+        </div>
+      </div>
+
+      <!-- ============================================================
+           GRÁFICO 1: EVOLUÇÃO DO EFETIVO (1989-2035) — ANIMAÇÃO AUTOMÁTICA
+      ============================================================ -->
+      <div class="grafico-card">
+        <h3>Evolução do Efetivo dos Correios (1989–2035)</h3>
+        <p class="descricao">
+          Linha contínua: dados reais de admissões e desligamentos.
+          Linha tracejada: projeção considerando apenas aposentadorias naturais
+          (sem novos concursos). O pico de 2014 e o declínio pós-2016 contam
+          a história da expansão e retração do quadro.
+        </p>
+
+        <div class="painel-animacao">
+          <div class="indicador-tempo">
+            <span class="rotulo">Ano:</span>
+            <span class="ano-destaque" id="ano-efetivo">1989</span>
+            <span class="status-governo" id="fase-efetivo">Expansão inicial</span>
+          </div>
+        </div>
+
+        <div class="grafico-wrapper alto">
+          <canvas id="grafico-efetivo" role="img" aria-label="Gráfico animado da evolução do efetivo dos Correios de 1989 a 2035"></canvas>
+        </div>
+      </div>
+
+      <!-- ============================================================
+           GRÁFICO 2: ONDAS DE APOSENTADORIA POR ERA LEGAL — ANIMAÇÃO AUTOMÁTICA
+      ============================================================ -->
+      <div class="grafico-card">
+        <h3>Ondas de Aposentadoria por Era Legal (1989–2026)</h3>
+        <p class="descricao">
+          Cada pico corresponde a uma <strong>corrida previdenciária</strong>: trabalhadores
+          se aposentando antes que mudanças legislativas endurecessem as regras.
+          As cores marcam as três eras legais que redefiniram o fluxo de saídas.
+        </p>
+
+        <div class="painel-animacao">
+          <div class="indicador-tempo">
+            <span class="rotulo">Ano:</span>
+            <span class="ano-destaque" id="ano-ondas">1989</span>
+            <span class="status-governo" id="era-ondas">Era Clássica</span>
+          </div>
+        </div>
+
+        <div class="grafico-wrapper alto">
+          <canvas id="grafico-ondas" role="img" aria-label="Gráfico animado de aposentadorias por era legal"></canvas>
+        </div>
+      </div>
+
+      <!-- ============================================================
+           GRÁFICO 3: PROJEÇÃO DE SAÍDAS 2026-2035 — ESTÁTICO
+      ============================================================ -->
+      <div class="grafico-card">
+        <h3>Projeção de Saídas por Aposentadoria (2026–2035)</h3>
+        <p class="descricao">
+          Barras empilhadas: volume anual de aposentadorias por tipo.
+          Linha tracejada: efetivo projetado ao longo da década.
+          <strong>~25 mil funcionários</strong> devem deixar os Correios
+          naturalmente nos próximos 10 anos — sem contar PDVs ou demissões.
+        </p>
+
+        <div class="grafico-wrapper alto">
+          <canvas id="grafico-projecao" role="img" aria-label="Gráfico estático de projeção de aposentadorias 2026-2035"></canvas>
+        </div>
+      </div>
+
+      <!-- ============================================================
+           GRÁFICO 4: RAIO-X DE APOSENTADOS ATIVOS — ESTÁTICO
+      ============================================================ -->
+      <div class="grafico-card">
+        <h3>Raio-X: Quem Já Pode Se Aposentar Hoje?</h3>
+        <p class="descricao">
+          Retrato do quadro ativo classificado por tempo de serviço nos Correios.
+          Funcionários com <strong>35+ anos</strong> de casa já têm direito adquirido
+          à aposentadoria integral. Carteiros com <strong>25+ anos</strong> podem pleitear
+          a aposentadoria especial (motociclistas, com PPP).
+          Desde 2016, aposentados têm deixado os Correios em ritmo acelerado;
+          os que permaneceram antes da EC 103/2019 só podem sair agora pela
+          <strong>"lei da bengala"</strong> (regras de transição por pontos).
+        </p>
+
+        <div class="grafico-wrapper">
+          <canvas id="grafico-raiox" role="img" aria-label="Gráfico estático de raio-x de aposentados ativos"></canvas>
+        </div>
+      </div>
+
+      <!-- ============================================================
+           NOTA METODOLÓGICA
+      ============================================================ -->
+      <div class="nota-explicativa">
+        <h3>⚠️ Nota Metodológica</h3>
+        <p>
+          <strong>Limitação dos dados:</strong> Esta análise considera <strong>exclusivamente
+          o tempo de serviço vinculado aos Correios</strong>, não contabilizando vínculos
+          empregatícios anteriores em outras empresas ou no setor público. Na prática,
+          muitos funcionários — especialmente concursados dos anos 1990 e 2000 — possuem
+          tempo de contribuição anterior que <strong>antecipa sua elegibilidade</strong>
+          em 3 a 5 anos.
+        </p>
+        <p>
+          <strong>Impacto na projeção:</strong> Essa limitação tende a
+          <strong>subestimar o volume real de aposentadorias</strong> nos próximos anos.
+          Os números apresentados são, portanto, um <strong>piso conservador</strong>:
+          a queda real do quadro tende a ser mais acentuada.
+        </p>
+        <p>
+          <strong>Premissa da Aposentadoria Especial:</strong> A categoria "Especial (25 anos)"
+          considera ~15% dos carteiros operacionais como motociclistas, com base na
+          jurisprudência consolidada do <strong>TST (Tema Repetitivo nº 15)</strong> e
+          confirmada pelo <strong>STF</strong>, que garante o direito cumulativo ao
+          <strong>AADC + Adicional de Periculosidade</strong> e, consequentemente,
+          à aposentadoria especial após 25 anos de serviço.
+        </p>
+        <p>
+          <strong>Marco de 2016 e a "Lei da Bengala":</strong> O êxodo de aposentados
+          se acelerou a partir de 2016, quando a EC 93/2016 ("lei da bengala") estendeu
+          o prazo para as regras de transição pré-reforma. A EC 103/2019 (Reforma da
+          Previdência) criou novas barreiras (idade mínima, sistema de pontos), travando
+          temporariamente as saídas — mas gerando um <strong>efeito represado</strong>
+          que se manifesta na projeção atual.
+        </p>
+      </div>
+    </section>
+
+    <!-- ============================================================
+         CTA FINAL
+    ============================================================ -->
+    <section class="secao">
+      <div class="grafico-card" style="background: linear-gradient(135deg, #FFF5F7 0%, #FFFFFF 100%); border-left: 5px solid var(--vermelho);">
+        <h3>Comece pelo Financeiro</h3>
+        <p class="descricao">
+          O gráfico principal mostra a evolução do <strong>salário real</strong> dos
+          trabalhadores dos Correios comparado à <strong>inflação acumulada</strong>.
+          Quando a linha vermelha está acima da cinza, houve ganho real.
+          Quando está abaixo, houve perda.
+        </p>
+        <a href="financeiro.html" class="filtro-btn ativo" style="margin-top: 1rem; display: inline-block;">
+          Ver a Batalha pelo Salário →
+        </a>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ============================================================
+       FOOTER
+  ============================================================ -->
+  <footer class="footer">
+    <p>
+      <strong>Memória Sindical</strong> — Raio-X da Luta dos Trabalhadores dos Correios
+    </p>
+    <p style="margin-top: 0.5rem; font-size: 0.85rem;">
+      Dados extraídos de Acordos Coletivos de Trabalho, Dissídios Coletivos e
+      Acórdãos do TST (1988–2026).
+    </p>
+    <p style="margin-top: 1rem;">
+      <a href="https://github.com/obs-sorocaba/Memoria_sindical" target="_blank" rel="noopener">
+        Código-fonte no GitHub
+      </a>
+    </p>
+  </footer>
+
+  <!-- ============================================================
+       SCRIPTS: LAZY-CHARTS + GRÁFICOS
+  ============================================================ -->
+  <script src="assets/lazy-charts.js"></script>
+  <script>
+  'use strict';
+
+  /* ============================================================
+     PALETA SINDICAL
+  ============================================================ */
+  const PALETA = {
+    vermelho:       '#C8102E',
+    vermelhoEscuro: '#8B0000',
+    vermelhoClaro:  '#F4D7DC',
+    preto:          '#1A1A1A',
+    cinza9:         '#2D2D2D',
+    cinza7:         '#555555',
+    cinza5:         '#595959',
+    cinza3:         '#CCCCCC',
+    cinza1:         '#F5F5F5',
+    branco:         '#FFFFFF',
+    // Categorias de aposentadoria
+    especial:       '#FF5733',
+    tempoContrib:   '#003366',
+    idade:          '#28A745',
+    // Eras legais
+    eraClassica:    '#81C784',
+    eraTransicao:   '#FFB74D',
+    eraPosReforma:  '#E57373'
+  };
+
+  /* ============================================================
+     ESTADO GLOBAL DOS DADOS
+  ============================================================ */
+  let DADOS_EFETIVO, DADOS_PROJ, DADOS_ONDAS, DADOS_RAIOX;
+
+  async function carregarDados() {
+    if (DADOS_EFETIVO) return; // já carregou
+    const [res1, res2, res3, res4] = await Promise.all([
+      fetch('dados/efetivo_historico_projecao.json'),
+      fetch('dados/projecao_2026_2035.json'),
+      fetch('dados/ondas_aposentadoria.json'),
+      fetch('dados/raiox_aposentados.json')
+    ]);
+    if (!res1.ok || !res2.ok || !res3.ok || !res4.ok) {
+      throw new Error('Falha ao carregar os dados JSON. Verifique a pasta dados/.');
+    }
+    DADOS_EFETIVO = await res1.json();
+    DADOS_PROJ    = await res2.json();
+    DADOS_ONDAS   = await res3.json();
+    DADOS_RAIOX   = await res4.json();
+  }
+
+  /* ============================================================
+     CLASSE: AnimacaoTemporal
+     - Eixo X fixo desde o início
+     - Progressão cronológica (esquerda → direita)
+     - Loop com pausa de 3s antes de reiniciar
+  ============================================================ */
+  class AnimacaoTemporal {
+    constructor({ anoId, statusId, dados, renderFn, intervaloMs = 120, tipo = 'efetivo' }) {
+      this.anoEl     = document.getElementById(anoId);
+      this.statusEl  = document.getElementById(statusId);
+      this.dados     = dados;
+      this.renderFn  = renderFn;
+      this.intervaloMs = intervaloMs;
+      this.tipo      = tipo;
+      this.indiceAtual = 0;
+      this.timer     = null;
+      this.rodando   = false;
+
+      this.renderFn(0);
+      this.atualizarIndicador(0);
+      this.play(); // inicia automaticamente
+    }
+
+    play() {
+      if (this.rodando) return;
+      this.rodando = true;
+      this.tick();
+    }
+
+    pause() {
+      this.rodando = false;
+      clearTimeout(this.timer);
+    }
+
+    tick() {
+      if (!this.rodando) return;
+      this.indiceAtual++;
+      if (this.indiceAtual >= this.dados.anos.length) {
+        this.pause();
+        // Loop suave: espera 3s e reinicia
+        setTimeout(() => {
+          this.indiceAtual = 0;
+          this.renderFn(0);
+          this.atualizarIndicador(0);
+          this.play();
+        }, 3000);
+        return;
+      }
+      this.renderFn(this.indiceAtual);
+      this.atualizarIndicador(this.indiceAtual);
+      this.timer = setTimeout(() => this.tick(), this.intervaloMs);
+    }
+
+    atualizarIndicador(i) {
+      if (this.anoEl && this.dados.anos[i]) {
+        this.anoEl.textContent = this.dados.anos[i];
+      }
+      if (this.statusEl) {
+        const ano = this.dados.anos[i];
+        if (this.tipo === 'efetivo') {
+          if (ano < 1995)      this.statusEl.textContent = 'Expansão inicial';
+          else if (ano < 2002) this.statusEl.textContent = 'Consolidação';
+          else if (ano < 2012) this.statusEl.textContent = 'Crescimento acelerado';
+          else if (ano < 2015) this.statusEl.textContent = 'Pico histórico';
+          else if (ano < 2020) this.statusEl.textContent = 'Declínio pós-pico';
+          else if (ano < 2026) this.statusEl.textContent = 'Redução acelerada';
+          else                 this.statusEl.textContent = 'Projeção (Aposentadorias)';
+        } else if (this.tipo === 'ondas') {
+          if (ano <= 1994)     this.statusEl.textContent = 'Era Clássica';
+          else if (ano <= 2019)this.statusEl.textContent = 'Transição Pré-Reforma';
+          else                 this.statusEl.textContent = 'Pós-Reforma (EC 103)';
+        }
+      }
+    }
+  }
+
+  /* ============================================================
+     GRÁFICO 1: EFETIVO HISTÓRICO + PROJEÇÃO (ANIMADO)
+     Usa efetivo_real e efetivo_projecao separados (overlap em 2025)
+  ============================================================ */
+  lazyChart('grafico-efetivo', async () => {
+    await carregarDados();
+    const ctx = document.getElementById('grafico-efetivo').getContext('2d');
+
+    window.chartEfetivo = new Chart(ctx, {
+      type: 'line',
+      data: {
+        labels: DADOS_EFETIVO.anos,
+        datasets: [
+          {
+            label: 'Efetivo Real',
+            data: [], // preenchido pela animação
+            borderColor: PALETA.preto,
+            backgroundColor: 'rgba(26,26,26,0.08)',
+            borderWidth: 3,
+            fill: true,
+            tension: 0.3,
+            pointRadius: 0,
+            pointHoverRadius: 5
+          },
+          {
+            label: 'Projeção',
+            data: [], // preenchido pela animação
+            borderColor: PALETA.vermelho,
+            backgroundColor: 'rgba(200,16,46,0.08)',
+            borderWidth: 3,
+            borderDash: [8, 4],
+            fill: true,
+            tension: 0.3,
+            pointRadius: 0,
+            pointHoverRadius: 5
+          }
+        ]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        animation: false,
+        interaction: { mode: 'index', intersect: false },
+        plugins: {
+          legend: { position: 'top', labels: { font: { family: 'Montserrat', weight: '600' } } },
+          tooltip: {
+            callbacks: {
+              label: (ctx) => `${ctx.dataset.label}: ${ctx.parsed.y?.toLocaleString('pt-BR') ?? '—'}`
+            }
+          }
+        },
+        scales: {
+          x: { title: { display: true, text: 'Ano', font: { family: 'Inter', weight: '600' } }, grid: { color: 'rgba(0,0,0,0.05)' } },
+          y: { title: { display: true, text: 'Efetivo', font: { family: 'Inter', weight: '600' } }, ticks: { callback: v => (v/1000) + 'k' }, grid: { color: 'rgba(0,0,0,0.05)' } }
+        }
+      }
+    });
+
+    const idxInicioProj = DADOS_EFETIVO.anos.indexOf(2025);
+
+    window.animEfetivo = new AnimacaoTemporal({
+      anoId: 'ano-efetivo',
+      statusId: 'fase-efetivo',
+      dados: DADOS_EFETIVO,
+      tipo: 'efetivo',
+      intervaloMs: 120,
+      renderFn: (i) => {
+        // Linha preta: mostra até o ano atual (i), depois null
+        window.chartEfetivo.data.datasets[0].data = DADOS_EFETIVO.efetivo_real.map((v, idx) => idx <= i ? v : null);
+        // Linha vermelha: só começa a aparecer a partir do índice de 2025
+        window.chartEfetivo.data.datasets[1].data = DADOS_EFETIVO.efetivo_projecao.map((v, idx) => {
+          if (idx > i) return null;
+          return idx >= idxInicioProj ? v : null;
+        });
+        window.chartEfetivo.update('none');
+      }
+    });
+  });
+
+  /* ============================================================
+     GRÁFICO 2: ONDAS DE APOSENTADORIA POR ERA LEGAL (ANIMADO)
+  ============================================================ */
+  lazyChart('grafico-ondas', async () => {
+    await carregarDados();
+    const ctx = document.getElementById('grafico-ondas').getContext('2d');
+
+    window.chartOndas = new Chart(ctx, {
+      type: 'bar',
+      data: {
+        labels: DADOS_ONDAS.anos,
+        datasets: [
+          { label: 'Era Clássica (até 1994)',        data: [], backgroundColor: PALETA.eraClassica,    borderColor: '#2E7D32', borderWidth: 1 },
+          { label: 'Transição (1995-2019)',           data: [], backgroundColor: PALETA.eraTransicao,   borderColor: '#E65100', borderWidth: 1 },
+          { label: 'Pós-Reforma (2020+)',             data: [], backgroundColor: PALETA.eraPosReforma,  borderColor: '#C62828', borderWidth: 1 }
+        ]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        animation: false,
+        interaction: { mode: 'index', intersect: false },
+        plugins: {
+          legend: { position: 'top', labels: { font: { family: 'Montserrat', weight: '600' } } },
+          tooltip: {
+            callbacks: {
+              label: (ctx) => `${ctx.dataset.label}: ${ctx.parsed.y?.toLocaleString('pt-BR') ?? '—'}`
+            }
+          }
+        },
+        scales: {
+          x: { stacked: true, title: { display: true, text: 'Ano do desligamento', font: { family: 'Inter', weight: '600' } }, grid: { display: false } },
+          y: { stacked: true, title: { display: true, text: 'Aposentadorias (25+ anos de casa)', font: { family: 'Inter', weight: '600' } }, ticks: { callback: v => (v/1000) + 'k' }, grid: { color: 'rgba(0,0,0,0.05)' } }
+        }
+      }
+    });
+
+    window.animOndas = new AnimacaoTemporal({
+      anoId: 'ano-ondas',
+      statusId: 'era-ondas',
+      dados: DADOS_ONDAS,
+      tipo: 'ondas',
+      intervaloMs: 120,
+      renderFn: (i) => {
+        window.chartOndas.data.datasets[0].data = DADOS_ONDAS.classica.map((v, idx) => idx <= i ? v : null);
+        window.chartOndas.data.datasets[1].data = DADOS_ONDAS.transicao.map((v, idx) => idx <= i ? v : null);
+        window.chartOndas.data.datasets[2].data = DADOS_ONDAS.posReforma.map((v, idx) => idx <= i ? v : null);
+        window.chartOndas.update('none');
+      }
+    });
+  });
+
+  /* ============================================================
+     GRÁFICO 3: PROJEÇÃO DE SAÍDAS 2026-2035 (ESTÁTICO)
+  ============================================================ */
+  lazyChart('grafico-projecao', async () => {
+    await carregarDados();
+    const ctx = document.getElementById('grafico-projecao').getContext('2d');
+
+    new Chart(ctx, {
+      type: 'bar',
+      data: {
+        labels: DADOS_PROJ.anos,
+        datasets: [
+          { type: 'bar',  label: 'Especial (25 anos)',         data: DADOS_PROJ.especial,      backgroundColor: PALETA.especial,       yAxisID: 'y', order: 2 },
+          { type: 'bar',  label: 'Tempo de Contribuição',      data: DADOS_PROJ.tempoContrib,  backgroundColor: PALETA.tempoContrib,   yAxisID: 'y', order: 2 },
+          { type: 'bar',  label: 'Aposentadoria por Idade',    data: DADOS_PROJ.idade,         backgroundColor: PALETA.idade,          yAxisID: 'y', order: 2 },
+          { type: 'line', label: 'Efetivo Projetado',          data: DADOS_PROJ.efetivo,       borderColor: PALETA.vermelhoEscuro, backgroundColor: 'rgba(139,0,0,0.08)', borderWidth: 3, borderDash: [8, 4], pointRadius: 4, pointBackgroundColor: PALETA.vermelhoEscuro, fill: false, tension: 0.3, yAxisID: 'y1', order: 1 }
+        ]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        animation: false,
+        interaction: { mode: 'index', intersect: false },
+        plugins: {
+          legend: { position: 'top', labels: { font: { family: 'Montserrat', weight: '600' } } },
+          tooltip: {
+            callbacks: {
+              label: (ctx) => `${ctx.dataset.label}: ${ctx.parsed.y?.toLocaleString('pt-BR') ?? '—'}`
+            }
+          }
+        },
+        scales: {
+          x:  { title: { display: true, text: 'Ano', font: { family: 'Inter', weight: '600' } }, grid: { display: false } },
+          y:  { type: 'linear', position: 'left',  title: { display: true, text: 'Saídas por ano', font: { family: 'Inter', weight: '600' } }, ticks: { callback: v => (v/1000) + 'k' }, grid: { color: 'rgba(0,0,0,0.05)' } },
+          y1: { type: 'linear', position: 'right', title: { display: true, text: 'Efetivo total',  font: { family: 'Inter', weight: '600' } }, ticks: { callback: v => (v/1000) + 'k' }, grid: { drawOnChartArea: false } }
+        }
+      }
+    });
+  });
+
+  /* ============================================================
+     GRÁFICO 4: RAIO-X DE APOSENTADOS ATIVOS (ESTÁTICO)
+  ============================================================ */
+  lazyChart('grafico-raiox', async () => {
+    await carregarDados();
+    const ctx = document.getElementById('grafico-raiox').getContext('2d');
+
+    new Chart(ctx, {
+      type: 'bar',
+      data: {
+        labels: DADOS_RAIOX.labels,
+        datasets: [
+          {
+            label: 'Quadro Geral',
+            data: DADOS_RAIOX.geral,
+            backgroundColor: [PALETA.vermelhoEscuro, PALETA.especial, PALETA.eraTransicao, PALETA.eraClassica, PALETA.cinza3],
+            borderColor: PALETA.preto,
+            borderWidth: 1
+          },
+          {
+            label: 'Apenas Carteiros',
+            data: DADOS_RAIOX.carteiros,
+            backgroundColor: ['rgba(139,0,0,0.4)', 'rgba(255,87,51,0.4)', 'rgba(255,183,77,0.4)', 'rgba(129,199,132,0.4)', 'rgba(204,204,204,0.4)'],
+            borderColor: PALETA.tempoContrib,
+            borderWidth: 1,
+            borderDash: [4, 2]
+          }
+        ]
+      },
+      options: {
+        indexAxis: 'y',
+        responsive: true,
+        maintainAspectRatio: false,
+        animation: { duration: 800 },
+        plugins: {
+          legend: { position: 'top', labels: { font: { family: 'Montserrat', weight: '600' } } },
+          tooltip: {
+            callbacks: {
+              label: (ctx) => `${ctx.dataset.label}: ${ctx.parsed.x.toLocaleString('pt-BR')}`
+            }
+          }
+        },
+        scales: {
+          x: { title: { display: true, text: 'Número de funcionários', font: { family: 'Inter', weight: '600' } }, ticks: { callback: v => (v/1000) + 'k' }, grid: { color: 'rgba(0,0,0,0.05)' } },
+          y: { grid: { display: false } }
+        }
+      }
+    });
+  });
+  </script>
+
+</body>
+</html>

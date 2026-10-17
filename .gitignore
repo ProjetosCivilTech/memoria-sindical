@@ -1,5 +1,16 @@
-__pycache__/
-*.pyc
-.env
-data/build/all.json     # grande; gere no CI
-data/build/clausulas.csv
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Backups
+*.bak
+*.tmp
+
+# Cache
+data/_cache/
