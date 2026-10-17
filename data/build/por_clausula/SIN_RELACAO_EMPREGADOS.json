@@ -1,0 +1,170 @@
+[
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "SIN_RELACAO_EMPREGADOS",
+    "numero_clausula_original": 54,
+    "titulo_original": "RELAÇÃO DE EMPREGADOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "fornecimento": "meio magnético",
+      "prazo": "5 dias úteis",
+      "dados": [
+        "nome",
+        "matrícula",
+        "cargo",
+        "lotação"
+      ]
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "25"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "SIN_RELACAO_EMPREGADOS",
+    "numero_clausula_original": 54,
+    "titulo_original": "RELAÇÕES DE EMPREGADOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "fornecimento": "meio magnético",
+      "prazo": "5 dias úteis",
+      "dados": [
+        "nome",
+        "matrícula",
+        "cargo",
+        "lotação"
+      ]
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "16"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "SIN_RELACAO_EMPREGADOS",
+    "numero_clausula_original": 54,
+    "titulo_original": "RELAÇÃO NOMINAL DE EMPREGADOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "intervalo_minimo": "3 meses",
+      "prazo": "5 dias úteis"
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "SIN_RELACAO_EMPREGADOS",
+    "numero_clausula_original": 54,
+    "titulo_original": "RELAÇÃO NOMINAL DE EMPREGADOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "fornecimento": "meio magnético",
+      "prazo": "5 dias úteis",
+      "intervalo_minimo": "3 meses",
+      "dados": [
+        "nome",
+        "matrícula",
+        "cargo",
+        "lotação"
+      ]
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "22"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "SIN_RELACAO_EMPREGADOS",
+    "numero_clausula_original": 54,
+    "titulo_original": "RELAÇÃO NOMINAL DE EMPREGADOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "fornecimento": "meio magnético",
+      "prazo": "5 dias úteis",
+      "intervalo_minimo": "3 meses",
+      "dados": [
+        "nome",
+        "matrícula",
+        "cargo",
+        "lotação"
+      ]
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 17
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "SIN_RELACAO_EMPREGADOS",
+    "numero_clausula_original": 55,
+    "titulo_original": "RELAÇÃO NOMINAL DE EMPREGADOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "fornecimento": "meio magnético",
+      "prazo": "5 dias úteis",
+      "intervalo_minimo": "3 meses"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "16"
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "SIN_RELACAO_EMPREGADOS",
+    "numero_clausula_original": 55,
+    "titulo_original": "RELAÇÃO NOMINAL DE EMPREGADOS",
+    "status": "MANTIDO",
+    "texto": "ECT disponibilizará, quando solicitado, por meio magnético, em até 5 dias úteis, relação com nome, matrícula, cargo/atividade e lotação. Intervalo mínimo: 1 mês.",
+    "observacao": "Idêntica ao DC 2013-2014.",
+    "pagina_referencia": 15
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "SIN_RELACAO_EMPREGADOS",
+    "numero_clausula_original": 55,
+    "titulo_original": "RELAÇÃO NOMINAL DE EMPREGADOS",
+    "status": "ALTERADO",
+    "texto": "ECT disponibilizará, quando solicitado, por meio magnético, em até 5 dias úteis, relação com nome, matrícula, cargo/atividade e lotação. Intervalo mínimo entre solicitações: 1 mês.",
+    "observacao": "Intervalo reduzido de 3 meses para 1 mês. Acrescentada a palavra atividade.",
+    "pagina_referencia": 63
+  }
+]

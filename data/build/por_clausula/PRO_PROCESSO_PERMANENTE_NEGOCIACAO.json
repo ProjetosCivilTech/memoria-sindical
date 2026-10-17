@@ -1,0 +1,24 @@
+[
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "PRO_PROCESSO_PERMANENTE_NEGOCIACAO",
+    "numero_clausula_original": 22,
+    "titulo_original": "PROCESSO PERMANENTE DE NEGOCIAÇÃO ......................................................................................",
+    "status": "MANTIDO",
+    "texto": "",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2020,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "PRO_PROCESSO_PERMANENTE_NEGOCIACAO",
+    "numero_clausula_original": 24,
+    "titulo_original": "PROCESSO PERMANENTE DE NEGOCIAÇÃO ......................................................................................",
+    "status": "MANTIDO",
+    "texto": "",
+    "novo_id": false
+  }
+]

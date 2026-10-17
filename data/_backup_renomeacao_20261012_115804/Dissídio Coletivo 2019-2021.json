@@ -1,0 +1,510 @@
+{
+  "metadados_documento": {
+    "tipo": "DCG",
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "processo": "TST-DCG-1000662-58.2019.5.00.0000",
+    "tribunal": "TST",
+    "orgao": "SDC",
+    "relator": "Ministro Mauricio Godinho Delgado",
+    "data_julgamento": "2019-10-02",
+    "data_publicacao": "2019-10-07",
+    "entidade_patronal": "ECT",
+    "entidades_profissionais": ["FENTECT", "FINDECT", "SINTECT-SP", "SINTECT-RJ", "SINTECT/BRU", "SINTECT/TO", "SINTECT-MA"],
+    "arquivo_origem": "acordao-da-sentenca-normativa--tst-ect--dissidio-2019-2021.pdf",
+    "greve": {
+      "deflagracao": "2019-09-10",
+      "intensificacao": "2019-09-11",
+      "abusividade": "NÃO ABUSIVA",
+      "retorno_trabalho": "2019-09-17"
+    }
+  },
+  "clausulas": [
+    {
+      "id_canonico": "FIN_REAJUSTE_SALARIAL",
+      "numero_clausula_original": 63,
+      "titulo_original": "REAJUSTE SALARIAL",
+      "status": "DEFERIDO_PARCIALMENTE",
+      "valor_anterior": 0,
+      "valor_atual": 3.0,
+      "unidade": "%",
+      "detalhes": {
+        "indice_aplicado": "3% (INPC acumulado de agosto/2018 a julho/2019 foi de 3,16%)",
+        "data_base": "2019-08-01",
+        "incidencia": "todas as parcelas de natureza salarial",
+        "retroatividade": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Reajuste de 0,8% (25% do INPC)",
+        "pedido_fentect": "Reajuste de 100% do INPC (3,16%)",
+        "pedido_findect": "Reajuste de 100% do INPC",
+        "decisao_tst": "DEFERE reajuste de 3%, ligeiramente inferior ao INPC para evitar vinculação automática",
+        "fundamento_juridico": "Art. 13 da Lei 10.192/2001; jurisprudência da SDC",
+        "votos_divergentes": null
+      },
+      "observacao": "A ECT propôs 0,8%. O TST fixou 3%, próximo ao INPC de 3,16%.",
+      "pagina_referencia": 33
+    },
+    {
+      "id_canonico": "SOC_PLANO_SAUDE",
+      "numero_clausula_original": 28,
+      "titulo_original": "PLANO DE SAÚDE DOS EMPREGADOS DOS CORREIOS",
+      "status": "DEFERIDO_PARCIALMENTE",
+      "valor_anterior": "ECT mantenedora integral",
+      "valor_atual": "ECT mantenedora com coparticipação",
+      "unidade": null,
+      "detalhes": {
+        "modelo": "Correios Saúde II",
+        "coparticipacao": "30% empregados / 70% ECT",
+        "mensalidade": "conforme faixa salarial",
+        "teto_compartilhamento": "2x salário-base (ativos) / 3x INSS+POSTALIS (aposentados)",
+        "dependentes": ["cônjuges", "companheiros", "filhos", "menor sob guarda"],
+        "pais_e_maes": "manutenção por 1 ano (até 31/07/2019), com exceção de tratamentos em andamento",
+        "comissao_paritaria": true,
+        "pbm": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Criação de novo plano com coparticipação e exclusão de pais/mães",
+        "pedido_fentect": "Manutenção do plano sem coparticipação e com pais/mães",
+        "pedido_findect": "Manutenção do plano",
+        "decisao_tst": "DEFERE parcialmente: cria novo modelo com coparticipação, mantém pais/mães por 1 ano, assegura tratamentos em andamento",
+        "fundamento_juridico": "Teoria da imprevisão; cláusula rebus sic stantibus; juízo de equidade",
+        "votos_divergentes": "Ministros Kátia Arruda, Walmir Oliveira da Costa, Maurício Godinho Delgado e Carlos Alberto Reis de Paula"
+      },
+      "observacao": "**PERDA HISTÓRICA**. O plano de saúde foi substancialmente alterado, com introdução de coparticipação e mensalidade. Pais e mães mantidos apenas por 1 ano.",
+      "pagina_referencia": 41
+    },
+    {
+      "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+      "numero_clausula_original": 48,
+      "titulo_original": "AUXÍLIO PARA DEPENDENTES COM DEFICIÊNCIA",
+      "status": "DEFERIDO",
+      "valor_anterior": 895.96,
+      "valor_atual": 928.30,
+      "unidade": "BRL",
+      "variacao_percentual": "3,61",
+      "detalhes": {
+        "valor_mensal": 928.30,
+        "reajuste_aplicado": "3,61% (INPC)",
+        "publico_alvo": ["filhos", "enteados", "tutelados", "curatelados"],
+        "reembolso_licenca_medica": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Reajuste de 0,8%",
+        "pedido_fentect": "Reajuste de 100% do INPC",
+        "pedido_findect": "Reajuste de 100% do INPC",
+        "decisao_tst": "DEFERE reajuste de 3,61% (INPC)",
+        "fundamento_juridico": "Jurisprudência da SDC",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 34
+    },
+    {
+      "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+      "numero_clausula_original": 49,
+      "titulo_original": "REEMBOLSO CRECHE E REEMBOLSO BABÁ",
+      "status": "DEFERIDO",
+      "valor_anterior": 564.61,
+      "valor_atual": 584.61,
+      "unidade": "BRL",
+      "variacao_percentual": "3,61",
+      "detalhes": {
+        "valor_mensal": 584.61,
+        "reajuste_aplicado": "3,61% (INPC)",
+        "idade_limite": "até 7 anos",
+        "participacao_empregada": "5%",
+        "participacao_empresa": "95%",
+        "reembolso_integral": "6 primeiros meses"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Reajuste de 0,8%",
+        "pedido_fentect": "Reajuste de 100% do INPC",
+        "pedido_findect": "Reajuste de 100% do INPC",
+        "decisao_tst": "DEFERE reajuste de 3,61% (INPC)",
+        "fundamento_juridico": "Jurisprudência da SDC",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 35
+    },
+    {
+      "id_canonico": "FIN_VALE_ALIMENTACAO",
+      "numero_clausula_original": 51,
+      "titulo_original": "VALE REFEIÇÃO/ALIMENTAÇÃO",
+      "status": "DEFERIDO_PARCIALMENTE",
+      "valor_anterior": 37.96,
+      "valor_atual": 39.34,
+      "unidade": "BRL",
+      "variacao_percentual": "3,61",
+      "detalhes": {
+        "valor_facial": 39.34,
+        "quantidade": "26 ou 30 vales",
+        "vale_cesta": 246.23,
+        "reajuste_aplicado": "3,61% (INPC)",
+        "compartilhamento": {
+          "NM-01 a NM-63": 0.5,
+          "NM-64 a NM-90": 5,
+          "NS-01 a NS-60": 10
+        },
+        "vale_extra": 1061.85,
+        "opcao_fracionamento": true,
+        "fornecimento_ferias": true,
+        "fornecimento_licenca_medica": "90 dias"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção com reajuste de 0,8% e exclusão do ticket extra",
+        "pedido_fentect": "Manutenção com reajuste de 100% do INPC",
+        "pedido_findect": "Manutenção com reajuste de 100% do INPC",
+        "decisao_tst": "DEFERE reajuste de 3,61% (INPC). Ticket extra mantido.",
+        "fundamento_juridico": "Jurisprudência da SDC",
+        "votos_divergentes": null
+      },
+      "observacao": "Reajuste de 3,61% sobre R$ 37,96 → R$ 39,34. Vale Cesta R$ 237,60 → R$ 246,23.",
+      "pagina_referencia": 36
+    },
+    {
+      "id_canonico": "FIN_VALE_TRANSPORTE",
+      "numero_clausula_original": 52,
+      "titulo_original": "VALE-TRANSPORTE E JORNADA DE TRABALHO IN ITINERE",
+      "status": "DEFERIDO",
+      "valor_anterior": 711.79,
+      "valor_atual": 737.48,
+      "unidade": "BRL",
+      "variacao_percentual": "3,61",
+      "detalhes": {
+        "valor_mensal": 737.48,
+        "reajuste_aplicado": "3,61% (INPC)",
+        "compartilhamento": "conforme lei",
+        "pecunia": "permitido em caso de indisponibilidade",
+        "in_itinere": "art. 58, §2º, CLT"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Reajuste de 0,8%",
+        "pedido_fentect": "Reajuste de 100% do INPC",
+        "pedido_findect": "Reajuste de 100% do INPC",
+        "decisao_tst": "DEFERE reajuste de 3,61% (INPC)",
+        "fundamento_juridico": "Jurisprudência da SDC",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 37
+    },
+    {
+      "id_canonico": "FIN_AJUDA_CUSTO",
+      "numero_clausula_original": 56,
+      "titulo_original": "AJUDA DE CUSTO NA TRANSFERÊNCIA",
+      "status": "DEFERIDO",
+      "valor_anterior": 1325.90,
+      "valor_atual": 1373.76,
+      "unidade": "BRL",
+      "variacao_percentual": "3,61",
+      "detalhes": {
+        "valor_minimo": 1373.76,
+        "reajuste_aplicado": "3,61% (INPC)",
+        "calculo": "salário-base + anuênios + IGQP + gratificação de função",
+        "responsabilidade": "ECT"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Reajuste de 0,8%",
+        "pedido_fentect": "Reajuste de 100% do INPC",
+        "pedido_findect": "Reajuste de 100% do INPC",
+        "decisao_tst": "DEFERE reajuste de 3,61% (INPC)",
+        "fundamento_juridico": "Jurisprudência da SDC",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 38
+    },
+    {
+      "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+      "numero_clausula_original": 60,
+      "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+      "status": "DEFERIDO",
+      "valor_anterior": 194.43,
+      "valor_atual": 201.45,
+      "unidade": "BRL",
+      "variacao_percentual": "3,61",
+      "detalhes": {
+        "valor_sem_banco_postal": 201.45,
+        "valor_com_banco_postal": 268.49,
+        "reajuste_aplicado": "3,61% (INPC)",
+        "publico_alvo": "guichês de agências",
+        "participacao_parcial": "25% para cobertura de almoço"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Reajuste de 0,8%",
+        "pedido_fentect": "Reajuste de 100% do INPC",
+        "pedido_findect": "Reajuste de 100% do INPC",
+        "decisao_tst": "DEFERE reajuste de 3,61% (INPC)",
+        "fundamento_juridico": "Jurisprudência da SDC",
+        "votos_divergentes": null
+      },
+      "observacao": "Valores: R$ 194,43 → R$ 201,45 (sem banco postal); R$ 259,24 → R$ 268,49 (com banco postal).",
+      "pagina_referencia": 39
+    },
+    {
+      "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+      "numero_clausula_original": 20,
+      "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+      "status": "DEFERIDO",
+      "valor_anterior": 21,
+      "valor_atual": 21,
+      "unidade": "quantidade",
+      "detalhes": {
+        "quantidade_por_federacao": 11,
+        "quantidade_por_sindicato": 5,
+        "onus_misto": true,
+        "limite_total_por_federacao": 9,
+        "vantagens_mantidas": ["Vales Alimentação/Refeição/Cesta", "Vale Cultura"],
+        "criterios_remuneracao": "salários e encargos suportados pela entidade"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção com acréscimos",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 13
+    },
+    {
+      "id_canonico": "FIN_ANUENIOS",
+      "numero_clausula_original": 58,
+      "titulo_original": "ANUÊNIOS",
+      "status": "DEFERIDO",
+      "valor_anterior": 1,
+      "valor_atual": 1,
+      "unidade": "percentual",
+      "detalhes": {
+        "percentual": 1,
+        "base_calculo": "salário-base + gratificação de função",
+        "limite_maximo": 35,
+        "retroacao": "20/03/1969"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 33
+    },
+    {
+      "id_canonico": "FIN_GRATIFICACAO_FERIAS",
+      "numero_clausula_original": 59,
+      "titulo_original": "GRATIFICAÇÃO DE FÉRIAS",
+      "status": "INDEFERIDO",
+      "valor_anterior": 70,
+      "valor_atual": null,
+      "unidade": "percentual",
+      "detalhes": {
+        "percentual": 70,
+        "base_calculo": "remuneração vigente",
+        "inclui_terco_constitucional": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Excluir a cláusula",
+        "pedido_fentect": "Manutenção da cláusula",
+        "pedido_findect": "Manutenção da cláusula",
+        "decisao_tst": "INDEFERE a cláusula",
+        "fundamento_juridico": "Ausência de previsão legal; art. 7º, XVII, CF",
+        "votos_divergentes": null
+      },
+      "observacao": "**PERDA**. A gratificação de férias de 70% foi indeferida no DC 2019/2021. No ACT 2018/2019 ela existia.",
+      "pagina_referencia": 33
+    },
+    {
+      "id_canonico": "FIN_TRABALHO_DIA_REPOUSO",
+      "numero_clausula_original": 58,
+      "titulo_original": "TRABALHO EM DIA DE REPOUSO",
+      "status": "DEFERIDO",
+      "valor_anterior": 200,
+      "valor_atual": 200,
+      "unidade": "percentual",
+      "detalhes": {
+        "percentual": 200,
+        "vale_alimentacao": true,
+        "troca_por_folgas": "2 folgas compensatórias",
+        "antecedencia_convocacao": "48 horas"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 35
+    },
+    {
+      "id_canonico": "FIN_DESCONTO_DIAS_GREVE",
+      "numero_clausula_original": null,
+      "titulo_original": "DESCONTO DOS DIAS NÃO TRABALHADOS EM VIRTUDE DE GREVE",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "dias_parados": 7,
+        "desconto": "em 3 parcelas mensais sucessivas e iguais",
+        "base_legal": "Art. 7º da Lei 7.783/89"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Desconto integral dos dias parados",
+        "pedido_fentect": "Não desconto (greve não abusiva)",
+        "pedido_findect": "Não desconto",
+        "decisao_tst": "DEFERE o desconto parcelado em 3 vezes, autorizando o desconto",
+        "fundamento_juridico": "Suspensão do contrato de trabalho (art. 7º, Lei 7.783/89)",
+        "votos_divergentes": null
+      },
+      "observacao": "O TST autorizou o desconto dos 7 dias de greve, mas parcelou em 3 vezes para não impactar profundamente a remuneração.",
+      "pagina_referencia": 4
+    },
+    {
+      "id_canonico": "FIN_DESCONTO_ASSISTENCIAL",
+      "numero_clausula_original": 17,
+      "titulo_original": "DESCONTO ASSISTENCIAL",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": 50,
+      "unidade": "% de um salário-dia",
+      "detalhes": {
+        "percentual": 50,
+        "base_calculo": "um salário-dia",
+        "mes_desconto": "2º mês após a sentença normativa",
+        "direito_oposicao": true,
+        "vedacao_ECT": "não pode incentivar oposição"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Excluir a cláusula",
+        "pedido_fentect": "Manutenção da cláusula preexistente",
+        "pedido_findect": "Manutenção da cláusula preexistente",
+        "decisao_tst": "DEFERE a cláusula com base no Termo Aditivo nº 1 do ACT 2018/2019",
+        "fundamento_juridico": "Art. 513, 'e', CLT",
+        "votos_divergentes": "Ministros Ives Gandra, Aloysio Corrêa e Dora Maria"
+      },
+      "observacao": "Contribuição (cota negocial) de 50% de um salário-dia. Direito de oposição individual.",
+      "pagina_referencia": 82
+    },
+    {
+      "id_canonico": "SIN_REPASSE_MENSALIDADES",
+      "numero_clausula_original": 25,
+      "titulo_original": "REPASSE DAS MENSALIDADES DO SINDICATO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "prazo_repasse": "primeiro dia útil após o pagamento mensal dos salários",
+        "comprovacao": "Atas de Assembleias",
+        "prazo_comunicados": "dia 10 do mês corrente"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Excluir a cláusula",
+        "pedido_fentect": "Manutenção da cláusula preexistente",
+        "pedido_findect": "Manutenção da cláusula preexistente",
+        "decisao_tst": "DEFERE a cláusula",
+        "fundamento_juridico": "Art. 545, caput, CLT; art. 548, 'b', CLT",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 84
+    },
+    {
+      "id_canonico": "PRO_VIGENCIA",
+      "numero_clausula_original": 79,
+      "titulo_original": "VIGÊNCIA",
+      "status": "DEFERIDO_PARCIALMENTE",
+      "detalhes": {
+        "data_inicio": "2019-08-01",
+        "data_fim": "2021-07-31",
+        "duracao_meses": 24
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Vigência de 1 ano (01/08/2019 a 31/07/2020)",
+        "pedido_fentect": "Vigência de 4 anos (PN 120/SDC/TST)",
+        "pedido_findect": "Vigência de 4 anos",
+        "decisao_tst": "DEFERE vigência de 2 anos (01/08/2019 a 31/07/2021)",
+        "fundamento_juridico": "Art. 868, parágrafo único, CLT; PN 120/SDC/TST",
+        "votos_divergentes": null
+      },
+      "observacao": "**CONQUISTA**. A ECT queria 1 ano, as federações queriam 4 anos. O TST fixou 2 anos.",
+      "pagina_referencia": 88
+    }
+  ],
+  "temas_nao_mapeados": [
+    {
+      "titulo_original": "VALE CULTURA",
+      "pagina_referencia": 89,
+      "motivo": "Indeferido por ausência de preexistência"
+    },
+    {
+      "titulo_original": "ADICIONAL DE COMPLEXIDADE E CONDIÇÕES DE TRABALHO DOS EMPREGADOS DO ATENDIMENTO",
+      "pagina_referencia": 89,
+      "motivo": "Indeferido por ausência de preexistência"
+    },
+    {
+      "titulo_original": "LICENÇA NOJO",
+      "pagina_referencia": 90,
+      "motivo": "Indeferido por ausência de preexistência"
+    },
+    {
+      "titulo_original": "JORNADA DE TRABALHO DE 40 HORAS",
+      "pagina_referencia": 90,
+      "motivo": "Indeferido por ausência de preexistência"
+    }
+  ],
+  "retorno_ao_trabalho": {
+    "determinacao": "imediato retorno ao trabalho",
+    "data_limite": "2019-09-17"
+  },
+  "dispositivo_final": {
+    "abusividade_greve": "NÃO ABUSIVA",
+    "data_base": "MANUTENÇÃO (1º de agosto de 2019)",
+    "dias_parados": "DESCONTO EM 3 PARCELAS MENSAIS SUCESSIVAS E IGUAIS",
+    "extensao_decisao": "Aplicação a todos os empregados dos Correios",
+    "clausulas_deferidas": "Deferidas total ou parcialmente, conforme fundamentação do voto da relatora",
+    "clausulas_indeferidas": "75-GRATIFICAÇÃO DE FÉRIAS; 22-LIBERAÇÃO DE DIRIGENTES SINDICAIS (parcialmente); 53-PAGAMENTO DE SALÁRIO; 69-GRUPO DE TRABALHO PARA REVISÃO DE PROCESSOS; 70-PROGRAMA HABITACIONAL; 74-LIBERAÇÃO DE EMPREGADO ELEITO PARA CONSELHOS",
+    "votos_vencidos": {
+      "ministro_mauricio_godinho_delgado": "Vencido parcialmente (Plano de Saúde)",
+      "ministra_katia_magalhaes_arruda": "Vencida parcialmente (Plano de Saúde)",
+      "ministro_walmir_oliveira_da_costa": "Vencido parcialmente (Plano de Saúde)",
+      "ministro_carlos_alberto_reis_de_paula": "Vencido parcialmente (Plano de Saúde)"
+    },
+    "data_sessao": "02 de outubro de 2019"
+  },
+  "notas_metodologicas": [
+    {
+      "tipo": "DISSIDIO_GREVE",
+      "tema": "GERAL",
+      "descricao": "Dissídio Coletivo de Greve instaurado pela ECT em face da FENTECT e FINDECT. A greve foi declarada NÃO ABUSIVA. O desconto dos dias parados foi autorizado, mas parcelado em 3 vezes. O TST também julgou as reconvenções das entidades sindicais, fixando reajuste de 3% e reajustando benefícios em 3,61% (INPC)."
+    },
+    {
+      "tipo": "PERDAS_HISTORICAS",
+      "tema": "GERAL",
+      "descricao": "Grandes perdas do DC 2019/2021: (1) Plano de Saúde com coparticipação e mensalidade (fim do modelo integral); (2) Gratificação de Férias (70%) indeferida; (3) Liberação de Dirigentes reduzida? Não, foi mantida. (4) Desconto dos dias de greve autorizado."
+    },
+    {
+      "tipo": "CONQUISTAS",
+      "tema": "GERAL",
+      "descricao": "Conquistas do DC 2019/2021: (1) Reajuste de 3%, próximo ao INPC (3,16%), superior aos 0,8% propostos pela ECT; (2) Reajuste dos benefícios em 3,61% (INPC); (3) Manutenção do Vale Refeição/Alimentação e Vale Cesta com reajuste; (4) Manutenção do ticket extra; (5) Vigência de 2 anos (não 1 como queria a ECT, nem 4 como queriam as federações); (6) Plano de Saúde manteve pais/mães por 1 ano e tratamentos em andamento."
+    },
+    {
+      "tipo": "VALORES_DC_2019_2021",
+      "tema": "GERAL",
+      "descricao": "Valores do DC 2019/2021: Reajuste 3%; VA R$ 39,34; VC R$ 246,23; Auxílio Dependentes R$ 928,30; Reembolso Creche R$ 584,61; Quebra Caixa R$ 201,45 (sem banco postal) / R$ 268,49 (com banco postal); Vale Transporte R$ 737,48; Ajuda de Custo R$ 1.373,76; Ticket extra R$ 1.061,85; Gratificação de Férias INDEFERIDA; Plano de Saúde com coparticipação."
+    },
+    {
+      "tipo": "DESCONTO_DIAS_PARADOS",
+      "tema": "GERAL",
+      "descricao": "Diferentemente de outros dissídios, o DC 2019/2021 autorizou o DESCONTO dos 7 dias de greve, parcelado em 3 vezes. Fundamento: suspensão do contrato de trabalho (art. 7º, Lei 7.783/89)."
+    },
+    {
+      "tipo": "VIGENCIA",
+      "tema": "GERAL",
+      "descricao": "A ECT propôs vigência de 1 ano. As federações pediram 4 anos. O TST fixou 2 anos (01/08/2019 a 31/07/2021)."
+    }
+  ]
+}

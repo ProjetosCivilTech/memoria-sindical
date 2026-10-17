@@ -1,0 +1,219 @@
+[
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "CON_ERGONOMIA",
+    "numero_clausula_original": 34,
+    "titulo_original": "ERGONOMIA NA EMPRESA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "avaliacao_permanente": true,
+      "base_legal": "NR 17"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "16"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "CON_ERGONOMIA",
+    "numero_clausula_original": 34,
+    "titulo_original": "ERGONOMIA NA EMPRESA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "base_legal": "NR-17",
+      "avaliacao_permanente": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "NR-17",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 20
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "CON_ERGONOMIA",
+    "numero_clausula_original": 34,
+    "titulo_original": "ERGONOMIA NA EMPRESA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "avaliacao_permanente": true,
+      "base_legal": "NR 17"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "21-22"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "CON_ERGONOMIA",
+    "numero_clausula_original": 34,
+    "titulo_original": "ERGONOMIA NA EMPRESA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "base_legal": "NR-17",
+      "avaliacao_permanente": true,
+      "mecanizacao": "quando disponível no mercado"
+    },
+    "pagina_referencia": 52
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "CON_ERGONOMIA",
+    "numero_clausula_original": 34,
+    "titulo_original": "ERGONOMIA NA EMPRESA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "base_legal": "NR-17",
+      "avaliacao_permanente": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "NR-17",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 20
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "CON_ERGONOMIA",
+    "numero_clausula_original": 34,
+    "titulo_original": "ERGONOMIA NA EMPRESA",
+    "status": "MANTIDO",
+    "texto": "de trabalho, tendo como base, dentre outros saberes técnicos científicos, os conceitos e princípios ergonômicos, de acordo com a NR 17 e seus anexos, conforme condições de trabalho e tipos de ambientes dos Correios. §1º Os Correios quando identificarem processo cuja operacionalização se mostre mais apropriado, sob o ponto vista ergonômico, com a utilização de sistema mecanizado ou automatizado, desencadeará ações com vistas ao seu aprimoramento. §2º A implementação destas soluções ficará condicionada à existência de soluções disponíveis no mercado. 42 --- PAGINA 43 --CLÁUSULA 35",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2020,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "CON_ERGONOMIA",
+    "numero_clausula_original": 13,
+    "titulo_original": "ERGONOMIA NA EMPRESA",
+    "status": "MANTIDO",
+    "texto": "processos de trabalho, tendo como base, dentre outros saberes técnicos científicos, os conceitos e princípios ergonômicos, de acordo com a NR-17 e seus anexos, conforme condições de trabalho e tipos de ambientes dos Correios. §1º Os Correios, quando identificarem processo cuja operacionalização se mostre mais apropriada, sob o ponto de vista ergonômico, com a utilização de sistema mecanizado ou automatizado, desencadeará ações com vistas ao seu aprimoramento. §2º A implementação destas soluções ficará condicionada à existência de soluções disponíveis no mercado. OPERACIONALIZAÇÃO DA CLÁUSULA As solicitações de informações referentes a esta cláusula devem ser encaminhadas ao Departamento de Gestão de Pessoas – DEGEP/DIGEP – degep-digep@correios.com.br. 22 --- PAGINA 23 --CLÁUSULA 14",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "CON_ERGONOMIA",
+    "numero_clausula_original": 17,
+    "titulo_original": "ERGONOMIA NA EMPRESA (34ª do DCG 2019/2020)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "redacao": "Os Correios se comprometem a realizar avaliação permanente dos processos de trabalho, tendo como base... os conceitos e princípios ergonômicos, de acordo com a NR-17 e seus anexos... §1º Os Correios, quando identificarem processo cuja operacionalização se mostre mais apropriada... desencadeará ações com vistas ao seu aprimoramento. §2º A implementação destas soluções ficará condicionada à existência de soluções disponíveis no mercado"
+    },
+    "memoria_negociacao": "Manutenção anuída pelas entidades sindicais",
+    "observacao": null,
+    "pagina_referencia": "64"
+  },
+  {
+    "ano_inicio": 2022,
+    "ano_fim": 2023,
+    "tipo": "ACT",
+    "id_canonico": "CON_ERGONOMIA",
+    "numero_clausula_original": 18,
+    "titulo_original": "ERGONOMIA NA EMPRESA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "base_legal": "NR-17",
+      "avaliacao_permanente": true,
+      "mecanizacao": "quando disponível no mercado"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "4"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "CON_ERGONOMIA",
+    "numero_clausula_original": 37,
+    "titulo_original": "ERGONOMIA NA EMPRESA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "base_legal": "NR-17"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "8"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "CON_ERGONOMIA",
+    "numero_clausula_original": 39,
+    "titulo_original": "ERGONOMIA NA EMPRESA",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "base_legal": "NR-17",
+      "avaliacao_permanente": true
+    },
+    "observacao": null,
+    "pagina_referencia": 14
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "CON_ERGONOMIA",
+    "numero_clausula_original": 32,
+    "titulo_original": "ERGONOMIA NA EMPRESA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "base_legal": "NR-17",
+      "avaliacao_permanente": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 15
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "CON_ERGONOMIA",
+    "numero_clausula_original": 32,
+    "titulo_original": "ERGONOMIA NA EMPRESA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "base_legal": "NR-17",
+      "avaliacao_permanente": true
+    },
+    "pagina_referencia": "44"
+  }
+]

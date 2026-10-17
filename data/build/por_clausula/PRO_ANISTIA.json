@@ -1,0 +1,28 @@
+[
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "PRO_ANISTIA",
+    "numero_clausula_original": 1,
+    "titulo_original": "ANISTIA",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "leis_aplicaveis": [
+        "8.632/93",
+        "8.878/94",
+        "10.559/2002",
+        "11.282/2006"
+      ],
+      "grupo_trabalho": true,
+      "prazo_gt": "30 dias após assinatura do ACT",
+      "composicao_gt": "5 representantes dos Correios + 5 membros indicados pelas Federações",
+      "paridade_genero": true
+    },
+    "observacao": null,
+    "pagina_referencia": 1
+  }
+]

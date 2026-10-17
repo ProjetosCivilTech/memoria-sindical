@@ -1,0 +1,526 @@
+{
+  "versao": "1.0",
+  "atualizado_em": "2026-10-15T00:53:38",
+  "extraidos": {
+    "1__Termo_Aditivo_ACT_2023_2024.pdf": {
+      "pasta": "1__Termo_Aditivo_ACT_2023_2024",
+      "sha256": "72d20c27a693070edeb4651f1e15260842c31f746796505e70fd4c2072a280d4",
+      "paginas_total": 3,
+      "paginas_ocr": 3,
+      "conf_ocr_media": 89.0,
+      "metodo": "ocr",
+      "tempo_s": 12.56,
+      "extraido_em": "2026-10-14T23:46:10"
+    },
+    "acordao-2013-2014 FENTECT.pdf": {
+      "pasta": "acordao-2013-2014 FENTECT",
+      "sha256": "dfdc56a09596890489e62c5ce938d42e0531461cb41cf86b02435326d3e742eb",
+      "paginas_total": 144,
+      "paginas_ocr": 144,
+      "conf_ocr_media": 88.8,
+      "metodo": "ocr",
+      "tempo_s": 379.87,
+      "extraido_em": "2026-10-14T23:52:31"
+    },
+    "Acordao-2019-2021.pdf": {
+      "pasta": "Acordao-2019-2021",
+      "sha256": "c2c3f39f1bdb46e5465834fb39f36b24e984640b2016ccf39ab063a61e682808",
+      "paginas_total": 93,
+      "paginas_ocr": 93,
+      "conf_ocr_media": 89.4,
+      "metodo": "ocr",
+      "tempo_s": 130.37,
+      "extraido_em": "2026-10-14T23:54:42"
+    },
+    "Acordao-2020-2021.pdf": {
+      "pasta": "Acordao-2020-2021",
+      "sha256": "980624f270bc94150b8114acb062fee24a172e8511d3a5770c40a7d2f5585f23",
+      "paginas_total": 39,
+      "paginas_ocr": 39,
+      "conf_ocr_media": 90.7,
+      "metodo": "ocr",
+      "tempo_s": 58.96,
+      "extraido_em": "2026-10-14T23:55:41"
+    },
+    "Acordao_2021-2022.pdf": {
+      "pasta": "Acordao_2021-2022",
+      "sha256": "24d04ae56f0f37000b5cc3c5883994e9c350cca1ca8e61f833fbc08ce1f9adef",
+      "paginas_total": 114,
+      "paginas_ocr": 114,
+      "conf_ocr_media": 94.4,
+      "metodo": "ocr",
+      "tempo_s": 245.71,
+      "extraido_em": "2026-10-14T23:59:47"
+    },
+    "Acordo-Coletivo-1988_red.pdf": {
+      "pasta": "Acordo-Coletivo-1988_red",
+      "sha256": "947f4434a85c5f8018a67261a9518132f732703c008e05144294e465c8437ee5",
+      "paginas_total": 9,
+      "paginas_ocr": 9,
+      "conf_ocr_media": 82.6,
+      "metodo": "ocr",
+      "tempo_s": 16.6,
+      "extraido_em": "2026-10-15T00:00:04"
+    },
+    "Acordo-Coletivo-1989.pdf": {
+      "pasta": "Acordo-Coletivo-1989",
+      "sha256": "d8cb4b63035076513289e372fcb04e87d90e76f72bd492aba6ed312420e3dee0",
+      "paginas_total": 8,
+      "paginas_ocr": 8,
+      "conf_ocr_media": 68.8,
+      "metodo": "ocr",
+      "tempo_s": 15.63,
+      "extraido_em": "2026-10-15T00:00:20"
+    },
+    "Acordo-Coletivo-1990-Suplementar.pdf": {
+      "pasta": "Acordo-Coletivo-1990-Suplementar",
+      "sha256": "38bc54c3c69145e38b9e04c061baac8d794c2197a7b6f34bebb1663bcbc33d7a",
+      "paginas_total": 7,
+      "paginas_ocr": 7,
+      "conf_ocr_media": 72.0,
+      "metodo": "ocr",
+      "tempo_s": 11.82,
+      "extraido_em": "2026-10-15T00:00:32"
+    },
+    "Acordo-Coletivo-1990_red.pdf": {
+      "pasta": "Acordo-Coletivo-1990_red",
+      "sha256": "7c8c72f462dca53100be14f7d0d95f7b70e2d3b48f0ff129d0827aad93aa918d",
+      "paginas_total": 15,
+      "paginas_ocr": 15,
+      "conf_ocr_media": 79.4,
+      "metodo": "ocr",
+      "tempo_s": 29.62,
+      "extraido_em": "2026-10-15T00:01:02"
+    },
+    "Acordo-Coletivo-1991-parcial.pdf": {
+      "pasta": "Acordo-Coletivo-1991-parcial",
+      "sha256": "4df638e9eda7a38c0240bc62a3a3d26078acb26ff65be586276c8fbda08f4e65",
+      "paginas_total": 11,
+      "paginas_ocr": 11,
+      "conf_ocr_media": 74.7,
+      "metodo": "ocr",
+      "tempo_s": 17.73,
+      "extraido_em": "2026-10-15T00:01:20"
+    },
+    "Acordo-Coletivo-1992_red.pdf": {
+      "pasta": "Acordo-Coletivo-1992_red",
+      "sha256": "933a70b0d637904f50ae53a822e4cadb2044c10714cfe64ef7f3afa83f675c1c",
+      "paginas_total": 9,
+      "paginas_ocr": 9,
+      "conf_ocr_media": 79.3,
+      "metodo": "ocr",
+      "tempo_s": 25.28,
+      "extraido_em": "2026-10-15T00:01:46"
+    },
+    "Acordo-Coletivo-1993_red.pdf": {
+      "pasta": "Acordo-Coletivo-1993_red",
+      "sha256": "717b58cf21cb03eabe86840c2f3304057714da157c38ed9c309a7074306383cf",
+      "paginas_total": 20,
+      "paginas_ocr": 20,
+      "conf_ocr_media": 82.6,
+      "metodo": "ocr",
+      "tempo_s": 40.03,
+      "extraido_em": "2026-10-15T00:02:26"
+    },
+    "Acordo-coletivo-1994-1995.pdf": {
+      "pasta": "Acordo-coletivo-1994-1995",
+      "sha256": "1d179388957704f47633399d6afb044f56048729165e02a21eef27d124723145",
+      "paginas_total": 15,
+      "paginas_ocr": 15,
+      "conf_ocr_media": 73.6,
+      "metodo": "ocr",
+      "tempo_s": 27.88,
+      "extraido_em": "2026-10-15T00:02:55"
+    },
+    "Acordo-Coletivo-1995-1996-Aditamento.pdf": {
+      "pasta": "Acordo-Coletivo-1995-1996-Aditamento",
+      "sha256": "15a0989a69117173d6c8fe898bf36774420ce380a3d355d31eaf37e173e234d3",
+      "paginas_total": 4,
+      "paginas_ocr": 4,
+      "conf_ocr_media": 71.3,
+      "metodo": "ocr",
+      "tempo_s": 6.33,
+      "extraido_em": "2026-10-15T00:03:01"
+    },
+    "Acordo-Coletivo-1995-1996.pdf": {
+      "pasta": "Acordo-Coletivo-1995-1996",
+      "sha256": "a87dd642d8f5f7fdf71f95d8d2ae999a6552b0a6ee91376cc750c7d0fb204d4f",
+      "paginas_total": 15,
+      "paginas_ocr": 15,
+      "conf_ocr_media": 80.4,
+      "metodo": "ocr",
+      "tempo_s": 25.97,
+      "extraido_em": "2026-10-15T00:03:27"
+    },
+    "Acordo-Coletivo-1997-1998.pdf": {
+      "pasta": "Acordo-Coletivo-1997-1998",
+      "sha256": "8254911d30383524ceff9ca1ea90d099dbd396617a55f165ea9f1b9e363d1d57",
+      "paginas_total": 16,
+      "paginas_ocr": 16,
+      "conf_ocr_media": 80.6,
+      "metodo": "ocr",
+      "tempo_s": 31.87,
+      "extraido_em": "2026-10-15T00:03:59"
+    },
+    "Acordo-Coletivo-1998-1999.pdf": {
+      "pasta": "Acordo-Coletivo-1998-1999",
+      "sha256": "1d2299a5fc41acd16398d3762fcfb5351b9250cf05dbf383ff61c630e4fc23d2",
+      "paginas_total": 16,
+      "paginas_ocr": 16,
+      "conf_ocr_media": 76.9,
+      "metodo": "ocr",
+      "tempo_s": 30.78,
+      "extraido_em": "2026-10-15T00:04:31"
+    },
+    "Acordo-Coletivo-1999-2000.pdf": {
+      "pasta": "Acordo-Coletivo-1999-2000",
+      "sha256": "831cea9eed8f408ca4119ef6dfe148972263b1366b96f7961507ba6548f4b652",
+      "paginas_total": 18,
+      "paginas_ocr": 18,
+      "conf_ocr_media": 78.3,
+      "metodo": "ocr",
+      "tempo_s": 32.86,
+      "extraido_em": "2026-10-15T00:05:04"
+    },
+    "Acordo-Coletivo-2000-2001.pdf": {
+      "pasta": "Acordo-Coletivo-2000-2001",
+      "sha256": "e460bf551acf731f405eefde3e15c606029e5b0298c250178f4e2fed45a0f1d8",
+      "paginas_total": 19,
+      "paginas_ocr": 19,
+      "conf_ocr_media": 47.4,
+      "metodo": "ocr",
+      "tempo_s": 45.77,
+      "extraido_em": "2026-10-15T00:05:50"
+    },
+    "Acordo-Coletivo-2001-2002_redP1.pdf": {
+      "pasta": "Acordo-Coletivo-2001-2002_redP1",
+      "sha256": "8c8708233de5ccd3e118c424f2cd48b99e6d57c89b19976446191c016a45cf98",
+      "paginas_total": 7,
+      "paginas_ocr": 7,
+      "conf_ocr_media": 92.0,
+      "metodo": "ocr",
+      "tempo_s": 20.41,
+      "extraido_em": "2026-10-15T00:06:11"
+    },
+    "Acordo-Coletivo-2001-2002_redp2.pdf": {
+      "pasta": "Acordo-Coletivo-2001-2002_redp2",
+      "sha256": "c83032fde59f5504a2f299fe5be2b0c9f864b6d7e22407e039bf164e7b06d5f2",
+      "paginas_total": 7,
+      "paginas_ocr": 7,
+      "conf_ocr_media": 91.1,
+      "metodo": "ocr",
+      "tempo_s": 19.5,
+      "extraido_em": "2026-10-15T00:06:30"
+    },
+    "Acordo-Coletivo-2002-2003.pdf": {
+      "pasta": "Acordo-Coletivo-2002-2003",
+      "sha256": "5afe0d8ca3cc91fd0269eee19fa6b494c071d5e30f17215952e019517af2e22c",
+      "paginas_total": 13,
+      "paginas_ocr": 13,
+      "conf_ocr_media": 77.6,
+      "metodo": "ocr",
+      "tempo_s": 27.22,
+      "extraido_em": "2026-10-15T00:06:58"
+    },
+    "Acordo-Coletivo-2003-2004_redP1.pdf": {
+      "pasta": "Acordo-Coletivo-2003-2004_redP1",
+      "sha256": "2cbdf3a655f4a829ba26f491c016aa1cc2ed44bf81593734a929d9f72636686c",
+      "paginas_total": 10,
+      "paginas_ocr": 10,
+      "conf_ocr_media": 92.0,
+      "metodo": "ocr",
+      "tempo_s": 25.97,
+      "extraido_em": "2026-10-15T00:07:24"
+    },
+    "Acordo-Coletivo-2003-2004_redp2.pdf": {
+      "pasta": "Acordo-Coletivo-2003-2004_redp2",
+      "sha256": "c4fee6bc8c4db22ad7e3437b287b1432db3a992defc85eaff78d4592b62fa303",
+      "paginas_total": 10,
+      "paginas_ocr": 10,
+      "conf_ocr_media": 92.9,
+      "metodo": "ocr",
+      "tempo_s": 27.07,
+      "extraido_em": "2026-10-15T00:07:52"
+    },
+    "Acordo-Coletivo-2003-2004_redp3.pdf": {
+      "pasta": "Acordo-Coletivo-2003-2004_redp3",
+      "sha256": "9da07cfb6f59905da69619932bd27b86ff117f29feb87199b7a597be5198b749",
+      "paginas_total": 10,
+      "paginas_ocr": 10,
+      "conf_ocr_media": 89.9,
+      "metodo": "ocr",
+      "tempo_s": 24.69,
+      "extraido_em": "2026-10-15T00:08:16"
+    },
+    "Acordo-Coletivo-2004-2005_P1.pdf": {
+      "pasta": "Acordo-Coletivo-2004-2005_P1",
+      "sha256": "197111c651c70c0e867348c338cd5c82a8f6f9ab9936e1d5c89c4c9f207e020d",
+      "paginas_total": 7,
+      "paginas_ocr": 7,
+      "conf_ocr_media": 91.7,
+      "metodo": "ocr",
+      "tempo_s": 18.62,
+      "extraido_em": "2026-10-15T00:08:35"
+    },
+    "Acordo-Coletivo-2004-2005_p2.pdf": {
+      "pasta": "Acordo-Coletivo-2004-2005_p2",
+      "sha256": "cb4373acfe97433d048ef73e7954683ec05d11044b2e0b8d831e570aec60e8ec",
+      "paginas_total": 7,
+      "paginas_ocr": 7,
+      "conf_ocr_media": 91.3,
+      "metodo": "ocr",
+      "tempo_s": 18.1,
+      "extraido_em": "2026-10-15T00:08:53"
+    },
+    "Acordo-Coletivo-2004-2005_p3.pdf": {
+      "pasta": "Acordo-Coletivo-2004-2005_p3",
+      "sha256": "68a1340704a411b3615b5ee818b61a46d2ef8e85480abc710ca5026fb2781aef",
+      "paginas_total": 7,
+      "paginas_ocr": 7,
+      "conf_ocr_media": 86.1,
+      "metodo": "ocr",
+      "tempo_s": 15.86,
+      "extraido_em": "2026-10-15T00:09:09"
+    },
+    "Acordo-Coletivo-2005-2006_red.pdf": {
+      "pasta": "Acordo-Coletivo-2005-2006_red",
+      "sha256": "0d84e051da2863209548ab4822235cb04e2cf9ea1f235792c405e8d679360330",
+      "paginas_total": 24,
+      "paginas_ocr": 24,
+      "conf_ocr_media": 90.9,
+      "metodo": "ocr",
+      "tempo_s": 70.95,
+      "extraido_em": "2026-10-15T00:10:20"
+    },
+    "Acordo-Coletivo-2007-2008_redp1.pdf": {
+      "pasta": "Acordo-Coletivo-2007-2008_redp1",
+      "sha256": "3906c063610827e505cecf1405ce6594bff902ef401ae2a451af2096759d9d70",
+      "paginas_total": 12,
+      "paginas_ocr": 12,
+      "conf_ocr_media": 91.6,
+      "metodo": "ocr",
+      "tempo_s": 35.08,
+      "extraido_em": "2026-10-15T00:10:56"
+    },
+    "Acordo-Coletivo-2007-2008_redp2.pdf": {
+      "pasta": "Acordo-Coletivo-2007-2008_redp2",
+      "sha256": "1a6ac6d2b35407a22bede0b7239c6f8d89ebcebec389f3220331e7d3bfcfe318",
+      "paginas_total": 15,
+      "paginas_ocr": 15,
+      "conf_ocr_media": 90.3,
+      "metodo": "ocr",
+      "tempo_s": 38.94,
+      "extraido_em": "2026-10-15T00:11:35"
+    },
+    "Acordo-Coletivo-2008-2009-Complem-Ata-do-dia-13.10.2008.pdf": {
+      "pasta": "Acordo-Coletivo-2008-2009-Complem-Ata-do-dia-13.10.2008",
+      "sha256": "cc7d16d6a0716a76345f3443adc89ca308524d087d07cd7eea438ad7b40687c6",
+      "paginas_total": 2,
+      "paginas_ocr": 2,
+      "conf_ocr_media": 89.3,
+      "metodo": "ocr",
+      "tempo_s": 6.34,
+      "extraido_em": "2026-10-15T00:11:41"
+    },
+    "Acordo-Coletivo-2008-2009-Complem-Ata-do-dia-14.10.2008.pdf": {
+      "pasta": "Acordo-Coletivo-2008-2009-Complem-Ata-do-dia-14.10.2008",
+      "sha256": "a53ca5532bd722c5a69bb99eded61030565dccc1b6ff35aab4ddb1e8f83399a2",
+      "paginas_total": 1,
+      "paginas_ocr": 1,
+      "conf_ocr_media": 85.6,
+      "metodo": "ocr",
+      "tempo_s": 2.29,
+      "extraido_em": "2026-10-15T00:11:44"
+    },
+    "Acordo-Coletivo-2008-2009-Minuta-do-ACT-2008-2009_red.pdf": {
+      "pasta": "Acordo-Coletivo-2008-2009-Minuta-do-ACT-2008-2009_red",
+      "sha256": "56e64b2a700a00195c50b755cefba5309c3650bc61241754924b7167f1e08510",
+      "paginas_total": 21,
+      "paginas_ocr": 21,
+      "conf_ocr_media": 90.6,
+      "metodo": "ocr",
+      "tempo_s": 53.05,
+      "extraido_em": "2026-10-15T00:12:37"
+    },
+    "Acordo-Coletivo-2009-2011_redp1.pdf": {
+      "pasta": "Acordo-Coletivo-2009-2011_redp1",
+      "sha256": "061578a6228337942578af8a20fe66080cc49b98563cb62c2912e78d2c394dcd",
+      "paginas_total": 10,
+      "paginas_ocr": 10,
+      "conf_ocr_media": 93.2,
+      "metodo": "ocr",
+      "tempo_s": 33.32,
+      "extraido_em": "2026-10-15T00:13:11"
+    },
+    "Acordo-Coletivo-2009-2011_redp2.pdf": {
+      "pasta": "Acordo-Coletivo-2009-2011_redp2",
+      "sha256": "14d206f0f7631a169079b8cd7db3639497197c15d74a6c6584365df4c4942369",
+      "paginas_total": 9,
+      "paginas_ocr": 9,
+      "conf_ocr_media": 92.1,
+      "metodo": "ocr",
+      "tempo_s": 30.72,
+      "extraido_em": "2026-10-15T00:13:42"
+    },
+    "Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0000.pdf": {
+      "pasta": "Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0000",
+      "sha256": "ecb044a53f8a0518ccb0f508ee2ed4bb5a63db920573fa47560277172ac00d46",
+      "paginas_total": 166,
+      "paginas_ocr": 166,
+      "conf_ocr_media": 93.8,
+      "metodo": "ocr",
+      "tempo_s": 371.21,
+      "extraido_em": "2026-10-15T00:19:53"
+    },
+    "Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000.pdf": {
+      "pasta": "Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000",
+      "sha256": "0640ab6c411322b137dda386a9506f7c91201af97c23d4f22574981bb1e4652e",
+      "paginas_total": 125,
+      "paginas_ocr": 125,
+      "conf_ocr_media": 93.9,
+      "metodo": "ocr",
+      "tempo_s": 296.8,
+      "extraido_em": "2026-10-15T00:24:51"
+    },
+    "Acordo-Coletivo-2013-2014-Acórdão-TST-DC-6942-72-2013-5-00-0000.pdf": {
+      "pasta": "Acordo-Coletivo-2013-2014-Acórdão-TST-DC-6942-72-2013-5-00-0000",
+      "sha256": "4a9cf775603265ec47d4de115e997e2706273a1146522f893e60a10029b406d4",
+      "paginas_total": 144,
+      "paginas_ocr": 144,
+      "conf_ocr_media": 88.8,
+      "metodo": "ocr",
+      "tempo_s": 373.8,
+      "extraido_em": "2026-10-15T00:31:05"
+    },
+    "Acordo-Coletivo-2013-2014-FINDECT_red.pdf": {
+      "pasta": "Acordo-Coletivo-2013-2014-FINDECT_red",
+      "sha256": "bec3d3d523704165d313dc72c82f3302ed90ef5cf7ca56f9abb05a2dbb6ee3a1",
+      "paginas_total": 18,
+      "paginas_ocr": 18,
+      "conf_ocr_media": 92.5,
+      "metodo": "ocr",
+      "tempo_s": 59.03,
+      "extraido_em": "2026-10-15T00:32:05"
+    },
+    "Acordo-Coletivo-2013-2014-Sindicatos-Unificados.pdf": {
+      "pasta": "Acordo-Coletivo-2013-2014-Sindicatos-Unificados",
+      "sha256": "47a65dd32f6bf22e132e10f60e086177efd6405128ec778e479b80003f5ab4e6",
+      "paginas_total": 2,
+      "paginas_ocr": 2,
+      "conf_ocr_media": 85.1,
+      "metodo": "ocr",
+      "tempo_s": 3.16,
+      "extraido_em": "2026-10-15T00:32:08"
+    },
+    "Acordo-Coletivo-2014-2015_red.pdf": {
+      "pasta": "Acordo-Coletivo-2014-2015_red",
+      "sha256": "929da8b5d9ee1c0f06ba9d130d343cea9ae889cd098eab3fdff0621edeb8abd7",
+      "paginas_total": 37,
+      "paginas_ocr": 37,
+      "conf_ocr_media": 92.1,
+      "metodo": "ocr",
+      "tempo_s": 93.55,
+      "extraido_em": "2026-10-15T00:33:42"
+    },
+    "acordo-coletivo-2017-2018.pdf": {
+      "pasta": "acordo-coletivo-2017-2018",
+      "sha256": "ab6f232a3ad2171f11ba57ed622d5bd34e2584ba41f307da4cfbcd1cbc71a527",
+      "paginas_total": 45,
+      "paginas_ocr": 45,
+      "conf_ocr_media": 88.8,
+      "metodo": "ocr",
+      "tempo_s": 99.14,
+      "extraido_em": "2026-10-15T00:35:22"
+    },
+    "ACT-2015-2016-Assinado-no-TST-Gabriel-2.pdf": {
+      "pasta": "ACT-2015-2016-Assinado-no-TST-Gabriel-2",
+      "sha256": "a8ee6301c5f1a16915295c37428164f56a7160c849998bbe760327a52b255f64",
+      "paginas_total": 44,
+      "paginas_ocr": 44,
+      "conf_ocr_media": 91.0,
+      "metodo": "ocr",
+      "tempo_s": 96.95,
+      "extraido_em": "2026-10-15T00:36:59"
+    },
+    "ACT-2016-2017-Assinado.pdf": {
+      "pasta": "ACT-2016-2017-Assinado",
+      "sha256": "ed64aff335102f63fa207d8e5ea0735e8dd607f73d93b54c5f01f3c76882229e",
+      "paginas_total": 45,
+      "paginas_ocr": 45,
+      "conf_ocr_media": 87.7,
+      "metodo": "ocr",
+      "tempo_s": 103.99,
+      "extraido_em": "2026-10-15T00:38:44"
+    },
+    "ACT-2017-2018.pdf": {
+      "pasta": "ACT-2017-2018",
+      "sha256": "eab684104199c2a28134d721ccc90ad5ca0660bd2a443bd34aa9beaf9b157ad8",
+      "paginas_total": 100,
+      "paginas_ocr": 100,
+      "conf_ocr_media": 92.9,
+      "metodo": "ocr",
+      "tempo_s": 97.02,
+      "extraido_em": "2026-10-15T00:40:21"
+    },
+    "ACT-2018-2019-A5.pdf": {
+      "pasta": "ACT-2018-2019-A5",
+      "sha256": "08100f7547114c2f5a91439efeed8de88fb548cb014156b6cc1213a3fee4677a",
+      "paginas_total": 90,
+      "paginas_ocr": 90,
+      "conf_ocr_media": 91.8,
+      "metodo": "ocr",
+      "tempo_s": 117.95,
+      "extraido_em": "2026-10-15T00:42:19"
+    },
+    "ACT-2022-2023.pdf": {
+      "pasta": "ACT-2022-2023",
+      "sha256": "f55d799277d0fc99a73dd1bea195e60158254e809fb171db39c1707b746b17ab",
+      "paginas_total": 7,
+      "paginas_ocr": 7,
+      "conf_ocr_media": 93.6,
+      "metodo": "ocr",
+      "tempo_s": 31.23,
+      "extraido_em": "2026-10-15T00:42:51"
+    },
+    "ACT-2023-2024.pdf": {
+      "pasta": "ACT-2023-2024",
+      "sha256": "69ad74f19054f8859f1a3ac73e0a9484b27077a43169caaafe755e5e325d9db4",
+      "paginas_total": 16,
+      "paginas_ocr": 16,
+      "conf_ocr_media": 94.1,
+      "metodo": "ocr",
+      "tempo_s": 71.42,
+      "extraido_em": "2026-10-15T00:44:03"
+    },
+    "ACT-2024-2025-FENTECT.pdf": {
+      "pasta": "ACT-2024-2025-FENTECT",
+      "sha256": "443a506a357e4f58b49a6405b3f8e66c2322e7c12bb23acfab96a05076a35ba7",
+      "paginas_total": 26,
+      "paginas_ocr": 26,
+      "conf_ocr_media": 93.9,
+      "metodo": "ocr",
+      "tempo_s": 87.22,
+      "extraido_em": "2026-10-15T00:45:31"
+    },
+    "ACT-2024-2025-FINDECT.pdf": {
+      "pasta": "ACT-2024-2025-FINDECT",
+      "sha256": "cb7938292c09f86c4965613a18c6683bceb96f92298863e15d1879bc01abce3d",
+      "paginas_total": 27,
+      "paginas_ocr": 27,
+      "conf_ocr_media": 94.1,
+      "metodo": "ocr",
+      "tempo_s": 101.69,
+      "extraido_em": "2026-10-15T00:47:13"
+    },
+    "DC 2025-2026.pdf": {
+      "pasta": "DC 2025-2026",
+      "sha256": "aa4dadf15df2c4cb7eaa64a728b925784f5241a431225e550f9b84a83d049b87",
+      "paginas_total": 125,
+      "paginas_ocr": 125,
+      "conf_ocr_media": 93.0,
+      "metodo": "ocr",
+      "tempo_s": 384.12,
+      "extraido_em": "2026-10-15T00:53:38"
+    }
+  }
+}

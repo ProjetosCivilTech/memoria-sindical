@@ -1,0 +1,76 @@
+[
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DIREITOS_GERACIONAIS",
+    "numero_clausula_original": 8,
+    "titulo_original": "DIREITOS GERACIONAIS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "mentoria": true,
+      "diversidade_geracional": true
+    },
+    "memoria_negociacao": null,
+    "observacao": "Nova cláusula.",
+    "pagina_referencia": "2"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DIREITOS_GERACIONAIS",
+    "numero_clausula_original": 8,
+    "titulo_original": "DOS DIREITOS GERACIONAIS",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "estudos_pluralidade": true,
+      "programa_mentoria": true,
+      "acoes_comunicacao": true
+    },
+    "observacao": null,
+    "pagina_referencia": 4
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DIREITOS_GERACIONAIS",
+    "numero_clausula_original": 7,
+    "titulo_original": "DOS DIREITOS GERACIONAIS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "estudos_pluralidade": true,
+      "programa_mentoria": true,
+      "acoes_comunicacao": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 4
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "SIN_DIREITOS_GERACIONAIS",
+    "numero_clausula_original": 7,
+    "titulo_original": "DOS DIREITOS GERACIONAIS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "estudos_pluralidade": true,
+      "programa_mentoria": true,
+      "acoes_comunicacao": true
+    },
+    "pagina_referencia": "25"
+  }
+]

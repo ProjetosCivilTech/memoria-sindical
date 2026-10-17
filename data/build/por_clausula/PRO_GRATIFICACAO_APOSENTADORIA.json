@@ -1,0 +1,17 @@
+[
+  {
+    "ano_inicio": 1990,
+    "ano_fim": 1991,
+    "tipo": "ACT",
+    "id_canonico": "PRO_GRATIFICACAO_APOSENTADORIA",
+    "numero_clausula_original": 19,
+    "titulo_original": "GRATIFICAÇÃO DE APOSENTADORIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "estudos após cessar DL 2355/87"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "8"
+  }
+]

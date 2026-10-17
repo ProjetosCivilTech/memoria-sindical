@@ -1,0 +1,523 @@
+[
+  {
+    "ano_inicio": 1993,
+    "ano_fim": 1994,
+    "tipo": "ACT",
+    "id_canonico": "SOC_FORNECIMENTO_CAT",
+    "numero_clausula_original": 30,
+    "titulo_original": "FORNECIMENTO DE CAT/LISA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "envio_copias": "mensal quando solicitado"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "17"
+  },
+  {
+    "ano_inicio": 1994,
+    "ano_fim": 1995,
+    "tipo": "ACT",
+    "id_canonico": "SOC_FORNECIMENTO_CAT",
+    "numero_clausula_original": 20,
+    "titulo_original": "FORNECIMENTO DE CAT/LISA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo_fornecimento": "5 dias",
+      "envio_copias": "mês imediatamente anterior ao pedido"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "7"
+  },
+  {
+    "ano_inicio": 1995,
+    "ano_fim": 1996,
+    "tipo": "ACT",
+    "id_canonico": "SOC_FORNECIMENTO_CAT",
+    "numero_clausula_original": 20,
+    "titulo_original": "FORNECIMENTO DE CAT/LISA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "envio_copias": "quando solicitado"
+    }
+  },
+  {
+    "ano_inicio": 1997,
+    "ano_fim": 1998,
+    "tipo": "ACT",
+    "id_canonico": "SOC_FORNECIMENTO_CAT",
+    "numero_clausula_original": 20,
+    "titulo_original": "FORNECIMENTO DE CAT/LISA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "envio_copias": "mês anterior"
+    }
+  },
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "SOC_FORNECIMENTO_CAT",
+    "numero_clausula_original": 21,
+    "titulo_original": "FORNECIMENTO DE CAT/LISA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "envio_copias": "mês anterior"
+    }
+  },
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "SOC_FORNECIMENTO_CAT",
+    "numero_clausula_original": 22,
+    "titulo_original": "FORNECIMENTO DE CAT/LISA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "envio_copias": "mês imediatamente anterior ao pedido"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "8"
+  },
+  {
+    "ano_inicio": 2000,
+    "ano_fim": 2001,
+    "tipo": "DC",
+    "id_canonico": "SOC_FORNECIMENTO_CAT",
+    "numero_clausula_original": 17,
+    "titulo_original": "FORNECIMENTO DE CAT/LISA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "emissao_cat": true,
+      "envio_copias": "mês imediatamente anterior, quando solicitado"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "Cláusula incontroversa.",
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 2001,
+    "ano_fim": 2002,
+    "tipo": "ACT",
+    "id_canonico": "SOC_FORNECIMENTO_CAT",
+    "numero_clausula_original": 17,
+    "titulo_original": "FORNECIMENTO DE CAT/LISA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "emissao_cat": true,
+      "envio_copias": "mensal, quando solicitado"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "SOC_FORNECIMENTO_CAT",
+    "numero_clausula_original": 25,
+    "titulo_original": "FORNECIMENTO DE CAT/LISA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "emissao_cat": true,
+      "envio_copias": "até o 10º dia útil de cada mês",
+      "assalto_sem_agressao": "emissão de CAT e encaminhamento para avaliação psicológica"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "13"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "SOC_FORNECIMENTO_CAT",
+    "numero_clausula_original": 25,
+    "titulo_original": "FORNECIMENTO DE CAT/LISA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "emissao_cat": true,
+      "envio_copias": "até o 10º dia útil de cada mês"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "12"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "SOC_FORNECIMENTO_CAT",
+    "numero_clausula_original": 25,
+    "titulo_original": "FORNECIMENTO DE CAT/LISA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "emissao_cat": true,
+      "envio_copias": "até o 10º dia útil de cada mês"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "9"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "SOC_FORNECIMENTO_CAT",
+    "numero_clausula_original": 25,
+    "titulo_original": "FORNECIMENTO DE CAT/LISA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "envio_copias": "até 10º dia útil"
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "SOC_FORNECIMENTO_CAT",
+    "numero_clausula_original": 25,
+    "titulo_original": "FORNECIMENTO DE CAT/LISA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "emissao_cat": true,
+      "envio_copias": "até o 10º dia útil de cada mês",
+      "situacoes": [
+        "doenças ocupacionais",
+        "acidentes do trabalho",
+        "assaltos"
+      ]
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "11"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "SOC_FORNECIMENTO_CAT",
+    "numero_clausula_original": 25,
+    "titulo_original": "FORNECIMENTO DE CAT/LISA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "emissao_cat": true,
+      "envio_copias": "até o 10º dia útil de cada mês"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 8
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "SOC_FORNECIMENTO_CAT",
+    "numero_clausula_original": 25,
+    "titulo_original": "FORNECIMENTO DE CAT/LISA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "emissao_cat": true,
+      "envio_copias": "até 10º dia útil de cada mês"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "8"
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "SOC_FORNECIMENTO_CAT",
+    "numero_clausula_original": 25,
+    "titulo_original": "FORNECIMENTO DE CAT/LISA",
+    "status": "MANTIDO",
+    "texto": "ECT emitirá CAT nos casos de doenças ocupacionais, acidentes de trabalho, assaltos em serviço, atividades promovidas e representação. Cópia das CAT/LISA fornecida ao sindicato até o 10º dia útil.",
+    "observacao": "Idêntica ao DC 2013-2014.",
+    "pagina_referencia": 8
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "SOC_FORNECIMENTO_CAT",
+    "numero_clausula_original": 25,
+    "titulo_original": "FORNECIMENTO DE CAT/LISA",
+    "status": "MANTIDO",
+    "texto": "ECT emitirá CAT nos casos de doenças ocupacionais, acidentes de trabalho, assaltos em serviço, atividades promovidas e representação. Cópia das CAT/LISA fornecida ao sindicato até o 10º dia útil de cada mês.",
+    "observacao": "Idêntica ao DC 2012-2013.",
+    "pagina_referencia": 84
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "SOC_FORNECIMENTO_CAT",
+    "numero_clausula_original": 35,
+    "titulo_original": "FORNECIMENTO DE CAT/LISA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "emissao_cat": true,
+      "dirigente_sindical": "CAT em atividades de representação"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "16-17"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "SOC_FORNECIMENTO_CAT",
+    "numero_clausula_original": 35,
+    "titulo_original": "FORNECIMENTO DE CAT/LISA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "emissao_cat": true,
+      "envio_federacoes": "uma via da CAT",
+      "emissao_para_dirigente_sindical": true,
+      "emissao_para_assaltos": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 20
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "SOC_FORNECIMENTO_CAT",
+    "numero_clausula_original": 35,
+    "titulo_original": "FORNECIMENTO DE CAT/LISA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "emissao_cat": true,
+      "dirigente_sindical": "CAT em atividades de representação"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "22"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "SOC_FORNECIMENTO_CAT",
+    "numero_clausula_original": 35,
+    "titulo_original": "FORNECIMENTO DE CAT/LISA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "emissoes": [
+        "doenças ocupacionais",
+        "acidentes de trabalho",
+        "assaltos em serviço",
+        "atividades promovidas",
+        "representação"
+      ],
+      "envio_copias": "mês imediatamente anterior",
+      "CAT_dirigente_sindical": true,
+      "orientacao_gestores": true
+    },
+    "pagina_referencia": "53-54"
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "SOC_FORNECIMENTO_CAT",
+    "numero_clausula_original": 35,
+    "titulo_original": "FORNECIMENTO DE CAT/LISA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "emissao_cat": true,
+      "envio_federacoes": "uma via da CAT",
+      "emissao_para_dirigente_sindical": true,
+      "emissao_para_assaltos": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 20
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "SOC_FORNECIMENTO_CAT",
+    "numero_clausula_original": 18,
+    "titulo_original": "FORNECIMENTO DE CAT/LISA (35ª do DCG 2019/2020)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "redacao": "Os Correios emitirão o Comunicado de Acidente de Trabalho – CAT nos casos de doenças ocupacionais, de acidentes do trabalho, de assaltos aos(às) empregados(as) em serviço, nas atividades promovidas e em representação. §1º Os Correios fornecerão, às Federações e Sindicatos dos empregados, uma via da CAT registrada no MPAS, relativa aos acidentes ocorridos no mês imediatamente anterior. §2º Os Correios emitirão CAT para o(a) empregado(a) Dirigente Sindical que estiver liberado(a) com ônus para a Empresa e que se acidentar... §3º Os Correios orientarão aos (às) gestores (as) quanto ao preenchimento da CAT..."
+    },
+    "memoria_negociacao": "Manutenção anuída pelas entidades sindicais",
+    "observacao": null,
+    "pagina_referencia": "64-65"
+  },
+  {
+    "ano_inicio": 2022,
+    "ano_fim": 2023,
+    "tipo": "ACT",
+    "id_canonico": "SOC_FORNECIMENTO_CAT",
+    "numero_clausula_original": 19,
+    "titulo_original": "FORNECIMENTO DE CAT/LISA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "emissoes": [
+        "doenças ocupacionais",
+        "acidentes de trabalho",
+        "assaltos em serviço",
+        "atividades promovidas",
+        "representação"
+      ],
+      "envio_copias": "mensal para Federações e Sindicatos",
+      "CAT_dirigente_sindical": true,
+      "orientacao_gestores": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "4"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "SOC_FORNECIMENTO_CAT",
+    "numero_clausula_original": 38,
+    "titulo_original": "FORNECIMENTO DE CAT",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "atendimento_acidentados": true,
+      "CAT_para_assalto_sequestro": true,
+      "treinamento_gestores": true,
+      "cadastro_doencas": true
+    },
+    "memoria_negociacao": null,
+    "observacao": "Ampliada para assaltos e sequestros.",
+    "pagina_referencia": "8"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SOC_FORNECIMENTO_CAT",
+    "numero_clausula_original": 40,
+    "titulo_original": "FORNECIMENTO DE CAT",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "atendimento_medico": "próprio ou rede credenciada",
+      "envio_federacoes": "via CAT registrada no MPS mensalmente",
+      "emissao_para_dirigente_sindical": true,
+      "emissao_para_assaltos": true,
+      "treinamento_gestores_cipeiros": true,
+      "cadastro_doencas": "por unidade e cargo/atividade"
+    },
+    "observacao": null,
+    "pagina_referencia": 14
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SOC_FORNECIMENTO_CAT",
+    "numero_clausula_original": 33,
+    "titulo_original": "FORNECIMENTO DE CAT",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "atendimento_medico": "próprio ou rede credenciada",
+      "envio_federacoes": "cópia integral da CAT via eSocial",
+      "emissao_para_dirigente_sindical": true,
+      "emissao_para_assaltos": true,
+      "treinamento_gestores_cipeiros": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Alterar o §2º: substituir o envio da CAT pelo envio de relação de números",
+      "pedido_fentect": "Manutenção do envio de uma via da CAT",
+      "pedido_findect": "Manutenção do envio de cópia integral",
+      "decisao_tst": "DEFERE nos termos da sentença normativa 2025/2026, com ajuste para CAT integral via eSocial",
+      "fundamento_juridico": "Cláusula sem expressão econômica",
+      "votos_divergentes": null
+    },
+    "observacao": "A ECT tentou substituir o envio da CAT por relação de números. O TST manteve o envio da cópia integral, adaptado ao eSocial.",
+    "pagina_referencia": 15
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "SOC_FORNECIMENTO_CAT",
+    "numero_clausula_original": 33,
+    "titulo_original": "FORNECIMENTO DE CAT",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "atendimento_medico": "próprio ou rede credenciada",
+      "envio_federacoes": "uma via da CAT",
+      "emissao_para_dirigente_sindical": true,
+      "emissao_para_assaltos_sequestros": true,
+      "treinamento_gestores_cipeiros": true,
+      "cadastro_doencas_por_unidade": true
+    },
+    "pagina_referencia": "44-45"
+  }
+]

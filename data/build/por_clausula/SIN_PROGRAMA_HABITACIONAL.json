@@ -1,0 +1,76 @@
+[
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "SIN_PROGRAMA_HABITACIONAL",
+    "numero_clausula_original": 12,
+    "titulo_original": "PROGRAMA HABITACIONAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "programa": "Minha Casa, Minha Vida",
+      "liberacao_dirigente": "5 dias úteis"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "3"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SIN_PROGRAMA_HABITACIONAL",
+    "numero_clausula_original": 12,
+    "titulo_original": "PROGRAMA HABITACIONAL",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "programa": "Minha Casa, Minha Vida",
+      "liberacao_dirigentes": 2,
+      "solicitacao": "escrita, 5 dias úteis de antecedência"
+    },
+    "observacao": null,
+    "pagina_referencia": 5
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SIN_PROGRAMA_HABITACIONAL",
+    "numero_clausula_original": 70,
+    "titulo_original": "PROGRAMA HABITACIONAL",
+    "status": "INDEFERIDO",
+    "detalhes": {
+      "programa": "Minha Casa, Minha Vida",
+      "liberacao_dirigentes": 2
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Excluir a cláusula",
+      "pedido_fentect": "Manutenção da cláusula preexistente",
+      "pedido_findect": "Manutenção da cláusula preexistente",
+      "decisao_tst": "INDEFERE a cláusula",
+      "fundamento_juridico": "Art. 114, §2º, CF; ausência de norma preexistente",
+      "votos_divergentes": "Ministra Maria Cristina Irigoyen Peduzzi divergiu"
+    },
+    "observacao": "**PERDA**. No DC 2025/2026, a cláusula foi mantida. No DC 2026/2027, foi INDEFERIDA.",
+    "pagina_referencia": 29
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "SIN_PROGRAMA_HABITACIONAL",
+    "numero_clausula_original": 70,
+    "titulo_original": "PROGRAMA HABITACIONAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "programa": "Minha Casa, Minha Vida",
+      "liberacao_dirigentes": 2,
+      "prazo_solicitacao": "5 dias úteis"
+    },
+    "observacao": "No DC 2026/2027 esta cláusula foi INDEFERIDA",
+    "pagina_referencia": "81-82"
+  }
+]

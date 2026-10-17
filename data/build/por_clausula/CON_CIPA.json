@@ -1,0 +1,483 @@
+[
+  {
+    "ano_inicio": 1994,
+    "ano_fim": 1995,
+    "tipo": "ACT",
+    "id_canonico": "CON_CIPA",
+    "numero_clausula_original": 14,
+    "titulo_original": "CIPA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "instalacao": "sedes das Diretorias Regionais e Regiões Operacionais",
+      "prazo_conclusao": "dezembro/94",
+      "edificios_25_empregados": "representante do empregador + eleição de representante dos empregados"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 1995,
+    "ano_fim": 1996,
+    "tipo": "ACT",
+    "id_canonico": "CON_CIPA",
+    "numero_clausula_original": 14,
+    "titulo_original": "CIPA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "base_legal": "legislação específica"
+    }
+  },
+  {
+    "ano_inicio": 1997,
+    "ano_fim": 1998,
+    "tipo": "ACT",
+    "id_canonico": "CON_CIPA",
+    "numero_clausula_original": 14,
+    "titulo_original": "CIPA",
+    "status": "DEFERIDO"
+  },
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "CON_CIPA",
+    "numero_clausula_original": 14,
+    "titulo_original": "CIPA",
+    "status": "DEFERIDO"
+  },
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "CON_CIPA",
+    "numero_clausula_original": 14,
+    "titulo_original": "CIPA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "base_legal": "legislação específica"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 2000,
+    "ano_fim": 2001,
+    "tipo": "DC",
+    "id_canonico": "CON_CIPA",
+    "numero_clausula_original": 10,
+    "titulo_original": "CIPA",
+    "status": "INDEFERIDO",
+    "detalhes": {
+      "proposta_ect": "Critérios conforme legislação específica",
+      "pedido_fentect": "Manutenção nos termos da pauta de reivindicações"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Critérios conforme legislação específica",
+      "pedido_fentect": "Manutenção nos termos da pauta",
+      "decisao_tst": "INDEFERE a cláusula",
+      "fundamento_juridico": "Não se pode exercitar o poder normativo para dizer que a lei deve ser cumprida",
+      "votos_divergentes": null
+    },
+    "observacao": "Cláusula social controvertida. TST não deferiu.",
+    "pagina_referencia": "16"
+  },
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "CON_CIPA",
+    "numero_clausula_original": 14,
+    "titulo_original": "COMISSÃO INTERNA DE PREVENÇÃO DE ACIDENTES – CIPA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "base_legal": "NR-05",
+      "dimensionamento": "40 empregados",
+      "eleicao": "90 dias antes do término do mandato",
+      "liberacao_cipeiros": {
+        "menos_400_empregados": "4 horas/mês",
+        "400_a_1000_empregados": "6 horas/mês",
+        "mais_1000_empregados": "8 horas/mês"
+      },
+      "fornecimento_ata": "5 dias úteis",
+      "visita_medico_trabalho": true,
+      "relatorio_mensal": "até dia 5"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "NR-05",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "8-10"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "CON_CIPA",
+    "numero_clausula_original": 14,
+    "titulo_original": "COMISSÃO INTERNA DE PREVENÇÃO DE ACIDENTES – CIPA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "base_legal": "NR-05",
+      "dimensionamento": "40 empregados",
+      "eleicao": "90 dias antes do término do mandato",
+      "liberacao_cipeiros": {
+        "menos_400_empregados": "4 horas/mês",
+        "400_a_1000_empregados": "6 horas/mês",
+        "mais_1000_empregados": "8 horas/mês"
+      },
+      "fornecimento_ata": "5 dias úteis",
+      "visita_medico_trabalho": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "NR-05",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "7-9"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "CON_CIPA",
+    "numero_clausula_original": 14,
+    "titulo_original": "COMISSÃO INTERNA DE PREVENÇÃO DE ACIDENTES – CIPA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "base_legal": "NR-05",
+      "dimensionamento": "40 empregados",
+      "eleicao": "90 dias antes do término do mandato",
+      "liberacao_cipeiros": {
+        "menos_400_empregados": "4 horas/mês",
+        "400_a_1000_empregados": "6 horas/mês",
+        "mais_1000_empregados": "8 horas/mês"
+      },
+      "fornecimento_ata": "5 dias úteis",
+      "visita_medico_trabalho": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "NR-05",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "CON_CIPA",
+    "numero_clausula_original": 14,
+    "titulo_original": "CIPA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "base_legal": "NR-05",
+      "efetivo_minimo": 40,
+      "designacao_responsavel": "11 a 40 empregados",
+      "liberacao_cipeiros": {
+        "menos_400": 4,
+        "400_a_1000": 6,
+        "mais_1000": 8,
+        "unidade": "horas/mês"
+      },
+      "ata_reuniao": "5 dias úteis",
+      "visita_medico": true
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "CON_CIPA",
+    "numero_clausula_original": 14,
+    "titulo_original": "COMISSÃO INTERNA DE PREVENÇÃO DE ACIDENTES – CIPA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "base_legal": "NR-05",
+      "dimensionamento": "40 empregados",
+      "eleicao": "60 dias antes do término do mandato",
+      "liberacao_cipeiros": {
+        "menos_400_empregados": "4 horas/mês",
+        "400_a_1000_empregados": "6 horas/mês",
+        "mais_1000_empregados": "8 horas/mês"
+      },
+      "fornecimento_ata": "5 dias úteis",
+      "visita_medico_trabalho": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "NR-05",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "7-8"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "CON_CIPA",
+    "numero_clausula_original": 14,
+    "titulo_original": "COMISSÃO INTERNA DE PREVENÇÃO DE ACIDENTES – CIPA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "base_legal": "NR-05",
+      "dimensionamento": "40 empregados",
+      "eleicao": "60 dias antes do término do mandato",
+      "liberacao_cipeiros": {
+        "menos_400_empregados": "4 horas/mês",
+        "400_a_1000_empregados": "6 horas/mês",
+        "mais_1000_empregados": "8 horas/mês"
+      },
+      "fornecimento_ata": "5 dias úteis",
+      "visita_medico_trabalho": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "NR-05",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 6
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "CON_CIPA",
+    "numero_clausula_original": 14,
+    "titulo_original": "COMISSÃO INTERNA DE PREVENÇÃO DE ACIDENTES – CIPA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dimensionamento": "30 empregados",
+      "eleicao": "até 90 dias antes do término",
+      "liberacao_cipeiros": {
+        "menos_400": "4h/mês",
+        "400_a_1000": "6h/mês",
+        "mais_1000": "8h/mês"
+      },
+      "fornecimento_ata": "5 dias úteis",
+      "visita_medico_trabalho": true,
+      "primeiros_socorros": true
+    },
+    "memoria_negociacao": null,
+    "observacao": "Dimensionamento reduzido de 40 para 30 empregados.",
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "CON_CIPA",
+    "numero_clausula_original": 31,
+    "titulo_original": "COMISSÃO INTERNA DE PREVENÇÃO DE ACIDENTES – CIPA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dimensionamento": 30,
+      "eleicao": "60 dias antes",
+      "liberacao_cipeiros": true,
+      "primeiros_socorros": true,
+      "curso_EAD": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "14-15"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "CON_CIPA",
+    "numero_clausula_original": 31,
+    "titulo_original": "COMISSÃO INTERNA DE PREVENÇÃO DE ACIDENTES – CIPA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "base_legal": "NR-05",
+      "dimensionamento": "30 empregados",
+      "liberacao_cipeiros": {
+        "menos_400_empregados": "4 horas/mês",
+        "400_a_1000_empregados": "6 horas/mês",
+        "mais_1000_empregados": "8 horas/mês"
+      },
+      "reunioes_semestrais": "presidentes de CIPA com mais de 1.000 empregados"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "NR-05",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 18
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "CON_CIPA",
+    "numero_clausula_original": 31,
+    "titulo_original": "COMISSÃO INTERNA DE PREVENÇÃO DE ACIDENTES – CIPA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dimensionamento": 30,
+      "eleicao": "60 dias antes",
+      "liberacao_cipeiros": true,
+      "primeiros_socorros": true,
+      "curso_EAD": true,
+      "reunioes_semestrais": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "19-20"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "CON_CIPA",
+    "numero_clausula_original": 31,
+    "titulo_original": "COMISSÃO INTERNA DE PREVENÇÃO DE ACIDENTES - CIPA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "base_legal": "NR-05",
+      "efetivo_minimo": 30,
+      "eleicao_convocacao": "60 dias antes",
+      "liberacao_cipeiros": {
+        "ate_400": 4,
+        "400_a_1000": 6,
+        "acima_1000": 8,
+        "unidade": "horas/mês"
+      },
+      "ata_reuniao": "5 dias úteis",
+      "visita_medico": true,
+      "primeiros_socorros": "NR-7 (PCMSO)",
+      "curso_EAD": "30 dias após eleição",
+      "reunioes_semestrais": "até 120 dias após assinatura",
+      "treinamento_dirigentes": true
+    },
+    "pagina_referencia": "47-49"
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "CON_CIPA",
+    "numero_clausula_original": 31,
+    "titulo_original": "COMISSÃO INTERNA DE PREVENÇÃO DE ACIDENTES – CIPA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "base_legal": "NR-05",
+      "dimensionamento": "30 empregados",
+      "liberacao_cipeiros": {
+        "menos_400_empregados": "4 horas/mês",
+        "400_a_1000_empregados": "6 horas/mês",
+        "mais_1000_empregados": "8 horas/mês"
+      },
+      "reunioes_semestrais": "presidentes de CIPA com mais de 1.000 empregados"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "NR-05",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 18
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "CON_CIPA",
+    "numero_clausula_original": 31,
+    "titulo_original": "COMISSÃO INTERNA DE PREVENÇÃO DE ACIDENTES",
+    "status": "MANTIDO",
+    "texto": "",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "CON_CIPA",
+    "numero_clausula_original": 15,
+    "titulo_original": "COMISSÃO INTERNA DE PREVENÇÃO DE ACIDENTES-CIPA (31ª do DCG 2019/2020)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "redacao": "Os Correios realizarão eleições para composição da CIPA em todos os seus estabelecimentos cujo efetivo seja superior a 30 empregados (as). §1° A eleição para a CIPA será convocada em até 60 dias antes do término do mandato... §2º A partir de 31 empregados(as) observar-se-á o que estabelece a NR-05. §3º Nos estabelecimentos com efetivo de até 30 empregados(as) os Correios designarão um responsável... §4º liberação mensal: 4h (menos de 400), 6h (400 a 1.000), 8h (mais de 1.000)... §5º A CIPA fornecerá aos sindicatos a ata de reunião... §6º visita de médico do trabalho... §7º materiais de primeiros socorros... §8º curso de formação EAD ou presencial... §9º reuniões semestrais com presidentes de CIPAs... §10º treinamento também para Diretoria da Entidade Sindical..."
+    },
+    "memoria_negociacao": "Cláusula com quase 30 anos, de caráter social; não afronta a NR 5, mas a complementa",
+    "observacao": null,
+    "pagina_referencia": "89-94, 104-105"
+  },
+  {
+    "ano_inicio": 2022,
+    "ano_fim": 2023,
+    "tipo": "ACT",
+    "id_canonico": "CON_CIPA",
+    "numero_clausula_original": 16,
+    "titulo_original": "COMISSÃO INTERNA DE PREVENÇÃO DE ACIDENTES-CIPA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "efetivo_minimo": 30,
+      "base_legal": "NR-05",
+      "eleicao_convocacao": "60 dias antes",
+      "liberacao_cipeiros": {
+        "ate_400": 4,
+        "400_a_1000": 6,
+        "acima_1000": 8,
+        "unidade": "horas/mês"
+      },
+      "ata_reuniao": "5 dias úteis",
+      "visita_medico": true,
+      "primeiros_socorros": "NR-7 (PCMSO)",
+      "curso_EAD": "30 dias após eleição",
+      "reunioes_semestrais": "até 120 dias após assinatura",
+      "treinamento_dirigentes": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "4"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "CON_CIPA",
+    "numero_clausula_original": 35,
+    "titulo_original": "COMISSÃO INTERNA DE PREVENÇÃO DE ACIDENTES E ASSÉDIOS - CIPA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dimensionamento": 30,
+      "eleicao": "60 dias antes",
+      "liberacao_cipeiros": true,
+      "primeiros_socorros": true,
+      "curso_EAD": true,
+      "reunioes_semestrais": true,
+      "treinamento_dirigentes": true
+    },
+    "memoria_negociacao": null,
+    "observacao": "Nome alterado para incluir assédios.",
+    "pagina_referencia": "7"
+  }
+]

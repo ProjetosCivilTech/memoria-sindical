@@ -1,0 +1,82 @@
+{
+  "datas_br": {
+    "total": 0,
+    "amostra": []
+  },
+  "datas_ext": {
+    "total": 2,
+    "amostra": [
+      "20 de dezembro de 1992",
+      "14 de dezembro de 1991"
+    ]
+  },
+  "valores_brl": {
+    "total": 0,
+    "amostra": []
+  },
+  "percentuais": {
+    "total": 15,
+    "amostra": [
+      "168,841%",
+      "80,93%",
+      "22%",
+      "20%",
+      "14%",
+      "23%",
+      "40%",
+      "70%",
+      "50%",
+      "30%",
+      "40%",
+      "50%",
+      "4%",
+      "10%",
+      "25%"
+    ]
+  },
+  "clausulas": {
+    "total": 1,
+    "amostra": [
+      "1"
+    ]
+  },
+  "processos_tst": {
+    "total": 0,
+    "amostra": []
+  },
+  "cnpj": {
+    "total": 1,
+    "amostra": [
+      "03.659.034/0001-80"
+    ]
+  },
+  "artigos": {
+    "total": 1,
+    "amostra": [
+      "art.\n79"
+    ]
+  },
+  "incisos": {
+    "total": 14,
+    "amostra": [
+      "IX",
+      "XVII",
+      "D",
+      "D",
+      "M",
+      "I",
+      "III",
+      "IV",
+      "D",
+      "DD",
+      "DD",
+      "LC",
+      "L",
+      "CL"
+    ]
+  },
+  "paragrafos": {
+    "total": 0,
+    "amostra": []
+  }
+}

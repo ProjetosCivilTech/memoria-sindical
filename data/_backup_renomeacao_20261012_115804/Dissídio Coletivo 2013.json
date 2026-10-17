@@ -1,0 +1,230 @@
+{
+  "metadados_documento": {
+    "tipo": "DCG",
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "processo": "TST-DC-6942-72.2013.5.00.0000",
+    "tribunal": "TST",
+    "orgao": "SDC",
+    "relator": "Ministro Fernando Eizo Ono",
+    "data_julgamento": "2013-10-08",
+    "data_publicacao": null,
+    "entidade_patronal": "ECT",
+    "entidades_profissionais": ["FENTECT", "FINDECT"],
+    "arquivo_origem": "acordao-2013-2014.pdf",
+    "greve": {
+      "deflagracao": "2013-09-11",
+      "intensificacao": "2013-09-17",
+      "abusividade": "NÃO ABUSIVA",
+      "retorno_trabalho": "2013-10-10"
+    }
+  },
+  "clausulas": [
+    {
+      "id_canonico": "FIN_REAJUSTE_SALARIAL",
+      "numero_clausula_original": 52,
+      "titulo_original": "REAJUSTE SALARIAL",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": 8.0,
+      "unidade": "%",
+      "detalhes": {
+        "indice_aplicado": "8% (linear)",
+        "data_base": "2013-08-01",
+        "beneficios_reajustados": "6,27% (IPCA-IBGE)",
+        "beneficios": ["Ajuda de Custo", "Auxílio Dependentes", "Reembolso Creche/Babá", "Vale Refeição/Alimentação", "Vale Transporte"]
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Reajuste de 5,27%",
+        "pedido_fentect": "Reajuste de 7,13% + aumento real de 15%",
+        "pedido_findect": "Reajuste de 8% + benefícios",
+        "decisao_tst": "DEFERE reajuste de 8% (proposto pela ECT e aceito pela FINDECT), com 6,27% para benefícios",
+        "fundamento_juridico": "Art. 766 CLT; Lei 10.192/2001",
+        "votos_divergentes": null
+      },
+      "observacao": "O reajuste de 8% foi baseado na proposta da ECT aceita pela FINDECT.",
+      "pagina_referencia": 41
+    },
+    {
+      "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+      "numero_clausula_original": 11,
+      "titulo_original": "ASSISTÊNCIA MÉDICA/HOSPITALAR E ODONTOLÓGICA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "modelo": "Correios Saúde",
+        "participacao_empregado": {
+          "NM-01 a NM-16": 10,
+          "NM-17 a NM-48": 15,
+          "NM-49 a NM-90": 20,
+          "NS-01 a NS-60": 20
+        },
+        "teto_compartilhamento": {
+          "ativos": "2x salário-base",
+          "aposentados": "3x soma INSS + POSTALIS"
+        }
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Ampliação da cobertura sem ônus",
+        "decisao_tst": "DEFERE a manutenção da cláusula 11 do acórdão normativo anterior",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 48
+    },
+    {
+      "id_canonico": "FIN_VALE_CULTURA",
+      "numero_clausula_original": 63,
+      "titulo_original": "VALE-CULTURA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "base_legal": "Decreto 8.084/2013",
+        "fornecimento": "ECT fornecerá aos empregados"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Fornecimento do vale-cultura",
+        "pedido_fentect": "Incentivo à cultura",
+        "decisao_tst": "DEFERE nos termos propostos pela ECT",
+        "fundamento_juridico": "Decreto 8.084/2013",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 57
+    },
+    {
+      "id_canonico": "SOC_ACOMPANHANTE",
+      "numero_clausula_original": 2,
+      "titulo_original": "ACOMPANHANTE",
+      "status": "DEFERIDO",
+      "valor_anterior": 5,
+      "valor_atual": 6,
+      "unidade": "dias",
+      "detalhes": {
+        "dias_ausencia": 6,
+        "turnos": 12,
+        "publico_alvo": ["dependentes menores de 18 anos", "deficientes", "gestantes", "cônjuge com dificuldade de locomoção", "pais com mais de 60 anos"]
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Ampliação de 5 para 6 dias",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos pela ECT",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 58
+    },
+    {
+      "id_canonico": "CON_CIPA",
+      "numero_clausula_original": 14,
+      "titulo_original": "COMISSÃO INTERNA DE PREVENÇÃO DE ACIDENTES – CIPA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "base_legal": "NR-05",
+        "dimensionamento": "30 empregados",
+        "liberacao_cipeiros": {
+          "menos_400_empregados": "4 horas/mês",
+          "400_a_1000_empregados": "6 horas/mês",
+          "mais_1000_empregados": "8 horas/mês"
+        }
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "NR-05",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 59
+    },
+    {
+      "id_canonico": "FIN_DESCONTO_DIAS_GREVE",
+      "numero_clausula_original": null,
+      "titulo_original": "COMPENSAÇÃO DOS DIAS DE GREVE",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "dias_parados": null,
+        "compensacao": "180 dias após retorno ao trabalho, de segunda a sexta, 2 horas diárias",
+        "base_legal": "Art. 7º da Lei 7.783/89"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Desconto integral ou compensação",
+        "pedido_fentect": "Não desconto",
+        "pedido_findect": "Não desconto",
+        "decisao_tst": "DEFERE a compensação dos dias parados em até 180 dias",
+        "fundamento_juridico": "Suspensão do contrato de trabalho (art. 7º, Lei 7.783/89)",
+        "votos_divergentes": null
+      },
+      "observacao": "O TST autorizou a compensação dos dias de greve, não o desconto.",
+      "pagina_referencia": 106
+    },
+    {
+      "id_canonico": "PRO_VIGENCIA",
+      "numero_clausula_original": 64,
+      "titulo_original": "VIGÊNCIA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "data_inicio": "2013-08-01",
+        "data_fim": "2017-07-31 (máximo legal de 4 anos)",
+        "duracao_meses": 48
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Vigência de 1 ano",
+        "pedido_fentect": "Vigência de 4 anos",
+        "decisao_tst": "DEFERE vigência até que sentença normativa superveniente produza revogação, respeitado o prazo máximo de 4 anos",
+        "fundamento_juridico": "PN 120/SDC/TST; art. 868 CLT",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 104
+    }
+  ],
+  "temas_nao_mapeados": [],
+  "retorno_ao_trabalho": {
+    "determinacao": "retorno ao trabalho a partir de 10/10/2013",
+    "multa": "R$ 50.000,00/dia em caso de descumprimento"
+  },
+  "dispositivo_final": {
+    "abusividade_greve": "NÃO ABUSIVA",
+    "data_base": "MANUTENÇÃO (1º de agosto de 2013)",
+    "dias_parados": "COMPENSAÇÃO EM ATÉ 180 DIAS",
+    "clausulas_indeferidas": "01-MANUTENÇÃO DE CONQUISTAS; 02-REAJUSTE SALARIAL (parcial); 03-REPARAÇÃO SALARIAL; 04-PISO SALARIAL; 05-DEMAIS GARANTIAS; 06-ANTECIPAÇÃO DE FÉRIAS; 07-GRATIFICAÇÃO DE FÉRIAS; 08-ADICIONAL NOTURN; 09-AJUDA DE CUSTO; 10-ANTECIPAÇÃO 13º; 11-ANUÊNIO; 12-QUEBRA DE CAIXA E SEGURO; 13-SEGURO DE VIDA; 14-HORAS EXTRAS; 15-PAGAMENTO DE SALÁRIOS; 16-NÃO AO TRABALHO NOS FINS DE SEMANA; 17-GRATIFICAÇÃO ISONÔMICA; 18-TRABALHADOR OTT; 19-ITENS DE TIC; 20-BANCO POSTAL; 21-NÃO À TERCEIRIZAÇÃO; 22-NÃO À PRIVATIZAÇÃO; 23-PL; 24-DIÁRIAS; 25-VALE REFEIÇÃO; 26-CESTA BÁSICA; 27-AUXÍLIO CRECHE; 28-AUXÍLIO CASA PRÓPRIA; 29-ASSISTÊNCIA MÉDICA; 30-AUXÍLIO DEPENDENTES; 31-INCENTIVO À CULTURA; 32-BENEFÍCIOS PREVIDENCIÁRIOS; 33-CIPA; 34-EMPREGADO HIV; 35-CAT; 36-ITENS OPERACIONAIS; 37-REABILITAÇÃO; 38-PREVENÇÃO DE DOENÇAS; 39-ATESTADO DE SAÚDE; 40-AVERIGUAÇÃO; 41-PLANTÃO AMBULATORIAL; 42-CONVÊNIO FARMÁCIA; 43-RELAÇÃO DE EMPREGADOS; 44/45-LIBERAÇÃO DE DIRIGENTES; 46-ACESSO; 47-DESCONTO ASSISTENCIAL; 48-FORNECIMENTO DE DOCUMENTOS; 49-QUADROS DE AVISOS; 50-NEGOCIAÇÕES REGIONAIS; 51-DIRIGENTE E DELEGADO; 52-DESCANSO REMUNERADO; 53-ASSÉDIO; 54-MULHER VÍTIMA DE VIOLÊNCIA; 55-GRAVIDEZ; 56-CONDIÇÕES DA MULHER; 57-LICENÇA ADOÇÃO; 58-SAÚDE DA MULHER; 59-PARTICIPAÇÃO DA MULHER; 60-CURSOS; 61-SEGURO E FROTA; 62-TRANSPORTE NOTURNO; 63-EMPREGADO ESTUDANTE; 64-DIA DO ECETISTA; 65-AMPLA DEFESA; 66-ACOMPANHANTE; 67-ANISTIA; 68-LICENÇA SEM REMUNERAÇÃO; 69-LICENÇA-PRÊMIO; 70-FIM DO DESVIO; 71-INOVAÇÕES; 72-REGISTRO DE PONTO; 73-SOBRECARGA; 74-VALE TRANSPORTE; 75-DISTRIBUIÇÃO DOMICILIAR; 76-TRANSFERÊNCIA; 77-FIM SAP; 78-JORNADA DIGITADORES; 79-MEDIDAS DE SEGURANÇA; 80-SNT; 81-DISCRIMINAÇÃO RACIAL; 82-CONCURSO PÚBLICO; 83-DEMOCRATIZAÇÃO POSTALIS; 84-POSTALIS; 85-ARCO; 86-APOSENTADOS; 87-COOPERATIVAS; 88-ELEIÇÕES; 89-NEGOCIAÇÃO; 90-PCCS; 91-PRORROGAÇÃO; 92-PENALIDADES; 93-VIGÊNCIA",
+    "votos_vencidos": {
+      "ministro_ives_gandra_martins_filho": "Vencido parcialmente (prazo de compensação de 120 dias)",
+      "ministra_katia_arruda": "Vencida parcialmente (assistência médica)",
+      "ministro_walmir_oliveira_da_costa": "Vencido parcialmente (assistência médica)",
+      "ministro_mauricio_godinho_delgado": "Vencido parcialmente (assistência médica)",
+      "ministro_carlos_alberto_reis_de_paula": "Vencido parcialmente (assistência médica)"
+    },
+    "data_sessao": "08 de outubro de 2013"
+  },
+  "notas_metodologicas": [
+    {
+      "tipo": "DISSIDIO_GREVE",
+      "tema": "GERAL",
+      "descricao": "Dissídio Coletivo de Greve instaurado pela ECT em face da FENTECT e FINDECT. A greve foi declarada NÃO ABUSIVA. O TST determinou a compensação dos dias parados em até 180 dias. Reajuste de 8% e benefícios em 6,27%."
+    },
+    {
+      "tipo": "PERDAS_HISTORICAS",
+      "tema": "GERAL",
+      "descricao": "Perdas do DC 2013/2014: (1) Reajuste salarial de 8% (proposta da ECT), não os 7,13% + 15% pedidos pela FENTECT; (2) Assistência médica mantida sem ampliação; (3) Vários pedidos da FENTECT indeferidos."
+    },
+    {
+      "tipo": "CONQUISTAS",
+      "tema": "GERAL",
+      "descricao": "Conquistas do DC 2013/2014: (1) Reajuste de 8% (superior aos 5,27% iniciais da ECT); (2) Acompanhante ampliado de 5 para 6 dias; (3) Vale-cultura implementado; (4) Compensação dos dias de greve (não desconto)."
+    },
+    {
+      "tipo": "VALORES_DC_2013_2014",
+      "tema": "GERAL",
+      "descricao": "Valores do DC 2013/2014: Reajuste 8%; Benefícios 6,27%; Acompanhante 6 dias; Assistência Médica mantida; Vale-Cultura implementado."
+    },
+    {
+      "tipo": "VIGENCIA",
+      "tema": "GERAL",
+      "descricao": "Vigência de 4 anos (01/08/2013 a 31/07/2017), conforme PN 120/SDC/TST."
+    }
+  ]
+}

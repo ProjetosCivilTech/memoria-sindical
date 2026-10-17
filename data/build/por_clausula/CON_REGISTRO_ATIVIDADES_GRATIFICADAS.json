@@ -1,0 +1,136 @@
+[
+  {
+    "ano_inicio": 1994,
+    "ano_fim": 1995,
+    "tipo": "ACT",
+    "id_canonico": "CON_REGISTRO_ATIVIDADES_GRATIFICADAS",
+    "numero_clausula_original": 6,
+    "titulo_original": "ANOTAÇÕES NA CTPS RELATIVAS AOS CARGOS COMISSIONADOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "registro_CTPS": true,
+      "atividades": [
+        "carteiros motorizados",
+        "mensageiros motorizados"
+      ]
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "2"
+  },
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "CON_REGISTRO_ATIVIDADES_GRATIFICADAS",
+    "numero_clausula_original": 46,
+    "titulo_original": "REGISTRO DE ATIVIDADES COMISSIONADAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "registro_CTPS": true,
+      "atividades": [
+        "Carteiro Motorizado",
+        "Mensageiro Motorizado"
+      ]
+    }
+  },
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "CON_REGISTRO_ATIVIDADES_GRATIFICADAS",
+    "numero_clausula_original": 47,
+    "titulo_original": "REGISTRO DE ATIVIDADES COMISSIONADAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "registro_CTPS": true,
+      "atividades": [
+        "Carteiro Motorizado",
+        "Mensageiro Motorizado"
+      ]
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "15"
+  },
+  {
+    "ano_inicio": 2000,
+    "ano_fim": 2001,
+    "tipo": "DC",
+    "id_canonico": "CON_REGISTRO_ATIVIDADES_GRATIFICADAS",
+    "numero_clausula_original": 43,
+    "titulo_original": "REGISTRO DE ATIVIDADES COMISSIONADAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "registro_CTPS": true,
+      "atividades": [
+        "Carteiro Motorizado",
+        "Mensageiro Motorizado"
+      ]
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "Cláusula incontroversa.",
+    "pagina_referencia": "9"
+  },
+  {
+    "ano_inicio": 2001,
+    "ano_fim": 2002,
+    "tipo": "ACT",
+    "id_canonico": "CON_REGISTRO_ATIVIDADES_GRATIFICADAS",
+    "numero_clausula_original": 41,
+    "titulo_original": "REGISTRO DE ATIVIDADES GRATIFICADAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "registro_CTPS": true,
+      "atividades": [
+        "Carteiro Motorizado",
+        "Mensageiro Motorizado",
+        "Operador de Empilhadeira"
+      ],
+      "base_legal": "Portaria 628/2000"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "11"
+  },
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "CON_REGISTRO_ATIVIDADES_GRATIFICADAS",
+    "numero_clausula_original": 52,
+    "titulo_original": "REGISTRO DE ATIVIDADES GRATIFICADAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "registro_CTPS": true,
+      "atividades": [
+        "Carteiro Motorizado",
+        "Mensageiro Motorizado",
+        "Operador de Empilhadeira",
+        "Operador de Eco-Cargo"
+      ],
+      "base_legal": "Portaria 628/2000"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "24-25"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AJUDA_CUSTO_TRANSFERENCIA",
+    "numero_clausula_original": 6,
+    "titulo_original": "AJUDA DE CUSTO NA TRANSFERÊNCIA",
+    "status": "MANTIDO",
+    "texto": "Calculada sobre salário-base + anuênios + IGQP incorporado + gratificação de função. Valor mínimo: R$ 1.244,95. Despesas de transferência por necessidade de serviço são de responsabilidade da ECT.",
+    "observacao": "Idêntica ao DC 2013-2014.",
+    "pagina_referencia": 2
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "FIN_AJUDA_CUSTO_TRANSFERENCIA",
+    "numero_clausula_original": 6,
+    "titulo_original": "AJUDA DE CUSTO NA TRANSFERÊNCIA",
+    "status": "ALTERADO",
+    "texto": "Calculada sobre salário-base + anuênios + IGQP incorporado + gratificação de função. Valor mínimo: R$ 1.244,95. Despesas de transferência por necessidade de serviço são de responsabilidade da ECT.",
+    "observacao": "Valor reajustado. Integra a lista de benefícios não salariais reajustados em 6,27%.",
+    "pagina_referencia": 75
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "FIN_AJUDA_CUSTO_TRANSFERENCIA",
+    "numero_clausula_original": 56,
+    "titulo_original": "AJUDA DE CUSTO NA TRANSFERÊNCIA",
+    "status": "MANTIDO",
+    "texto": "necessidade de serviço, continuará sendo calculada sobre o valor do salário-base, acrescido de anuênios, do IGQP incorporado e, quando for o caso, da gratificação de função. O valor mínimo da ajuda de custo será de R$ 1.365,68 (hum mil trezentos e sessenta e cinco reais e sessenta e oito centavos). §1° As despesas com a transferência por necessidade de serviço serão de responsabilidade dos Correios, nos termos do Manual de Pessoal – MANPES. §2° Os(as) empregados(as) transferidos para exercício de função gratificada ou de confiança, na localidade de destino, farão jus à respectiva gratificação a partir do início do período de trânsito, quando houver. §3° Os Correios darão especial atenção aos pedidos de transferência de empregados(as), observando os critérios vigentes no Sistema Nacional de transferência – SNT, procurando conciliar cada caso à real necessidade do serviço. 69 --- PAGINA 70 --CLÁUSULA 57 Cláusula 57 – ANTECIPAÇÃO DE 50% DA GRATIFICAÇÃO NATALINA – Os(As) empregados(as) que, em 2019 e 2020, não gozarem férias até junho e não optarem pelo recebimento por ocasião de suas férias, receberão, a título de adiantamento, a metade do 13° (décimo terceiro) salário em 2 (duas) parcelas, sendo: 25% (vinte e cinco por cento) na folha de pagamento do mês de março/2019 e março/2020 25% (vinte e cinco por cento) na de junho/2019 e junho/2020 ou, por sua opção, em uma só parcela de 50% (cinquenta por cento) na folha de pagamento de junho/2019 e junho de 2020. §1º A diferença entre o valor do 13° (décimo terceiro) salário e o que foi adiantado na forma da presente cláusula será paga até 20/12/2019. §2º Os Correios garantirão, aos(às) empregados(as) que optarem, o direito de receber a antecipação de 50% (cinquenta por cento) da gratificação natalina no seu período de férias, de janeiro a novembro. Observações: Adequação ao reajuste salarial de 3% - Acórdão do 2019/2021. 70 --- PAGINA 71 --CLÁUSULA 58",
+    "novo_id": false
+  }
+]

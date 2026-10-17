@@ -1,0 +1,31 @@
+{
+  "arquivo_origem": "Acordo-Coletivo-2008-2009-Complem-Ata-do-dia-13.10.2008.pdf",
+  "metadados_pdf": {
+    "titulo": null,
+    "autor": null,
+    "assunto": null,
+    "criador": "HP PDF Formatter version 1.0.0.446",
+    "produtor": "Adobe PDF Library 5.0",
+    "criado_em": "D:20081014085136-03'00'",
+    "modificado_em": "D:20090129121954-02'00'"
+  },
+  "paginas_info": [
+    {
+      "pagina": 1,
+      "metodo": "OCR",
+      "chars": 3922,
+      "conf_ocr": 91.5
+    },
+    {
+      "pagina": 2,
+      "metodo": "OCR",
+      "chars": 2753,
+      "conf_ocr": 87.1
+    }
+  ],
+  "paginas_total": 2,
+  "paginas_ocr": 2,
+  "conf_ocr_media": 89.3,
+  "metodo": "ocr",
+  "tempo_s": 6.34
+}

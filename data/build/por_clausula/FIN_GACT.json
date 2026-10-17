@@ -1,0 +1,56 @@
+[
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "FIN_GACT",
+    "numero_clausula_original": 64,
+    "titulo_original": "DA GRATIFICAÇÃO DO ACORDO COLETIVO DE TRABALHO 2015/2016 - GACT",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "valor": "R$ 150,00 a partir de 01/08/2015 e R$ 50,00 a partir de 01/01/2016",
+      "reflexos": [
+        "férias",
+        "13º",
+        "FGTS"
+      ],
+      "incorporacao_referencia_salarial": {
+        "01/01/2016": 100,
+        "01/08/2016": 50,
+        "01/01/2017": 50
+      }
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 35
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "FIN_GACT",
+    "numero_clausula_original": 65,
+    "titulo_original": "GRATIFICAÇÃO DO ACORDO COLETIVO DE TRABALHO 2015/2016 - GACT",
+    "status": "DEFERIDO",
+    "valor_atual": 150.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor": "R$ 150,00 (01/08/2015) + R$ 50,00 (01/01/2016)",
+      "incorporacao": {
+        "01/01/2016": 100,
+        "01/08/2016": 50,
+        "01/01/2017": 50
+      }
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "37"
+  }
+]

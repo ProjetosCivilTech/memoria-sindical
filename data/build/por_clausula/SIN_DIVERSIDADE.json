@@ -1,0 +1,121 @@
+[
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DIVERSIDADE",
+    "numero_clausula_original": 5,
+    "titulo_original": "DIVERSIDADE E INCLUSÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "publicos": [
+        "PCD",
+        "Jovens",
+        "Idosos",
+        "LGBT",
+        "Povos Indígenas"
+      ],
+      "campanhas": true,
+      "seminarios": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "4"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DIVERSIDADE",
+    "numero_clausula_original": 5,
+    "titulo_original": "VALORIZAÇÃO DA DIVERSIDADE HUMANA E RESPEITO ÀS DIFERENÇAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "campanhas_comunicacao": true,
+      "seminarios_foruns": true,
+      "comissoes_regionais": true,
+      "temas": [
+        "pessoas com deficiência",
+        "juventude",
+        "LGBT",
+        "pessoas idosas",
+        "povos indígenas"
+      ]
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 5
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DIVERSIDADE",
+    "numero_clausula_original": 5,
+    "titulo_original": "VALORIZAÇÃO DA DIVERSIDADE HUMANA E RESPEITO ÀS DIFERENÇAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "publicos": [
+        "PCD",
+        "Jovens",
+        "Idosos",
+        "LGBT",
+        "Povos Indígenas"
+      ],
+      "campanhas": true,
+      "comissoes_regionais": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "5"
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DIVERSIDADE",
+    "numero_clausula_original": 5,
+    "titulo_original": "VALORIZAÇÃO DA DIVERSIDADE HUMANA E RESPEITO ÀS DIFERENÇAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "campanhas_comunicacao": true,
+      "seminarios_foruns": true,
+      "comissoes_regionais": true,
+      "temas": [
+        "pessoas com deficiência",
+        "juventude",
+        "LGBT",
+        "pessoas idosas",
+        "povos indígenas"
+      ]
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 4
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "SIN_DIVERSIDADE",
+    "numero_clausula_original": 5,
+    "titulo_original": "VALORIZAÇÃO DA DIVERSIDADE HUMANA E RESPEITO ÀS DIFERENÇAS .............................................................",
+    "status": "MANTIDO",
+    "texto": "",
+    "novo_id": false
+  }
+]

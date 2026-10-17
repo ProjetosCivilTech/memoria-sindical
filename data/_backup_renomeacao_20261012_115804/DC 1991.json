@@ -1,0 +1,327 @@
+{
+  "metadados_documento": {
+    "tipo": "DC",
+    "ano_inicio": 1991,
+    "ano_fim": 1991,
+    "processo": "TST-DC-20.281/91",
+    "tribunal": "TST",
+    "orgao": "SDC",
+    "relator": "Ministro Marcelo Pimentel",
+    "data_julgamento": "1991-04-22",
+    "data_publicacao": null,
+    "entidade_patronal": "ECT",
+    "entidades_profissionais": ["FENTECT"],
+    "arquivo_origem": "Acordo-Coletivo-1991-parcial.pdf",
+    "greve": null,
+    "observacao": "Acordo Parcial homologado, contendo apenas as cláusulas efetivamente acordadas entre as partes durante a Audiência de Conciliação de 08/04/1991. Documento complementar ao ACT 1991 completo (não localizado)."
+  },
+  "clausulas": [
+    {
+      "id_canonico": "FIN_ADIANTAMENTO_FERIAS",
+      "numero_clausula_original": 4,
+      "titulo_original": "ADIANTAMENTO DE FÉRIAS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "valor": "um salário-base + anuênios + gratificação de função",
+        "parcelas": "2 a 5",
+        "inicio_restituicao": "primeiro pagamento imediatamente após o término do descanso",
+        "sem_reajuste": true,
+        "eficacia": "a partir da assinatura, sem retroação"
+      },
+      "pagina_referencia": 2
+    },
+    {
+      "id_canonico": "FIN_PAGAMENTO_SALARIO",
+      "numero_clausula_original": 5,
+      "titulo_original": "PAGAMENTO DE SALÁRIOS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "data_pagamento": "2º dia útil bancário do mês subsequente ao vencido",
+        "locais": "Administração Central e Diretorias Regionais"
+      },
+      "pagina_referencia": 2
+    },
+    {
+      "id_canonico": "FIN_ANUENIOS",
+      "numero_clausula_original": 11,
+      "titulo_original": "ANUÊNIOS",
+      "status": "DEFERIDO",
+      "valor_atual": 1,
+      "unidade": "%",
+      "detalhes": {
+        "percentual": 1,
+        "base_calculo": "salário-base",
+        "retroacao": "20/03/1969",
+        "vedacao_cumulacao_quinquenio": true,
+        "pagamento": "no mês em que completar mais um ano de serviço",
+        "nao_gera_direitos_pretéritos": true
+      },
+      "pagina_referencia": 2-3
+    },
+    {
+      "id_canonico": "FIN_ADICIONAL_NOTURNO",
+      "numero_clausula_original": 13,
+      "titulo_original": "ADICIONAL NOTURNO",
+      "status": "DEFERIDO",
+      "valor_atual": 45,
+      "unidade": "%",
+      "detalhes": {
+        "percentual": 45,
+        "base_calculo": "hora diurna sobre salário-base",
+        "horario": "22h às 05h"
+      },
+      "pagina_referencia": 3
+    },
+    {
+      "id_canonico": "FIN_GRATIFICACAO_FERIAS",
+      "numero_clausula_original": 15,
+      "titulo_original": "GRATIFICAÇÃO DE FÉRIAS",
+      "status": "DEFERIDO",
+      "valor_atual": 70,
+      "unidade": "%",
+      "detalhes": {
+        "percentual": 70,
+        "base_calculo": "remuneração vigente à data do início das férias",
+        "inclui_terco_constitucional": true
+      },
+      "pagina_referencia": 3
+    },
+    {
+      "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+      "numero_clausula_original": 17,
+      "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+      "status": "DEFERIDO",
+      "valor_atual": 6,
+      "unidade": "%",
+      "detalhes": {
+        "percentual": "6% da referência salarial B-24",
+        "publico_alvo": "Agências Categoria I, II, III",
+        "atividades": "recebimento e pagamento de dinheiro à vista",
+        "vedacao_acumulacao": "prevalece a maior gratificação",
+        "eficacia": "a partir da assinatura, sem retroação"
+      },
+      "pagina_referencia": 3-4
+    },
+    {
+      "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+      "numero_clausula_original": 18,
+      "titulo_original": "AUXÍLIO-CRECHE E PRÉ-ESCOLAR",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "idade_limite": "até 7 anos",
+        "base_legal": "documento básico respectivo",
+        "extensao_pai_solteiro_viuvo": true,
+        "extensao_licenca_gestante": true
+      },
+      "pagina_referencia": 4
+    },
+    {
+      "id_canonico": "FIN_VALE_CESTA",
+      "numero_clausula_original": 23,
+      "titulo_original": "CESTA BÁSICA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "compartilhamento": {
+          "Nivel_Basico_B01_B34": 30,
+          "Nivel_Medio_M01_M17": 40,
+          "Nivel_Superior_S01_S24": 50
+        },
+        "regionalizacao": true,
+        "extensao_afastados": "45 dias (licença médica, acidente, gestante)"
+      },
+      "pagina_referencia": 4-5
+    },
+    {
+      "id_canonico": "FIN_HORAS_EXTRAS",
+      "numero_clausula_original": 29,
+      "titulo_original": "HORAS EXTRAS",
+      "status": "DEFERIDO",
+      "valor_atual": 60,
+      "unidade": "%",
+      "detalhes": {
+        "percentual": 60,
+        "base_calculo": "hora normal sobre salário-base",
+        "pagamento": "até o 10º dia útil do mês subsequente",
+        "repouso_trabalhado": "mais um dia, sem prejuízo do repouso remunerado"
+      },
+      "pagina_referencia": 5
+    },
+    {
+      "id_canonico": "SOC_LICENCA_ADOCAO",
+      "numero_clausula_original": 38,
+      "titulo_original": "LICENÇA-ADOÇÃO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "dias_licenca": 60,
+        "idade_crianca": "0 a 12 meses",
+        "inicio_contagem": "data da efetiva adoção"
+      },
+      "pagina_referencia": 5-6
+    },
+    {
+      "id_canonico": "TEC_INOVACOES",
+      "numero_clausula_original": 42,
+      "titulo_original": "INOVAÇÕES TECNOLÓGICAS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "compromisso": "reaproveitar prioritariamente pessoal afetado"
+      },
+      "pagina_referencia": 6
+    },
+    {
+      "id_canonico": "CON_TRANSFERENCIA_SERVICO_INTERNO",
+      "numero_clausula_original": 43,
+      "titulo_original": "TRANSFERÊNCIA PARA SERVIÇOS INTERNOS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "condicao": "mais de 20 anos de distribuição externa",
+        "requisitos": [
+          "existência de vaga para o cargo pleiteado",
+          "reclassificação sem alteração salarial",
+          "parecer favorável da Área de Treinamento ou recomendação do Serviço Médico da ECT"
+        ]
+      },
+      "pagina_referencia": 6
+    },
+    {
+      "id_canonico": "FIN_ADICIONAL_PENOSIDADE",
+      "numero_clausula_original": 46,
+      "titulo_original": "ADICIONAL DE PENOSIDADE",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "condicao": "regulamentação do art. 79, XXIII, da Constituição Federal"
+      },
+      "pagina_referencia": 6
+    },
+    {
+      "id_canonico": "SIN_REVOGACAO_SUSPENSOES",
+      "numero_clausula_original": 52,
+      "titulo_original": "REVOGAÇÃO DE SUSPENSÕES",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "compromisso": "reverter suspensões de contrato para apuração de falta grave de dirigentes sindicais",
+        "condicao": "objeto não submetido a inquérito policial"
+      },
+      "pagina_referencia": 7
+    },
+    {
+      "id_canonico": "SIN_QUADRO_AVISOS",
+      "numero_clausula_original": 57,
+      "titulo_original": "ATIVIDADES SINDICAIS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "instalacao_quadro": true,
+        "dimensoes": "1,00m x 1,20m",
+        "fundo_verde": true,
+        "chaves_exclusivas": true,
+        "acesso_dirigentes": "horários acordados",
+        "vedacao_politico_partidario": true
+      },
+      "pagina_referencia": 7-8
+    },
+    {
+      "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+      "numero_clausula_original": 63,
+      "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "quantidade": "2 membros por Diretoria de Sindicato e Federação",
+        "validade": "até 31/12/1991",
+        "abono_1_dia": "5 membros da Diretoria",
+        "solicitacao": "72 horas",
+        "eficacia": "a partir da assinatura, sem retroação"
+      },
+      "pagina_referencia": 8
+    },
+    {
+      "id_canonico": "PRO_DEFESA_MONOPOLIO",
+      "numero_clausula_original": 65,
+      "titulo_original": "DEFESA DO MONOPÓLIO POSTAL",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "compromisso": "intensificar ações de repressão à quebra do monopólio postal da União"
+      },
+      "pagina_referencia": 8
+    },
+    {
+      "id_canonico": "PRO_PRORROGACAO_REVISAO",
+      "numero_clausula_original": 74,
+      "titulo_original": "PRORROGAÇÃO, REVISÃO, DENÚNCIA OU REVOGAÇÃO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "base_legal": "Art. 615 da CLT"
+      },
+      "pagina_referencia": 9
+    },
+    {
+      "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+      "numero_clausula_original": 78,
+      "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "regra": "compensação para evitar duplicidade",
+        "prevalecimento": "norma mais vantajosa"
+      },
+      "pagina_referencia": 9
+    },
+    {
+      "id_canonico": "PRO_ABRANGENCIA",
+      "numero_clausula_original": 80,
+      "titulo_original": "ABRANGÊNCIA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "publico_alvo": "empregados do quadro da ECT na Administração Central e Diretorias Regionais",
+        "extensao_novos": "admitidos durante a vigência"
+      },
+      "pagina_referencia": 9
+    },
+    {
+      "id_canonico": "FIN_ANTECIPACAO_13",
+      "numero_clausula_original": 81,
+      "titulo_original": "ADIANTAMENTO DA 1ª PARCELA DO 13º SALÁRIO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "percentual": 50,
+        "pagamento": "junho de 1991",
+        "condicao": "empregados que não gozaram férias até julho de 1991",
+        "segunda_parcela": "até 20/12/1991",
+        "opcao_nao_recebimento": true
+      },
+      "pagina_referencia": 9-10
+    },
+    {
+      "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+      "numero_clausula_original": 82,
+      "titulo_original": "AUXÍLIO ESCOLAR PARA FILHOS EXCEPCIONAIS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "valor_limite": "8 MVRs mensais",
+        "publico_alvo": "filhos menores de 16 anos",
+        "tipo_despesa": "instituições escolares especializadas em educação e desenvolvimento psicomotor",
+        "extensao_pai_solteiro_viuvo": true,
+        "extensao_licenca_gestante": true
+      },
+      "pagina_referencia": 10
+    }
+  ],
+  "temas_nao_mapeados": [],
+  "retorno_ao_trabalho": null,
+  "dispositivo_final": {
+    "vigencia": null,
+    "data_assinatura": "1991-04-22",
+    "local": "Brasília/DF",
+    "observacoes": "Acordo Parcial homologado no Dissídio Coletivo TST-DC-20.281/91, em Audiência de Conciliação e Instrução de 08/04/1991. Contém apenas as cláusulas efetivamente acordadas entre as partes. É complementar ao ACT 1991 completo (não localizado nesta base)."
+  },
+  "notas_metodologicas": [
+    {
+      "tipo": "ACORDO_PARCIAL",
+      "tema": "GERAL",
+      "descricao": "Documento é um Acordo Parcial (não o ACT 1991 completo), homologado no TST no DC 20.281/91. Contém 22 cláusulas numeradas pela posição no ACT 1991 completo (Cláusula 4, 5, 11, 13, 15, 17, 18, 23, 29, 38, 42, 43, 46, 52, 57, 63, 65, 74, 78, 80, 81, 82)."
+    },
+    {
+      "tipo": "COMPLEMENTAR",
+      "tema": "GERAL",
+      "descricao": "O ACT 1991 completo não está disponível na pasta dados/. Este acordo parcial cobre as cláusulas que foram negociadas naquele ano. As demais cláusulas do ACT 1991 permanecem como lacuna na base."
+    }
+  ]
+}

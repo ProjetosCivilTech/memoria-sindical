@@ -1,0 +1,95 @@
+[
+  {
+    "ano_inicio": 1990,
+    "ano_fim": 1991,
+    "tipo": "ACT",
+    "id_canonico": "SOC_AUXILIO_DOENCA",
+    "numero_clausula_original": 15,
+    "titulo_original": "AUXÍLIO-DOENÇA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "convênio com INPS para pagamento pela ECT com posterior reembolso"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "7"
+  },
+  {
+    "ano_inicio": 1993,
+    "ano_fim": 1994,
+    "tipo": "ACT",
+    "id_canonico": "SOC_AUXILIO_DOENCA",
+    "numero_clausula_original": 13,
+    "titulo_original": "AUXÍLIO-DOENÇA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "convênio INSS com reembolso mensal"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "8"
+  },
+  {
+    "ano_inicio": 1994,
+    "ano_fim": 1995,
+    "tipo": "ACT",
+    "id_canonico": "SOC_AUXILIO_DOENCA",
+    "numero_clausula_original": 12,
+    "titulo_original": "AUXÍLIO DOENÇA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "atuar junto ao INSS para viabilizar convênio de pagamento"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "5"
+  },
+  {
+    "ano_inicio": 1995,
+    "ano_fim": 1996,
+    "tipo": "ACT",
+    "id_canonico": "SOC_AUXILIO_DOENCA",
+    "numero_clausula_original": 11,
+    "titulo_original": "AUXÍLIO-DOENÇA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "convênio INSS"
+    }
+  },
+  {
+    "ano_inicio": 1997,
+    "ano_fim": 1998,
+    "tipo": "ACT",
+    "id_canonico": "SOC_AUXILIO_DOENCA",
+    "numero_clausula_original": 11,
+    "titulo_original": "AUXÍLIO-DOENÇA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "convênio_INSS": true
+    }
+  },
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "SOC_AUXILIO_DOENCA",
+    "numero_clausula_original": 11,
+    "titulo_original": "AUXÍLIO-DOENÇA",
+    "status": "DEFERIDO"
+  },
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "SOC_AUXILIO_DOENCA",
+    "numero_clausula_original": 11,
+    "titulo_original": "AUXÍLIO-DOENÇA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "atuar junto ao INSS para viabilizar convênio de pagamento"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "5"
+  }
+]

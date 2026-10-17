@@ -1,0 +1,127 @@
+{
+  "arquivo_origem": "Acordo-Coletivo-1999-2000.pdf",
+  "metadados_pdf": {
+    "titulo": "Acordo Coletivo 1999 2000",
+    "autor": null,
+    "assunto": null,
+    "criador": "PDF reDirect v2",
+    "produtor": "EXP Systems LLC (www.exp-systems.com)",
+    "criado_em": "D:20070319173922",
+    "modificado_em": "D:20070319173940+03'00'"
+  },
+  "paginas_info": [
+    {
+      "pagina": 1,
+      "metodo": "OCR",
+      "chars": 2139,
+      "conf_ocr": 77.1
+    },
+    {
+      "pagina": 2,
+      "metodo": "OCR",
+      "chars": 1857,
+      "conf_ocr": 80.7
+    },
+    {
+      "pagina": 3,
+      "metodo": "OCR",
+      "chars": 2078,
+      "conf_ocr": 82.9
+    },
+    {
+      "pagina": 4,
+      "metodo": "OCR",
+      "chars": 2025,
+      "conf_ocr": 83.7
+    },
+    {
+      "pagina": 5,
+      "metodo": "OCR",
+      "chars": 2042,
+      "conf_ocr": 79.4
+    },
+    {
+      "pagina": 6,
+      "metodo": "OCR",
+      "chars": 1760,
+      "conf_ocr": 79.9
+    },
+    {
+      "pagina": 7,
+      "metodo": "OCR",
+      "chars": 2080,
+      "conf_ocr": 77.8
+    },
+    {
+      "pagina": 8,
+      "metodo": "OCR",
+      "chars": 1720,
+      "conf_ocr": 81.5
+    },
+    {
+      "pagina": 9,
+      "metodo": "OCR",
+      "chars": 1979,
+      "conf_ocr": 77.8
+    },
+    {
+      "pagina": 10,
+      "metodo": "OCR",
+      "chars": 1849,
+      "conf_ocr": 77.9
+    },
+    {
+      "pagina": 11,
+      "metodo": "OCR",
+      "chars": 1992,
+      "conf_ocr": 80.0
+    },
+    {
+      "pagina": 12,
+      "metodo": "OCR",
+      "chars": 1837,
+      "conf_ocr": 79.1
+    },
+    {
+      "pagina": 13,
+      "metodo": "OCR",
+      "chars": 2209,
+      "conf_ocr": 66.4
+    },
+    {
+      "pagina": 14,
+      "metodo": "OCR",
+      "chars": 1934,
+      "conf_ocr": 79.2
+    },
+    {
+      "pagina": 15,
+      "metodo": "OCR",
+      "chars": 1734,
+      "conf_ocr": 80.0
+    },
+    {
+      "pagina": 16,
+      "metodo": "OCR",
+      "chars": 1967,
+      "conf_ocr": 81.8
+    },
+    {
+      "pagina": 17,
+      "metodo": "OCR",
+      "chars": 1972,
+      "conf_ocr": 76.3
+    },
+    {
+      "pagina": 18,
+      "metodo": "OCR",
+      "chars": 1222,
+      "conf_ocr": 67.4
+    }
+  ],
+  "paginas_total": 18,
+  "paginas_ocr": 18,
+  "conf_ocr_media": 78.3,
+  "metodo": "ocr",
+  "tempo_s": 32.86
+}

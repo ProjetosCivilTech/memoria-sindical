@@ -1,0 +1,51 @@
+[
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "SIN_PROMOCAO_EQUIDADE_GENERO",
+    "numero_clausula_original": 15,
+    "titulo_original": "PROMOÇÃO DA EQUIDADE DE GÊNERO E ENFRENTAMENTO AO SEXISMO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "plano_acao_genero": true,
+      "recorte_genero_lideranca": true,
+      "grupo_trabalho": "7 + 7"
+    },
+    "memoria_negociacao": null,
+    "observacao": "Nova cláusula.",
+    "pagina_referencia": "10-11"
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "SIN_PROMOCAO_EQUIDADE_GENERO",
+    "numero_clausula_original": 15,
+    "titulo_original": "PROMOÇÃO DA EQUIDADE DE GÊNERO E ENFRENTAMENTO AO SEXISMO",
+    "status": "INDEFERIDO",
+    "detalhes": {
+      "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+    },
+    "memoria_negociacao": "SDC indeferiu",
+    "observacao": null,
+    "pagina_referencia": "113"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "SIN_PROMOCAO_EQUIDADE_GENERO",
+    "numero_clausula_original": 21,
+    "titulo_original": "PROMOÇÃO DA EQUIDADE DE GÊNERO E ENFRENTAMENTO AO SEXISMO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "plano_acao_genero": true,
+      "grupo_trabalho": "7 + 7",
+      "reserva_vagas_bolsas": "Mulheres"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "4-5"
+  }
+]

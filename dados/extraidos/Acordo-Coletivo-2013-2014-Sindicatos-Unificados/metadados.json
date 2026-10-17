@@ -1,0 +1,31 @@
+{
+  "arquivo_origem": "Acordo-Coletivo-2013-2014-Sindicatos-Unificados.pdf",
+  "metadados_pdf": {
+    "titulo": "Avision",
+    "autor": null,
+    "assunto": "PDF Image",
+    "criador": "Avision Button Manager 1.1.4.0",
+    "produtor": "Adobe PDF Scan Library 2.2",
+    "criado_em": "D:20130916190023-03'00'",
+    "modificado_em": "D:20130916190044-03'00'"
+  },
+  "paginas_info": [
+    {
+      "pagina": 1,
+      "metodo": "OCR",
+      "chars": 2111,
+      "conf_ocr": 92.9
+    },
+    {
+      "pagina": 2,
+      "metodo": "OCR",
+      "chars": 341,
+      "conf_ocr": 77.3
+    }
+  ],
+  "paginas_total": 2,
+  "paginas_ocr": 2,
+  "conf_ocr_media": 85.1,
+  "metodo": "ocr",
+  "tempo_s": 3.16
+}

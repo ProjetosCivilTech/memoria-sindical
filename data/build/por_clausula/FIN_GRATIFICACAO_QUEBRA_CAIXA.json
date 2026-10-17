@@ -1,0 +1,645 @@
+[
+  {
+    "ano_inicio": 1991,
+    "ano_fim": 1991,
+    "tipo": "DC",
+    "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+    "numero_clausula_original": 17,
+    "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+    "status": "DEFERIDO",
+    "valor_atual": 6,
+    "unidade": "%",
+    "detalhes": {
+      "percentual": "6% da referência salarial B-24",
+      "publico_alvo": "Agências Categoria I, II, III",
+      "atividades": "recebimento e pagamento de dinheiro à vista",
+      "vedacao_acumulacao": "prevalece a maior gratificação",
+      "eficacia": "a partir da assinatura, sem retroação"
+    },
+    "pagina_referencia": "3-4"
+  },
+  {
+    "ano_inicio": 1992,
+    "ano_fim": 1992,
+    "tipo": "ACT",
+    "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+    "numero_clausula_original": 19,
+    "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+    "status": "DEFERIDO",
+    "valor_atual": 6,
+    "unidade": "%",
+    "detalhes": {
+      "percentual": "6% da referência B-24",
+      "publico_alvo": "Agências Categoria I, II, III, IV",
+      "vedacao_acumulacao": true
+    },
+    "pagina_referencia": "5"
+  },
+  {
+    "ano_inicio": 1993,
+    "ano_fim": 1994,
+    "tipo": "ACT",
+    "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+    "numero_clausula_original": 19,
+    "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+    "status": "DEFERIDO",
+    "valor_atual": 6,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": "6% da referência B-24",
+      "publico_alvo": "Agências de categoria I a V"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "12"
+  },
+  {
+    "ano_inicio": 1994,
+    "ano_fim": 1995,
+    "tipo": "ACT",
+    "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+    "numero_clausula_original": 24,
+    "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "valor": "8% da referência salarial B-24",
+      "publico_alvo": "Agências de Categoria I a V"
+    },
+    "memoria_negociacao": null,
+    "observacao": "Valor calculado como percentual da referência B-24.",
+    "pagina_referencia": "8"
+  },
+  {
+    "ano_inicio": 1995,
+    "ano_fim": 1996,
+    "tipo": "ACT",
+    "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+    "numero_clausula_original": 25,
+    "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+    "status": "DEFERIDO",
+    "valor_atual": 42.05,
+    "unidade": "BRL",
+    "detalhes": {
+      "publico_alvo": "Agências Categoria I a V"
+    }
+  },
+  {
+    "ano_inicio": 1997,
+    "ano_fim": 1998,
+    "tipo": "ACT",
+    "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+    "numero_clausula_original": 25,
+    "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+    "status": "DEFERIDO",
+    "valor_atual": 45.6,
+    "unidade": "BRL",
+    "detalhes": {
+      "publico_alvo": "Agências Categoria I a V"
+    }
+  },
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+    "numero_clausula_original": 27,
+    "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+    "status": "DEFERIDO",
+    "valor_atual": 45.6,
+    "unidade": "BRL",
+    "detalhes": {
+      "publico_alvo": "Agências Categoria I a V"
+    }
+  },
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+    "numero_clausula_original": 27,
+    "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+    "status": "DEFERIDO",
+    "valor_atual": 45.6,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_unico": 45.6,
+      "publico_alvo": "Agências de Categoria I a V"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "9-10"
+  },
+  {
+    "ano_inicio": 2000,
+    "ano_fim": 2001,
+    "tipo": "DC",
+    "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+    "numero_clausula_original": 22,
+    "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": 45.6,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_unico": 45.6,
+      "publico_alvo": "guichês de Agências de Categoria I a V"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "Cláusula incontroversa.",
+    "pagina_referencia": "7"
+  },
+  {
+    "ano_inicio": 2001,
+    "ano_fim": 2002,
+    "tipo": "ACT",
+    "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+    "numero_clausula_original": 22,
+    "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+    "status": "DEFERIDO",
+    "valor_anterior": 50.0,
+    "valor_atual": 50.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_unico": 50.0,
+      "publico_alvo": "guichês de agências"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "7"
+  },
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+    "numero_clausula_original": 30,
+    "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+    "status": "DEFERIDO",
+    "valor_anterior": 50.0,
+    "valor_atual": 75.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_unico": 75.0,
+      "publico_alvo": "guichês de agências"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Reajuste para R$ 75,00",
+      "pedido_fentect": "Reajuste",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": "Não há diferenciação entre agências com e sem Banco Postal nesta versão.",
+    "pagina_referencia": "16"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+    "numero_clausula_original": 30,
+    "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+    "status": "DEFERIDO",
+    "valor_anterior": 75.0,
+    "valor_atual": 79.5,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_sem_banco_postal": 79.5,
+      "valor_com_banco_postal": 106.0,
+      "publico_alvo": "guichês de agências"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Reajuste para R$ 79,50 e R$ 106,00",
+      "pedido_fentect": "Reajuste",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "14"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+    "numero_clausula_original": 30,
+    "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+    "status": "DEFERIDO",
+    "valor_anterior": 79.5,
+    "valor_atual": 87.45,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_sem_banco_postal": 87.45,
+      "valor_com_banco_postal": 116.6,
+      "publico_alvo": "guichês de agências"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Reajuste para R$ 87,45 e R$ 116,60",
+      "pedido_fentect": "Reajuste",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "10-11"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+    "numero_clausula_original": 30,
+    "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+    "status": "DEFERIDO",
+    "valor_atual": 100.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_sem_banco_postal": 100.0,
+      "valor_com_banco_postal": 133.0
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+    "numero_clausula_original": 30,
+    "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+    "status": "DEFERIDO",
+    "valor_anterior": 120.0,
+    "valor_atual": 120.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_sem_banco_postal": 120.0,
+      "valor_com_banco_postal": 160.0,
+      "publico_alvo": "guichês de agências"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "12"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+    "numero_clausula_original": 30,
+    "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+    "status": "DEFERIDO",
+    "valor_anterior": 120.0,
+    "valor_atual": 128.84,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_sem_banco_postal": 128.84,
+      "valor_com_banco_postal": 171.79,
+      "publico_alvo": "guichês de agências"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Reajuste para R$ 128,84 e R$ 171,79",
+      "pedido_fentect": "Reajuste",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 11
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+    "numero_clausula_original": 30,
+    "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+    "status": "DEFERIDO",
+    "valor_atual": 140.44,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_sem_banco_postal": 140.44,
+      "valor_com_banco_postal": 187.25,
+      "25% para cobertura de almoço": true
+    },
+    "memoria_negociacao": null,
+    "observacao": "Incluída regra de 25% para cobertura parcial em guichê.",
+    "pagina_referencia": "10"
+  },
+  {
+    "ano_inicio": 2011,
+    "ano_fim": 2012,
+    "tipo": "DCG",
+    "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+    "numero_clausula_original": 30,
+    "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+    "status": "DEFERIDO",
+    "valor_anterior": 150.09,
+    "valor_atual": 150.09,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_sem_banco_postal": 150.09,
+      "valor_com_banco_postal": 200.11,
+      "publico_alvo": "guichês de agências"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção",
+      "pedido_fentect": "Reajuste",
+      "decisao_tst": "DEFERE a manutenção com reajuste de 6,87%",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 56
+  },
+  {
+    "ano_inicio": 2012,
+    "ano_fim": 2013,
+    "tipo": "DCG",
+    "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+    "numero_clausula_original": 30,
+    "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+    "status": "DEFERIDO",
+    "valor_anterior": 150.09,
+    "valor_atual": 159.84,
+    "unidade": "BRL",
+    "variacao_percentual": "6,5",
+    "detalhes": {
+      "valor_sem_banco_postal": 159.84,
+      "valor_com_banco_postal": 213.12,
+      "reajuste_aplicado": "6,5%",
+      "publico_alvo": "guichês de agências"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção",
+      "pedido_fentect": "Reajuste",
+      "decisao_tst": "DEFERE reajuste de 6,5%",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 56
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+    "numero_clausula_original": 30,
+    "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+    "status": "MANTIDO",
+    "texto": "R$ 172,63 (agências sem Banco Postal) ou R$ 230,17 (agências com Banco Postal). Prevalece a maior se houver outra gratificação. Cobertura de horário de almoço: 25% do valor. Não gera direitos pretéritos.",
+    "observacao": "Idêntica ao DC 2013-2014.",
+    "pagina_referencia": 9
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+    "numero_clausula_original": 30,
+    "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+    "status": "MANTIDO",
+    "texto": "R$ 172,63 (agências sem Banco Postal) ou R$ 230,17 (agências com Banco Postal). Prevalece a maior se houver outra gratificação. Cobertura de horário de almoço: 25% do valor. Não gera direitos sobre pagamentos pretéritos.",
+    "observacao": "Idêntica ao DC 2012-2013.",
+    "pagina_referencia": 87
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+    "numero_clausula_original": 60,
+    "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+    "status": "DEFERIDO",
+    "valor_atual": 183.85,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_sem_banco_postal": 183.85,
+      "valor_com_banco_postal": 245.14,
+      "25% para cobertura parcial": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "26"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+    "numero_clausula_original": 60,
+    "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+    "status": "DEFERIDO",
+    "valor_anterior": 183.85,
+    "valor_atual": 183.85,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_sem_banco_postal": 183.85,
+      "valor_com_banco_postal": 245.14,
+      "publico_alvo": "guichês de agências",
+      "participacao_parcial": "25% para cobertura de almoço"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 34
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+    "numero_clausula_original": 60,
+    "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+    "status": "DEFERIDO",
+    "valor_atual": 183.85,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_sem_banco_postal": 183.85,
+      "valor_com_banco_postal": 245.14,
+      "25% para cobertura parcial": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "36"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+    "numero_clausula_original": 60,
+    "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+    "status": "DEFERIDO",
+    "valor_atual": 187.66,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_sem_banco_postal": 187.66,
+      "valor_com_banco_postal": 250.21,
+      "participacao_parcial": "25% para cobertura de almoço"
+    },
+    "pagina_referencia": "84-85"
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+    "numero_clausula_original": 60,
+    "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+    "status": "DEFERIDO",
+    "valor_anterior": 194.43,
+    "valor_atual": 194.43,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_sem_banco_postal": 194.43,
+      "valor_com_banco_postal": 259.24,
+      "publico_alvo": "guichês de agências",
+      "participacao_parcial": "25% para cobertura de almoço"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 34
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+    "numero_clausula_original": 60,
+    "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+    "status": "MANTIDO",
+    "texto": "durante toda a sua jornada de trabalho as atividades de recebimento e pagamento de dinheiro à vista (em espécie ou em cheque), em guichês de Agências, gratificação de quebra de caixa no seguinte valor: I – R$ 200,26 (duzentos reais e vinte e seis centavos) para os(as) empregados(as) que atuam em guichê de agências que não operam o Banco Postal. II – R$ 267,02 (duzentos e sessenta e sete reais e dois centavos) para os(as) empregados(as) que atuam em guichê de agências que operam o Banco Postal. §1º Se o(a) empregado(a) estiver recebendo ou vier receber qualquer outra gratificação de função, prevalecerá a maior, para que não haja acumulação de vantagens. §2º A vantagem prevista nesta cláusula não gera direitos em relação a pagamentos pretéritos. §3º A partir de janeiro de 2010, os(as) empregados(as) que atuarem em parte da sua jornada diária de trabalho, em guichês de Agências, cobrindo horário de almoço de titular de guichê, farão jus a 25% (vinte e cinco por cento) do valor previsto nos incisos \"I\" e \"II\", conforme o caso. Observações: Adequação ao reajuste salarial de 3% - Acórdão do 2019/2021. 73 --- PAGINA 74 --CLÁUSULA 61",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+    "numero_clausula_original": 60,
+    "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+    "status": "INDEFERIDO",
+    "detalhes": {
+      "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+    },
+    "memoria_negociacao": "SDC indeferiu",
+    "observacao": null,
+    "pagina_referencia": "113"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+    "numero_clausula_original": 57,
+    "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+    "status": "DEFERIDO",
+    "valor_atual": 257.07,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor": 257.07,
+      "25% cobertura parcial": true
+    },
+    "memoria_negociacao": null,
+    "observacao": "Valor único sem diferenciação.",
+    "pagina_referencia": "12"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+    "numero_clausula_original": 60,
+    "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": 267.64,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor": 267.64,
+      "publico_alvo": "guichês de agências",
+      "participacao_parcial": "25% para cobertura de almoço"
+    },
+    "observacao": "No DC 2025/2026, o valor foi reajustado para R$ 281,29 (5,10%).",
+    "pagina_referencia": 22
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+    "numero_clausula_original": 52,
+    "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+    "status": "DEFERIDO",
+    "valor_anterior": 281.29,
+    "valor_atual": 292.24,
+    "unidade": "BRL",
+    "variacao_percentual": "3,89",
+    "detalhes": {
+      "valor": 292.24,
+      "reajuste_aplicado": "4,09%",
+      "publico_alvo": "guichês de agências",
+      "participacao_parcial": "25% para cobertura de almoço"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção com reajuste de 2,61%",
+      "pedido_fentect": "Substituir valor fixo por 30% do salário-base",
+      "pedido_findect": "Reajuste de 100% do INPC",
+      "decisao_tst": "DEFERE reajuste de 4,09%",
+      "fundamento_juridico": "Jurisprudência da SDC/TST",
+      "votos_divergentes": null
+    },
+    "observacao": "Reajuste de 4,09% sobre R$ 281,29 → R$ 292,24.",
+    "pagina_referencia": 22
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+    "numero_clausula_original": 52,
+    "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+    "status": "DEFERIDO_PARCIALMENTE",
+    "valor_anterior": 267.64,
+    "valor_atual": 281.29,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor": 281.29,
+      "reajuste_aplicado": "5,10%",
+      "publico_alvo": "guichês de agências",
+      "participacao_parcial": "25% para cobertura de almoço"
+    },
+    "pagina_referencia": "62-63"
+  }
+]

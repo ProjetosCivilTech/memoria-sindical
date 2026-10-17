@@ -1,0 +1,110 @@
+{
+  "datas_br": {
+    "total": 1,
+    "amostra": [
+      "17/09/93"
+    ]
+  },
+  "datas_ext": {
+    "total": 2,
+    "amostra": [
+      "2 de março de 1969",
+      "31 de dezembro de 2000"
+    ]
+  },
+  "valores_brl": {
+    "total": 7,
+    "amostra": [
+      "R$ 45",
+      "R$ 525",
+      "R$ 8,50",
+      "R$ 13,00",
+      "R$ 9,00",
+      "R$ 142,50",
+      "R$ 45,00"
+    ]
+  },
+  "percentuais": {
+    "total": 20,
+    "amostra": [
+      "0%",
+      "10%",
+      "20%",
+      "70%",
+      "15%",
+      "154%",
+      "50%",
+      "25%",
+      "25%",
+      "70%",
+      "2%",
+      "50%",
+      "38%",
+      "50%",
+      "15%",
+      "20%",
+      "2%",
+      "15%",
+      "1%",
+      "4%"
+    ]
+  },
+  "clausulas": {
+    "total": 12,
+    "amostra": [
+      "1",
+      "82",
+      "4",
+      "3",
+      "83",
+      "19",
+      "82",
+      "84",
+      "4",
+      "15",
+      "28",
+      "5"
+    ]
+  },
+  "processos_tst": {
+    "total": 0,
+    "amostra": []
+  },
+  "cnpj": {
+    "total": 0,
+    "amostra": []
+  },
+  "artigos": {
+    "total": 1,
+    "amostra": [
+      "art. 615"
+    ]
+  },
+  "incisos": {
+    "total": 18,
+    "amostra": [
+      "DI",
+      "I",
+      "I",
+      "III",
+      "IV",
+      "LLX",
+      "DC",
+      "DI",
+      "DC",
+      "ML",
+      "IL",
+      "MD",
+      "LM",
+      "DC",
+      "DD",
+      "LL",
+      "LI",
+      "I"
+    ]
+  },
+  "paragrafos": {
+    "total": 0,
+    "amostra": []
+  }
+}

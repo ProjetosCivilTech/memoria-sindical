@@ -1,0 +1,104 @@
+[
+  {
+    "ano_inicio": 1995,
+    "ano_fim": 1996,
+    "tipo": "ACT",
+    "id_canonico": "PRO_PERIODO_FERIAS",
+    "numero_clausula_original": 35,
+    "titulo_original": "PERÍODO DE CONCESSÃO DE FÉRIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "periodo_concessivo": "entre dias 5 e 15",
+      "programacao": "15% por mês de jan a out",
+      "excecao": "nov e dez"
+    }
+  },
+  {
+    "ano_inicio": 1997,
+    "ano_fim": 1998,
+    "tipo": "ACT",
+    "id_canonico": "PRO_PERIODO_FERIAS",
+    "numero_clausula_original": 35,
+    "titulo_original": "PERÍODO DE CONCESSÃO DE FÉRIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "periodo_concessivo": "dias 5 a 15",
+      "15%_por_mes": true
+    }
+  },
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "PRO_PERIODO_FERIAS",
+    "numero_clausula_original": 38,
+    "titulo_original": "PERÍODO DE CONCESSÃO DE FÉRIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "periodo_concessivo": "dias 5 a 15",
+      "15%_por_mes": true
+    }
+  },
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "PRO_PERIODO_FERIAS",
+    "numero_clausula_original": 39,
+    "titulo_original": "PERÍODO DE CONCESSÃO DE FÉRIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "inicio_periodo_concessivo": "dias 5 e 15 de cada mês",
+      "programacao": "janeiro a outubro, até 15% do pessoal"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "13"
+  },
+  {
+    "ano_inicio": 2000,
+    "ano_fim": 2001,
+    "tipo": "DC",
+    "id_canonico": "PRO_PERIODO_FERIAS",
+    "numero_clausula_original": 37,
+    "titulo_original": "PERÍODO DE CONCESSÃO DE FÉRIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "inicio_periodo_concessivo": "entre dias 5 e 15 de cada mês",
+      "programacao": "janeiro a outubro, até 15% do pessoal por mês",
+      "excecao": "novembro e dezembro conforme necessidade operacional"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "Cláusula incontroversa.",
+    "pagina_referencia": "8"
+  },
+  {
+    "ano_inicio": 2001,
+    "ano_fim": 2002,
+    "tipo": "ACT",
+    "id_canonico": "PRO_PERIODO_FERIAS",
+    "numero_clausula_original": 34,
+    "titulo_original": "PERÍODO DE CONCESSÃO DE FÉRIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "inicio_periodo_concessivo": "entre dias 5 e 15 de cada mês",
+      "programacao": "janeiro a outubro, até 15% do pessoal por mês",
+      "excecao": "novembro e dezembro conforme necessidade operacional"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "9"
+  }
+]

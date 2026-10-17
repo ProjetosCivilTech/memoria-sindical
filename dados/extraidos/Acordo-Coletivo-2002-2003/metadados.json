@@ -1,0 +1,97 @@
+{
+  "arquivo_origem": "Acordo-Coletivo-2002-2003.pdf",
+  "metadados_pdf": {
+    "titulo": "Acordo Coletivo 2002 2003",
+    "autor": null,
+    "assunto": null,
+    "criador": "PDF reDirect v2",
+    "produtor": "EXP Systems LLC (www.exp-systems.com)",
+    "criado_em": "D:20070223094911",
+    "modificado_em": "D:20070223094928+03'00'"
+  },
+  "paginas_info": [
+    {
+      "pagina": 1,
+      "metodo": "OCR",
+      "chars": 2377,
+      "conf_ocr": 78.4
+    },
+    {
+      "pagina": 2,
+      "metodo": "OCR",
+      "chars": 2569,
+      "conf_ocr": 81.0
+    },
+    {
+      "pagina": 3,
+      "metodo": "OCR",
+      "chars": 2611,
+      "conf_ocr": 79.9
+    },
+    {
+      "pagina": 4,
+      "metodo": "OCR",
+      "chars": 2380,
+      "conf_ocr": 78.7
+    },
+    {
+      "pagina": 5,
+      "metodo": "OCR",
+      "chars": 2397,
+      "conf_ocr": 81.8
+    },
+    {
+      "pagina": 6,
+      "metodo": "OCR",
+      "chars": 2270,
+      "conf_ocr": 81.9
+    },
+    {
+      "pagina": 7,
+      "metodo": "OCR",
+      "chars": 2292,
+      "conf_ocr": 78.3
+    },
+    {
+      "pagina": 8,
+      "metodo": "OCR",
+      "chars": 2434,
+      "conf_ocr": 77.1
+    },
+    {
+      "pagina": 9,
+      "metodo": "OCR",
+      "chars": 2104,
+      "conf_ocr": 78.7
+    },
+    {
+      "pagina": 10,
+      "metodo": "OCR",
+      "chars": 2372,
+      "conf_ocr": 79.6
+    },
+    {
+      "pagina": 11,
+      "metodo": "OCR",
+      "chars": 2558,
+      "conf_ocr": 77.7
+    },
+    {
+      "pagina": 12,
+      "metodo": "OCR",
+      "chars": 2313,
+      "conf_ocr": 74.7
+    },
+    {
+      "pagina": 13,
+      "metodo": "OCR",
+      "chars": 1511,
+      "conf_ocr": 60.9
+    }
+  ],
+  "paginas_total": 13,
+  "paginas_ocr": 13,
+  "conf_ocr_media": 77.6,
+  "metodo": "ocr",
+  "tempo_s": 27.22
+}

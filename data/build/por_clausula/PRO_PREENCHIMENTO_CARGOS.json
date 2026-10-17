@@ -1,0 +1,19 @@
+[
+  {
+    "ano_inicio": 1988,
+    "ano_fim": 1989,
+    "tipo": "ACT",
+    "id_canonico": "PRO_PREENCHIMENTO_CARGOS",
+    "numero_clausula_original": 24,
+    "titulo_original": "PREENCHIMENTO DE CARGOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "politica": "priorização de pessoal interno via PSI",
+      "prerrogativa": "Presidência pode decidir em contrário",
+      "CAP": "até 50% das vagas para candidatos externos"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "7"
+  }
+]

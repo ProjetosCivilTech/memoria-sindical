@@ -1,0 +1,711 @@
+[
+  {
+    "ano_inicio": 1988,
+    "ano_fim": 1989,
+    "tipo": "ACT",
+    "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+    "numero_clausula_original": 17,
+    "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "quantidade": "Presidente e 1 Diretor por Diretoria Regional",
+      "onus": "sem prejuízo de remunerações",
+      "outros_dirigentes": "após registro no MTb, sem ônus para ECT"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "5"
+  },
+  {
+    "ano_inicio": 1990,
+    "ano_fim": 1991,
+    "tipo": "ACT",
+    "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+    "numero_clausula_original": 25,
+    "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "quantidade": "Presidente e 1 Diretor por Sindicato local",
+      "FENTECT": "2 diretores",
+      "outros_dirigentes": "liberação sem ônus, mínimo 10 dias, comunicação 3 dias"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "9"
+  },
+  {
+    "ano_inicio": 1991,
+    "ano_fim": 1991,
+    "tipo": "DC",
+    "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+    "numero_clausula_original": 63,
+    "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "quantidade": "2 membros por Diretoria de Sindicato e Federação",
+      "validade": "até 31/12/1991",
+      "abono_1_dia": "5 membros da Diretoria",
+      "solicitacao": "72 horas",
+      "eficacia": "a partir da assinatura, sem retroação"
+    },
+    "pagina_referencia": "8"
+  },
+  {
+    "ano_inicio": 1992,
+    "ano_fim": 1992,
+    "tipo": "ACT",
+    "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+    "numero_clausula_original": 26,
+    "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "quantidade": "2 membros por Diretoria de Sindicato e Federação",
+      "validade": "até 31/12/1992",
+      "abono_1_dia": "5 membros da Diretoria",
+      "solicitacao": "72 horas"
+    },
+    "pagina_referencia": "7"
+  },
+  {
+    "ano_inicio": 1993,
+    "ano_fim": 1994,
+    "tipo": "ACT",
+    "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+    "numero_clausula_original": 27,
+    "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "quantidade": "2 por Sindicato e 5 para FENTECT",
+      "validade": "até 31.12.93",
+      "abono_1_dia": "8 membros da Diretoria",
+      "solicitacao": "72 horas"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "15-16"
+  },
+  {
+    "ano_inicio": 1994,
+    "ano_fim": 1995,
+    "tipo": "ACT",
+    "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+    "numero_clausula_original": 27,
+    "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "quantidade_para_fentect": 7,
+      "quantidade_por_sindicato": 2,
+      "validade": "até 31/12/1994",
+      "abono_1_dia_mes": "8 membros da diretoria",
+      "antecedencia": "72 horas"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "9"
+  },
+  {
+    "ano_inicio": 1995,
+    "ano_fim": 1996,
+    "tipo": "ACT",
+    "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+    "numero_clausula_original": 29,
+    "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "quantidade_para_fentect": 7,
+      "quantidade_por_sindicato": 2,
+      "validade": "até 30/11/1996",
+      "abono_1_dia": "8 membros da diretoria",
+      "solicitacao": "72 horas"
+    }
+  },
+  {
+    "ano_inicio": 1997,
+    "ano_fim": 1998,
+    "tipo": "ACT",
+    "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+    "numero_clausula_original": 29,
+    "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "quantidade_fentect": 7,
+      "quantidade_por_sindicato": 2,
+      "validade": "até 31/07/1998",
+      "abono_1_dia": "8 membros",
+      "solicitacao": "72 horas"
+    }
+  },
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+    "numero_clausula_original": 31,
+    "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "quantidade_fentect": 7,
+      "quantidade_por_sindicato": 2,
+      "validade": "até 31/07/1999",
+      "abono_1_dia": "8 membros",
+      "solicitacao": "72 horas"
+    }
+  },
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+    "numero_clausula_original": 32,
+    "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "quantidade_para_fentect": "até 31/12/1999: 7; de 01/01/2000 a 31/12/2000: 4",
+      "quantidade_por_sindicato": "até 31/12/1999: 2; de 01/01/2000 a 31/12/2000: 1",
+      "apos_2000": "sem ônus para ECT",
+      "solicitacao": "72 horas de antecedência",
+      "nao_aplicavel": "entidades constituídas a partir de 01/08/1999"
+    },
+    "memoria_negociacao": null,
+    "observacao": "Liberação com redução gradual até 31/12/2000.",
+    "pagina_referencia": "11"
+  },
+  {
+    "ano_inicio": 2000,
+    "ano_fim": 2001,
+    "tipo": "DC",
+    "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+    "numero_clausula_original": 25,
+    "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "quantidade_para_fentect": 4,
+      "quantidade_por_sindicato": 1,
+      "solicitacao": "3 dias úteis de antecedência",
+      "validade": "até 31/12/2000",
+      "apos_31_12_2000": "sem ônus para ECT",
+      "nao_aplicavel": "entidades constituídas a partir de 01/08/2000"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Liberação de 1 por Sindicato e 4 para FENTECT até 31/12/2000",
+      "pedido_fentect": "2 dirigentes por sindicato e 7 para FENTECT",
+      "decisao_tst": "DEFERE como proposta pela ECT",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": "Cláusula social controvertida. Pedido da FENTECT não acolhido.",
+    "pagina_referencia": "16"
+  },
+  {
+    "ano_inicio": 2001,
+    "ano_fim": 2002,
+    "tipo": "ACT",
+    "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+    "numero_clausula_original": 26,
+    "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+    "status": "DEFERIDO",
+    "valor_anterior": 2,
+    "valor_atual": 1,
+    "unidade": "quantidade",
+    "detalhes": {
+      "quantidade_para_fentect": 4,
+      "quantidade_por_sindicato": 1,
+      "solicitacao": "3 dias úteis de antecedência",
+      "nao_aplicavel": "entidades constituídas a partir de 01/08/2001"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "8"
+  },
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+    "numero_clausula_original": 36,
+    "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+    "status": "DEFERIDO",
+    "valor_anterior": 7,
+    "valor_atual": 7,
+    "unidade": "quantidade",
+    "detalhes": {
+      "quantidade_para_fentect": 7,
+      "quantidade_por_sindicato": 3,
+      "onus_misto": true,
+      "solicitacao": "2 dias úteis de antecedência",
+      "manutencao_assistencia_medica": "até 15 dias",
+      "registro_frequencia": "Licença não Remunerada de Dirigente Sindical"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "18-19"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+    "numero_clausula_original": 36,
+    "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+    "status": "DEFERIDO",
+    "valor_anterior": 7,
+    "valor_atual": 7,
+    "unidade": "quantidade",
+    "detalhes": {
+      "quantidade_para_fentect": 7,
+      "quantidade_por_sindicato": 3,
+      "onus_misto": true,
+      "solicitacao": "2 dias úteis de antecedência",
+      "manutencao_assistencia_medica": "até 15 dias",
+      "registro_frequencia": "Licença não Remunerada de Dirigente Sindical"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "16-17"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+    "numero_clausula_original": 36,
+    "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+    "status": "DEFERIDO",
+    "valor_anterior": 7,
+    "valor_atual": 7,
+    "unidade": "quantidade",
+    "detalhes": {
+      "quantidade_para_fentect": 7,
+      "quantidade_por_sindicato": 3,
+      "onus_misto": true,
+      "solicitacao": "2 dias úteis de antecedência",
+      "manutencao_assistencia_medica": "até 15 dias",
+      "registro_frequencia": "Licença não Remunerada de Dirigente Sindical"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "12"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+    "numero_clausula_original": 36,
+    "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "quantidade_fentect": 7,
+      "quantidade_por_sindicato": 3,
+      "registro_frequencia": "Licença não Remunerada de Dirigente Sindical"
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+    "numero_clausula_original": 36,
+    "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+    "status": "DEFERIDO",
+    "valor_anterior": 9,
+    "valor_atual": 9,
+    "unidade": "quantidade",
+    "detalhes": {
+      "quantidade_para_fentect": 9,
+      "quantidade_por_sindicato": 4,
+      "onus_misto": true,
+      "solicitacao": "2 dias úteis de antecedência",
+      "manutencao_assistencia_medica": "até 15 dias",
+      "registro_frequencia": "Licença não Remunerada de Dirigente Sindical"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "14"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+    "numero_clausula_original": 36,
+    "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+    "status": "DEFERIDO",
+    "valor_anterior": 13,
+    "valor_atual": 13,
+    "unidade": "quantidade",
+    "detalhes": {
+      "quantidade_para_fentect": 9,
+      "quantidade_por_sindicato": 4,
+      "onus_misto": true,
+      "solicitacao": "2 dias úteis de antecedência",
+      "manutencao_assistencia_medica": "até 15 dias"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 12
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+    "numero_clausula_original": 36,
+    "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+    "status": "DEFERIDO",
+    "valor_atual": 11,
+    "unidade": "quantidade",
+    "detalhes": {
+      "quantidade_fentect": 11,
+      "quantidade_por_sindicato": 5,
+      "onus_misto": true,
+      "registro_frequencia": "Licença não Remunerada"
+    },
+    "memoria_negociacao": null,
+    "observacao": "Elevado de 9 para 11 dirigentes para FENTECT e de 4 para 5 por Sindicato.",
+    "pagina_referencia": "11"
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+    "numero_clausula_original": 36,
+    "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+    "status": "ALTERADO",
+    "texto": "ECT liberará 5 empregados por Sindicato dos Empregados dos Correios (bases até 10.000 empregados), sem prejuízo de remuneração. Em bases com efetivo superior a 10.000, será liberado 1 empregado a cada grupo de 2.500 (ou fração), limitado a 9 liberações. Para Federações legalmente constituídas, 1 empregado a cada grupo de 10.000 completos. Não se aplica a entidades constituídas a partir de 01/08/2009. Solicitação por escrito ao ASGET com 2 dias úteis. Liberação sem ônus registrada como Licença não Remunerada de Dirigente Sindical.",
+    "observacao": "DIFERENTE do DC: no DC são 11 fixos para FENTECT + 5 por sindicato. Aqui é escalonado por tamanho da base (5, +1 por 2.500 limitado a 9, +1 por 10.000 para federações).",
+    "pagina_referencia": 10
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+    "numero_clausula_original": 36,
+    "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+    "status": "MANTIDO",
+    "texto": "ECT libera 11 empregados para a FENTECT e 5 por sindicato, sem prejuízo de remuneração. Não se aplica a entidades constituídas a partir de 01/08/2009. Solicitação por escrito à GNEG/ASGET com 2 dias úteis de antecedência. Liberação sem ônus registrada como Licença não Remunerada de Dirigente Sindical.",
+    "observacao": "Idêntica ao DC 2012-2013.",
+    "pagina_referencia": 68
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+    "numero_clausula_original": 20,
+    "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+    "status": "DEFERIDO",
+    "valor_atual": 11,
+    "unidade": "quantidade",
+    "detalhes": {
+      "quantidade_federacao": 11,
+      "quantidade_por_sindicato": 5,
+      "bases_grandes": "+1 a cada 1.500 (limite 9)",
+      "registro_frequencia": "Licença não Remunerada",
+      "promocoes_anuenios_IGQP": true
+    },
+    "memoria_negociacao": null,
+    "observacao": "Garantido cômputo de período de liberação para promoções, anuênios e IGQP.",
+    "pagina_referencia": "10-11"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+    "numero_clausula_original": 20,
+    "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+    "status": "DEFERIDO",
+    "valor_anterior": 21,
+    "valor_atual": 21,
+    "unidade": "quantidade",
+    "detalhes": {
+      "quantidade_por_federacao": 11,
+      "quantidade_por_sindicato": 5,
+      "onus_misto": true,
+      "limite_total_por_federacao": 9,
+      "vantagens_mantidas": [
+        "Vales Alimentação/Refeição/Cesta",
+        "Vale Cultura"
+      ],
+      "criterios_remuneracao": "salários e encargos suportados pela entidade"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 12
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+    "numero_clausula_original": 20,
+    "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+    "status": "DEFERIDO",
+    "valor_atual": 11,
+    "unidade": "quantidade",
+    "detalhes": {
+      "quantidade_federacao": 11,
+      "quantidade_por_sindicato": 5,
+      "bases_grandes": "+1 a cada 1.500 (limite 9)",
+      "registro_frequencia": "Licença não Remunerada",
+      "promocoes_anuenios_IGQP": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "13-14"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+    "numero_clausula_original": 20,
+    "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+    "status": "DEFERIDO",
+    "valor_atual": 11,
+    "unidade": "quantidade",
+    "detalhes": {
+      "quantidade_por_federacao": 11,
+      "quantidade_por_sindicato": 5,
+      "bases_grandes": "+1 a cada 1.500 (limite 9)",
+      "onus_misto": true,
+      "manutencao_salarios": true,
+      "manutencao_vale_alimentacao": true,
+      "manutencao_vale_cultura": true,
+      "manutencao_assistencia_medica": true,
+      "consideracao_efetivo_exercicio": true,
+      "promocoes_anuenios_IGQP": true
+    },
+    "pagina_referencia": "34-37"
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+    "numero_clausula_original": 20,
+    "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+    "status": "DEFERIDO",
+    "valor_anterior": 21,
+    "valor_atual": 21,
+    "unidade": "quantidade",
+    "detalhes": {
+      "quantidade_por_federacao": 11,
+      "quantidade_por_sindicato": 5,
+      "onus_misto": true,
+      "limite_total_por_federacao": 9,
+      "vantagens_mantidas": [
+        "Vales Alimentação/Refeição/Cesta",
+        "Vale Cultura"
+      ],
+      "criterios_remuneracao": "salários e encargos suportados pela entidade"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 11
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+    "numero_clausula_original": 20,
+    "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+    "status": "MANTIDO",
+    "texto": "dos Trabalhadores dos Correios legalmente constituída e 5 (cinco) por Sindicato dos Empregados dos Correios, regularmente eleitos como dirigentes sindicais (comprovado por meio de Ata), nas bases sindicais com até 5.000 (cinco mil) empregados(as), sem prejuízo de suas remunerações e outras vantagens prescritas em lei. Nas bases sindicais com efetivo superior a 5.000 (cinco mil) empregados, será liberado mais 1 (um) empregado(a) a cada total de 1.500 (um mil e quinhentos), limitado a 9 (nove) liberações, sem prejuízo de suas remunerações e outras vantagens previstas em lei. §1º Nas liberações com ônus para as Federações de Trabalhadores legalmente constituídas ou Sindicatos dos Empregados dos Correios, os Correios manterão o pagamento dos salários e o recolhimento dos encargos respectivos, bem como o fornecimento dos Vales Alimentação/Refeição/Cesta e Vale Cultura, conforme os seus critérios, cujos valores serão totalmente suportados pelas entidades de representação, descontados das mensalidades a serem repassadas para as Federações/Sindicatos. I – As condições pactuadas no parágrafo 1º não descaracterizam a suspensão do contrato de trabalho. II – O não ressarcimento dos referidos valores, pelas entidades de representação, ensejará a imediata suspensão do pagamento dos salários e o recolhimento dos encargos e demais benefícios. §2° Toda e qualquer liberação de dirigente sindical, com ou sem ônus para os Correios, deverão ser solicitados, por escrito, à Gerência de Relações do Trabalho (se das Federações de Trabalhadores dos Correios legalmente constituídas) ou às áreas de Relações Sindicais e do Trabalho (se dos Sindicatos), e protocolizada, no mínimo, em até 2 (dois) dias úteis de antecedência da data de início da liberação. §3° As entidades sindicais deverão indicar, nas ocasiões oportunas e com o prazo de antecedência apontado no parágrafo anterior, o nome dos dirigentes e período que permanecerão liberados com e sem ônus para os Correios. §4° Nas liberações com ônus para as Federações de Trabalhadores dos Correios, legalmente constituídas ou Sindicatos dos Empregados dos Correios, será mantido o benefício de Assistência Médica regularmente compartilhada, sendo que a participação financeira dos(as) empregados(as) no custeio das despesas médicas se dará conforme previsto na Cláusula Assistência Médica/Hospitalar e Odontológica, do Acordo Coletivo de Trabalho vigente. §5º As despesas médicas relativas à parte da Empresa, dos(as) empregados(as) liberados co",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+    "numero_clausula_original": 20,
+    "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+    "status": "INDEFERIDO",
+    "detalhes": {
+      "motivo": "Por maioria, vencidos os Ministros Luiz Philippe Vieira de Mello Filho, Mauricio Godinho Delgado, Kátia Magalhães Arruda e Delaíde Alves Miranda Arantes",
+      "fundamento": "Cláusula com custo econômico significativo, não preexistente e não histórica"
+    },
+    "memoria_negociacao": "SDC indeferiu por maioria",
+    "observacao": "Consta do rol de cláusulas indeferidas no dispositivo final (pág. 113-114)",
+    "pagina_referencia": "113-114"
+  },
+  {
+    "ano_inicio": 2022,
+    "ano_fim": 2023,
+    "tipo": "ACT",
+    "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+    "numero_clausula_original": 11,
+    "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "quantidade_federacao": 7,
+      "quantidade_por_sindicato": 5,
+      "bases_grandes": "+1 a cada 1.500 (limite 7)",
+      "sintect_sp_rj": {
+        "total": 20,
+        "sem_onus": 13,
+        "com_onus": 7
+      },
+      "registro_frequencia": "Licença não Remunerada de Dirigente Sindical (sem ônus)",
+      "promocoes_anuenios_IGQP": true,
+      "antecedencia_solicitacao": "2 dias úteis"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "2-3"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+    "numero_clausula_original": 25,
+    "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+    "status": "DEFERIDO",
+    "valor_atual": 11,
+    "unidade": "quantidade",
+    "detalhes": {
+      "quantidade_federacao": 11,
+      "quantidade_por_sindicato": 6,
+      "bases_grandes": "+1 a cada 1.000 (limite 10)",
+      "limite_somatorio": 20,
+      "promocoes_anuenios_IGQP": true
+    },
+    "memoria_negociacao": null,
+    "observacao": "Aumentado de 5 para 6 por Sindicato.",
+    "pagina_referencia": "5-6"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+    "numero_clausula_original": 26,
+    "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": 21,
+    "unidade": "quantidade",
+    "detalhes": {
+      "quantidade_por_federacao": 15,
+      "quantidade_por_sindicato": 6,
+      "onus_misto": true,
+      "manutencao_salarios": true,
+      "manutencao_vale_alimentacao": true,
+      "manutencao_assistencia_medica": true,
+      "limite_total_por_federacao": 20
+    },
+    "observacao": "A ECT alegou custo de R$ 35 milhões/ano, mas a cláusula foi mantida no ACT.",
+    "pagina_referencia": 10
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+    "numero_clausula_original": 22,
+    "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+    "status": "INDEFERIDO",
+    "valor_anterior": 21,
+    "valor_atual": null,
+    "unidade": "quantidade",
+    "detalhes": {
+      "quantidade_por_federacao": 15,
+      "quantidade_por_sindicato": 6,
+      "onus_misto": true,
+      "limite_total_por_federacao": 20
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Excluir a cláusula",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Manutenção da cláusula preexistente",
+      "decisao_tst": "INDEFERE a cláusula",
+      "fundamento_juridico": "Ausência de norma preexistente; encargo financeiro sem previsão orçamentária",
+      "votos_divergentes": "Relatora votou por deferir; Ministra Maria Cristina Irigoyen Peduzzi divergiu"
+    },
+    "observacao": "**PERDA HISTÓRICA**. Cláusula que era prevista no ACT 2024/2025 e mantida no DC 2025/2026 foi INDEFERIDA no DC 2026/2027. Justificativa da ECT: custo de R$ 35 milhões/ano.",
+    "pagina_referencia": 11
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+    "numero_clausula_original": 22,
+    "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+    "status": "DEFERIDO",
+    "valor_atual": 21,
+    "unidade": "quantidade",
+    "detalhes": {
+      "quantidade_por_federacao": 15,
+      "quantidade_por_sindicato": 6,
+      "bases_grandes": "+1 a cada 1.000 (limite 10)",
+      "limite_total_por_federacao": 20,
+      "onus_misto": true,
+      "manutencao_salarios": true,
+      "manutencao_vale_alimentacao": true,
+      "manutencao_assistencia_medica": true,
+      "consideracao_efetivo_exercicio": true
+    },
+    "observacao": "ECT alegou custo de R$ 35 milhões/ano, mas TST manteve cláusula preexistente. No DC 2026/2027 a cláusula foi INDEFERIDA",
+    "pagina_referencia": "35-37"
+  }
+]

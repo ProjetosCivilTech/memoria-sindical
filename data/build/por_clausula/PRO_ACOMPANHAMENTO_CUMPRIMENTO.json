@@ -1,0 +1,213 @@
+[
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "PRO_ACOMPANHAMENTO_CUMPRIMENTO",
+    "numero_clausula_original": 77,
+    "titulo_original": "ACOMPANHAMENTO DO CUMPRIMENTO DE CLÁUSULAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "relatorios": "à Vice-Presidência do TST",
+      "PLR": "conclusão até 15/10/2014"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "32"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "PRO_ACOMPANHAMENTO_CUMPRIMENTO",
+    "numero_clausula_original": 79,
+    "titulo_original": "ACOMPANHAMENTO DO CUMPRIMENTO DE CLÁUSULAS DO ACORDO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "fornecimento_informacoes": "às Federações",
+      "prazo": "cláusulas que preveem prazo para implementação"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 42
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "PRO_ACOMPANHAMENTO_CUMPRIMENTO",
+    "numero_clausula_original": 79,
+    "titulo_original": "ACOMPANHAMENTO DO CUMPRIMENTO DE CLÁUSULAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "relatorios": "às Federações"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "43"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "PRO_ACOMPANHAMENTO_CUMPRIMENTO",
+    "numero_clausula_original": 77,
+    "titulo_original": "ACOMPANHAMENTO DO CUMPRIMENTO DE CLÁUSULAS DO ACORDO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "fornecimento_informacoes": "às Federações"
+    },
+    "pagina_referencia": 98
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "PRO_ACOMPANHAMENTO_CUMPRIMENTO",
+    "numero_clausula_original": 77,
+    "titulo_original": "ACOMPANHAMENTO DO CUMPRIMENTO DE CLÁUSULAS DO ACORDO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "fornecimento_informacoes": "às Federações",
+      "prazo": "cláusulas que preveem prazo para implementação"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 41
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "PRO_ACOMPANHAMENTO_CUMPRIMENTO",
+    "numero_clausula_original": 77,
+    "titulo_original": "ACOMPANHAMENTO DO CUMPRIMENTO DE CLÁUSULAS DO ACORDO ................................................................. 1",
+    "status": "MANTIDO",
+    "texto": "Cláusula 78 – CONCILIAÇÃO DE DIVERGÊNCIAS ............................................................................................................................. 131 Cláusula 79 – VIGÊNCIA .................................................................................................................................................................. 132 3 --- PAGINA 4 --DAS QUESTÕES SOCIAIS 4 --- PAGINA 5 --CLÁUSULA 01 TITULO I DAS QUESTÕES SOCIAIS Subtítulo I Diversidade, Inclusão e Direitos Humanos",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2020,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "PRO_ACOMPANHAMENTO_CUMPRIMENTO",
+    "numero_clausula_original": 27,
+    "titulo_original": "ACOMPANHAMENTO DO CUMPRIMENTO DE CLÁUSULAS DO ACORDO ...................................................................",
+    "status": "MANTIDO",
+    "texto": "Cláusula 28 – PENALIDADE ................................................................................................................................................................38 Cláusula 29 – VIGÊNCIA .....................................................................................................................................................................39 2 --- PAGINA 3 --CLÁUSULA 01",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "PRO_ACOMPANHAMENTO_CUMPRIMENTO",
+    "numero_clausula_original": 33,
+    "titulo_original": "ACOMPANHAMENTO DO CUMPRIMENTO DE CLÁUSULAS DO ACORDO (77ª do DCG 2019/2020)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "redacao": "Os Correios se comprometem a fornecer às Federações dos Trabalhadores, legalmente constituídas, informações a respeito do cumprimento das cláusulas que preveem prazo para sua implementação"
+    },
+    "memoria_negociacao": "Manutenção anuída pelas entidades sindicais",
+    "observacao": null,
+    "pagina_referencia": "67"
+  },
+  {
+    "ano_inicio": 2022,
+    "ano_fim": 2023,
+    "tipo": "ACT",
+    "id_canonico": "PRO_ACOMPANHAMENTO_CUMPRIMENTO",
+    "numero_clausula_original": 35,
+    "titulo_original": "ACOMPANHAMENTO DO CUMPRIMENTO DE CLÁUSULAS DO ACORDO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "fornecimento_informacoes": "às Federações signatárias"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "PRO_ACOMPANHAMENTO_CUMPRIMENTO",
+    "numero_clausula_original": 76,
+    "titulo_original": "ACOMPANHAMENTO DO CUMPRIMENTO DE CLÁUSULAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "relatorios": "às Federações"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "15"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "PRO_ACOMPANHAMENTO_CUMPRIMENTO",
+    "numero_clausula_original": 77,
+    "titulo_original": "ACOMPANHAMENTO DO CUMPRIMENTO DE CLÁUSULAS DO ACORDO",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "fornecimento_informacoes": "às Federações",
+      "prazo": "cláusulas que preveem prazo para implementação"
+    },
+    "observacao": null,
+    "pagina_referencia": 27
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "PRO_ACOMPANHAMENTO_CUMPRIMENTO",
+    "numero_clausula_original": 67,
+    "titulo_original": "ACOMPANHAMENTO DO CUMPRIMENTO DE CLÁUSULAS DA SENTENÇA NORMATIVA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "fornecimento_informacoes": "às Federações",
+      "prazo": "cláusulas que preveem prazo para implementação"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 28
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "PRO_ACOMPANHAMENTO_CUMPRIMENTO",
+    "numero_clausula_original": 67,
+    "titulo_original": "ACOMPANHAMENTO DO CUMPRIMENTO DE CLÁUSULAS DA SENTENÇA NORMATIVA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "fornecimento_informacoes": "às Federações"
+    },
+    "pagina_referencia": "78-79"
+  }
+]

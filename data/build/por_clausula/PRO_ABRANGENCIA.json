@@ -1,0 +1,60 @@
+[
+  {
+    "ano_inicio": 1988,
+    "ano_fim": 1989,
+    "tipo": "ACT",
+    "id_canonico": "PRO_ABRANGENCIA",
+    "numero_clausula_original": 1,
+    "titulo_original": "ABRANGÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "abrangencia": "empregados efetivos da ECT, lotados na Administração Central e em suas trinta Diretorias Regionais"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "1"
+  },
+  {
+    "ano_inicio": 1990,
+    "ano_fim": 1991,
+    "tipo": "ACT",
+    "id_canonico": "PRO_ABRANGENCIA",
+    "numero_clausula_original": 1,
+    "titulo_original": "ABRANGÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "abrangencia": "empregados do quadro de pessoal da ECT lotados na Administração Central e Diretorias Regionais, inclusive os admitidos na vigência"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "4"
+  },
+  {
+    "ano_inicio": 1991,
+    "ano_fim": 1991,
+    "tipo": "DC",
+    "id_canonico": "PRO_ABRANGENCIA",
+    "numero_clausula_original": 80,
+    "titulo_original": "ABRANGÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "publico_alvo": "empregados do quadro da ECT na Administração Central e Diretorias Regionais",
+      "extensao_novos": "admitidos durante a vigência"
+    },
+    "pagina_referencia": "9"
+  },
+  {
+    "ano_inicio": 1992,
+    "ano_fim": 1992,
+    "tipo": "ACT",
+    "id_canonico": "PRO_ABRANGENCIA",
+    "numero_clausula_original": 1,
+    "titulo_original": "ABRANGÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "publico_alvo": "empregados do quadro da ECT na Administração Central e Diretorias Regionais",
+      "extensao_novos": "admitidos durante a vigência"
+    },
+    "pagina_referencia": "1"
+  }
+]

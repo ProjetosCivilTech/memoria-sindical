@@ -1,0 +1,43 @@
+{
+  "arquivo_origem": "Acordo-Coletivo-1995-1996-Aditamento.pdf",
+  "metadados_pdf": {
+    "titulo": "Acordo Coletivo 1995 1996 Aditamento",
+    "autor": null,
+    "assunto": null,
+    "criador": "PDF reDirect v2",
+    "produtor": "EXP Systems LLC (www.exp-systems.com)",
+    "criado_em": "D:20070319173635",
+    "modificado_em": "D:20070319173725+03'00'"
+  },
+  "paginas_info": [
+    {
+      "pagina": 1,
+      "metodo": "OCR",
+      "chars": 1907,
+      "conf_ocr": 78.3
+    },
+    {
+      "pagina": 2,
+      "metodo": "OCR",
+      "chars": 1618,
+      "conf_ocr": 75.6
+    },
+    {
+      "pagina": 3,
+      "metodo": "OCR",
+      "chars": 1473,
+      "conf_ocr": 70.2
+    },
+    {
+      "pagina": 4,
+      "metodo": "OCR",
+      "chars": 667,
+      "conf_ocr": 61.1
+    }
+  ],
+  "paginas_total": 4,
+  "paginas_ocr": 4,
+  "conf_ocr_media": 71.3,
+  "metodo": "ocr",
+  "tempo_s": 6.33
+}

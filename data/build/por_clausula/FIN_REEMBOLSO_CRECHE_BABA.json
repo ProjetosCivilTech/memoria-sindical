@@ -1,0 +1,728 @@
+[
+  {
+    "ano_inicio": 1988,
+    "ano_fim": 1989,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+    "numero_clausula_original": 9,
+    "titulo_original": "REEMBOLSO-CRECHE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "idade_limite": "elevada de 5 para 6 anos",
+      "extensao": "homens solteiros, viúvos, separados, divorciados com guarda legal",
+      "compartilhamento": "critérios vigentes mantidos"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "3"
+  },
+  {
+    "ano_inicio": 1990,
+    "ano_fim": 1991,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+    "numero_clausula_original": 16,
+    "titulo_original": "AUXÍLIO-CRECHE E PRÉ-ESCOLAR",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "idade_limite": "até 7 anos (inclusive excepcional)",
+      "extensao_pai_solteiro": true,
+      "extensao_viuvo": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "7"
+  },
+  {
+    "ano_inicio": 1991,
+    "ano_fim": 1991,
+    "tipo": "DC",
+    "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+    "numero_clausula_original": 18,
+    "titulo_original": "AUXÍLIO-CRECHE E PRÉ-ESCOLAR",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "idade_limite": "até 7 anos",
+      "base_legal": "documento básico respectivo",
+      "extensao_pai_solteiro_viuvo": true,
+      "extensao_licenca_gestante": true
+    },
+    "pagina_referencia": "4"
+  },
+  {
+    "ano_inicio": 1992,
+    "ano_fim": 1992,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+    "numero_clausula_original": 15,
+    "titulo_original": "AUXÍLIO-CRECHE E PRÉ-ESCOLAR",
+    "status": "DEFERIDO",
+    "valor_atual": 60000.0,
+    "unidade": "CRUZEIROS",
+    "detalhes": {
+      "valor": "Cr$ 60.000,00 (jan/1992)",
+      "correcao": "trimestral INPC/IBGE",
+      "idade_limite": "até 7 anos",
+      "extensao_pai_solteiro_viuvo": true,
+      "extensao_licenca_gestante": true
+    },
+    "pagina_referencia": "4"
+  },
+  {
+    "ano_inicio": 1993,
+    "ano_fim": 1994,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+    "numero_clausula_original": 14,
+    "titulo_original": "AUXÍLIO-CRECHE E PRÉ-ESCOLAR",
+    "status": "DEFERIDO",
+    "valor_atual": 750000.0,
+    "unidade": "CRUZEIROS",
+    "detalhes": {
+      "valor": "Cr$ 750.000,00 (jan/1993)",
+      "correcao": "bimestral INPC/IBGE",
+      "idade_limite": "até 7 anos",
+      "extensao_viuvo_separado": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "8-9"
+  },
+  {
+    "ano_inicio": 1994,
+    "ano_fim": 1995,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+    "numero_clausula_original": 11,
+    "titulo_original": "AUXÍLIO CRECHE",
+    "status": "DEFERIDO",
+    "valor_atual": 60.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 60.0,
+      "idade_limite": "até 7 anos",
+      "extensao_pai_solteiro": true,
+      "extensao_viuvo": true,
+      "inicio": "01/03/1994"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "4"
+  },
+  {
+    "ano_inicio": 1995,
+    "ano_fim": 1996,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+    "numero_clausula_original": 42,
+    "titulo_original": "REEMBOLSO-CRECHE",
+    "status": "DEFERIDO",
+    "valor_atual": 99.76,
+    "unidade": "BRL",
+    "detalhes": {
+      "idade_limite": "até 7 anos",
+      "extensao_pai_solteiro_viuvo": true,
+      "extensao_licenca_gestante": true
+    }
+  },
+  {
+    "ano_inicio": 1997,
+    "ano_fim": 1998,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+    "numero_clausula_original": 42,
+    "titulo_original": "REEMBOLSO-CRECHE",
+    "status": "DEFERIDO",
+    "valor_atual": 135.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "extensao_pai_solteiro_viuvo": true
+    }
+  },
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+    "numero_clausula_original": 45,
+    "titulo_original": "REEMBOLSO-CRECHE",
+    "status": "DEFERIDO",
+    "valor_atual": 142.5,
+    "unidade": "BRL",
+    "detalhes": {
+      "idade_limite": "7 anos",
+      "extensao_pai_solteiro_viuvo": true
+    }
+  },
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+    "numero_clausula_original": 46,
+    "titulo_original": "REEMBOLSO-CRECHE",
+    "status": "DEFERIDO",
+    "valor_atual": 142.5,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 142.5,
+      "idade_limite": "até 7 anos",
+      "extensao_pai_solteiro": true,
+      "extensao_viuvo": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "15"
+  },
+  {
+    "ano_inicio": 2000,
+    "ano_fim": 2001,
+    "tipo": "DC",
+    "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+    "numero_clausula_original": 37,
+    "titulo_original": "REEMBOLSO-CRECHE",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": 154.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 154.0,
+      "idade_limite": "até 7 anos",
+      "extensao_pai_solteiro": true,
+      "extensao_viuvo": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "R$ 142,50",
+      "pedido_fentect": "R$ 154,00",
+      "decisao_tst": "DEFERE, ampliando para R$ 154,00",
+      "fundamento_juridico": "Negociação coletiva",
+      "votos_divergentes": null
+    },
+    "observacao": "Cláusula social particularmente controvertida.",
+    "pagina_referencia": "15"
+  },
+  {
+    "ano_inicio": 2001,
+    "ano_fim": 2002,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+    "numero_clausula_original": 40,
+    "titulo_original": "REEMBOLSO-CRECHE",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": 170.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 170.0,
+      "idade_limite": "até 7 anos",
+      "extensao_pai_solteiro": true,
+      "extensao_viuvo": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Reajuste para R$ 170,00",
+      "pedido_fentect": "Reajuste",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "11"
+  },
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+    "numero_clausula_original": 51,
+    "titulo_original": "REEMBOLSO-CRECHE",
+    "status": "DEFERIDO",
+    "valor_anterior": 170.0,
+    "valor_atual": 190.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 190.0,
+      "idade_limite": "até 7 anos",
+      "extensao_pai_solteiro": true,
+      "extensao_viuvo": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Reajuste para R$ 190,00",
+      "pedido_fentect": "Reajuste",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "24"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+    "numero_clausula_original": 51,
+    "titulo_original": "REEMBOLSO-CRECHE",
+    "status": "DEFERIDO",
+    "valor_anterior": 190.0,
+    "valor_atual": 220.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 220.0,
+      "idade_limite": "até 7 anos",
+      "extensao_pai_solteiro": true,
+      "extensao_viuvo": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Reajuste para R$ 220,00",
+      "pedido_fentect": "Reajuste",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "24"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+    "numero_clausula_original": 52,
+    "titulo_original": "REEMBOLSO-CRECHE",
+    "status": "DEFERIDO",
+    "valor_anterior": 220.0,
+    "valor_atual": 264.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 264.0,
+      "idade_limite": "até 7 anos",
+      "extensao_pai_solteiro": true,
+      "extensao_viuvo": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Reajuste para R$ 264,00",
+      "pedido_fentect": "Reajuste",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "16"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+    "numero_clausula_original": 52,
+    "titulo_original": "REEMBOLSO-CRECHE",
+    "status": "DEFERIDO",
+    "valor_atual": 300.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 300.0
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+    "numero_clausula_original": 52,
+    "titulo_original": "REEMBOLSO-CRECHE",
+    "status": "DEFERIDO",
+    "valor_anterior": 315.0,
+    "valor_atual": 315.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 315.0,
+      "idade_limite": "até 7 anos",
+      "participacao_empregada": "5%",
+      "participacao_empresa": "95%",
+      "reembolso_integral": "6 primeiros meses",
+      "extensao_pai_solteiro": true,
+      "extensao_viuvo": true,
+      "reembolso_baba": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "21-22"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+    "numero_clausula_original": 52,
+    "titulo_original": "REEMBOLSO-CRECHE",
+    "status": "DEFERIDO",
+    "valor_anterior": 315.0,
+    "valor_atual": 335.07,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 335.07,
+      "idade_limite": "até 7 anos",
+      "participacao_empregada": "5%",
+      "participacao_empresa": "95%",
+      "reembolso_integral": "6 primeiros meses",
+      "extensao_pai_solteiro": true,
+      "extensao_viuvo": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Reajuste para R$ 335,07",
+      "pedido_fentect": "Reajuste",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 16
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+    "numero_clausula_original": 53,
+    "titulo_original": "REEMBOLSO-CRECHE E REEMBOLSO-BABÁ",
+    "status": "DEFERIDO",
+    "valor_atual": 360.2,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 360.2,
+      "idade_limite": "até 7 anos",
+      "reembolso_integral": "6 primeiros meses",
+      "reembolso_baba": true,
+      "extensao_pai_solteiro": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "15"
+  },
+  {
+    "ano_inicio": 2011,
+    "ano_fim": 2012,
+    "tipo": "DCG",
+    "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+    "numero_clausula_original": 53,
+    "titulo_original": "REEMBOLSO-CRECHE E REEMBOLSO-BABÁ",
+    "status": "DEFERIDO",
+    "valor_anterior": 384.95,
+    "valor_atual": 384.95,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 384.95,
+      "idade_limite": "até 7 anos",
+      "participacao_empregada": "5%",
+      "participacao_empresa": "95%"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção",
+      "pedido_fentect": "Reajuste",
+      "decisao_tst": "DEFERE a manutenção com reajuste de 6,87%",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 65
+  },
+  {
+    "ano_inicio": 2012,
+    "ano_fim": 2013,
+    "tipo": "DCG",
+    "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+    "numero_clausula_original": 53,
+    "titulo_original": "REEMBOLSO-CRECHE E REEMBOLSO-BABÁ",
+    "status": "DEFERIDO",
+    "valor_anterior": 384.95,
+    "valor_atual": 409.97,
+    "unidade": "BRL",
+    "variacao_percentual": "5,20",
+    "detalhes": {
+      "valor_mensal": 409.97,
+      "reajuste_aplicado": "5,20%",
+      "idade_limite": "até 7 anos",
+      "participacao_empregada": "5%",
+      "participacao_empresa": "95%"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção",
+      "pedido_fentect": "Reajuste",
+      "decisao_tst": "DEFERE reajuste de 5,20%",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 65
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+    "numero_clausula_original": 53,
+    "titulo_original": "REEMBOLSO-CRECHE E REEMBOLSO-BABÁ",
+    "status": "MANTIDO",
+    "texto": "Reembolso creche até o ano em que o filho/tutelado completar 7 anos. Opção por Reembolso Babá. Limite: R$ 435,68. Estende-se a pai solteiro/separado/viúvo e à empregada em licença-maternidade. Não cobre ensino fundamental.",
+    "observacao": "Idêntica ao DC 2013-2014.",
+    "pagina_referencia": 14
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+    "numero_clausula_original": 53,
+    "titulo_original": "REEMBOLSO-CRECHE E REEMBOLSO-BABÁ",
+    "status": "ALTERADO",
+    "texto": "Reembolso creche até o final do ano em que o filho/tutelado/menor sob guarda completar 7 anos. Opção por Reembolso Babá conforme legislação. Limite máximo: R$ 435,68. Estende-se a pai solteiro/separado/viúvo e à empregada em licença-maternidade. Não cobre ensino fundamental.",
+    "observacao": "Valor reajustado. Integra a lista de benefícios não salariais reajustados em 6,27%.",
+    "pagina_referencia": 97
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+    "numero_clausula_original": 49,
+    "titulo_original": "REEMBOLSO CRECHE E REEMBOLSO BABÁ",
+    "status": "DEFERIDO",
+    "valor_atual": 464.01,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 464.01,
+      "reembolso_integral": "6 primeiros meses",
+      "extensao": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "23"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+    "numero_clausula_original": 49,
+    "titulo_original": "REEMBOLSO CRECHE E REEMBOLSO BABÁ",
+    "status": "DEFERIDO",
+    "valor_anterior": 508.37,
+    "valor_atual": 508.37,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 508.37,
+      "idade_limite": "até 7 anos",
+      "participacao_empregada": "5%",
+      "participacao_empresa": "95%",
+      "reembolso_integral": "6 primeiros meses",
+      "extensao_pai_solteiro": true,
+      "extensao_viuvo": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 28
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+    "numero_clausula_original": 49,
+    "titulo_original": "REEMBOLSO CRECHE E REEMBOLSO BABÁ",
+    "status": "DEFERIDO",
+    "valor_atual": 552.8,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 552.8,
+      "reembolso_integral": "6 primeiros meses"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "30-31"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+    "numero_clausula_original": 49,
+    "titulo_original": "REEMBOLSO CRECHE E REEMBOLSO BABÁ",
+    "status": "DEFERIDO",
+    "valor_atual": 564.24,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 564.24,
+      "idade_limite": "até 7 anos",
+      "participacao_empregada": "5%",
+      "participacao_empresa": "95%",
+      "reembolso_integral": "6 primeiros meses",
+      "extensao_pai_solteiro_viuvo": true,
+      "extensao_licenca_maternidade": true
+    },
+    "pagina_referencia": "72-73"
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+    "numero_clausula_original": 49,
+    "titulo_original": "REEMBOLSO CRECHE E REEMBOLSO BABÁ",
+    "status": "DEFERIDO",
+    "valor_anterior": 584.61,
+    "valor_atual": 584.61,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 584.61,
+      "idade_limite": "até 7 anos",
+      "participacao_empregada": "5%",
+      "participacao_empresa": "95%",
+      "reembolso_integral": "6 primeiros meses",
+      "extensao_pai_solteiro": true,
+      "extensao_viuvo": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 28
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+    "numero_clausula_original": 49,
+    "titulo_original": "REEMBOLSO CRECHE E REEMBOLSO BABÁ ......................................................................................",
+    "status": "MANTIDO",
+    "texto": "Cláusula 50 – TRANSPORTE NOTURNO............................................................................................................................................. 80 Cláusula 51 – VALE REFEIÇÃO/ALIMENTAÇÃO ................................................................................................................................. 82",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+    "numero_clausula_original": 49,
+    "titulo_original": "REEMBOLSO CRECHE E REEMBOLSO BABÁ",
+    "status": "INDEFERIDO",
+    "detalhes": {
+      "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+    },
+    "memoria_negociacao": "SDC indeferiu",
+    "observacao": null,
+    "pagina_referencia": "113"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+    "numero_clausula_original": 52,
+    "titulo_original": "REEMBOLSO CRECHE E REEMBOLSO BABÁ",
+    "status": "DEFERIDO",
+    "valor_atual": 686.5,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 686.5,
+      "reembolso_integral": "6 primeiros meses"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "11"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+    "numero_clausula_original": 54,
+    "titulo_original": "REEMBOLSO CRECHE E REEMBOLSO BABÁ",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": 714.72,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 714.72,
+      "idade_limite": "até 7 anos",
+      "participacao_empregada": "5%",
+      "participacao_empresa": "95%",
+      "reembolso_integral": "6 primeiros meses",
+      "extensao_pai_solteiro": true,
+      "vedacao_ensino_fundamental": true
+    },
+    "observacao": "No DC 2025/2026, o valor foi reajustado para R$ 751,17 (5,10%).",
+    "pagina_referencia": 20
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+    "numero_clausula_original": 47,
+    "titulo_original": "REEMBOLSO CRECHE E REEMBOLSO BABÁ",
+    "status": "DEFERIDO",
+    "valor_anterior": 751.17,
+    "valor_atual": 780.42,
+    "unidade": "BRL",
+    "variacao_percentual": "3,89",
+    "detalhes": {
+      "valor_mensal": 780.42,
+      "reajuste_aplicado": "4,09%",
+      "idade_limite": "até 7 anos",
+      "participacao_empregada": "5%",
+      "participacao_empresa": "95%",
+      "reembolso_integral": "6 primeiros meses"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Reajuste de 2,61%",
+      "pedido_fentect": "Concorda com a proposta da ECT",
+      "pedido_findect": "Reajuste de 100% do INPC",
+      "decisao_tst": "DEFERE reajuste de 4,09%",
+      "fundamento_juridico": "Jurisprudência da SDC/TST",
+      "votos_divergentes": null
+    },
+    "observacao": "Reajuste de 4,09% sobre R$ 751,17 → R$ 780,42.",
+    "pagina_referencia": 20
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+    "numero_clausula_original": 47,
+    "titulo_original": "REEMBOLSO CRECHE E REEMBOLSO BABÁ",
+    "status": "DEFERIDO_PARCIALMENTE",
+    "valor_anterior": 714.72,
+    "valor_atual": 751.17,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 751.17,
+      "reajuste_aplicado": "5,10%",
+      "idade_limite": "até 7 anos",
+      "participacao_empregada": "5%",
+      "participacao_empresa": "95%",
+      "reembolso_integral_6_meses": true,
+      "extensao_pai_solteiro_viuvo": true
+    },
+    "pagina_referencia": "57"
+  }
+]

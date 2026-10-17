@@ -1,0 +1,136 @@
+[
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "CON_AVERIGUACAO_CONDICOES",
+    "numero_clausula_original": 30,
+    "titulo_original": "AVERIGUAÇÃO DAS CONDIÇÕES DE TRABALHO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "limite_pessoas": 3,
+      "agendamento_antecedencia": "5 dias úteis",
+      "prazo_agendamento": "10 dias úteis",
+      "climatizacao_gradual": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 18
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "CON_AVERIGUACAO_CONDICOES",
+    "numero_clausula_original": 30,
+    "titulo_original": "AVERIGUAÇÃO DAS CONDIÇÕES DE TRABALHO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "limite_pessoas": 3,
+      "agendamento_antecedencia": "5 dias úteis",
+      "prazo_agendamento": "10 dias úteis",
+      "climatizacao_gradual": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 17
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "CON_AVERIGUACAO_CONDICOES",
+    "numero_clausula_original": 30,
+    "titulo_original": "AVERIGUAÇÃO DAS CONDIÇÕES DE TRABALHO ..................................................................................",
+    "status": "MANTIDO",
+    "texto": "",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2020,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "CON_AVERIGUACAO_CONDICOES",
+    "numero_clausula_original": 11,
+    "titulo_original": "AVERIGUAÇÃO DAS CONDIÇÕES DE TRABALHO ..................................................................................",
+    "status": "MANTIDO",
+    "texto": "",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "CON_AVERIGUACAO_CONDICOES",
+    "numero_clausula_original": 36,
+    "titulo_original": "AVERIGUAÇÃO DAS CONDIÇÕES DE TRABALHO",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "limite_pessoas": 3,
+      "agendamento_antecedencia": "2 dias úteis",
+      "prazo_agendamento": "3 dias úteis",
+      "climatizacao_gradual": true
+    },
+    "observacao": null,
+    "pagina_referencia": 13
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "CON_AVERIGUACAO_CONDICOES",
+    "numero_clausula_original": 29,
+    "titulo_original": "AVERIGUAÇÃO DAS CONDIÇÕES DE TRABALHO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "limite_pessoas": 3,
+      "agendamento_antecedencia": "2 dias úteis",
+      "prazo_agendamento": "3 dias úteis",
+      "climatizacao_gradual": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 13
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "CON_AVERIGUACAO_CONDICOES",
+    "numero_clausula_original": 29,
+    "titulo_original": "AVERIGUAÇÃO DAS CONDIÇÕES DE TRABALHO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "limite_pessoas": 3,
+      "agendamento_antecedencia": "2 dias úteis",
+      "prazo_agendamento": "3 dias úteis",
+      "excecao_emergencias": true,
+      "climatizacao_gradual": true
+    },
+    "pagina_referencia": "41"
+  }
+]

@@ -1,0 +1,101 @@
+AUDITORIA — RETIRADA DE CLÁUSULAS 2020
+Data: 2026-10-13 23:10
+====================================================================================================
+
+ANTES:  DC 2019-2021.json
+DEPOIS: DC 2020-2021.json
+
+Cláusulas antes:  79
+Cláusulas depois: 29
+Retiradas:        50
+Mantidas:         29
+Novas:            0
+
+====================================================================================================
+CLÁUSULAS RETIRADAS
+====================================================================================================
+
+  CON_CIPA                                                COMISSÃO INTERNA DE PREVENÇÃO DE ACIDENTES
+  CON_FROTA_OPERACIONAL                                   FROTA OPERACIONAL
+  CON_ITENS_USO_PROTECAO                                  ITENS DE USO E PROTEÇÃO AO(À) EMPREGADO (A) ............................................................................
+  CON_PREVENCAO_DOENCAS                                   PREVENÇÃO DE DOENÇAS
+  CON_PROTECAO_BAIXA_UMIDADE                              ITENS DE PROTEÇÃO NO CASO DE BAIXA UMIDADE RELATIVA DO AR ..............................................................
+  CON_SEGURANCA_EMPRESA                                   SEGURANÇA NA EMPRESA
+  FIN_AADC                                                ADICIONAL DE ATIVIDADE DISTRIBUIÇÃO E COLETA
+  FIN_ADIANTAMENTO_FERIAS                                 ADIANTAMENTO DE FÉRIAS
+  FIN_ADICIONAL_NOTURNO                                   ADICIONAL NOTURNO
+  FIN_AJUDA_CUSTO_TRANSFERENCIA                           AJUDA DE CUSTO NA TRANSFERÊNCIA
+  FIN_ANTECIPACAO_GRATIFICACAO_NATALINA                   ANTECIPAÇÃO DE 50% DA GRATIFICAÇÃO NATALINA.............................................................................
+  FIN_ANUENIOS                                            ANUÊNIOS
+  FIN_CONSIGNACOES                                        PROCESSAMENTO DE CONSIGNAÇÕES EM FOLHA DE PAGAMENTO ....................................................................
+  FIN_GRATIFICACAO_FERIAS                                 GRATIFICAÇÃO DE FÉRIAS
+  FIN_GRATIFICACAO_QUEBRA_CAIXA                           GRATIFICAÇÃO DE QUEBRA DE CAIXA
+  FIN_HORAS_EXTRAS                                        HORAS EXTRAS
+  FIN_INDENIZACAO_MORTE_INVALIDEZ                         INDENIZAÇÃO POR MORTE OU INVALIDEZ PERMANENTE ..........................................................................
+  FIN_MULTAS_TRANSITO                                     MULTAS DE TRÂNSITO
+  FIN_PAGAMENTO_SALARIO                                   PAGAMENTO DE SALÁRIO
+  FIN_PLR                                                 PARTICIPAÇÃO NOS LUCROS OU RESULTADOS
+  FIN_REEMBOLSO_CRECHE_BABA                               REEMBOLSO CRECHE E REEMBOLSO BABÁ ......................................................................................
+  FIN_TRABALHO_DIA_REPOUSO                                TRABALHO EM DIA DE REPOUSO
+  FIN_TRABALHO_FINS_SEMANA                                TRABALHO NOS FINS DE SEMANA
+  FIN_VALE_CULTURA                                        VALE CULTURA
+  FIN_VALE_TRANSPORTE                                     VALE-TRANSPORTE E JORNADA DE TRABALHO IN ITINERE .......................................................................
+  PRO_CURSOS_REUNIOES_OBRIGATORIAS                        CURSOS E REUNIÕES OBRIGATÓRIAS
+  SIN_ACESSO_DEPENDENCIAS                                 ACESSO ÀS DEPENDÊNCIAS
+  SIN_APOSENTADOS                                         APOSENTADOS(AS)
+  SIN_DESCONTO_ASSISTENCIAL                               DESCONTO ASSISTENCIAL
+  SIN_DIVERSIDADE                                         VALORIZAÇÃO DA DIVERSIDADE HUMANA E RESPEITO ÀS DIFERENÇAS .............................................................
+  SIN_EMPREGADO_ESTUDANTE                                 GARANTIAS AO(À) EMPREGADO(A) ESTUDANTE .................................................................................
+  SIN_EQUIDADE_GENERO                                     PROMOÇÃO DA EQUIDADE DE GÊNERO E ENFRENTAMENTO AO SEXISMO ..............................................................
+  SIN_EQUIDADE_RACIAL                                     PROMOÇÃO DA EQUIDADE RACIAL E ENFRENTAMENTO AO RACISMO... ..............................................................
+  SIN_LIBERACAO_CONSELHO                                  LIBERAÇÃO DE CONSELHEIRO (A) DO POSTALIS ...............................................................................
+  SIN_LIBERACAO_DIRIGENTES                                LIBERAÇÃO DE DIRIGENTES SINDICAIS
+  SIN_REPASSE_MENSALIDADES                                REPASSE DAS MENSALIDADES DO SINDICATO ..................................................................................
+  SIN_REPRESENTANTES_EMPREGADOS                           REPRESENTANTES DOS(AS) EMPREGADOS (AS) .................................................................................
+  SOC_ACOMPANHANTE                                        ACOMPANHANTE
+  SOC_AUXILIO_DEPENDENTES_DEFICIENCIA                     AUXÍLIO PARA DEPENDENTES COM DEFICIÊNCIA................................................................................
+  SOC_EMPREGADO_INAPTO                                    EMPREGADO(A) INAPTO (A) PARA RETORNO AO TRABALHO .......................................................................
+  SOC_ENFRENTAMENTO_VIOLENCIA_MULHER                      ENFRENTAMENTO À VIOLÊNCIA CONTRA A MULHER ..............................................................................
+  SOC_LICENCA_ADOCAO                                      LICENÇA ADOÇÃO
+  SOC_LICENCA_MATERNIDADE                                 LICENÇA MATERNIDADE
+  SOC_PERIODO_AMAMENTACAO                                 PERÍODO DE AM
+  SOC_PROGRAMA_CASA_PROPRIA                               PROGRAMA CASA PRÓPRIA
+  SOC_PRORROGACAO_LICENCA_MATERNIDADE                     PRORROGAÇÃO DA LICENÇA MATERNIDADE .....................................................................................
+  SOC_REABILITACAO_PROFISSIONAL                           REABILITAÇÃO PROFISSIONAL
+  SOC_SAUDE_EMPREGADO                                     SAÚDE DO(A) EMPREGADO(A)
+  SOC_TRANSPORTE_NOTURNO                                  TRANSPORTE NOTURNO
+  TEC_JORNADA_TERMINAIS                                   JORNADA DE TRABALHO PARA TRABALHADORES(AS)
+
+====================================================================================================
+CLÁUSULAS MANTIDAS
+====================================================================================================
+
+  CON_AVERIGUACAO_CONDICOES                               AVERIGUAÇÃO DAS CONDIÇÕES DE TRABALHO ..................................................................................
+  CON_DISTRIBUICAO_DOMICILIARIA                           DISTRIBUIÇÃO DOMICILIÁRIA
+  CON_ERGONOMIA                                           ERGONOMIA NA EMPRESA
+  CON_JORNADA_AGENCIAS                                    JORNADA DE TRABALHO NAS AGÊNCIAS DE CORREIOS ...........................................................................
+  CON_REDIMENSIONAMENTO_CARGA                             REDIMENSIONAMENTO DE CARGA
+  CON_REGISTRO_PONTO                                      REGISTRO DE PONTO
+  CON_RESPONSABILIDADE_CIVIL_TRANSITO                     RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO .........................................................................
+  FIN_ACUMULACAO_VANTAGENS                                ACUMULAÇÃO DE VANTAGENS
+  FIN_PENALIDADE                                          PENALIDADE
+  FIN_REAJUSTE_SALARIAL                                   REAJUSTE SALARIAL
+  FIN_VALE_ALIMENTACAO                                    VALE REFEIÇÃO/ALIMENTAÇÃO
+  PRO_ACOMPANHAMENTO_CUMPRIMENTO                          ACOMPANHAMENTO DO CUMPRIMENTO DE CLÁUSULAS DO ACORDO ...................................................................
+  PRO_AMPLA_DEFESA                                        DIREITO A AMPLA DEFESA
+  PRO_CONCILIACAO_DIVERGENCIAS                            CONCILIAÇÃO DE DIVERGÊNCIAS
+  PRO_CONCURSO_PUBLICO                                    CONCURSO PÚBLICO
+  PRO_INOVACOES_TECNOLOGICAS                              INOVAÇÕES TECNOLÓGICAS
+  PRO_NEGOCIACAO_COLETIVA                                 NEGOCIAÇÃO COLETIVA
+  PRO_PROCESSO_PERMANENTE_NEGOCIACAO                      PROCESSO PERMANENTE DE NEGOCIAÇÃO ......................................................................................
+  PRO_PRORROGACAO_REVISAO                                 PRORROGAÇÃO, REVISÃO, DENÚNCIA OU REVOGAÇÃO ............................................................................
+  PRO_VIGENCIA                                            VIGÊNCIA
+  SIN_ANISTIA                                             ANISTIA
+  SIN_FORNECIMENTO_DOCUMENTOS                             FORNECIMENTO DE DOCUMENTOS
+  SIN_QUADRO_AVISOS                                       QUADRO DE AVISOS
+  SOC_ASSEDIO_SEXUAL_MORAL                                ASSÉDIO SEXUAL E MORAL
+  SOC_ASSISTENCIA_MEDICA                                  PLANO DE SAÚDE DOS EMPREGADOS DOS CORREIOS .............................................................................
+  SOC_ATESTADO_SAUDE_DEMISSAO                             ATESTADO DE SAÚDE NA DEMISSÃO
+  SOC_EMPREGADO_VIVENDO_HIV                               EMPREGADO VIVENDO COM HIV OU AIDS ......................................................................................
+  SOC_FORNECIMENTO_CAT_LISA                               FORNECIMENTO DE CAT/LISA
+  SOC_SAUDE_MULHER                                        SAÚDE DA MULHER

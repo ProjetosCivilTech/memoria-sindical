@@ -1,0 +1,646 @@
+[
+  {
+    "ano_inicio": 1995,
+    "ano_fim": 1996,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_EMPREGADO",
+    "numero_clausula_original": 45,
+    "titulo_original": "SAÚDE DO EMPREGADO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "campanhas_preventivas": true,
+      "exames_cancer": [
+        "mama",
+        "útero"
+      ]
+    }
+  },
+  {
+    "ano_inicio": 1997,
+    "ano_fim": 1998,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_EMPREGADO",
+    "numero_clausula_original": 45,
+    "titulo_original": "SAÚDE DO EMPREGADO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "exames_cancer": [
+        "mama",
+        "útero"
+      ]
+    }
+  },
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_EMPREGADO",
+    "numero_clausula_original": 49,
+    "titulo_original": "SAÚDE DO EMPREGADO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "estudos_ergonomicos": true,
+      "exames_cancer": [
+        "mama",
+        "útero",
+        "próstata"
+      ]
+    }
+  },
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_EMPREGADO",
+    "numero_clausula_original": 50,
+    "titulo_original": "SAÚDE DO EMPREGADO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "campanhas_prevencao": true,
+      "estudos_ergonomicos": true,
+      "exames_cancer": [
+        "mama",
+        "uterino",
+        "próstata"
+      ],
+      "acompanhamento_psicologico": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "16"
+  },
+  {
+    "ano_inicio": 2000,
+    "ano_fim": 2001,
+    "tipo": "DC",
+    "id_canonico": "SOC_SAUDE_EMPREGADO",
+    "numero_clausula_original": 41,
+    "titulo_original": "SAÚDE DO EMPREGADO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "campanhas_prevencao": true,
+      "estudos_ergonomicos": true,
+      "exames_cancer": [
+        "mama",
+        "uterino",
+        "próstata"
+      ]
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Ampliação nos termos da pauta",
+      "decisao_tst": "DEFERE como proposta pela ECT",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "Cláusula social controvertida. Pedido de ampliação da FENTECT não acolhido.",
+    "pagina_referencia": "17"
+  },
+  {
+    "ano_inicio": 2001,
+    "ano_fim": 2002,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_EMPREGADO",
+    "numero_clausula_original": 44,
+    "titulo_original": "SAÚDE DO EMPREGADO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "campanhas_prevencao": true,
+      "estudos_ergonomicos": true,
+      "exames_cancer": [
+        "mama",
+        "uterino",
+        "próstata"
+      ],
+      "acompanhamento_psicologico": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "12"
+  },
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_EMPREGADO",
+    "numero_clausula_original": 55,
+    "titulo_original": "SAÚDE DO EMPREGADO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "campanhas_prevencao": true,
+      "estudos_ergonomicos": true,
+      "exames_cancer": [
+        "mama",
+        "uterino",
+        "próstata"
+      ],
+      "acompanhamento_psicologico": true,
+      "prontuario_medico": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "26-27"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_EMPREGADO",
+    "numero_clausula_original": 56,
+    "titulo_original": "SAÚDE DO EMPREGADO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "campanhas_prevencao": true,
+      "estudos_ergonomicos": true,
+      "exames_cancer": [
+        "mama",
+        "uterino",
+        "próstata",
+        "pele"
+      ],
+      "acompanhamento_psicologico": true,
+      "prontuario_medico": true,
+      "documentos_sindicatos": true,
+      "dependencia_quimica": true,
+      "ginastica_laboral": true,
+      "convenios_academias": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "26-27"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_EMPREGADO",
+    "numero_clausula_original": 56,
+    "titulo_original": "SAÚDE DO EMPREGADO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "campanhas_prevencao": true,
+      "estudos_ergonomicos": true,
+      "exames_cancer": [
+        "mama",
+        "uterino",
+        "próstata",
+        "pele"
+      ],
+      "acompanhamento_psicologico": true,
+      "prontuario_medico": true,
+      "documentos_sindicatos": true,
+      "dependencia_quimica": true,
+      "ginastica_laboral": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "17"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_EMPREGADO",
+    "numero_clausula_original": 56,
+    "titulo_original": "SAÚDE DO EMPREGADO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "campanhas_prevencao": true,
+      "exames_cancer": [
+        "mama",
+        "uterino",
+        "próstata",
+        "pele"
+      ],
+      "acompanhamento_psicologico": true,
+      "prontuario_medico": true,
+      "dependencia_quimica": true,
+      "ginastica_laboral": true
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_EMPREGADO",
+    "numero_clausula_original": 56,
+    "titulo_original": "SAÚDE DO EMPREGADO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "campanhas_prevencao": true,
+      "estudos_ergonomicos": true,
+      "exames_cancer": [
+        "mama",
+        "uterino",
+        "próstata",
+        "pele",
+        "anemia falciforme"
+      ],
+      "acompanhamento_psicologico": true,
+      "prontuario_medico": true,
+      "documentos_sindicatos": true,
+      "dependencia_quimica": true,
+      "ginastica_laboral": true,
+      "hipertensao_arterial": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "Incluídos exames de anemia falciforme e campanhas de hipertensão.",
+    "pagina_referencia": "23"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_EMPREGADO",
+    "numero_clausula_original": 56,
+    "titulo_original": "SAÚDE DO EMPREGADO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "campanhas_prevencao": true,
+      "estudos_ergonomicos": true,
+      "exames_cancer": [
+        "mama",
+        "uterino",
+        "próstata",
+        "pele",
+        "anemia falciforme"
+      ],
+      "acompanhamento_psicologico": true,
+      "prontuario_medico": true,
+      "documentos_sindicatos": true,
+      "dependencia_quimica": true,
+      "ginastica_laboral": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 18
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_EMPREGADO",
+    "numero_clausula_original": 57,
+    "titulo_original": "SAÚDE DO EMPREGADO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "campanhas_prevencao": true,
+      "exames_cancer": [
+        "mama",
+        "uterino",
+        "próstata",
+        "pele",
+        "anemia falciforme"
+      ],
+      "hipertensao": true,
+      "acompanhamento_psicologico": true,
+      "dependencia_quimica": true,
+      "ginastica_laboral": true,
+      "vale_drogaria": "convênio FENTECT"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "16-17"
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_EMPREGADO",
+    "numero_clausula_original": 57,
+    "titulo_original": "SAÚDE DO EMPREGADO",
+    "status": "ALTERADO",
+    "texto": "Campanhas de prevenção, estudos ergonômicos (NR-17), exames de câncer de mama/útero/próstata/pele/anemia falciforme, combate à hipertensão, acompanhamento psicológico para vítimas de assalto, acesso a prontuário médico, ginástica laboral, exame dermatológico. Paragrafo 8: com o apoio das entidades sindicais (não mais FENTECT).",
+    "observacao": "Substituição 'apoio da FENTECT e das entidades sindicais' por 'apoio das entidades sindicais'.",
+    "pagina_referencia": 15
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "SOC_SAUDE_EMPREGADO",
+    "numero_clausula_original": 57,
+    "titulo_original": "SAÚDE DO EMPREGADO",
+    "status": "MANTIDO",
+    "texto": "Campanhas de prevenção, estudos ergonômicos (NR-17), exames de câncer de mama/útero/próstata/pele/anemia falciforme, combate à hipertensão, acompanhamento psicológico para vítimas de assalto, acesso a prontuário médico, ginástica laboral, exame dermatológico para expostos ao sol.",
+    "observacao": "Idêntica ao DC 2012-2013.",
+    "pagina_referencia": 70
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_EMPREGADO",
+    "numero_clausula_original": 40,
+    "titulo_original": "SAÚDE DO EMPREGADO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "exames_cancer": [
+        "mama",
+        "uterino",
+        "próstata",
+        "pele",
+        "anemia falciforme"
+      ],
+      "acompanhamento_psicologico": true,
+      "dependencia_quimica": true,
+      "ginastica_laboral": true,
+      "restricao_medica": "90 dias com adicional",
+      "prazo_atestados": "4 dias úteis"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "19-20"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_EMPREGADO",
+    "numero_clausula_original": 40,
+    "titulo_original": "SAÚDE DO(A) EMPREGADO(A)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "campanhas_prevencao": true,
+      "campanha_hipertensao": true,
+      "acompanhamento_psicologico": true,
+      "prazo_atestado": "4 dias úteis",
+      "saude_psicossocial": true,
+      "ginastica_laboral": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 23
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_EMPREGADO",
+    "numero_clausula_original": 40,
+    "titulo_original": "SAÚDE DO(A) EMPREGADO(A)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "exames_cancer": [
+        "mama",
+        "uterino",
+        "próstata",
+        "pele",
+        "anemia falciforme"
+      ],
+      "acompanhamento_psicologico": true,
+      "dependencia_quimica": true,
+      "ginastica_laboral": true,
+      "restricao_medica": "90 dias",
+      "prazo_atestados": "4 dias úteis"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "25-26"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_EMPREGADO",
+    "numero_clausula_original": 40,
+    "titulo_original": "SAÚDE DO(A) EMPREGADO(A)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "campanhas_prevencao": true,
+      "estudos_ergonomicos": "NR-17",
+      "hipertensao": "atenção ao afrodescendente",
+      "acompanhamento_psicologico": true,
+      "prontuario_medico": true,
+      "documentos_seguranca_higiene": true,
+      "dependencia_quimica": true,
+      "ginastica_laboral": true,
+      "restricao_medica": "90 dias com adicional",
+      "saude_psicossocial": true,
+      "prazo_atestados": "4 dias úteis"
+    },
+    "pagina_referencia": "59-61"
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_EMPREGADO",
+    "numero_clausula_original": 40,
+    "titulo_original": "SAÚDE DO(A) EMPREGADO(A)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "campanhas_prevencao": true,
+      "campanha_hipertensao": true,
+      "acompanhamento_psicologico": true,
+      "prazo_atestado": "4 dias úteis",
+      "saude_psicossocial": true,
+      "ginastica_laboral": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 24
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "SOC_SAUDE_EMPREGADO",
+    "numero_clausula_original": 40,
+    "titulo_original": "SAÚDE DO(A) EMPREGADO(A)",
+    "status": "MANTIDO",
+    "texto": "promoção da saúde, abordando prioritariamente os temas vinculados à saúde e enfermidades relacionadas ao trabalho, possibilitando acesso de seus(suas) empregados(as) aos exames necessários. §1º Os Correios continuarão desenvolvendo estudos ergonômicos, conforme recomenda a NR 17 para prevenção de LER/DORT. §2º A Empresa promoverá campanhas de combate e prevenção à hipertensão arterial para empregados(as), com atenção às especificidades do(a) afrodescendente. §3º Por indicação profissional e autorização de médico(a) dos Correios, serão oferecidos acompanhamento psicológico para empregados(as) vítimas de assalto no exercício de suas atividades, bem como para os seus dependentes cadastrados no Plano CorreiosSaúde, nos casos destes serem feitos reféns durante o assalto. Neste último caso, as despesas serão compartilhadas pelo beneficiário titular. §4º A Empresa se compromete a entregar ao empregado(a), quando por ele(a) solicitado, cópia do seu prontuário médico, onde deverão estar todos os exames de saúde ocupacional, laudo, pareceres e resultados de exame admissional, periódico e demissional, se for o caso. §5º Quando solicitado, os Correios encaminharão aos Sindicatos os documentos relativos à segurança e à higiene do trabalho. §6º Os Correios promoverão cursos e palestras de orientação e prevenção sobre dependência química para empregados(as), assegurando acompanhamento social e psicológico e o tratamento clínico, quando necessários. §7º Os Correios continuarão incentivando a participação dos(as) empregados(as) no programa de ginástica laboral nos locais de trabalho, com o objetivo da prevenção de LER/DORT e de outras doenças. §8º Os Correios implantarão procedimentos voltados ao restabelecimento da saúde laboral do(a) empregado(a) em atividade que apresentar restrição médica e/ou psicossocial. I – Durante os 90 (noventa) dias em que o(a) empregado(a), ocupante do cargo de Agente de Correios (Carteiros, OTTs e Atendente Comercial) estiver em atividade com restrições médicas e/ou psicossocial, será garantido a ele(a) o recebimento do respectivo adicional de atividade. §9º Os Correios fornecerão serviço de saúde psicossocial atuando nas questões relacionadas ao adoecimento psíquico, distúrbios do comportamento, dependência química, vítima de assalto e outros eventos adversos. §10º O prazo para entrega de atestados médicos/odontológicos, de 1 (um) a 15 (quinze) dias de afastamento pelo(a) empregado(a) à sua chefia imediata passa a ser de 4 (quatro) dias úteis",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "SOC_SAUDE_EMPREGADO",
+    "numero_clausula_original": 19,
+    "titulo_original": "SAÚDE DO(A) EMPREGADO(A) (40ª do DCG 2019/2020)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "redacao": "Os Correios prosseguirão nas campanhas de prevenção de doenças e promoção da saúde... §1° estudos ergonômicos (NR 17) para prevenção de LER/DORT. §2º campanhas de combate e prevenção à hipertensão arterial... §3° acompanhamento psicológico para empregados(as) vítimas de assalto... §4° entrega de cópia do prontuário médico... §5° encaminhamento aos Sindicatos de documentos relativos à segurança e higiene do trabalho. §6° cursos e palestras sobre dependência química... §7° incentivo à ginástica laboral... §8° procedimentos voltados ao restabelecimento da saúde laboral... §9° prazo para entrega de atestados médicos/odontológicos de 4 dias úteis",
+      "excecoes": "§3º (dependentes) e §9º (integralidade) indeferidos por custo financeiro significativo"
+    },
+    "memoria_negociacao": "Cláusula com indiscutível natureza social, sem desgaste econômico relevante; exceção de parágrafos com custo significativo",
+    "observacao": "Acolhida divergência do Ministro Ives Gandra Martins Filho para excluir §3º (dependentes) e §9º (integralidade)",
+    "pagina_referencia": "94-95, 106-107"
+  },
+  {
+    "ano_inicio": 2022,
+    "ano_fim": 2023,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_EMPREGADO",
+    "numero_clausula_original": 20,
+    "titulo_original": "SAÚDE DO(A) EMPREGADO(A)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "campanhas_prevencao": true,
+      "estudos_ergonomicos": "NR-17 (LER/DORT)",
+      "hipertensao": "atenção às especificidades do afrodescendente",
+      "acompanhamento_psicologico_assalto": true,
+      "prontuario_medico": true,
+      "documentos_seguranca_higiene": true,
+      "dependencia_quimica": true,
+      "ginastica_laboral": true,
+      "restricao_medica": "90 dias com adicional",
+      "prazo_atestados": "4 dias úteis",
+      "atestados_acima_4_dias": "homologação médica/odontológica"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "4-5"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_EMPREGADO",
+    "numero_clausula_original": 41,
+    "titulo_original": "SAÚDE DO EMPREGADO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "exames_cancer": [
+        "mama",
+        "uterino",
+        "próstata",
+        "pele",
+        "anemia falciforme"
+      ],
+      "hipertensao": true,
+      "acompanhamento_psicologico": true,
+      "restricao_medica": "90 dias",
+      "prazo_atestados": "4 dias úteis (eletrônico)"
+    },
+    "memoria_negociacao": null,
+    "observacao": "Atestados podem ser enviados por meio eletrônico.",
+    "pagina_referencia": "9"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_EMPREGADO",
+    "numero_clausula_original": 43,
+    "titulo_original": "SAÚDE DO(A) EMPREGADO(A)",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "campanhas_prevencao": true,
+      "estudos_ergonomicos_LER_DORT": true,
+      "campanhas_hipertensao": true,
+      "acompanhamento_psicologico": "vítimas de assalto/sequestro",
+      "prontuario_medico": "cópia em até 5 dias úteis",
+      "PGR_AET": true,
+      "ginastica_laboral": true,
+      "restricao_medica": "adicional de atividade garantido por 90 dias",
+      "prazo_atestado": "4 dias úteis",
+      "saude_mental": true
+    },
+    "observacao": null,
+    "pagina_referencia": 16
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_EMPREGADO",
+    "numero_clausula_original": 36,
+    "titulo_original": "SAÚDE DO(A) EMPREGADO(A)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "campanhas_prevencao": true,
+      "campanha_janeiro_branco": true,
+      "base_legal": "Lei 14.556/2023",
+      "prazo_atestado": "4 dias úteis",
+      "saude_mental": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção com alteração do §10",
+      "pedido_fentect": "Manutenção das garantias relacionadas à saúde",
+      "pedido_findect": "Manutenção das garantias relacionadas à saúde",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula social; Lei 14.556/2023",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 16
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "SOC_SAUDE_EMPREGADO",
+    "numero_clausula_original": 36,
+    "titulo_original": "SAÚDE DO(A) EMPREGADO(A)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "campanhas_prevencao": true,
+      "estudos_ergonomicos": "NR-17 (LER/DORT)",
+      "campanha_hipertensao": "atenção ao afrodescendente",
+      "acompanhamento_psicologico": true,
+      "prontuario_medico": "5 dias úteis",
+      "PGR_AET": true,
+      "dependencia_quimica": true,
+      "ginastica_laboral": true,
+      "restricao_medica_90_dias": true,
+      "prazo_atestados_4_dias": true,
+      "saude_mental": true
+    },
+    "pagina_referencia": "47-48"
+  }
+]

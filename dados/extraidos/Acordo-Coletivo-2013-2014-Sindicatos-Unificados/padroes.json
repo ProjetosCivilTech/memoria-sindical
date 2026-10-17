@@ -1,0 +1,62 @@
+{
+  "datas_br": {
+    "total": 2,
+    "amostra": [
+      "15/09/2013",
+      "16/09/2013"
+    ]
+  },
+  "datas_ext": {
+    "total": 6,
+    "amostra": [
+      "20 de março de 1969",
+      "17 de maio de 2013",
+      "12 de setembro de 2013",
+      "13\nde setembro de 2013",
+      "11 de setembro de 2013",
+      "31 de julho de 2014"
+    ]
+  },
+  "valores_brl": {
+    "total": 0,
+    "amostra": []
+  },
+  "percentuais": {
+    "total": 2,
+    "amostra": [
+      "8%",
+      "6,27%"
+    ]
+  },
+  "clausulas": {
+    "total": 2,
+    "amostra": [
+      "03",
+      "05"
+    ]
+  },
+  "processos_tst": {
+    "total": 0,
+    "amostra": []
+  },
+  "cnpj": {
+    "total": 1,
+    "amostra": [
+      "34.028.316/0001-03"
+    ]
+  },
+  "artigos": {
+    "total": 0,
+    "amostra": []
+  },
+  "incisos": {
+    "total": 1,
+    "amostra": [
+      "DC"
+    ]
+  },
+  "paragrafos": {
+    "total": 0,
+    "amostra": []
+  }
+}

@@ -1,0 +1,19 @@
+[
+  {
+    "ano_inicio": 1988,
+    "ano_fim": 1989,
+    "tipo": "ACT",
+    "id_canonico": "FIN_FOLGA_FIM_SEMANA",
+    "numero_clausula_original": 13,
+    "titulo_original": "FOLGA DE FIM DE SEMANA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "beneficiarios": "empregados em escala de revezamento",
+      "folga_minima": "uma completa (sábado e domingo) por mês",
+      "condicao": "unidades com mais de um empregado na atividade"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "4"
+  }
+]

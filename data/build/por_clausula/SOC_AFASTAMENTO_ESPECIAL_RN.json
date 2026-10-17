@@ -1,0 +1,18 @@
+[
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "SOC_AFASTAMENTO_ESPECIAL_RN",
+    "numero_clausula_original": 18,
+    "titulo_original": "AFASTAMENTO ESPECIAL ATÉ ALTA HOSPITALAR DO RECÉM-NASCIDO E/OU DA MÃE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "duracao": "equivalente ao número de dias de internação",
+      "empregado_pai": "limite 15 dias"
+    },
+    "memoria_negociacao": null,
+    "observacao": "Nova cláusula.",
+    "pagina_referencia": "4"
+  }
+]

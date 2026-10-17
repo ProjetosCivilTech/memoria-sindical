@@ -1,0 +1,142 @@
+==============================================================================
+PERFIL — pessoal_correios.csv
+==============================================================================
+Linhas:  285,858
+Colunas: 13 -> ['local_exercicio', 'uf', 'cpf_hash', 'cargo', 'funcao', 'especialidade', 'se', 'lotacao', 'referencia', 'situacao', 'jornada', 'admissao', 'desligamento']
+
+--- NULOS por coluna (%) ---
+  local_exercicio      0.00%
+  uf                   0.00%
+  cpf_hash             0.00%
+  cargo                0.00%
+  funcao               0.00%
+  especialidade       46.18%
+  se                   0.00%
+  lotacao              0.00%
+  referencia           1.44%
+  situacao             0.00%
+  jornada              0.03%
+  admissao             0.00%
+  desligamento        28.54%
+
+--- ADMISSAO ---
+  min:  1940-05-05
+  max:  2026-11-16
+  válidas: 285,857 (100.00%)
+--- DESLIGAMENTO ---
+  min:  1972-02-23
+  max:  2026-10-07
+  válidas: 204,262 (71.46%)
+
+--- SITUACAO (top 15) ---
+  DESLIGADO                                                     204,276
+  ATIVO                                                          81,582
+  ... total distintos: 2
+
+--- UF (top 15) ---
+  SP                                                             85,972
+  RJ                                                             31,302
+  MG                                                             27,497
+  RS                                                             18,421
+  PR                                                             15,522
+  DF                                                             13,592
+  BA                                                             12,208
+  SC                                                             10,177
+  PE                                                              8,250
+  GO                                                              7,341
+  CE                                                              6,200
+  AC                                                              5,757
+  PA                                                              5,299
+  ES                                                              4,866
+  MA                                                              3,854
+  ... total distintos: 28
+
+--- CARGO (top 15) ---
+  AGENTE DE CORREIOS                                            127,284
+  CARTEIRO I                                                     22,540
+  APRENDIZ (ASSISTENTE ADMINISTRATIVO)                           18,321
+  APRENDIZ (AUXILIAR ADMINISTRATIVO)                             15,487
+  CARTEIRO                                                       11,900
+  EXECUTANTE OPERACIONAL (JR)                                     6,518
+  ATENDENTE COMERCIAL I                                           6,486
+  CARTEIRO II                                                     5,549
+  ANALISTA DE CORREIOS JR                                         4,817
+  OPERADOR TRIAG TRANSBORDO I                                     4,011
+  TECNICO DE CORREIOS PL                                          3,669
+  CARTEIRO III                                                    3,570
+  ATENDENTE COMERCIAL II                                          3,258
+  APRENDIZ (ASSISTENTE LOGISTICA)                                 2,890
+  TECNICO DE CORREIOS JR                                          2,841
+  ... total distintos: 455
+
+--- FUNCAO (top 15) ---
+  Inexistente                                                   241,449
+  MOTORIZADO (M)                                                 10,714
+  MOTORIZADO (V)                                                 10,643
+  QUEBRA DE CAIXA                                                 4,342
+  GERENTE AGENCIA DE CORREIO IV                                   4,007
+  COORDENADOR/UO                                                  1,478
+  SUPERVISOR OPERACIONAL I                                        1,049
+  MOTORIZADO (MV)                                                   887
+  CHEFE DE SECAO                                                    858
+  GERENTE AGENCIA DE CORREIO III                                    765
+  SUPERVISOR OPERACIONAL II                                         760
+  GERENTE CENTRO DIST DOMIC TP I                                    575
+  GERENTE AGENCIA DE CORREIO II                                     499
+  OPERADOR DE EMPILHADEIRA                                          421
+  SUPERVISOR DE OPERACOES/DR                                        342
+  ... total distintos: 190
+
+--- ESPECIALIDADE (top 15) ---
+  nan                                                           132,017
+  CARTEIRO                                                       70,149
+  ATENDENTE COMERCIAL                                            34,619
+  OPERADOR DE TRIAGEM E TRANSBORDO                               16,362
+  ASSISTENTE ADMINISTRATIVO                                       4,864
+  SUPORTE                                                         3,732
+  SUPORTE (AUXILIAR ADMINISTRATIVO)                               3,613
+  ADMINISTRADOR                                                   2,853
+  OPERACIONAL                                                     2,665
+  ASSISTENTE DE LOGÍSTICA                                         2,471
+  SUPORTE (ASSISTENTE ADMINISTRATIVO)                             1,459
+  SUPORTE (TECNICO EM ADMINISTRACAO)                              1,346
+  ATENDIMENTO E VENDAS                                              935
+  TEC. OPER. DE SERVICOS DE CORREIOS                                843
+  ADMINISTRADOR POSTAL                                              803
+  ... total distintos: 134
+
+--- REFERENCIA (top 15) ---
+  JA                                                             35,235
+  NM - 08A                                                        9,141
+  NM - 01                                                         8,453
+  RS - 09                                                         6,673
+  NM - 26A                                                        6,227
+  B - 27                                                          5,355
+  RS - 08                                                         5,133
+  NM - 09A                                                        4,412
+  nan                                                             4,126
+  NM - 12A                                                        4,075
+  NM - 11A                                                        3,976
+  RS - 06                                                         3,912
+  JARJ                                                            3,904
+  B - 24                                                          3,812
+  NM - 27A                                                        3,492
+  ... total distintos: 773
+
+--- JORNADA (top 15) ---
+  Normal de Segunda a Sexta                                     113,252
+  SEGUNDA A SEXTA - 40H                                         106,742
+  Aprendiz - Vespertino                                          25,993
+  ADICIONAL DE FINAL DE SEMANA                                   17,143
+  Aprendiz - Matutino                                            16,185
+  SEGUNDA A SABADO - 44H                                          1,635
+  Teletrabalho Judicial                                             836
+  Normal de Segunda a Sábado                                        679
+  SEGUNDA A SEXTA - 30H                                             552
+  SEGUNDA A SEXTA - 36H                                             488
+  TELETRABALHO EXCEPCIONAL COVID                                    436
+  SEGUNDA A SEXTA JUDICIAL - 20H                                    388
+  TELETRABALHO                                                      234
+  SEGUNDA A SEXTA - 20H                                             218
+  TELETRABALHO REABILITADOS                                         147
+  ... total distintos: 52

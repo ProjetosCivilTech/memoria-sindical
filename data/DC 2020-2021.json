@@ -1,0 +1,268 @@
+{
+  "metadados_documento": {
+    "tipo": "DC",
+    "ano_inicio": 2020,
+    "ano_fim": 2021,
+    "processo": null,
+    "tribunal": "TST",
+    "orgao": null,
+    "relator": null,
+    "data_julgamento": null,
+    "data_publicacao": null,
+    "data_assinatura": null,
+    "entidade_patronal": "ECT",
+    "entidades_profissionais": [
+      "FENTECT",
+      "FINDECT"
+    ],
+    "arquivo_origem": "Acordao-2020-2021.pdf",
+    "grupo": "2020-2021",
+    "papel": "FENTECT",
+    "observacao": "Re-extraído automaticamente em 2026-10-13. 29 cláusulas detectadas. Mapeamento: 21 exato + 8 substring + 0 similaridade + 0 genéricos (revisar)."
+  },
+  "clausulas": [
+    {
+      "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+      "numero_clausula_original": 3,
+      "titulo_original": "PLANO DE SAÚDE DOS EMPREGADOS DOS CORREIOS .............................................................................",
+      "status": "MANTIDO",
+      "texto": "Cláusula 04 – ACUMULAÇÃO DE VANTAGENS ...................................................................................................................................09 Cláusula 05 – REGISTRO DE PONTO ..................................................................................................................................................10 Cláusula 06 – ANISTIA .......................................................................................................................................................................12 Cláusula 07 – ASSÉDIO SEXUAL E MORAL ..........................................................................................................................................13 Cláusula 08 – SAÚDE DA MULHER .....................................................................................................................................................16 Cláusula 09 – FORNECIMENTO DE DOCUMENTOS ............................................................................................................................17 Cláusula 10 – ATESTADO DE SAÚDE NA DEMISSÃO ..........................................................................................................................18",
+      "novo_id": false,
+      "observacao": "[Transformação do modelo Correios Saúde → Postal Saúde. O TST considerou esta cláusula como MANTIDA, com nova redação.]"
+    },
+    {
+      "id_canonico": "CON_AVERIGUACAO_CONDICOES",
+      "numero_clausula_original": 11,
+      "titulo_original": "AVERIGUAÇÃO DAS CONDIÇÕES DE TRABALHO ..................................................................................",
+      "status": "MANTIDO",
+      "texto": "",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "SOC_EMPREGADO_VIVENDO_HIV",
+      "numero_clausula_original": 12,
+      "titulo_original": "EMPREGADO VIVENDO COM HIV OU AIDS ......................................................................................",
+      "status": "MANTIDO",
+      "texto": "Cláusula 13 – ERGONOMIA NA EMPRESA .........................................................................................................................................22 Cláusula 14 – FORNECIMENTO DE CAT/LISA .....................................................................................................................................23 Cláusula 15 – DISTRIBUIÇÃO DOMICILIÁRIA .....................................................................................................................................25 Cláusula 16 – INOVAÇÕES TECNOLÓGICAS .......................................................................................................................................26",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "CON_JORNADA_AGENCIAS",
+      "numero_clausula_original": 17,
+      "titulo_original": "JORNADA DE TRABALHO NAS AGÊNCIAS DE CORREIOS ...........................................................................",
+      "status": "MANTIDO",
+      "texto": "Cláusula 18 – REDIMENSIONAMENTO DE CARGA .............................................................................................................................28 Cláusula 19 – CONCURSO PÚBLICO ...................................................................................................................................................29 Cláusula 20 – DIREITO À AMPLA DEFESA ..........................................................................................................................................30",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "CON_RESPONSABILIDADE_CIVIL_TRANSITO",
+      "numero_clausula_original": 21,
+      "titulo_original": "RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO .........................................................................",
+      "status": "MANTIDO",
+      "texto": "Cláusula 22 – QUADRO DE AVISOS ....................................................................................................................................................32 Cláusula 23 – CONCILIAÇÃO DE DIVERGÊNCIAS ................................................................................................................................33",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "PRO_PROCESSO_PERMANENTE_NEGOCIACAO",
+      "numero_clausula_original": 24,
+      "titulo_original": "PROCESSO PERMANENTE DE NEGOCIAÇÃO ......................................................................................",
+      "status": "MANTIDO",
+      "texto": "",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "PRO_PRORROGACAO_REVISAO",
+      "numero_clausula_original": 25,
+      "titulo_original": "PRORROGAÇÃO, REVISÃO, DENÚNCIA OU REVOGAÇÃO ............................................................................",
+      "status": "MANTIDO",
+      "texto": "Cláusula 26 – NEGOCIAÇÃO COLETIVA ..............................................................................................................................................36",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "PRO_ACOMPANHAMENTO_CUMPRIMENTO",
+      "numero_clausula_original": 27,
+      "titulo_original": "ACOMPANHAMENTO DO CUMPRIMENTO DE CLÁUSULAS DO ACORDO ...................................................................",
+      "status": "MANTIDO",
+      "texto": "Cláusula 28 – PENALIDADE ................................................................................................................................................................38 Cláusula 29 – VIGÊNCIA .....................................................................................................................................................................39 2 --- PAGINA 3 --CLÁUSULA 01",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "FIN_REAJUSTE_SALARIAL",
+      "numero_clausula_original": 1,
+      "titulo_original": "REAJUSTE SALARIAL",
+      "status": "MANTIDO",
+      "texto": "– ECT serão reajustados no percentual de 2,6% (dois vírgula seis por cento) sobre os valores referentes a 1º de agosto de 2020, repercutindo nas demais vantagens de natureza salarial. OPERACIONALIZAÇÃO DA CLÁUSULA Cadastramento do Reajuste: Após comunicação pela Diretoria de Gestão de Pessoas – DIGEP, referente ao percentual estabelecido entre os Correios e a representação dos empregados sobre o reajuste salarial no Acordo Coletivo de Trabalho, cabe a Gerência de Remuneração e Benefícios – GERB/DEGEP realizar a inserção dos valores definidos no ACT/Acórdão no Módulo de Cargos e Salários do Sistema Popweb e realizar as demais verificações necessárias para a efetivação do pagamento pela CEGEP/DIGEP. Pagamento: A Gerência de Administração de Pessoal – GAPE/CEGEP é responsável pela efetivação do reajuste, enquanto a gestão do processo de pagamento do reajuste salarial dos empregados dos Correios é de competência da Gerência de Pagamento e Recolhimento – GPAG/CEGEP. As solicitações de informações referentes a esta cláusula devem ser obtidas por meio do Help Desk http://helpdesk Após acessar o sistema do Help Desk, clique no botão \"Procurar\", irão carregar as opções, conforme imagem abaixo, onde você irá clicar na subcategoria \"08 – Gestão de Pessoas\" Agora selecione a subcategoria \"Pagamento\" e clique na opção \"08.21 - Folha de Pagamento\" 3 --- PAGINA 4 --4 --- PAGINA 5 --CLÁUSULA 02",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "FIN_VALE_ALIMENTACAO",
+      "numero_clausula_original": 2,
+      "titulo_original": "VALE REFEIÇÃO/ALIMENTAÇÃO",
+      "status": "MANTIDO",
+      "texto": "conforme o Programa de Alimentação do Trabalhador – PAT, definindo seus parâmetros. OPERACIONALIZAÇÃO DA CLÁUSULA As regras e condições para operacionalização da concessão do vale-alimentação/refeição e do vale-cesta, bem como os valores do benefício estão previstas na PRT/PRESI/DIGEP-002/2020, publicada em 01/08/2020 e atualizada em 17/11/2020. O Vale-Cesta somente é devido nos meses em que o empregado tiver a fração maior ou igual a 15 dias trabalhados. O vale-alimentação/refeição é fornecido em quantidade de 22 ou 26 vales, respectivamente para turnos de trabalho de 5 (cinco) ou de 6 (seis) dias na semana, independentemente da quantidade de dias úteis. A concessão mensal levará em consideração o turno de trabalho constante da ficha cadastral do empregado. Aquele que possui jornada regular de 5 (cinco) dias na semana e que for convocado para trabalho em dias de sábado (ou 6º dia), terá direito a 1 (um) vale-alimentação/refeição adicional, desde que tenha cumprido uma jornada igual ou superior a 4 horas nesse dia. Assim como ocorre quando há realização de trabalho em dia de repouso, o crédito do vale adicional no cartão alimentação/refeição ocorrerá até o último dia do mês subsequente, desde que o gestor tenha registrado a informação no PGP, no menu \"Informar Ponto\". Ressaltase que o registro da jornada de 6 (seis) dias apenas no quadro horário do PGP não define parâmetros para fornecimento dos vale-alimentação/refeição. Não haverá pagamento de vale adicional pelo trabalho em dia de repouso, caso o empregado tenha optado por folga. Da mesma forma, não haverá desconto do vale nos dias de folga compensatória. Haverá a suspensão do fornecimento (ou o desconto dos vales já concedidos) para o período em que o contrato de trabalho estiver suspenso, exceto se for em razão de afastamento com recebimento de benefício previdenciário auxílio acidentário. Contudo, nos casos de Licença Acidente de Trabalho, a concessão dos vales está condicionada à manutenção do benefício previdenciário acidentário ativo pelo INSS. Assim, nos períodos em que o empregado encontrar-se com benefício INSS negado ou aguardando decisão daquele órgão, o fornecimento do vale-alimentação/refeição e cesta será suspenso, até manifestação favorável do Órgão Previdenciário. Não haverá concessão de vale-alimentação/refeição para o período de fruição de férias. Assim, como o fornecimento do vale se dá no último dia útil da primeira quinzena do mês para o período de do dia 16 até o dia 15 do mês subs",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+      "numero_clausula_original": 4,
+      "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+      "status": "MANTIDO",
+      "texto": "previstos na presente sentença normativa ou quaisquer outros já mantidos pelos Correios, será feita a necessária compensação, a fim de que não se computem ou se acumulem acréscimos pecuniários superiores sob o mesmo título ou idêntico fundamento, com consequente duplicidade de pagamento. OPERACIONALIZAÇÃO DA CLÁUSULA As solicitações de informações referentes a esta cláusula devem ser encaminhadas ao Departamento de Gestão de Pessoas– DEGEP/DIGEP - degep-digep@correios.com.br 9 --- PAGINA 10 --CLÁUSULA 05",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "CON_REGISTRO_PONTO",
+      "numero_clausula_original": 5,
+      "titulo_original": "REGISTRO DE PONTO",
+      "status": "MANTIDO",
+      "texto": "empregado(a) sob a supervisão da Empresa. §1º Fica vedada qualquer interferência de terceiros na marcação do cartão de ponto. §2° A Empresa poderá adotar sistemas alternativos de controle da jornada de trabalho, em conformidade com legislação vigente. OPERACIONALIZAÇÃO DA CLÁUSULA As solicitações de informações referentes a esta cláusula devem ser obtidas por meio do Help Desk http://helpdesk Após acessar o sistema do Help Desk, clique no botão \"Procurar\", irão carregar as opções, conforme imagem abaixo, onde você irá clicar na subcategoria \"08 – Gestão de Pessoas\" Agora selecione a subcategoria \"Cadastro\" e clique na opção \"08.08 – Frequência e Jornada de Trabalho\" 10 --- PAGINA 11 --11 --- PAGINA 12 --CLÁUSULA 06",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "SIN_ANISTIA",
+      "numero_clausula_original": 6,
+      "titulo_original": "ANISTIA",
+      "status": "MANTIDO",
+      "texto": "10.559/2002 e 11.282/2006, comprometem-se a: §1º Adotar, de imediato, os procedimentos para o cumprimento da decisão, quando os atos de anistia previstos em lei determinar o retorno do anistiado aos quadros da Empresa, permitindo o acesso às informações de documentos aos interessados. §2º Analisar e julgar os pedidos de anistia de empregados (as) dos Correios, com fundamento nas Leis nº 8.632, de 4 de março de 1993 e nº 11.282 de 23 de fevereiro de 2006, conforme Portaria MC Nº 349 de 12 de dezembro de 2013. I – Os pedidos de anistia referenciados no §2º serão conduzidos por Grupo de Trabalho constituído pelos Correios, com a participação de 6 (seis) representantes dos Correios e 5 (cinco) membros indicados pelas Federações dos Trabalhadores, legalmente constituídas. II – Aplica-se o disposto no §2º aos processos com pedidos de anistia de empregados (as) dos Correios pendentes de decisão ou em que houver decisão recorrível. §3º Avaliar e discutir os impactos e condições de viabilização para adequação salarial dos (as) empregados (as) anistiados (as) pela Lei 8.878/94, com referência salarial abaixo do piso inicial dos Correios, para enquadramento na referência de Nível Médio – NM 01. I – O previsto no §3º será conduzido pelo Grupo de Trabalho, conforme item I do §2º. §4º Avaliar e examinar encaminhamentos de demissões sem justa causa ocorridas durante o período de estabilidade previstas em lei, quando não se tratar de anistia por força das leis referenciadas no caput. OPERACIONALIZAÇÃO DA CLÁUSULA Os Correios por meio do Grupo de Trabalho de Anistia (GTA) conduzirá as análises e julgamentos dos processos com pedidos de anistia em conformidade com o previsto na Portaria MC nº. 349/2013, fundamentando-se nos artigos das Leis nº. 8.632, de 4 de março de 1993 e 11.282, de 23 de fevereiro de 2006, de acordo com o Regimento Interno do Grupo, com a participação de 6 (seis) representantes dos Correios e 5 (cinco) membros indicados pelas Federações dos Trabalhadores, legalmente constituídas representantes dos empregados. As solicitações de informações a respeito de anistia devem ser encaminhadas à CS-DIGEP-DEREO-GERT-GT Anistia – Caixa Postal – gtanistia@correios.com.br. 12 --- PAGINA 13 --CLÁUSULA 07",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "SOC_ASSEDIO_SEXUAL_MORAL",
+      "numero_clausula_original": 7,
+      "titulo_original": "ASSÉDIO SEXUAL E MORAL",
+      "status": "MANTIDO",
+      "texto": "educativos, visando coibir o Assédio Sexual e o Assédio Moral. §1° Continuará promovendo eventos de sensibilização para a inserção e a convivência dos(as) profissionais dos Correios, de forma a prevenir o Assédio Sexual e o Assédio Moral. §2º As denúncias de casos de Assédio Sexual e o Assédio Moral deverão ser feitas pelo(a) próprio(a) empregado(a), por escrito, à área de gestão das relações sindicais a do trabalho ou canal de denúncias da Ouvidoria, conforme o caso, para a devida análise e encaminhamento. O empregado(a) poderá solicitar o apoio da entidade sindical. §3º Havendo a comprovação da denúncia ou, em não se constatando os fatos denunciados, em ambos os casos, as vítimas, se solicitarem, receberão a orientação psicológica (psicossocial) pertinente. §4° Será constituído Grupo de Trabalho paritário, contendo 7 (sete) representantes dos Correios e 7 (sete) representantes das Federações dos Trabalhadores, legalmente constituídas, para tratar do assunto Assédio Moral e Assédio Sexual, de acordo com os critérios a seguir: I - Em continuidade às ações que a Empresa vem desenvolvendo em aderência às políticas do Governo Federal, que visam valorizar a diversidade humana e promover o respeito às diferenças e a não discriminação, os Correios conduzirão o processo negocial relativo às questões alusivas aos temas Assédio Moral e Assédio Sexual por meio da instalação de Mesa Temática. II - A Mesa Temática deverá realizar estudos correlatos ao tema e propor soluções, respeitando as diretrizes norteadoras dos procedimentos da Administração Pública, para superação das desigualdades existentes, sensibilizar e promover o respeito às diferenças e a não discriminação, no ambiente corporativo, conforme a complexidade do assunto. OPERACIONALIZAÇÃO DA CLÁUSULA Para a situação estabelecida no §1º da Cláusula 1 - A DIGEP disponibiliza e divulga periodicamente, por meio da Universidade dos Correios, Treinamento em Local de Trabalho - TLT abordando a temática de assédio moral, assédio sexual e discriminação, para gestores(as) e força de trabalho em todos os níveis. 2 - A DIGEP disponibiliza e divulga periodicamente a cartilha institucional reflexão sobre violência no trabalho com esclarecimentos sobre assédio moral, assédio sexual e discriminação. 3 - As Unidades da Empresa incentivam os empregados a participarem de ações educativas sobre a prevenção e intervenção ao assédio moral, assédio sexual e discriminação. Para a situação estabelecida no §2º da Cláusula 1 - As denún",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "SOC_SAUDE_MULHER",
+      "numero_clausula_original": 8,
+      "titulo_original": "SAÚDE DA MULHER",
+      "status": "MANTIDO",
+      "texto": "mulher. §1° No mês de março, as ações terão enfoque na saúde da mulher e, no mês de outubro, orientações com vistas à conscientização do combate ao câncer de mama. §2º As ações de comunicação serão realizadas corporativamente. E aquelas que envolvam workshops, palestras e seminários, ocorrerão na Administração Central e nas Diretorias Regionais (Correios Sede e Superintendências Estaduais). §3º Os Correios garantirão a mudança provisória de tarefa às empregadas, mediante prescrição expressa de médico especialista, devidamente homologada pelo Serviço Médico dos Correios, quando a atividade desempenhada coloque em risco seu estado de gravidez. § 4º As empregadas que ocupem os cargos/atividades de carteiro, motorista e operadora de triagem e transbordo, os Correios garantirão, sem prejuízo do disposto no §3º, a mudança provisória automática, a partir do 5º (Quinto) mês de gestação, para serviços internos que preservem o estado de saúde da mãe e da criança. §5° As mulheres/adolescentes/meninas dependentes poderão participar de quaisquer atividades de prevenção e promoção a saúde da mulher organizadas pelos Correios. OPERACIONALIZAÇÃO DA CLÁUSULA As áreas de Saúde das Superintendências Estaduais e Correios Sede realizarão campanha de saúde no mês de março, abordando diversos temas relacionados à saúde da mulher e, em outubro, campanha contemplando ações com foco na prevenção do câncer de mama. As situações previstas no §4º desta cláusula, deverão obedecer os procedimentos do MANPES, Módulo 19, que trata da licença maternidade. Quanto ao disposto no §5º, os eventos voltados à promoção de saúde e prevenção de doenças serão abertos à participação de mulheres/adolescentes/meninas dependentes de empregados(as). As solicitações de informações referentes a esta cláusula devem ser encaminhadas ao Departamento de Gestão de Pessoas – DEGEP/DIGEP - degep-digep@correios.com.br 16 --- PAGINA 17 --CLÁUSULA 09",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "SIN_FORNECIMENTO_DOCUMENTOS",
+      "numero_clausula_original": 9,
+      "titulo_original": "FORNECIMENTO DE DOCUMENTOS",
+      "status": "MANTIDO",
+      "texto": "de Trabalhadores legalmente constituídas e Sindicatos dos Empregados dos Correios, desde que respeitada a Lei de Acesso à Informação, cópia em meio digital dos Manuais da Empresa, no prazo de 5 (cinco) dias da data de recebimento da solicitação. §1° Quando se tratar de manual estratégico dos Correios, a entidade sindical solicitante deverá assinar um termo de confidencialidade fornecido pelos Correios. A definição de manual estratégico ficará à critério dos Correios. §2º Os Correios enviarão às Federações de Trabalhadores dos Correios legalmente constituídas e aos Sindicatos seu informativo de comunicação Interna Primeira Hora. §3° Os Correios disponibilizarão, quando solicitado pelos Sindicatos, por meio magnético, em até 5 (cinco) dias úteis, relação contendo nome, matrícula, cargo/atividade, lotação de empregados(as), status (ativo/inativo) e período do afastamento, no intervalo mínimo de 1(um) mês. OPERACIONALIZAÇÃO DA CLÁUSULA O fornecimento dos Manuais da ECT serão disponibilizados exclusivamente por mídia eletrônica. O atendimento ao pleito pelos Correios estará condicionado à formalização da solicitação do sindicato, bem como à assinatura do Termo de Confidencialidade fornecido pela ECT, quando se tratar de manual estratégico. O informativo Primeira Hora, de âmbito nacional, será enviado pelo DEREO/DIGEP às Federações e sindicatos dos empregados dos Correios. Quando da existência de temas regionais, o assunto deverá ser enviado pela Área de Relacionamento Organizacional nas SEs ao respectivo sindicato. Em relação ao parágrafo 3º, as federações legalmente constituídas terão acesso somente às informações relativas aos empregados de suas respectivas bases territoriais, não incluindo dados que sejam pessoais, conforme Nota Jurídica GJTRI/DJTRA - 567/2017. As informações solicitadas nos documentos deverão ser preenchidas com os dados dos empregados que serão responsáveis pelo acesso ao \"Correios Normas\". De posse das informações, a área gestora procederá com as configurações e informará os procedimentos de acesso ao sistema. Os sindicatos que possuírem acesso ao “Correios Normas” por meio do serviço de acesso remoto Virtual Private Network – VPN poderão obter os Manuais via Intranet – http://intranet/correios-normas. A área de Relacionamento Organizacional ao receber o pedido de acesso ao “Correios Normas”, deverá acessar o link a seguir: http://servicosderede/portalsrs/vpnclient_frm.php e proceder com o registro da solicitação, devendo aguardar a liber",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "SOC_ATESTADO_SAUDE_DEMISSAO",
+      "numero_clausula_original": 10,
+      "titulo_original": "ATESTADO DE SAÚDE NA DEMISSÃO",
+      "status": "MANTIDO",
+      "texto": "encaminharão cópia de todas as rescisões, acompanhadas do Atestado de Saúde Ocupacional – ASO, dos (as) empregados(as) demitidos(as) nas unidades do interior, cujas homologações foram realizadas nas DRTs, bem como daqueles demitidos antes de completarem 1 (um) ano de serviço e que fizerem a homologação na própria Empresa. Parágrafo Único: Os Correios autorizarão a realização de exames complementares, sempre que solicitado pelo médico responsável pela emissão do ASO. OPERACIONALIZAÇÃO DA CLÁUSULA A Área de Saúde da Superintendência Estadual - SE verificará a necessidade de realização de exames para emissão do ASO demissional e posterior envio à CPES/GECSC/CSC. A CPES/GECSC/CSC da SE nos casos de demissão motivada ou imotivada e homologada na Superintendência Regional do Trabalho ou na própria Empresa deverá fornecer cópia da ASO ao Sindicato, quando solicitada. Os exames complementares solicitados pelo médico examinador, nos casos de exame médico demissional, devem ser autorizados pelo médico coordenador do PCMSO do Órgão Local de Saúde ou do Órgão Central de Saúde. As solicitações de informações referentes a esta cláusula devem ser encaminhadas ao Departamento de Gestão de Pessoas – DEGEP/DIGEP - degep-digep@correios.com.br 18 --- PAGINA 19 --CLÁUSULA 11 Cláusula 11 – AVERIGUAÇÃO DAS CONDIÇÕES DE TRABALHO – Os Correios garantirão o acesso aos locais de trabalho de representante do sindicato (entidade sindical), acompanhado(a) por médico(a), engenheiro(a) do trabalho e/ou técnico de segurança do trabalho; e por representantes da Empresa, mediante agendamento prévio, sempre que solicitado pelos(as) empregados(as), para averiguação das condições de trabalho a que estão submetidos. §1° O Sindicato deverá solicitar o agendamento de visita com antecedência mínima de 5 (cinco) dias úteis, à Área de Gestão das Relações Sindicais e do Trabalho da respectiva Diretoria Regional (Superintendência Regional). I - Os Correios agendarão a reunião no prazo máximo de 10 (dez) dias úteis após o recebimento da solicitação. II - Os prazos estabelecidos neste parágrafo não se aplicam quando da ocorrência de situações emergenciais ou extraordinárias. §2º Os Correios continuarão o processo gradual de exame das condições técnicas para climatização e melhoria das condições de conforto ambiental das unidades de trabalho que estiverem em desacordo com as normas regulamentadoras, observadas as disponibilidades de orçamento. OPERACIONALIZAÇÃO DA CLÁUSULA O sindicato deverá solicitar of",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "CON_ERGONOMIA",
+      "numero_clausula_original": 13,
+      "titulo_original": "ERGONOMIA NA EMPRESA",
+      "status": "MANTIDO",
+      "texto": "processos de trabalho, tendo como base, dentre outros saberes técnicos científicos, os conceitos e princípios ergonômicos, de acordo com a NR-17 e seus anexos, conforme condições de trabalho e tipos de ambientes dos Correios. §1º Os Correios, quando identificarem processo cuja operacionalização se mostre mais apropriada, sob o ponto de vista ergonômico, com a utilização de sistema mecanizado ou automatizado, desencadeará ações com vistas ao seu aprimoramento. §2º A implementação destas soluções ficará condicionada à existência de soluções disponíveis no mercado. OPERACIONALIZAÇÃO DA CLÁUSULA As solicitações de informações referentes a esta cláusula devem ser encaminhadas ao Departamento de Gestão de Pessoas – DEGEP/DIGEP – degep-digep@correios.com.br. 22 --- PAGINA 23 --CLÁUSULA 14",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "SOC_FORNECIMENTO_CAT_LISA",
+      "numero_clausula_original": 14,
+      "titulo_original": "FORNECIMENTO DE CAT/LISA",
+      "status": "MANTIDO",
+      "texto": "CAT nos casos de doenças ocupacionais, de acidentes do trabalho, de assaltos aos(às) empregados(as) em serviço, nas atividades promovidas e em representação. §1º Os Correios fornecerão, às Federações e Sindicatos dos empregados, uma via da CAT registrada no Ministério da Previdência Assistência Social – MPAS, relativa aos acidentes ocorridos no mês imediatamente anterior. §2º Os Correios emitirão CAT para o(a) empregado(a) Dirigente Sindical que estiver liberado(a) com ônus para a Empresa e que se acidentar, quando em atividades da representação sindical de que participa. § 3º Os Correios orientarão aos (às) gestores (as) quanto ao preenchimento da CAT, em conformidade com as normas e orientações da Previdência Social. I – As orientações sobre emissão de CAT, emanadas pelos Correios, também serão encaminhadas às entidades sindicais. OPERACIONALIZAÇÃO DA CLÁUSULA É necessária a emissão da CAT nos casos de acidente de trabalho, nos casos de doenças ocupacionais e em assaltos a empregados em serviço, nos termos da legislação vigente e uma vez estabelecido o nexo de causalidade. Nas situações em que houver assalto, é importante verificar a real exposição do empregado durante a ocorrência, de modo a evitar a emissão de CAT para empregados que não sofreram consequências decorrentes do evento, por não se encontrarem no ambiente onde se deu o assalto. Para tanto, deverá o SESMT fazer a análise da ocorrência e proceder aos encaminhamentos necessários. A Empresa deverá comunicar o acidente do trabalho, ocorrido com o empregado, havendo ou não afastamento do trabalho, até o primeiro dia útil seguinte ao da ocorrência e, em caso de morte, de imediato à autoridade competente (Art. 336 do Decreto 3.048/99 – Regulamento da Previdência Social). A Comunicação de Acidente do Trabalho (CAT) deve ser elaborada com brevidade. Por isso e relevante conhecer os papéis definidos no MANPES MÓDULO 20 e na Cláusula 14 do ACT2020/2021. O Empregado acidentado deve: comunicar o acidente do trabalho, assim que o mesmo ocorrer, ao seu gestor imediato; procurar imediatamente o atendimento médico dos Correios e/ou externo e encaminhar ao gestor o laudo/atestado médico. O Gestor imediato após tomar ciência do acidente ocorrido, por meio do empregado acidentado ou de uma testemunha deve orientar o empregado em relação: necessidade do atendimento médico imediatamente; importância de encaminhar o laudo/atestado médico para o gestor; emitir o Boletim de Ocorrência Policial conforme definido no M",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "CON_DISTRIBUICAO_DOMICILIARIA",
+      "numero_clausula_original": 15,
+      "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA",
+      "status": "MANTIDO",
+      "texto": "acordo com os seguintes critérios: §1° O limite de peso transportado pelo(a) carteiro(a), quer na salda das Unidades, quer nos Depósitos AuxiliaresDAs, não ultrapassará 10(dez) kg para homens e 08 (oito) kg para mulheres. §2º Em caso de gravidez, o limite do parágrafo anterior poderá ser reduzido mediante prescrição expressa de médico(a) especialista, homologada pelo Serviço Médico da Empresa. §3º Os Correios comprometem-se a aperfeiçoar os critérios e ampliar a aplicação de processo seletivo interno no preenchimento de vagas de função para o sistema motorizado de entrega domiciliária. O tempo de atuação do(a) carteiro(a) na atividade será o critério de maior peso e de desempate. §4° Depois de realizado o processo seletivo interno e não havendo êxito no preenchimento das funções de Motorizado(a) (M) e Motorizado(a) (V) a Empresa, mediante seleção entre os(as) carteiros interessados e que não possuam as respectivas carteiras de habilitação, garantirá os recursos necessários para a obtenção dessas. §5° A responsabilização por perdas, extravios e danos em objetos postais, malotes e outros será definida mediante aplicação do respectivo processo de apuração. §6° Os Correios continuarão aprimorando o complexo logístico de seu fluxo operacional, visando à otimização dos processos com vistas à antecipação do horário da distribuição domiciliária, sem comprometer a qualidade operacional ou as necessidades dos(as) clientes e zelando pela saúde dos(das) trabalhadores(as). A Empresa priorizará as entregas matutinas em âmbito nacional, nos Centros de Distribuição Domiciliária – CDD. §7º A Implantação da entrega matutina continuará sendo acompanhada por Comissão formada por 5 (cinco) representantes da Empresa e 4 (quatro) representantes das Federações dos Trabalhadores dos Correios legalmente constituídas. §8º A ampliação da entrega matutina de cartas simples para novas unidades será objeto de estudo pela comissão formada por 5 (cinco) representantes da empresa e 4 (quatro) representantes das Federações dos trabalhadores dos Correios legalmente constituídas, com prazo de 90 (noventa) dias para entrega do cronograma de ampliação das unidades contempladas, garantida uma única saída para entrega desse seguimento. OPERACIONALIZAÇÃO DA CLÁUSULA As solicitações de informações referentes a esta cláusula devem ser encaminhadas ao Departamento de Coleta e Distribuição da Diretoria de Operações – DEDIS/DIOPE - dedis-viope@correios.com.br 25 --- PAGINA 26 --CLÁUSULA 16",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "PRO_INOVACOES_TECNOLOGICAS",
+      "numero_clausula_original": 16,
+      "titulo_original": "INOVAÇÕES TECNOLÓGICAS",
+      "status": "MANTIDO",
+      "texto": "atividade seja afetada por inovações tecnológicas ou racionalização de processo, remanejando-o(a) para outra atividade compatível com o cargo que ocupa, qualificando-o(a) para o exercício de sua nova atividade, sem prejuízo das vantagens adquiridas. OPERACIONALIZAÇÃO DA CLÁUSULA Texto autoexplicativo. As solicitações de informações referentes a esta cláusula devem ser encaminhadas à Diretoria de Gestão de Pessoas – DIGEP – digep@correios.com.br. 26 --- PAGINA 27 --CLÁUSULA 17 Cláusula 17 – JORNADA DE TRABALHO NAS AGÊNCIAS DE CORREIOS – O início da jornada de trabalho dos (as) empregados (as) lotados (as) nas Agências de Correio deverá ser escalonado de modo a permitir sua abertura e fechamento nos horários estabelecidos para cada unidade. Parágrafo Único: Os Correios respeitarão os horários estabelecidos para a jornada de trabalho e para o intervalo de alimentação. OPERACIONALIZAÇÃO DA CLÁUSULA De forma a permitir abertura e fechamento nos horários estabelecidos para cada unidade, observadas as normas vigentes sobre frequência e jornada de trabalho, deverão ser obedecidas as orientações da gerência regional (GERAT/GEOPE) sobre o escalonamento do início da jornada de trabalho dos empregados lotados nas agências. As solicitações de informações referentes a esta cláusula devem ser enviadas à respectiva gerência regional. 27 --- PAGINA 28 --CLÁUSULA 18",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "CON_REDIMENSIONAMENTO_CARGA",
+      "numero_clausula_original": 18,
+      "titulo_original": "REDIMENSIONAMENTO DE CARGA",
+      "status": "MANTIDO",
+      "texto": "participação dos (as) empregados (as) que serão abrangidos (as) com o redimensionamento, os Correios viabilizarão a participação de 1 (um) representante sindical regularmente eleito, quando solicitado pelo sindicato, para participar do momento de realização dos levantamentos de carga específicos para dimensionamento de efetivo de CTC, CTE, CTCE, CDD, CEE, TECA e CTCI, de acordo com o cronograma previamente estabelecido pelas áreas funcionais. Parágrafo Único: Após a conclusão, o novo dimensionamento será implantado integralmente em até 120 (cento e vinte) dias após a liberação dos recursos necessários pelos órgãos competentes. OPERACIONALIZAÇÃO DA CLÁUSULA As gerências, coordenações ou órgãos vinculados deverão solicitar o planejamento do redimensionamento de carga às áreas operacionais, de modo a comunicar os respectivos sindicatos com a devida antecedência. As solicitações de informações referentes a esta cláusula devem ser encaminhadas ao Departamento de Coleta e Distribuição da Diretoria de Operações – DEDIS/DIOPE - dedis-viope@correios.com.br 28 --- PAGINA 29 --CLÁUSULA 19",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "PRO_CONCURSO_PUBLICO",
+      "numero_clausula_original": 19,
+      "titulo_original": "CONCURSO PÚBLICO",
+      "status": "MANTIDO",
+      "texto": "preenchimento de seus cargos, não haverá quaisquer discriminações raciais, religiosas ou de orientação sexual, conforme previsão da CF/88, respeitando o percentual de 10% (dez por cento) das vagas destinadas a pessoas com deficiência e 20% (vinte por cento) de reserva de vagas para negros (as). Parágrafo Único: Os Correios continuarão observando a sistemática de alocação e reposição de pessoal, com vistas a garantir a manutenção do efetivo necessário à prestação qualitativa e contínua dos serviços postais. OPERACIONALIZAÇÃO DA CLÁUSULA As solicitações de informações referentes a esta cláusula devem ser encaminhadas à Central de Serviços de Gestão de Pessoas – CEGEP/DIGEP - cscegepgres@correios.com.br 29 --- PAGINA 30 --CLÁUSULA 20",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "PRO_AMPLA_DEFESA",
+      "numero_clausula_original": 20,
+      "titulo_original": "DIREITO A AMPLA DEFESA",
+      "status": "MANTIDO",
+      "texto": "falta grave e por sua solicitação serão assegurados a obtenção de documentos e o amplo direito de defesa. As cópias dos documentos deverão ser entregues diretamente ao(a) empregado(a) envolvido ou ao seu/sua procurador(a) legal, quando solicitado formalmente. A critério do(a) empregado(a) o sindicato poderá acompanhar o processo de apuração. OPERACIONALIZAÇÃO DA CLÁUSULA É garantindo ao empregado envolvido em processo disciplinar, a partir da sua Citação ou do recebimento da Solicitação de Defesa (SID), todos os meios necessários ao exercício do direito à ampla defesa e ao contraditório, dentre os quais: a. Ter ciência, mediante Citação ou SID, do que lhe está sendo imputado; b. Ter vistas e obter cópia integral dos autos, preferencialmente em mídia; c. Produzir prova oportuna e necessária à sua defesa; d. Ser notificado a manifestar-se sempre que forem juntados aos autos novos elementos de prova contra a sua pessoa; e. Fazer-se assistir, facultativamente, por defensor legalmente constituído. A entrega de cópia integral dos autos do processo disciplinar será feita, obrigatoriamente, no momento da entrega da Citação ou SID. As solicitações de informações referentes a esta cláusula devem ser encaminhadas à Corregedoria dos Correios nos seguintes endereços: Órgão Endereço para consulta CS - CORREGEDORIA Órgãos do CS localizados em Brasília (corregedoria@correios.com.br) Órgãos das SEs e CS localizados em: SE/AM, SE/RR, CS - CORREGEDORIA - CCOR-MG - Caixa Postal SE/AP, SE/PA, SE/ACR, SE/BA, SE/GO, SE/BSB e (corregedoria.MG@correios.com.br) SE/MG. Órgãos das SEs e CS localizados em: SE/RO, SE/MT, CS - CORREGEDORIA - CCOR-SPM - Caixa Postal SE/TO, SE/MS, SE/ES, SE/RJ, SE/SP, SE/SPM, SE/PR, (corregedoria.SPM@correios.com.br) SE/SC e SE/RS. Órgãos das SEs e CS localizados em: SE/MA, SE/PI, CS - CORREGEDORIA - CCOR-PE - Caixa Postal SE/CE, SE/RN, SE/PB, SE/PE, SE/AL e SE/SE. (corregedoria.PE@correios.com.br) 30 --- PAGINA 31 --CLÁUSULA 21 Cláusula 21 – RESPONSABILIDADE CIVIL EM ACIDENTE DE TRANSITO – Os Correios assumirão os custos com a recuperação dos danos de veículos de sua frota, bem como danos causados a terceiros, consequentes de acidentes de trânsito, nos casos em que, após apuração, ficar comprovada a inexistência de dolo por parte do(a) empregado(a), estando o mesmo no exercício de suas funções. §1° As diretrizes sobre o assunto serão estabelecidas e implantadas pelos Correios, por meio de grupo de trabalho constituído por portaria. §2º Os processos admin",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "SIN_QUADRO_AVISOS",
+      "numero_clausula_original": 22,
+      "titulo_original": "QUADRO DE AVISOS",
+      "status": "MANTIDO",
+      "texto": "Correios da respectiva base territorial instale quadro para a fixação de avisos e comunicações de interesse da categoria profissional, em local apropriado e de comum acordo entre as partes. OPERACIONALIZAÇÃO DA CLÁUSULA A fixação de informativos do sindicato no quadro de avisos deverá ser realizado pelo representante sindical lotado na unidade. Não havendo representante sindical na unidade, um representante da entidade poderá acessar a unidade para efetuar a fixação de avisos e comunicações de interesse da categoria profissional. Nesse sentido, para acessar as dependências dos Correios, visando exclusivamente a fixação de avisos e comunicações de interesse da categoria profissional em quadro instalado na unidade, o sindicato deverá solicitar autorização à área de relacionamento organizacional, com 02 (dois) dias úteis de antecedência. É vedada a utilização do tempo em que o representante sindical estiver na unidade para realizar reunião com os empregados. As comunicações escritas serão de inteira responsabilidade dos Sindicatos, ficando vedadas as manifestações de conteúdo ou objetivos político - partidários e de ofensas a quem quer que seja. As solicitações de informações referentes a esta cláusula devem ser encaminhadas ao Departamento de Relacionamento Organizacional – DEREO/DIGEP – dereo-sugep-digep@correios.com.br. 32 --- PAGINA 33 --CLÁUSULA 23",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "PRO_CONCILIACAO_DIVERGENCIAS",
+      "numero_clausula_original": 23,
+      "titulo_original": "CONCILIAÇÃO DE DIVERGÊNCIAS",
+      "status": "MANTIDO",
+      "texto": "disposto na presente sentença normativa deverão ser comunicadas, por escrito, aos Correios, para fins de conciliação, no prazo de 15 (quinze) dias, antes de serem submetidas à Justiça do Trabalho. OPERACIONALIZAÇÃO DA CLÁUSULA As solicitações de informações referentes a esta cláusula devem ser encaminhadas ao Departamento de Relacionamento Organizacional – DEREO/DIGEP – dereo-sugep-digep@correios.com.br. 33 --- PAGINA 34 --CLÁUSULA 24 Cláusula 24 – PROCESSO PERMANENTE DE NEGOCIAÇÃO – Os Correios manterão o processo permanente de negociação com as Federações de Trabalhadores dos Correios legalmente constituídas e Sindicatos dos(das) Empregados(as) dos Correios, por meio do Sistema Nacional de Negociação Permanente - SNNP-Correios, com regras definidas em conjunto com as representações dos(das) trabalhadores(as). OPERACIONALIZAÇÃO DA CLÁUSULA O Sistema Nacional de Negociação Permanente - SNNP-Correios é composto de duas frentes: a Mesa Nacional de Negociação Permanente - MNNP-Correios e a Mesa Regional de Negociação Permanente - MRNP-Correios. Na MNNP, serão discutidos assuntos de cunho nacional, entre as Federações legalmente constituídas e a GERT/DEREO. Já na MRNP serão discutidos assuntos regionais, entre o sindicato e a Coordenação de Relacionamento Organizacional – CORG. As Federações e sindicatos deverão solicitar as reuniões por meio de carta, com antecedência mínima de 05 (cinco) dias úteis. A carta das entidades sindicais deverá conter a pauta a ser debatida, a fim de que os representantes da Empresa possam levantar subsídios com as áreas técnicas correspondentes e, se for o caso, convidar representante para participação. As solicitações de informações referentes a esta cláusula devem ser encaminhadas ao Departamento de Relacionamento Organizacional – DEREO/DIGEP – dereo-sugep-digep@correios.com.br. 34 --- PAGINA 35 --CLÁUSULA 25 Cláusula 25 – PRORROGAÇÃO, REVISÃO, DENÚNCIA OU REVOGAÇÃO – A prorrogação, revisão, denúncia ou revogação, total ou parcial, do presente Acordo Coletivo de Trabalho ficará subordinada às normas estabelecidas pelo Art. 615 da CLT, observando-se os princípios da liberdade e autonomia sindical estabelecidas na Constituição Federal. OPERACIONALIZAÇÃO DA CLÁUSULA As solicitações de informações referentes a esta cláusula devem ser encaminhadas ao Departamento de Relacionamento Organizacional – DEREO/DIGEP – dereo-sugep-digep@correios.com.br. 35 --- PAGINA 36 --CLÁUSULA 26",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "PRO_NEGOCIACAO_COLETIVA",
+      "numero_clausula_original": 26,
+      "titulo_original": "NEGOCIAÇÃO COLETIVA",
+      "status": "MANTIDO",
+      "texto": "regulamentação salarial vigente, serão revistos de comum acordo pelas partes os termos da presente sentença normativa, visando ajustá-la à nova realidade. OPERACIONALIZAÇÃO DA CLÁUSULA As solicitações de informações referentes a esta cláusula devem ser encaminhadas ao Departamento de Relacionamento Organizacional – DEREO/DIGEP – dereo-sugep-digep@correios.com.br. 36 --- PAGINA 37 --CLÁUSULA 27 Cláusula 27 – ACOMPANHAMENTO DO CUMPRIMENTO DE CLÁUSULAS DO ACORDO – Os Correios se comprometem a fornecer às Federações dos Trabalhadores, legalmente constituídas, informações a respeito do cumprimento das cláusulas que preveem prazo para sua implementação. OPERACIONALIZAÇÃO DA CLÁUSULA As solicitações de informações referentes a esta cláusula devem ser encaminhadas ao Departamento de Relacionamento Organizacional – DEREO/DIGEP – dereo-sugep-digep@correios.com.br. 37 --- PAGINA 38 --CLÁUSULA 28",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "FIN_PENALIDADE",
+      "numero_clausula_original": 28,
+      "titulo_original": "PENALIDADE",
+      "status": "MANTIDO",
+      "texto": "partes, ficará a parte infratora obrigada ao pagamento, em favor do(a) empregado(a) prejudicado(a), de multa equivalente a 20% (vinte por cento) do dia de serviço deste(a). OPERACIONALIZAÇÃO DA CLÁUSULA Texto autoexplicativo. As solicitações de informações referentes a esta cláusula devem ser encaminhadas ao Departamento de Relacionamento Organizacional – DEREO/DIGEP – dereo-sugep-digep@correios.com.br. 38 --- PAGINA 39 --CLÁUSULA 29",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "PRO_VIGENCIA",
+      "numero_clausula_original": 29,
+      "titulo_original": "VIGÊNCIA",
+      "status": "MANTIDO",
+      "texto": "31 de julho de 2021. OPERACIONALIZAÇÃO DA CLÁUSULA Texto autoexplicativo. As solicitações de informações referentes a esta cláusula devem ser encaminhadas ao Departamento de Relacionamento Organizacional – DEREO/DIGEP – dereo-sugep-digep@correios.com.br. 39",
+      "novo_id": false
+    }
+  ],
+  "notas_metodologicas": [
+    {
+      "tipo": "REEXTRACAO",
+      "descricao": "Documento re-extraído de Acordao-2020-2021.pdf via pdfplumber (v2). Título cortado antes do separador '–'. Mapeamento por dicionário de 70+ keywords + similaridade fallback."
+    },
+    {
+      "tipo": "FIX_TRANSFORMACAO",
+      "descricao": "ID 'SOC_PLANO_SAUDE' renomeado para 'SOC_ASSISTENCIA_MEDICA'. A cláusula é transformação da cláusula 28 do ACT anterior (Correios Saúde → Postal Saúde), mantida pelo TST."
+    }
+  ]
+}

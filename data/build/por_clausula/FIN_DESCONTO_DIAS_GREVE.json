@@ -1,0 +1,25 @@
+[
+  {
+    "ano_inicio": 2012,
+    "ano_fim": 2013,
+    "tipo": "DCG",
+    "id_canonico": "FIN_DESCONTO_DIAS_GREVE",
+    "numero_clausula_original": null,
+    "titulo_original": "COMPENSAÇÃO DOS DIAS DE GREVE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_parados": null,
+      "compensacao": "180 dias após retorno ao trabalho, de segunda a sexta, 2 horas diárias",
+      "base_legal": "Art. 7º da Lei 7.783/89"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Desconto integral ou compensação",
+      "pedido_fentect": "Não desconto",
+      "decisao_tst": "DEFERE a compensação dos dias parados em até 180 dias",
+      "fundamento_juridico": "Suspensão do contrato de trabalho (art. 7º, Lei 7.783/89)",
+      "votos_divergentes": null
+    },
+    "observacao": "O TST autorizou a compensação dos dias de greve em até 180 dias.",
+    "pagina_referencia": 93
+  }
+]

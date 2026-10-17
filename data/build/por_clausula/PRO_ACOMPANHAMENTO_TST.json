@@ -1,0 +1,78 @@
+[
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "PRO_ACOMPANHAMENTO_TST",
+    "numero_clausula_original": 77,
+    "titulo_original": "ACOMPANHAMENTO DO CUMPRIMENTO DE CLÁUSULAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "relatorios": "à Vice-Presidência do TST",
+      "PLR": "conclusão até 15/10/2014"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "32"
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "PRO_ACOMPANHAMENTO_TST",
+    "numero_clausula_original": 79,
+    "titulo_original": "ACOMPANHAMENTO DO CUMPRIMENTO DE CLÁUSULAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "relatorios": "às Federações"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "43"
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "PRO_ACOMPANHAMENTO_TST",
+    "numero_clausula_original": 33,
+    "titulo_original": "ACOMPANHAMENTO DO CUMPRIMENTO DE CLÁUSULAS DO ACORDO (77ª do DCG 2019/2020)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "redacao": "Os Correios se comprometem a fornecer às Federações dos Trabalhadores, legalmente constituídas, informações a respeito do cumprimento das cláusulas que preveem prazo para sua implementação"
+    },
+    "memoria_negociacao": "Manutenção anuída pelas entidades sindicais",
+    "observacao": null,
+    "pagina_referencia": "67"
+  },
+  {
+    "ano_inicio": 2022,
+    "ano_fim": 2023,
+    "tipo": "ACT",
+    "id_canonico": "PRO_ACOMPANHAMENTO_TST",
+    "numero_clausula_original": 35,
+    "titulo_original": "ACOMPANHAMENTO DO CUMPRIMENTO DE CLÁUSULAS DO ACORDO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "fornecimento_informacoes": "às Federações signatárias"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "PRO_ACOMPANHAMENTO_TST",
+    "numero_clausula_original": 76,
+    "titulo_original": "ACOMPANHAMENTO DO CUMPRIMENTO DE CLÁUSULAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "relatorios": "às Federações"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "15"
+  }
+]

@@ -1,0 +1,680 @@
+[
+  {
+    "ano_inicio": 1988,
+    "ano_fim": 1989,
+    "tipo": "ACT",
+    "id_canonico": "PRO_VIGENCIA",
+    "numero_clausula_original": 28,
+    "titulo_original": "VIGÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "data_inicio": "1989-01-01",
+      "data_fim": "1989-12-31",
+      "duracao_meses": 12
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "8"
+  },
+  {
+    "ano_inicio": 1990,
+    "ano_fim": 1991,
+    "tipo": "ACT",
+    "id_canonico": "PRO_VIGENCIA",
+    "numero_clausula_original": 32,
+    "titulo_original": "VIGÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "data_inicio": "1990-01-01",
+      "data_fim": "1990-12-31",
+      "duracao_meses": 12
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "10-11"
+  },
+  {
+    "ano_inicio": 1992,
+    "ano_fim": 1992,
+    "tipo": "ACT",
+    "id_canonico": "PRO_VIGENCIA",
+    "numero_clausula_original": 35,
+    "titulo_original": "VIGÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "data_inicio": "1992-01-12",
+      "duracao_meses": 12,
+      "data_fim": "1993-01-11"
+    },
+    "pagina_referencia": "8"
+  },
+  {
+    "ano_inicio": 1993,
+    "ano_fim": 1994,
+    "tipo": "ACT",
+    "id_canonico": "PRO_VIGENCIA",
+    "numero_clausula_original": 40,
+    "titulo_original": "VIGÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "data_inicio": "1993-01-01",
+      "data_fim": "1993-12-31",
+      "duracao_meses": 12
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "20"
+  },
+  {
+    "ano_inicio": 1994,
+    "ano_fim": 1995,
+    "tipo": "ACT",
+    "id_canonico": "PRO_VIGENCIA",
+    "numero_clausula_original": 48,
+    "titulo_original": "VIGÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "data_inicio": "1994-01-01",
+      "data_fim": "1994-12-31",
+      "duracao_meses": 12,
+      "clausulas_economicas": "vigência a partir da assinatura, ressalvadas as homologadas no TST-DC-104.161/94.3"
+    },
+    "memoria_negociacao": null,
+    "observacao": "Data-base em 1º de janeiro (antes da mudança para 1º de agosto).",
+    "pagina_referencia": "14"
+  },
+  {
+    "ano_inicio": 1995,
+    "ano_fim": 1996,
+    "tipo": "ACT",
+    "id_canonico": "PRO_VIGENCIA",
+    "numero_clausula_original": 51,
+    "titulo_original": "VIGÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "data_inicio": "1995-12-01",
+      "data_fim": "1996-11-30",
+      "duracao_meses": 12
+    }
+  },
+  {
+    "ano_inicio": 1997,
+    "ano_fim": 1998,
+    "tipo": "ACT",
+    "id_canonico": "PRO_VIGENCIA",
+    "numero_clausula_original": 51,
+    "titulo_original": "VIGÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "data_inicio": "1997-08-01",
+      "data_fim": "1998-07-31",
+      "duracao_meses": 12
+    }
+  },
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "PRO_VIGENCIA",
+    "numero_clausula_original": 55,
+    "titulo_original": "VIGÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "data_inicio": "1998-08-01",
+      "data_fim": "1999-07-31",
+      "duracao_meses": 12
+    }
+  },
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "PRO_VIGENCIA",
+    "numero_clausula_original": 56,
+    "titulo_original": "VIGÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "data_inicio": "1999-08-01",
+      "data_fim": "2000-07-31",
+      "duracao_meses": 12
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "18"
+  },
+  {
+    "ano_inicio": 2000,
+    "ano_fim": 2001,
+    "tipo": "DC",
+    "id_canonico": "PRO_VIGENCIA",
+    "numero_clausula_original": 47,
+    "titulo_original": "VIGÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "data_inicio": "2000-08-01",
+      "data_fim": "2001-07-31",
+      "duracao_meses": 12
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Vigência de 1 ano",
+      "pedido_fentect": "Manutenção nos termos da pauta",
+      "decisao_tst": "DEFERE como proposta",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": "Cláusula social controvertida.",
+    "pagina_referencia": "17"
+  },
+  {
+    "ano_inicio": 2001,
+    "ano_fim": 2002,
+    "tipo": "ACT",
+    "id_canonico": "PRO_VIGENCIA",
+    "numero_clausula_original": 50,
+    "titulo_original": "VIGÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "data_inicio": "2001-08-01",
+      "data_fim": "2002-07-31",
+      "duracao_meses": 12
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Vigência de 1 ano",
+      "pedido_fentect": "Vigência de 1 ano",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "13"
+  },
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "PRO_VIGENCIA",
+    "numero_clausula_original": 61,
+    "titulo_original": "VIGÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "data_inicio": "2002-08-01",
+      "data_fim": "2003-07-31",
+      "duracao_meses": 12
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Vigência de 1 ano",
+      "pedido_fentect": "Vigência de 1 ano",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "29"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "PRO_VIGENCIA",
+    "numero_clausula_original": 63,
+    "titulo_original": "VIGÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "data_inicio": "2003-08-01",
+      "data_fim": "2004-07-31",
+      "duracao_meses": 12
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Vigência de 1 ano",
+      "pedido_fentect": "Vigência de 1 ano",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "30"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "PRO_VIGENCIA",
+    "numero_clausula_original": 62,
+    "titulo_original": "VIGÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "data_inicio": "2004-08-01",
+      "data_fim": "2005-07-31",
+      "duracao_meses": 12
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Vigência de 1 ano",
+      "pedido_fentect": "Vigência de 1 ano",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "19"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "PRO_VIGENCIA",
+    "numero_clausula_original": 63,
+    "titulo_original": "VIGÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "data_inicio": "2005-08-01",
+      "data_fim": "2006-07-31",
+      "duracao_meses": 12
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "PRO_VIGENCIA",
+    "numero_clausula_original": 62,
+    "titulo_original": "VIGÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "data_inicio": "2007-08-01",
+      "data_fim": "2008-07-31",
+      "duracao_meses": 12
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Vigência de 1 ano",
+      "pedido_fentect": "Vigência de 1 ano",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "25"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "PRO_VIGENCIA",
+    "numero_clausula_original": 62,
+    "titulo_original": "VIGÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "data_inicio": "2008-08-01",
+      "data_fim": "2009-07-31",
+      "duracao_meses": 12
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Vigência de 1 ano",
+      "pedido_fentect": "Vigência de 1 ano",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 20
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "PRO_VIGENCIA",
+    "numero_clausula_original": 63,
+    "titulo_original": "VIGÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "data_inicio": "2009-08-01",
+      "data_fim": "2011-07-31",
+      "duracao_meses": 24
+    },
+    "memoria_negociacao": null,
+    "observacao": "Acordo com vigência de 2 anos (2009-2011).",
+    "pagina_referencia": "19"
+  },
+  {
+    "ano_inicio": 2011,
+    "ano_fim": 2012,
+    "tipo": "DCG",
+    "id_canonico": "PRO_VIGENCIA",
+    "numero_clausula_original": 63,
+    "titulo_original": "VIGÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "data_inicio": "2011-08-01",
+      "data_fim": "2015-07-31 (máximo legal de 4 anos)",
+      "duracao_meses": 48
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Vigência de 1 ano",
+      "pedido_fentect": "Vigência de 4 anos",
+      "decisao_tst": "DEFERE vigência até que sentença normativa superveniente produza revogação, respeitado o prazo máximo de 4 anos",
+      "fundamento_juridico": "PN 120/SDC/TST; art. 868 CLT",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 104
+  },
+  {
+    "ano_inicio": 2012,
+    "ano_fim": 2013,
+    "tipo": "DCG",
+    "id_canonico": "PRO_VIGENCIA",
+    "numero_clausula_original": 63,
+    "titulo_original": "VIGÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "data_inicio": "2012-08-01",
+      "data_fim": "2013-07-31 (revisão de sentença normativa anterior)",
+      "duracao_meses": 12
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Vigência de 1 ano",
+      "pedido_fentect": "Vigência de 4 anos",
+      "decisao_tst": "DEFERE vigência de 1 ano (01/08/2012 a 31/07/2013)",
+      "fundamento_juridico": "PN 120/SDC/TST; art. 868 CLT",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 72
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "PRO_VIGENCIA",
+    "numero_clausula_original": 64,
+    "titulo_original": "VIGÊNCIA",
+    "status": "DEFERIDO",
+    "texto": "Vigência de 01/08/2013 a 31/07/2014.",
+    "detalhes": {
+      "data_inicio": "2013-08-01",
+      "data_fim": "2014-07-31"
+    },
+    "observacao": "DIFERENTE do DC: aqui é prazo fixo de 1 ano. No DC, vigência até revogação, respeitado máximo de 4 anos.",
+    "pagina_referencia": 18
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "PRO_VIGENCIA",
+    "numero_clausula_original": 5,
+    "titulo_original": "VIGÊNCIA",
+    "status": "DEFERIDO",
+    "texto": "O presente Acordo Coletivo terá vigência de 1º de agosto de 2013 e vigorará até 31 de julho de 2014.",
+    "detalhes": {
+      "data_inicio": "2013-08-01",
+      "data_fim": "2014-07-31",
+      "duracao_meses": 12
+    },
+    "pagina_referencia": 1
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "PRO_VIGENCIA",
+    "numero_clausula_original": 64,
+    "titulo_original": "VIGÊNCIA",
+    "status": "DEFERIDO",
+    "texto": "Vigência a partir de 01/08/2013 até que sentença normativa, CCT ou ACT superveniente produza revogação expressa ou tácita, respeitado o prazo máximo legal de 4 anos.",
+    "detalhes": {
+      "data_inicio": "2013-08-01",
+      "duracao_maxima_anos": 4
+    },
+    "pagina_referencia": 104
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "PRO_VIGENCIA",
+    "numero_clausula_original": 78,
+    "titulo_original": "VIGÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "data_inicio": "2014-08-01",
+      "data_fim": "2015-07-31",
+      "duracao_meses": 12
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "32"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "PRO_VIGENCIA",
+    "numero_clausula_original": 81,
+    "titulo_original": "VIGÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "data_inicio": "2015-08-01",
+      "data_fim": "2016-07-31",
+      "duracao_meses": 12
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Vigência de 1 ano",
+      "pedido_fentect": "Vigência de 1 ano",
+      "pedido_findect": "Vigência de 1 ano",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 42
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "PRO_VIGENCIA",
+    "numero_clausula_original": 81,
+    "titulo_original": "VIGÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "data_inicio": "2016-08-01",
+      "data_fim": "2017-07-31",
+      "duracao_meses": 12
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "44"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "PRO_VIGENCIA",
+    "numero_clausula_original": 79,
+    "titulo_original": "VIGÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "data_inicio": "2017-08-01",
+      "data_fim": "2018-07-31",
+      "duracao_meses": 12
+    },
+    "pagina_referencia": 99
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "PRO_VIGENCIA",
+    "numero_clausula_original": 79,
+    "titulo_original": "VIGÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "data_inicio": "2018-08-01",
+      "data_fim": "2019-07-31",
+      "duracao_meses": 12
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Vigência de 1 ano",
+      "pedido_fentect": "Vigência de 1 ano",
+      "pedido_findect": "Vigência de 1 ano",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 41
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "PRO_VIGENCIA",
+    "numero_clausula_original": 79,
+    "titulo_original": "VIGÊNCIA",
+    "status": "MANTIDO",
+    "texto": "até 31 de julho de 2021. Observações: Cláusula abarcada pela “Medida Cautelar na Suspensão de Liminar 1.264 Distrito Federal” do Supremo Tribunal Federal – STF, suspendendo a decisão do TST até o respectivo trânsito em julgado. Desta forma, a vigência do Acórdão até trânsito em julgado, é de apenas 1 (um) ano – Período de 1º de agosto de 2019 até 31 de julho de 2020. ***** 93",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2020,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "PRO_VIGENCIA",
+    "numero_clausula_original": 29,
+    "titulo_original": "VIGÊNCIA",
+    "status": "MANTIDO",
+    "texto": "31 de julho de 2021. OPERACIONALIZAÇÃO DA CLÁUSULA Texto autoexplicativo. As solicitações de informações referentes a esta cláusula devem ser encaminhadas ao Departamento de Relacionamento Organizacional – DEREO/DIGEP – dereo-sugep-digep@correios.com.br. 39",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "PRO_VIGENCIA",
+    "numero_clausula_original": 35,
+    "titulo_original": "VIGÊNCIA (79ª do DCG 2019/2020)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "data_inicio": "2021-08-01",
+      "data_fim": "2022-07-31",
+      "duracao_meses": 12,
+      "redacao": "A presente sentença normativa terá vigência de 1 (um) ano, de 1° de agosto de 2021 até 31 de julho de 2022"
+    },
+    "memoria_negociacao": "Ajustada a vigência para o período 2021/2022",
+    "observacao": null,
+    "pagina_referencia": "67, 112"
+  },
+  {
+    "ano_inicio": 2022,
+    "ano_fim": 2023,
+    "tipo": "ACT",
+    "id_canonico": "PRO_VIGENCIA",
+    "numero_clausula_original": 37,
+    "titulo_original": "VIGÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "data_inicio": "2022-08-01",
+      "data_fim": "2023-07-31",
+      "duracao_meses": 12
+    },
+    "memoria_negociacao": null,
+    "observacao": "Assinado eletronicamente (SEI) em 05-06/09/2022. Código verificador 34417854, CRC 6AF105D8",
+    "pagina_referencia": "6-7"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "PRO_VIGENCIA",
+    "numero_clausula_original": 78,
+    "titulo_original": "VIGÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "data_inicio": "2023-08-01",
+      "data_fim": "2024-07-31",
+      "duracao_meses": 12
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "15"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "PRO_VIGENCIA",
+    "numero_clausula_original": 25,
+    "titulo_original": "PRORROGAÇÃO, REVISÃO, DENÚNCIA OU REVOGAÇÃO",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "base_legal": "art. 615 da CLT",
+      "principios": [
+        "liberdade sindical",
+        "autonomia sindical"
+      ]
+    },
+    "observacao": null,
+    "pagina_referencia": 9
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "PRO_VIGENCIA",
+    "numero_clausula_original": 79,
+    "titulo_original": "VIGÊNCIA",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "data_inicio": "2024-08-01",
+      "data_fim": "2025-07-31",
+      "duracao_meses": 12
+    },
+    "observacao": null,
+    "pagina_referencia": 27
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "PRO_VIGENCIA",
+    "numero_clausula_original": 80,
+    "titulo_original": "VIGÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "data_inicio": "2026-08-01",
+      "data_fim": "2027-07-31",
+      "duracao_meses": 12
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Vigência de 2 anos (01/08/2026 a 31/07/2028)",
+      "pedido_fentect": "Vigência de 1 ano (01/08/2026 a 31/07/2027)",
+      "pedido_findect": "Vigência de 1 ano (01/08/2026 a 31/07/2027)",
+      "decisao_tst": "DEFERE nos termos propostos pelas Federações (1 ano)",
+      "fundamento_juridico": "Cláusula sem conteúdo econômico; prestígio à negociação direta",
+      "votos_divergentes": null
+    },
+    "observacao": "**CONQUISTA**. A ECT propôs vigência de 2 anos, mas o TST fixou 1 ano, prestigiando a negociação direta para o próximo período.",
+    "pagina_referencia": 31
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "PRO_VIGENCIA",
+    "numero_clausula_original": 80,
+    "titulo_original": "VIGÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "data_inicio": "2025-08-01",
+      "data_fim": "2026-07-31",
+      "duracao_meses": 12
+    },
+    "pagina_referencia": "80, 123"
+  }
+]

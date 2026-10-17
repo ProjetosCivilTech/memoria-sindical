@@ -1,0 +1,470 @@
+[
+  {
+    "ano_inicio": 1994,
+    "ano_fim": 1995,
+    "tipo": "ACT",
+    "id_canonico": "PRO_NEGOCIACAO_COLETIVA",
+    "numero_clausula_original": 30,
+    "titulo_original": "NEGOCIAÇÃO COLETIVA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "gatilho": "fatos econômicos, sociais ou políticos que alterem substancialmente a regulamentação salarial"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "10"
+  },
+  {
+    "ano_inicio": 1995,
+    "ano_fim": 1996,
+    "tipo": "ACT",
+    "id_canonico": "PRO_NEGOCIACAO_COLETIVA",
+    "numero_clausula_original": 32,
+    "titulo_original": "NEGOCIAÇÃO COLETIVA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "gatilho": "fatos econômicos, sociais ou políticos"
+    }
+  },
+  {
+    "ano_inicio": 1997,
+    "ano_fim": 1998,
+    "tipo": "ACT",
+    "id_canonico": "PRO_NEGOCIACAO_COLETIVA",
+    "numero_clausula_original": 32,
+    "titulo_original": "NEGOCIAÇÃO COLETIVA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "gatilho": "fatos econômicos/sociais/políticos"
+    }
+  },
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "PRO_NEGOCIACAO_COLETIVA",
+    "numero_clausula_original": 34,
+    "titulo_original": "NEGOCIAÇÃO COLETIVA",
+    "status": "DEFERIDO"
+  },
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "PRO_NEGOCIACAO_COLETIVA",
+    "numero_clausula_original": 35,
+    "titulo_original": "NEGOCIAÇÃO COLETIVA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "gatilho": "fatos econômicos, sociais ou políticos"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "12"
+  },
+  {
+    "ano_inicio": 2000,
+    "ano_fim": 2001,
+    "tipo": "DC",
+    "id_canonico": "PRO_NEGOCIACAO_COLETIVA",
+    "numero_clausula_original": 28,
+    "titulo_original": "NEGOCIAÇÃO COLETIVA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "gatilho": "fatos econômicos, sociais ou políticos que alterem substancialmente a regulamentação salarial",
+      "vedacao_CCP": "não constituir CCP's sem pactuar com a FENTECT"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Acrescentar parágrafo único vedando CCP's sem pactuação",
+      "decisao_tst": "DEFERE como proposta pela ECT",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "Cláusula social particularmente controvertida. Pedido da FENTECT não acolhido.",
+    "pagina_referencia": "15"
+  },
+  {
+    "ano_inicio": 2001,
+    "ano_fim": 2002,
+    "tipo": "ACT",
+    "id_canonico": "PRO_NEGOCIACAO_COLETIVA",
+    "numero_clausula_original": 29,
+    "titulo_original": "NEGOCIAÇÃO COLETIVA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "gatilho": "fatos econômicos, sociais ou políticos que alterem substancialmente a regulamentação salarial"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "9"
+  },
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "PRO_NEGOCIACAO_COLETIVA",
+    "numero_clausula_original": 41,
+    "titulo_original": "NEGOCIAÇÃO COLETIVA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "gatilho": "fatos econômicos, sociais ou políticos que alterem substancialmente a regulamentação salarial"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "21"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "PRO_NEGOCIACAO_COLETIVA",
+    "numero_clausula_original": 41,
+    "titulo_original": "NEGOCIAÇÃO COLETIVA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "gatilho": "fatos econômicos, sociais ou políticos que alterem substancialmente a regulamentação salarial"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "21"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "PRO_NEGOCIACAO_COLETIVA",
+    "numero_clausula_original": 40,
+    "titulo_original": "NEGOCIAÇÃO COLETIVA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "gatilho": "fatos econômicos, sociais ou políticos que alterem substancialmente a regulamentação salarial"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "14"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "PRO_NEGOCIACAO_COLETIVA",
+    "numero_clausula_original": 40,
+    "titulo_original": "NEGOCIAÇÃO COLETIVA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "gatilho": "fatos econômicos/sociais/políticos"
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "PRO_NEGOCIACAO_COLETIVA",
+    "numero_clausula_original": 40,
+    "titulo_original": "NEGOCIAÇÃO COLETIVA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "gatilho": "fatos econômicos, sociais ou políticos que alterem substancialmente a regulamentação salarial"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "18"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "PRO_NEGOCIACAO_COLETIVA",
+    "numero_clausula_original": 40,
+    "titulo_original": "NEGOCIAÇÃO COLETIVA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "gatilho": "fatos econômicos, sociais ou políticos que alterem substancialmente a regulamentação salarial"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 14
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "PRO_NEGOCIACAO_COLETIVA",
+    "numero_clausula_original": 41,
+    "titulo_original": "NEGOCIAÇÃO COLETIVA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "gatilho": "fatos econômicos, sociais ou políticos"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "13"
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "PRO_NEGOCIACAO_COLETIVA",
+    "numero_clausula_original": 41,
+    "titulo_original": "NEGOCIAÇÃO COLETIVA",
+    "status": "MANTIDO",
+    "texto": "Fatos econômicos, sociais ou políticos que alterem substancialmente a regulamentação salarial serão revistos de comum acordo entre as partes.",
+    "observacao": "Idêntica ao DC 2013-2014.",
+    "pagina_referencia": 12
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "PRO_NEGOCIACAO_COLETIVA",
+    "numero_clausula_original": 41,
+    "titulo_original": "NEGOCIAÇÃO COLETIVA",
+    "status": "MANTIDO",
+    "texto": "Fatos econômicos, sociais ou políticos que alterem substancialmente a regulamentação salarial serão revistos de comum acordo entre as partes.",
+    "observacao": "Idêntica ao DC 2012-2013.",
+    "pagina_referencia": 93
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "PRO_NEGOCIACAO_COLETIVA",
+    "numero_clausula_original": 21,
+    "titulo_original": "NEGOCIAÇÃO COLETIVA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "gatilho": "fatos econômicos, sociais ou políticos"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "11"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "PRO_NEGOCIACAO_COLETIVA",
+    "numero_clausula_original": 21,
+    "titulo_original": "NEGOCIAÇÃO COLETIVA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "gatilho": "fatos econômicos, sociais ou políticos que alterem substancialmente a regulamentação salarial"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 14
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "PRO_NEGOCIACAO_COLETIVA",
+    "numero_clausula_original": 21,
+    "titulo_original": "NEGOCIAÇÃO COLETIVA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "gatilho": "fatos econômicos, sociais ou políticos"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "14"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "PRO_NEGOCIACAO_COLETIVA",
+    "numero_clausula_original": 21,
+    "titulo_original": "NEGOCIAÇÃO COLETIVA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "gatilho": "fatos econômicos, sociais ou políticos que alterem substancialmente a regulamentação salarial"
+    },
+    "pagina_referencia": 37
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "PRO_NEGOCIACAO_COLETIVA",
+    "numero_clausula_original": 21,
+    "titulo_original": "NEGOCIAÇÃO COLETIVA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "gatilho": "fatos econômicos, sociais ou políticos que alterem substancialmente a regulamentação salarial"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 12
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "PRO_NEGOCIACAO_COLETIVA",
+    "numero_clausula_original": 21,
+    "titulo_original": "NEGOCIAÇÃO COLETIVA",
+    "status": "MANTIDO",
+    "texto": "ou alterem substancialmente a regulamentação salarial vigente, serão revistos de comum acordo pelas partes os termos do presente Acordo Coletivo de Trabalho, visando ajustá-lo à nova realidade. 26 --- PAGINA 27 --CLÁUSULA 22 Cláusula 22 – PROCESSO PERMANENTE DE NEGOCIAÇÃO – Os Correios manterão o processo permanente de negociação com as Federações de Trabalhadores dos Correios legalmente constituídas e Sindicatos dos(as) Empregados(as) dos Correios, por meio do Sistema Nacional de Negociação Permanente – SNNP-Correios, com regras definidas em conjunto com as representações dos(as) trabalhadores(as). §1º Os temas/assuntos a serem debatidos serão acordados previamente entre as partes, dentre os quais: I – Vale Transporte não abrangido na Cláusula 52 – Vale Transporte e Jornada de Trabalho In Itinere; II – Sistema de Distritamento – SD; III – A substituição gradativa de Mão de Obra Temporária – MOT, por contrato de trabalho por prazo determinado, nos termos da Lei 9.601/98, cuja deliberação integrará, para todos os fins, o presente Acordo Coletivo de Trabalho; IV – A jornada de trabalho do(a) jornalista, com discussão sobre compensação de horas. §2º As partes se comprometem a discutir as pautas de reivindicações dos trabalhadores e da Empresa nas reuniões do SNNP-Correios. 27 --- PAGINA 28 --CLÁUSULA 23 Cláusula 23 – PRORROGAÇÃO, REVISÃO, DENÚNCIA OU REVOGAÇÃO – A prorrogação, revisão, denúncia ou revogação, total ou parcial, do presente Acordo Coletivo de Trabalho ficará subordinada às normas estabelecidas pelo Art. 615 da CLT, observando-se os princípios da liberdade e autonomia sindical estabelecidas na Constituição Federal. 28 --- PAGINA 29 --CLÁUSULA 24",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2020,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "PRO_NEGOCIACAO_COLETIVA",
+    "numero_clausula_original": 26,
+    "titulo_original": "NEGOCIAÇÃO COLETIVA",
+    "status": "MANTIDO",
+    "texto": "regulamentação salarial vigente, serão revistos de comum acordo pelas partes os termos da presente sentença normativa, visando ajustá-la à nova realidade. OPERACIONALIZAÇÃO DA CLÁUSULA As solicitações de informações referentes a esta cláusula devem ser encaminhadas ao Departamento de Relacionamento Organizacional – DEREO/DIGEP – dereo-sugep-digep@correios.com.br. 36 --- PAGINA 37 --CLÁUSULA 27 Cláusula 27 – ACOMPANHAMENTO DO CUMPRIMENTO DE CLÁUSULAS DO ACORDO – Os Correios se comprometem a fornecer às Federações dos Trabalhadores, legalmente constituídas, informações a respeito do cumprimento das cláusulas que preveem prazo para sua implementação. OPERACIONALIZAÇÃO DA CLÁUSULA As solicitações de informações referentes a esta cláusula devem ser encaminhadas ao Departamento de Relacionamento Organizacional – DEREO/DIGEP – dereo-sugep-digep@correios.com.br. 37 --- PAGINA 38 --CLÁUSULA 28",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "PRO_NEGOCIACAO_COLETIVA",
+    "numero_clausula_original": 30,
+    "titulo_original": "NEGOCIAÇÃO COLETIVA (27ª do DCG 2019/2020)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "redacao": "Em caso de ocorrência de fatos que alterem substancialmente a regulamentação salarial vigente, serão revistos de comum acordo pelas partes os termos do presente acordo coletivo de trabalho, visando ajustá-lo à nova realidade"
+    },
+    "memoria_negociacao": "Sindicatos propuseram incluir 'econômicos, sociais ou políticos'; SDC rejeitou por atender ao art. 873 da CLT",
+    "observacao": "Mantida redação da sentença normativa anterior",
+    "pagina_referencia": "74-75, 111"
+  },
+  {
+    "ano_inicio": 2022,
+    "ano_fim": 2023,
+    "tipo": "ACT",
+    "id_canonico": "PRO_NEGOCIACAO_COLETIVA",
+    "numero_clausula_original": 31,
+    "titulo_original": "NEGOCIAÇÃO COLETIVA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "gatilho": "fatos que alterem substancialmente a regulamentação salarial"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "PRO_NEGOCIACAO_COLETIVA",
+    "numero_clausula_original": 22,
+    "titulo_original": "NEGOCIAÇÃO COLETIVA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "gatilho": "fatos que alterem regulamentação salarial"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "5"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "PRO_NEGOCIACAO_COLETIVA",
+    "numero_clausula_original": 23,
+    "titulo_original": "NEGOCIAÇÃO COLETIVA",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "gatilho": "fatos que alterem substancialmente a regulamentação salarial vigente"
+    },
+    "observacao": null,
+    "pagina_referencia": 9
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "PRO_NEGOCIACAO_COLETIVA",
+    "numero_clausula_original": 20,
+    "titulo_original": "NEGOCIAÇÃO COLETIVA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "gatilho": "fatos que alterem substancialmente a regulamentação salarial vigente"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Não se opôs",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 10
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "PRO_NEGOCIACAO_COLETIVA",
+    "numero_clausula_original": 20,
+    "titulo_original": "NEGOCIAÇÃO COLETIVA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "gatilho": "fatos que alterem substancialmente a regulamentação salarial vigente"
+    },
+    "pagina_referencia": "34"
+  }
+]

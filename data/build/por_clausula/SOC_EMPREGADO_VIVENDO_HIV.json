@@ -1,0 +1,506 @@
+[
+  {
+    "ano_inicio": 1995,
+    "ano_fim": 1996,
+    "tipo": "ACT",
+    "id_canonico": "SOC_EMPREGADO_VIVENDO_HIV",
+    "numero_clausula_original": 19,
+    "titulo_original": "EMPREGADO PORTADOR DO VÍRUS HIV",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "remanejamento": true,
+      "vedacao_dispensa": true
+    }
+  },
+  {
+    "ano_inicio": 1997,
+    "ano_fim": 1998,
+    "tipo": "ACT",
+    "id_canonico": "SOC_EMPREGADO_VIVENDO_HIV",
+    "numero_clausula_original": 19,
+    "titulo_original": "EMPREGADO PORTADOR DO VÍRUS HIV",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "remanejamento": true,
+      "vedacao_dispensa": true
+    }
+  },
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "SOC_EMPREGADO_VIVENDO_HIV",
+    "numero_clausula_original": 20,
+    "titulo_original": "EMPREGADO PORTADOR DO VÍRUS HIV",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "remanejamento": true,
+      "vedacao_dispensa": true,
+      "convenios": true
+    }
+  },
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "SOC_EMPREGADO_VIVENDO_HIV",
+    "numero_clausula_original": 21,
+    "titulo_original": "EMPREGADO PORTADOR DO VÍRUS HIV",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "remanejamento_provisorio": true,
+      "vedacao_dispensa": true,
+      "acoes_junto_entidades_publicas": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "8"
+  },
+  {
+    "ano_inicio": 2000,
+    "ano_fim": 2001,
+    "tipo": "DC",
+    "id_canonico": "SOC_EMPREGADO_VIVENDO_HIV",
+    "numero_clausula_original": 16,
+    "titulo_original": "EMPREGADO PORTADOR DO VÍRUS HIV",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "remanejamento_provisorio": true,
+      "vedacao_dispensa": true,
+      "acoes_junto_entidades_publicas": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "Cláusula incontroversa.",
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 2001,
+    "ano_fim": 2002,
+    "tipo": "ACT",
+    "id_canonico": "SOC_EMPREGADO_VIVENDO_HIV",
+    "numero_clausula_original": 16,
+    "titulo_original": "EMPREGADO PORTADOR DO VÍRUS HIV",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "remanejamento": true,
+      "vedacao_dispensa": true,
+      "acoes_junto_entidades_publicas": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "SOC_EMPREGADO_VIVENDO_HIV",
+    "numero_clausula_original": 24,
+    "titulo_original": "EMPREGADO PORTADOR DO VÍRUS HIV",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "remanejamento": true,
+      "vedacao_dispensa": true,
+      "acoes_junto_entidades_publicas": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "13"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "SOC_EMPREGADO_VIVENDO_HIV",
+    "numero_clausula_original": 24,
+    "titulo_original": "EMPREGADO PORTADOR DO VÍRUS HIV",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "remanejamento": true,
+      "vedacao_dispensa": true,
+      "acoes_junto_entidades_publicas": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "12"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "SOC_EMPREGADO_VIVENDO_HIV",
+    "numero_clausula_original": 24,
+    "titulo_original": "EMPREGADO PORTADOR DO VÍRUS HIV",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "remanejamento": true,
+      "vedacao_dispensa": true,
+      "acoes_junto_entidades_publicas": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "9"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "SOC_EMPREGADO_VIVENDO_HIV",
+    "numero_clausula_original": 24,
+    "titulo_original": "EMPREGADO PORTADOR DO VÍRUS HIV",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "remanejamento": true,
+      "vedacao_dispensa": true,
+      "convenios": true
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "SOC_EMPREGADO_VIVENDO_HIV",
+    "numero_clausula_original": 24,
+    "titulo_original": "EMPREGADO PORTADOR DO VÍRUS HIV",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "remanejamento": true,
+      "vedacao_dispensa": true,
+      "acoes_junto_entidades_publicas": true,
+      "regras_plano_saude": "Correios Saúde"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "11"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "SOC_EMPREGADO_VIVENDO_HIV",
+    "numero_clausula_original": 24,
+    "titulo_original": "EMPREGADO PORTADOR DO VÍRUS HIV",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "remanejamento": true,
+      "vedacao_dispensa": true,
+      "acoes_junto_entidades_publicas": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 8
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "SOC_EMPREGADO_VIVENDO_HIV",
+    "numero_clausula_original": 24,
+    "titulo_original": "EMPREGADO PORTADOR DO VÍRUS HIV",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "remanejamento": true,
+      "vedacao_dispensa": true,
+      "acoes_junto_entidades_publicas": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "8"
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "SOC_EMPREGADO_VIVENDO_HIV",
+    "numero_clausula_original": 24,
+    "titulo_original": "EMPREGADO PORTADOR DO VÍRUS HIV",
+    "status": "MANTIDO",
+    "texto": "Remanejamento para outra função a pedido do empregado ou por recomendação médica, vedada dispensa sem justa causa. ECT facilitará obtenção de medicamentos e exames.",
+    "observacao": "Idêntica ao DC 2013-2014.",
+    "pagina_referencia": 7
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "SOC_EMPREGADO_VIVENDO_HIV",
+    "numero_clausula_original": 24,
+    "titulo_original": "EMPREGADO PORTADOR DO VÍRUS HIV",
+    "status": "MANTIDO",
+    "texto": "Remanejamento para outra função a pedido do empregado ou por recomendação médica, vedada dispensa sem justa causa. ECT facilitará obtenção de medicamentos e exames.",
+    "observacao": "Idêntica ao DC 2012-2013.",
+    "pagina_referencia": 84
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "SOC_EMPREGADO_VIVENDO_HIV",
+    "numero_clausula_original": 32,
+    "titulo_original": "EMPREGADO VIVENDO COM HIV OU AIDS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "remanejamento": true,
+      "vedacao_dispensa": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "15"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "SOC_EMPREGADO_VIVENDO_HIV",
+    "numero_clausula_original": 32,
+    "titulo_original": "EMPREGADO(A) VIVENDO COM HIV OU AIDS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "remanejamento": true,
+      "vedacao_dispensa": true,
+      "liberacao_mensal_medicamentos": true,
+      "transferencia_somente_a_pedido": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 19
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "SOC_EMPREGADO_VIVENDO_HIV",
+    "numero_clausula_original": 32,
+    "titulo_original": "EMPREGADO(A) VIVENDO COM HIV OU AIDS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "remanejamento": true,
+      "vedacao_dispensa": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "20"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "SOC_EMPREGADO_VIVENDO_HIV",
+    "numero_clausula_original": 32,
+    "titulo_original": "EMPREGADO(A) VIVENDO COM HIV OU AIDS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "remanejamento": true,
+      "vedacao_dispensa_sem_justa_causa": true,
+      "convenios_medicamentos": true,
+      "exames": "conforme Correios Saúde"
+    },
+    "pagina_referencia": 50
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "SOC_EMPREGADO_VIVENDO_HIV",
+    "numero_clausula_original": 32,
+    "titulo_original": "EMPREGADO(A) VIVENDO COM HIV OU AIDS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "remanejamento": true,
+      "vedacao_dispensa": true,
+      "liberacao_mensal_medicamentos": true,
+      "transferencia_somente_a_pedido": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 19
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "SOC_EMPREGADO_VIVENDO_HIV",
+    "numero_clausula_original": 32,
+    "titulo_original": "EMPREGADO(A) VIVENDO COM HIV OU AIDS ...................................................................................",
+    "status": "MANTIDO",
+    "texto": "",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2020,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "SOC_EMPREGADO_VIVENDO_HIV",
+    "numero_clausula_original": 12,
+    "titulo_original": "EMPREGADO VIVENDO COM HIV OU AIDS ......................................................................................",
+    "status": "MANTIDO",
+    "texto": "Cláusula 13 – ERGONOMIA NA EMPRESA .........................................................................................................................................22 Cláusula 14 – FORNECIMENTO DE CAT/LISA .....................................................................................................................................23 Cláusula 15 – DISTRIBUIÇÃO DOMICILIÁRIA .....................................................................................................................................25 Cláusula 16 – INOVAÇÕES TECNOLÓGICAS .......................................................................................................................................26",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "SOC_EMPREGADO_VIVENDO_HIV",
+    "numero_clausula_original": 16,
+    "titulo_original": "EMPREGADO VIVENDO COM HIV OU AIDS (32ª do DCG 2019/2020)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "redacao": "Em caso de recomendação médica ou por solicitação e interesse do (a) empregado (a) vivendo com HIV ou Aids, preservado o sigilo de informação, os Correios promoverão o seu remanejamento para outra posição de trabalho que o ajude a preservar seu estado de saúde, vedada a sua dispensa sem justa causa. Parágrafo Único: Os Correios realizarão ações junto a entidades públicas, visando facilitar a obtenção de medicamentos..."
+    },
+    "memoria_negociacao": "Manutenção anuída pelas entidades sindicais",
+    "observacao": null,
+    "pagina_referencia": "64"
+  },
+  {
+    "ano_inicio": 2022,
+    "ano_fim": 2023,
+    "tipo": "ACT",
+    "id_canonico": "SOC_EMPREGADO_VIVENDO_HIV",
+    "numero_clausula_original": 17,
+    "titulo_original": "EMPREGADO VIVENDO COM HIV OU AIDS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "remanejamento": true,
+      "vedacao_dispensa_sem_justa_causa": true,
+      "convenios_medicamentos": true,
+      "exames": "conforme Plano Correios Saúde"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "4"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "SOC_EMPREGADO_VIVENDO_HIV",
+    "numero_clausula_original": 36,
+    "titulo_original": "EMPREGADO VIVENDO COM HIV OU AIDS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "remanejamento": true,
+      "liberacao_mensal_medicamentos": true
+    },
+    "memoria_negociacao": null,
+    "observacao": "Incluída liberação mensal para retirada de medicamentos.",
+    "pagina_referencia": "8"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SOC_EMPREGADO_VIVENDO_HIV",
+    "numero_clausula_original": 38,
+    "titulo_original": "EMPREGADO VIVENDO COM HIV",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "remanejamento": "para outra posição que preserve a saúde",
+      "vedacao_dispensa": true,
+      "liberacao_mensal_medicamentos": true,
+      "transferencia_a_pedido": true
+    },
+    "observacao": null,
+    "pagina_referencia": 14
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SOC_EMPREGADO_VIVENDO_HIV",
+    "numero_clausula_original": 31,
+    "titulo_original": "EMPREGADO VIVENDO COM HIV",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "remanejamento": true,
+      "vedacao_dispensa": true,
+      "liberacao_mensal_medicamentos": true,
+      "transferencia_somente_a_pedido": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção com ajuste no §3º",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Manutenção com acréscimos",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "Ajuste redacional negociado entre as partes.",
+    "pagina_referencia": 14
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "SOC_EMPREGADO_VIVENDO_HIV",
+    "numero_clausula_original": 31,
+    "titulo_original": "EMPREGADO VIVENDO COM HIV",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "remanejamento": true,
+      "vedacao_dispensa_sem_justa_causa": true,
+      "liberacao_mensal_medicamentos": true,
+      "transferencia_a_pedido": true
+    },
+    "pagina_referencia": "43-44"
+  }
+]

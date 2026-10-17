@@ -1,0 +1,48 @@
+[
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "PRO_PCCS_PLR",
+    "numero_clausula_original": 43,
+    "titulo_original": "PARTICIPAÇÃO DOS EMPREGADOS NAS DISCUSSÕES DO PLANO DE CARREIRAS E PARTICIPAÇÃO NOS LUCROS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "comissoes": "ECT e FENTECT",
+      "prazo_inicio": "15 dias após assinatura",
+      "prazo_conclusao_PCCS": "fevereiro de 2004"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "21"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "PRO_PCCS_PLR",
+    "numero_clausula_original": 43,
+    "titulo_original": "PARTICIPAÇÃO DOS EMPREGADOS NAS DISCUSSÕES DO PLANO DE CARREIRAS E PARTICIPAÇÃO NOS LUCROS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "comissoes": "ECT e FENTECT",
+      "prazo_inicio": "15 dias após assinatura",
+      "prazo_conclusao_PCCS": "fevereiro de 2004"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "21"
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DELEGADO_SINDICAL",
+    "numero_clausula_original": 17,
+    "titulo_original": "DELEGADO SINDICAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "estabilidade": "não será punido nem demitido sem apuração",
+      "transferencia_sem_perda_mandato": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "7"
+  },
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DELEGADO_SINDICAL",
+    "numero_clausula_original": 19,
+    "titulo_original": "DELEGADO SINDICAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "estabilidade": "não será punido nem demitido sem apuração",
+      "numero_delegados": "critérios de razoabilidade"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "11"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DELEGADO_SINDICAL",
+    "numero_clausula_original": 19,
+    "titulo_original": "DELEGADO SINDICAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "estabilidade": "não será punido nem demitido sem apuração",
+      "numero_delegados": "critérios de razoabilidade"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "11"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DELEGADO_SINDICAL",
+    "numero_clausula_original": 19,
+    "titulo_original": "DELEGADO SINDICAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "estabilidade": "não será punido nem demitido sem apuração",
+      "numero_delegados": "critérios de razoabilidade"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "7"
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DELEGADO_SINDICAL",
+    "numero_clausula_original": 19,
+    "titulo_original": "DELEGADO SINDICAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "estabilidade": "não será punido nem demitido sem apuração",
+      "numero_delegados": "critérios de razoabilidade"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "9"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DELEGADO_SINDICAL",
+    "numero_clausula_original": 19,
+    "titulo_original": "DELEGADO SINDICAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "estabilidade": "não será punido nem demitido sem apuração",
+      "numero_delegados": "critérios de razoabilidade"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 8
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DELEGADO_SINDICAL",
+    "numero_clausula_original": 19,
+    "titulo_original": "DELEGADO SINDICAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "estabilidade": "não será punido sem apuração",
+      "numero_delegados": "critérios de razoabilidade"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "7"
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DELEGADO_SINDICAL",
+    "numero_clausula_original": 19,
+    "titulo_original": "DELEGADO SINDICAL",
+    "status": "ALTERADO",
+    "texto": "Delegado sindical não pode ser punido/demitido sem apuração prévia com amplo direito de defesa e assistência sindical. Número de delegados por sindicato segue critérios de razoabilidade, avaliados pela ECT e pelo Sindicato.",
+    "observacao": "Substituição 'FENTECT' por 'Sindicato'.",
+    "pagina_referencia": 6
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "SIN_DELEGADO_SINDICAL",
+    "numero_clausula_original": 19,
+    "titulo_original": "DELEGADO SINDICAL",
+    "status": "MANTIDO",
+    "texto": "Delegado sindical não pode ser punido ou demitido sem apuração prévia com amplo direito de defesa e assistência sindical. Número de delegados por sindicato segue critérios de razoabilidade, avaliados pela ECT e FENTECT.",
+    "observacao": "Idêntica ao DC 2012-2013.",
+    "pagina_referencia": 68
+  }
+]

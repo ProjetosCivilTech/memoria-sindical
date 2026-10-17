@@ -1,0 +1,17 @@
+[
+  {
+    "ano_inicio": 1988,
+    "ano_fim": 1989,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PROTECAO_SALARIAL",
+    "numero_clausula_original": 4,
+    "titulo_original": "PROTEÇÃO SALARIAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "adotar mesmo mecanismo de proteção contra inflação autorizado pelo CISE para outras estatais"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "2"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SOC_AFASTAMENTO_ALTA_HOSPITALAR",
+    "numero_clausula_original": 18,
+    "titulo_original": "AFASTAMENTO ESPECIAL ATÉ ALTA HOSPITALAR",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "duracao_mae": "equivalente ao número de dias de internação",
+      "duracao_pai": "limitado a 15 dias",
+      "internacao_minima": "superior a uma semana"
+    },
+    "observacao": null,
+    "pagina_referencia": 7
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SOC_AFASTAMENTO_ALTA_HOSPITALAR",
+    "numero_clausula_original": 15,
+    "titulo_original": "AFASTAMENTO ESPECIAL ATÉ ALTA HOSPITALAR DO RECÉM-NASCIDO E/OU DA MÃE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "duracao_mae": "equivalente ao número de dias de internação",
+      "duracao_pai": "limitado a 15 dias",
+      "internacao_minima": "superior a uma semana"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Não se manifestou",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 8
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "SOC_AFASTAMENTO_ALTA_HOSPITALAR",
+    "numero_clausula_original": 15,
+    "titulo_original": "AFASTAMENTO ESPECIAL ATÉ ALTA HOSPITALAR DO RECÉM-NASCIDO E/OU DA MÃE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "duracao_mae": "equivalente ao número de dias de internação",
+      "duracao_pai": "equivalente ao número de dias de internação, limitado a 15 dias",
+      "internacao_minima": "superior a uma semana"
+    },
+    "pagina_referencia": "30-31"
+  }
+]

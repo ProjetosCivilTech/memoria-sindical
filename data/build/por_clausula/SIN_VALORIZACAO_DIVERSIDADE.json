@@ -1,0 +1,41 @@
+[
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "SIN_VALORIZACAO_DIVERSIDADE",
+    "numero_clausula_original": 5,
+    "titulo_original": "VALORIZAÇÃO DA DIVERSIDADE HUMANA E RESPEITO ÀS DIFERENÇAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "publico_alvo": [
+        "pessoas com deficiência",
+        "juventude",
+        "LGBT",
+        "pessoas idosas",
+        "povos indígenas"
+      ],
+      "campanhas_comunicacao": true,
+      "seminarios_foruns": true,
+      "cursos_formacao": true,
+      "campanha_antihomofobia": true,
+      "comissoes_regionais": true
+    },
+    "pagina_referencia": "17-18"
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "SIN_VALORIZACAO_DIVERSIDADE",
+    "numero_clausula_original": 5,
+    "titulo_original": "VALORIZAÇÃO DA DIVERSIDADE HUMANA E RESPEITO ÀS DIFERENÇAS",
+    "status": "INDEFERIDO",
+    "detalhes": {
+      "motivo": "Cláusula não preexistente e com custo econômico"
+    },
+    "memoria_negociacao": "SDC indeferiu",
+    "observacao": null,
+    "pagina_referencia": "113"
+  }
+]

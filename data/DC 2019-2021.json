@@ -1,0 +1,667 @@
+{
+  "metadados_documento": {
+    "tipo": "DC",
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "processo": null,
+    "tribunal": "TST",
+    "orgao": null,
+    "relator": null,
+    "data_julgamento": null,
+    "data_publicacao": null,
+    "data_assinatura": null,
+    "entidade_patronal": "ECT",
+    "entidades_profissionais": [
+      "FENTECT",
+      "FINDECT"
+    ],
+    "arquivo_origem": "Acordao-2019-2021.pdf",
+    "grupo": "2019-2021",
+    "papel": "FENTECT",
+    "observacao": "Re-extraído automaticamente em 2026-10-13. 79 cláusulas detectadas. Mapeamento: 51 exato + 22 substring + 6 similaridade + 0 genéricos (revisar)."
+  },
+  "clausulas": [
+    {
+      "id_canonico": "SIN_EQUIDADE_RACIAL",
+      "numero_clausula_original": 4,
+      "titulo_original": "PROMOÇÃO DA EQUIDADE RACIAL E ENFRENTAMENTO AO RACISMO... ..............................................................",
+      "status": "MANTIDO",
+      "texto": "",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "SIN_DIVERSIDADE",
+      "numero_clausula_original": 5,
+      "titulo_original": "VALORIZAÇÃO DA DIVERSIDADE HUMANA E RESPEITO ÀS DIFERENÇAS .............................................................",
+      "status": "MANTIDO",
+      "texto": "",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "SIN_EMPREGADO_ESTUDANTE",
+      "numero_clausula_original": 6,
+      "titulo_original": "GARANTIAS AO(À) EMPREGADO(A) ESTUDANTE .................................................................................",
+      "status": "MANTIDO",
+      "texto": "Cláusula 07 – LICENÇA ADOÇÃO ....................................................................................................................................................... 12 Cláusula 08 – PROGRAMA CASA PRÓPRIA ........................................................................................................................................ 14 SUBTÍTULO II – DAS GARANTIAS DA MULHER ECETISTA",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "FIN_AADC",
+      "numero_clausula_original": 9,
+      "titulo_original": "ADICIONAL DE ATIVIDADE DISTRIBUIÇÃO E COLETA",
+      "status": "MANTIDO",
+      "texto": "",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "SOC_ENFRENTAMENTO_VIOLENCIA_MULHER",
+      "numero_clausula_original": 10,
+      "titulo_original": "ENFRENTAMENTO À VIOLÊNCIA CONTRA A MULHER ..............................................................................",
+      "status": "MANTIDO",
+      "texto": "Cláusula 11 – LICENÇA MATERNIDADE ............................................................................................................................................. 19",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "SOC_PERIODO_AMAMENTACAO",
+      "numero_clausula_original": 12,
+      "titulo_original": "PERÍODO DE AM",
+      "status": "MANTIDO",
+      "texto": "AMENTAÇÃO..................................................................................................................................................................................... 21",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "SOC_PRORROGACAO_LICENCA_MATERNIDADE",
+      "numero_clausula_original": 13,
+      "titulo_original": "PRORROGAÇÃO DA LICENÇA MATERNIDADE .....................................................................................",
+      "status": "MANTIDO",
+      "texto": "Cláusula 14 – SAÚDE DA MULHER .................................................................................................................................................... 25",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "SIN_EQUIDADE_GENERO",
+      "numero_clausula_original": 15,
+      "titulo_original": "PROMOÇÃO DA EQUIDADE DE GÊNERO E ENFRENTAMENTO AO SEXISMO ..............................................................",
+      "status": "MANTIDO",
+      "texto": "TÍTULO II – DAS RELAÇÕES SINDICAIS Cláusula 16 – ACESSO ÀS DEPENDÊNCIAS ........................................................................................................................................ 27 Cláusula 17 – DESCONTO ASSISTENCIAL ........................................................................................................................................... 29 Cláusula 18 – FORNECIMENTO DE DOCUMENTOS ........................................................................................................................... 34",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "SIN_LIBERACAO_CONSELHO",
+      "numero_clausula_original": 19,
+      "titulo_original": "LIBERAÇÃO DE CONSELHEIRO (A) DO POSTALIS ...............................................................................",
+      "status": "MANTIDO",
+      "texto": "Cláusula 20 – LIBERAÇÃO DE DIRIGENTES SINDICAIS ....................................................................................................................... 36 Cláusula 21 – NEGOCIAÇÃO COLETIVA ............................................................................................................................................. 38",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "PRO_PROCESSO_PERMANENTE_NEGOCIACAO",
+      "numero_clausula_original": 22,
+      "titulo_original": "PROCESSO PERMANENTE DE NEGOCIAÇÃO ......................................................................................",
+      "status": "MANTIDO",
+      "texto": "",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "PRO_PRORROGACAO_REVISAO",
+      "numero_clausula_original": 23,
+      "titulo_original": "PRORROGAÇÃO, REVISÃO, DENÚNCIA OU REVOGAÇÃO ............................................................................",
+      "status": "MANTIDO",
+      "texto": "Cláusula 24 – QUADRO DE AVISOS ................................................................................................................................................... 41",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "SIN_REPASSE_MENSALIDADES",
+      "numero_clausula_original": 25,
+      "titulo_original": "REPASSE DAS MENSALIDADES DO SINDICATO ..................................................................................",
+      "status": "MANTIDO",
+      "texto": "",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "SIN_REPRESENTANTES_EMPREGADOS",
+      "numero_clausula_original": 26,
+      "titulo_original": "REPRESENTANTES DOS(AS) EMPREGADOS (AS) .................................................................................",
+      "status": "MANTIDO",
+      "texto": "TÍTULO III – DA SAÚDE DO (A) TRABALHADOR (A) Cláusula 27 – ACOMPANHANTE ....................................................................................................................................................... 44",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+      "numero_clausula_original": 28,
+      "titulo_original": "ASSISTÊNCIA MÉDICA/HOSPITALAR E ODONTOLÓGICA ...........................................................................",
+      "status": "MANTIDO",
+      "texto": "Cláusula 29 – ATESTADO DE SAÚDE NA DEMISSÃO ......................................................................................................................... 48",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "CON_AVERIGUACAO_CONDICOES",
+      "numero_clausula_original": 30,
+      "titulo_original": "AVERIGUAÇÃO DAS CONDIÇÕES DE TRABALHO ..................................................................................",
+      "status": "MANTIDO",
+      "texto": "",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "CON_CIPA",
+      "numero_clausula_original": 31,
+      "titulo_original": "COMISSÃO INTERNA DE PREVENÇÃO DE ACIDENTES",
+      "status": "MANTIDO",
+      "texto": "",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "SOC_EMPREGADO_VIVENDO_HIV",
+      "numero_clausula_original": 32,
+      "titulo_original": "EMPREGADO(A) VIVENDO COM HIV OU AIDS ...................................................................................",
+      "status": "MANTIDO",
+      "texto": "",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "SOC_EMPREGADO_INAPTO",
+      "numero_clausula_original": 33,
+      "titulo_original": "EMPREGADO(A) INAPTO (A) PARA RETORNO AO TRABALHO .......................................................................",
+      "status": "MANTIDO",
+      "texto": "Cláusula 34 – ERGONOMIA NA EMPRESA ......................................................................................................................................... 57 Cláusula 35 – FORNECIMENTO DE CAT/LISA .................................................................................................................................... 58",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "CON_PROTECAO_BAIXA_UMIDADE",
+      "numero_clausula_original": 36,
+      "titulo_original": "ITENS DE PROTEÇÃO NO CASO DE BAIXA UMIDADE RELATIVA DO AR ..............................................................",
+      "status": "MANTIDO",
+      "texto": "",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "CON_ITENS_USO_PROTECAO",
+      "numero_clausula_original": 37,
+      "titulo_original": "ITENS DE USO E PROTEÇÃO AO(À) EMPREGADO (A) ............................................................................",
+      "status": "MANTIDO",
+      "texto": "Cláusula 38 – PREVENÇÃO DE DOENÇAS .......................................................................................................................................... 62 Cláusula 39 – REABILITAÇÃO PROFISSIONAL .................................................................................................................................... 63 2 --- PAGINA 3 --Cláusula 40 – SAÚDE DO(A) EMPREGADO (A) .................................................................................................................................. 64 TÍTULO IV – DAS CONDIÇÕES DE TRABALHO Cláusula 41 – DISTRIBUIÇÃO DOMICILIÁRIA ..................................................................................................................................... 66 Cláusula 42 – FROTA OPERACIONAL ................................................................................................................................................. 68 Cláusula 43 – INOVAÇÕES TECNOLÓGICAS ....................................................................................................................................... 69",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "CON_JORNADA_AGENCIAS",
+      "numero_clausula_original": 44,
+      "titulo_original": "JORNADA DE TRABALHO NAS AGÊNCIAS DE CORREIOS ...........................................................................",
+      "status": "MANTIDO",
+      "texto": "",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "TEC_JORNADA_TERMINAIS",
+      "numero_clausula_original": 45,
+      "titulo_original": "JORNADA DE TRABALHO PARA TRABALHADORES(AS)",
+      "status": "MANTIDO",
+      "texto": "EM TERMINAIS COMPUTADORIZADOS ............................................................................................................................................. 71 Cláusula 46 – REDIMENSIONAMENTO DE CARGA ............................................................................................................................ 72 Cláusula 47 – SEGURANÇA NA EMPRESA ......................................................................................................................................... 73 TÍTULO V – DOS BENEFÍCIOS",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "SOC_AUXILIO_DEPENDENTES_DEFICIENCIA",
+      "numero_clausula_original": 48,
+      "titulo_original": "AUXÍLIO PARA DEPENDENTES COM DEFICIÊNCIA................................................................................",
+      "status": "MANTIDO",
+      "texto": "",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+      "numero_clausula_original": 49,
+      "titulo_original": "REEMBOLSO CRECHE E REEMBOLSO BABÁ ......................................................................................",
+      "status": "MANTIDO",
+      "texto": "Cláusula 50 – TRANSPORTE NOTURNO............................................................................................................................................. 80 Cláusula 51 – VALE REFEIÇÃO/ALIMENTAÇÃO ................................................................................................................................. 82",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "FIN_VALE_TRANSPORTE",
+      "numero_clausula_original": 52,
+      "titulo_original": "VALE-TRANSPORTE E JORNADA DE TRABALHO IN ITINERE .......................................................................",
+      "status": "MANTIDO",
+      "texto": "Cláusula 53 – VALE CULTURA ............................................................................................................................................................ 88 TÍTULO VI – DAS QUESTÕES ECONÔMICAS Cláusula 54 – ADIANTAMENTO DE FÉRIAS ....................................................................................................................................... 90 Cláusula 55 – ADICIONAL NOTURNO ................................................................................................................................................ 92 Cláusula 56 – AJUDA DE CUSTO NA TRANSFERÊNCIA ....................................................................................................................... 95",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "FIN_ANTECIPACAO_GRATIFICACAO_NATALINA",
+      "numero_clausula_original": 57,
+      "titulo_original": "ANTECIPAÇÃO DE 50% DA GRATIFICAÇÃO NATALINA.............................................................................",
+      "status": "MANTIDO",
+      "texto": "Cláusula 58 – ANUÊNIOS................................................................................................................................................................. 100 Cláusula 59 – GRATIFICAÇÃO DE FÉRIAS......................................................................................................................................... 102 Cláusula 60 – GRATIFICAÇÃO DE QUEBRA DE CAIXA ...................................................................................................................... 103 Cláusula 61 – HORAS EXTRAS ......................................................................................................................................................... 105 Cláusula 62 – PAGAMENTO DE SALÁRIO ........................................................................................................................................ 107 Cláusula 63 – REAJUSTE SALARIAL .................................................................................................................................................. 108 Cláusula 64 – TRABALHO EM DIA DE REPOUSO.............................................................................................................................. 109 Cláusula 65 – TRABALHO NOS FINS DE SEMANA ............................................................................................................................ 111 TÍTULO VII – DAS DISPOSIÇÕES GERAIS Cláusula 66 – ACUMULAÇÃO DE VANTAGENS ................................................................................................................................ 113 Cláusula 67 – CONCURSO PÚBLICO ................................................................................................................................................ 114 Cláusula 68 – CURSOS E REUNIÕES OBRIGATÓRIAS ....................................................................................................................... 115 Cláusula 69 – DIREITO A AMPLA DEFESA ........................................................................................................................................ 117 Cláusula 70 – MULTAS DE TRÂNSITO .............................................................................................................................................. 118",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "FIN_PLR",
+      "numero_clausula_original": 71,
+      "titulo_original": "PARTICIPAÇÃO NOS LUCROS OU RESULTADOS",
+      "status": "MANTIDO",
+      "texto": "Cláusula 72 – PENALIDADE ............................................................................................................................................................. 121",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "FIN_CONSIGNACOES",
+      "numero_clausula_original": 73,
+      "titulo_original": "PROCESSAMENTO DE CONSIGNAÇÕES EM FOLHA DE PAGAMENTO ....................................................................",
+      "status": "MANTIDO",
+      "texto": "Cláusula 74 – REGISTRO DE PONTO ................................................................................................................................................ 124",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "CON_RESPONSABILIDADE_CIVIL_TRANSITO",
+      "numero_clausula_original": 75,
+      "titulo_original": "RESPONSABILIDADE CIVIL EM ACIDENTE DE TRANSITO .........................................................................",
+      "status": "MANTIDO",
+      "texto": "",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "FIN_INDENIZACAO_MORTE_INVALIDEZ",
+      "numero_clausula_original": 76,
+      "titulo_original": "INDENIZAÇÃO POR MORTE OU INVALIDEZ PERMANENTE ..........................................................................",
+      "status": "MANTIDO",
+      "texto": "",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "PRO_ACOMPANHAMENTO_CUMPRIMENTO",
+      "numero_clausula_original": 77,
+      "titulo_original": "ACOMPANHAMENTO DO CUMPRIMENTO DE CLÁUSULAS DO ACORDO ................................................................. 1",
+      "status": "MANTIDO",
+      "texto": "Cláusula 78 – CONCILIAÇÃO DE DIVERGÊNCIAS ............................................................................................................................. 131 Cláusula 79 – VIGÊNCIA .................................................................................................................................................................. 132 3 --- PAGINA 4 --DAS QUESTÕES SOCIAIS 4 --- PAGINA 5 --CLÁUSULA 01 TITULO I DAS QUESTÕES SOCIAIS Subtítulo I Diversidade, Inclusão e Direitos Humanos",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "SIN_ANISTIA",
+      "numero_clausula_original": 1,
+      "titulo_original": "ANISTIA",
+      "status": "MANTIDO",
+      "texto": "e 11.282/2006, comprometem-se a: §1º Adotar, de imediato, os procedimentos para o cumprimento da decisão, quando os atos de anistia previstos em lei determinar o retorno do anistiado aos quadros da Empresa, permitindo o acesso às informações de documentos aos interessados. §2º Analisar e julgar os pedidos de anistia de empregados(as) dos Correios, com fundamento nas Leis nº 8.632, de 4 de março de 1993 e nº 11.282 de 23 de fevereiro de 2006, conforme Portaria MC Nº 349 de 12 de dezembro de 2013. I – Os pedidos de anistia referenciados no §2º serão conduzidos por Grupo de Trabalho constituído pelos Correios, com a participação de 6 (seis) representantes dos Correios e 5 (cinco) membros indicados pelas Federações dos Trabalhadores, legalmente constituídas. II – Aplica-se o disposto no §2º aos processos com pedidos de anistia de empregados(as) dos Correios pendentes de decisão ou em que houver decisão recorrível. §3º Avaliar e discutir os impactos e condições de viabilização para adequação salarial dos(as) empregados(as) anistiados (as) pela Lei 8.878/94, com referência salarial abaixo do piso inicial dos Correios, para enquadramento na referência de Nível Médio – NM 01. I – O previsto no §3º será conduzido pelo Grupo de Trabalho, conforme item I do §2º. §4º Avaliar e examinar encaminhamentos de demissões sem justa causa ocorridas durante o período de estabilidade previstas em lei, quando não se tratar de anistia por força das leis referenciadas no caput. 5 --- PAGINA 6 --CLÁUSULA 02",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "SIN_APOSENTADOS",
+      "numero_clausula_original": 2,
+      "titulo_original": "APOSENTADOS(AS)",
+      "status": "MANTIDO",
+      "texto": "reconhecimento à contribuição de empregados(as), que se encontram aposentados(as), de forma a: §1º Incluir o dia 24 de janeiro – Dia do(a) Aposentado(a) – no calendário dos Correios – desenvolvendo atividades alusivas à data no âmbito da Administração Central e Regionais. §2º Garantir a participação dos(as) aposentados(as) nas ações propostas na Cláusula 05, §2º, Valorização da Diversidade Humana e Respeito às Diferenças, no que diz respeito à Pessoa Idosa. §3º Oportunizar ao(à) empregado(a) aposentando(a) a participação em programa de preparação para aposentadoria desenvolvido pelos Correios. §4º Fornecer crachá específico para os(as) aposentados(as), visando facilitar o acesso às dependências dos Correios, desde que apresentem os documentos básicos para a confecção dos crachás, observando os prazos internos dos Correios. 6 --- PAGINA 7 --CLÁUSULA 03",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "SOC_ASSEDIO_SEXUAL_MORAL",
+      "numero_clausula_original": 3,
+      "titulo_original": "ASSÉDIO SEXUAL E ASSÉDIO MORAL",
+      "status": "MANTIDO",
+      "texto": "educativos, visando coibir o assédio sexual e o assédio moral. §1º Continuará promovendo eventos de sensibilização para a inserção e a convivência dos(as) profissionais dos Correios, de forma a prevenir o assédio sexual e o assédio moral. §2° As denúncias de casos de assédio sexual e de assédio moral deverão ser feitas pelo(a) próprio(a) empregado(a), por escrito, à área de gestão das relações sindicais e do trabalho, ou canal de denúncias da Ouvidoria, conforme o caso, para a devida análise e encaminhamento. O empregado(a) poderá solicitar o apoio da entidade sindical. §3° Havendo a comprovação da denúncia ou, em não se constatando os fatos denunciados, em ambos os casos, as vítimas, se solicitarem, receberão a orientação psicossocial pertinente. §4º Será constituído Grupo de Trabalho paritário, contendo 7 (sete) representantes dos Correios e 7 (sete) representantes das Federações dos Trabalhadores, legalmente constituídas, para tratar do assunto Assédio Moral e Assédio Sexual, de acordo com os critérios a seguir: I – Em continuidade às ações que a Empresa vem desenvolvendo em aderência às políticas do Governo Federal, que visam valorizar a diversidade humana e promover o respeito às diferenças e a não discriminação, os Correios conduzirão o processo negocial relativo às questões alusivas aos temas Assédio Moral e Assédio Sexual por meio da instalação de Mesa Temática. II – A Mesa Temática deverá realizar estudos correlatos ao tema e propor soluções, respeitando as diretrizes norteadoras dos procedimentos da Administração Pública, para superação das desigualdades existentes, sensibilizar e promover o respeito às diferenças e a não discriminação, no ambiente corporativo, conforme a complexidade do assunto. Observações: As alterações ocorridas foram objeto de pleitos da Empresa, sendo acatadas pelo TST em julgamento de Dissídio Coletivo de Greve. 7 --- PAGINA 8 --CLÁUSULA 04 Cláusula 04 – PROMOÇÃO DA EQUIDADE RACIAL E ENFRENTAMENTO AO RACISMO – Os Correios continuarão implementando políticas de enfrentamento ao racismo e de promoção da igualdade racial, em sintonia com as diretrizes do Governo Federal. §1º Os Correios tratarão os casos de discriminação racial ocorridos em seu âmbito e também os praticados contra os(as) seus(suas) empregados(as) no cumprimento das suas atividades, sempre que estes forem denunciados. §2° A denúncia aqui referida deverá ser dirigida, pelo(a) próprio(a) empregado(a), por escrito, à área de gestão das relações sindicais e do tra",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "SOC_LICENCA_ADOCAO",
+      "numero_clausula_original": 7,
+      "titulo_original": "LICENÇA ADOÇÃO",
+      "status": "MANTIDO",
+      "texto": "a licença adoção, conforme previsto na legislação vigente. §1º No caso de adoção ou guarda judicial de criança de até 12 (doze) anos, o período de licença será de 120 (cento e vinte) dias. §2° As empregadas abrangidas pelo disposto no parágrafo anterior poderão optar pela prorrogação de 60 (sessenta) dias da licença adoção. §3° A licença adoção só será concedida mediante apresentação do termo judicial de guarda à adotante ou à guardiã. §4° O empregado adotante fará jus a 5 (cinco) dias úteis a título de licença paternidade. §5º O(A) empregado(a) adotante sem relação estável e considerado(a) solteiro (a) no processo judicial de adoção, terá direito, após a concessão da adoção, à licença-adoção prevista em lei. §6° No caso de relação homoafetiva estável, o(a) empregado(a) adotante fará jus aos benefícios constantes nesta Cláusula, desde que seu(sua) companheiro(a) não utilize do mesmo benefício na instituição onde trabalha. 11 --- PAGINA 12 --CLÁUSULA 08",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "SOC_PROGRAMA_CASA_PROPRIA",
+      "numero_clausula_original": 8,
+      "titulo_original": "PROGRAMA CASA PRÓPRIA",
+      "status": "MANTIDO",
+      "texto": "relativas às ofertas de moradia para público de baixa renda. Incentivará a organização dos(das) empregados(as) por meio das associações e cooperativas habitacionais. Realizará gestão junto aos agentes financeiros públicos e privados, com vistas a criar convênio que viabilize o desconto em folha de pagamento e juros menores que o praticado pelo mercado imobiliário, para aquisição, construção e reforma de moradia. §1º Os Correios, com vistas a reconhecer a importância deste trabalho social, buscando a melhoria do nível de satisfação e qualidade de vida dos(das) seus(suas) empregados(as), mediante solicitação prévia, poderá liberar, pontualmente, por um período pré-definido, 01 (um) dirigente de entidade habitacional (Cooperativa, Associação ou Federação) devidamente habilitada no Ministério das Cidades e Secretaria Habitação Estadual e Municipal, mediante apresentação de projeto habitacional em desenvolvimento, para empregados(as), familiares de empregados(as) e prestadores(as) de serviço, sem prejuízo de suas remunerações e outras vantagens prescritas em lei. I – Os Correios liberarão somente os(as) empregados(as) que não ocupem função com remuneração singular. II – A liberação do(a) dirigente de entidade habitacional deverá ser solicitada por escrito à respectiva Superintendência Estadual com, no mínimo, 10 (dez) dias úteis de antecedência à data de início da liberação, contendo nome, matrícula, lotação, cargo/função e período inicial/final da liberação. III – Para que os Correios procedam à liberação do(a) dirigente, a entidade habitacional deverá encaminhar o pedido de liberação e o projeto habitacional em andamento. Observações: As alterações ocorridas foram objeto de pleitos da Empresa, sendo acatadas pelo TST em julgamento de Dissídio Coletivo de Greve. 12 --- PAGINA 13 --CLÁUSULA 09 Subtítulo II Das Garantias da Mulher Ecetista Cláusula 09 – ADICIONAL DE ATIVIDADE DISTRIBUIÇÃO E COLETA – AADC – Os Correios garantirão às empregadas gestantes e em período de licença maternidade. §1º O adicional de 30% do salário base, para a empregada gestante ocupante do cargo de Agente de Correios, na Atividade de Carteiro e na atividade carteira motorizada, inclusive as que não aderiram ao PCCS 2008 e se encontram no cargo de Carteiro em extinção, a título de AADC, a partir do 5º (quinto) mês de gestação ou antes (por recomendação médica), quando deslocadas para serviços internos com o objetivo de preservar o estado de saúde da mãe e da criança. I – Aplica-se o disp",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "SOC_LICENCA_MATERNIDADE",
+      "numero_clausula_original": 11,
+      "titulo_original": "LICENÇA MATERNIDADE",
+      "status": "MANTIDO",
+      "texto": "§1º Início da licença maternidade entre o 28º (vigésimo oitavo) dia antes do parto e a ocorrência deste, mediante apresentação de atestado médico. §2º Quando do término da licença maternidade de 120 (cento e vinte) dias, sua permanência por mais 2 (dois) meses em atividades internas, mantendo-se o estabelecido na Cláusula Adicional de Atividade Distribuição e Coleta – AADC. Após esse período, a empregada retornará à distribuição domiciliária. §3º Conciliar o início da fruição de suas férias com o final da licença maternidade, observado o seu período aquisitivo, devendo esse tempo ser deduzido dos 2 (dois) meses mencionados no §2º desta cláusula. §4º O pagamento do salário maternidade, observadas as normas da Previdência Social. §5º Estabilidade no emprego por 90 (noventa) dias, salvo por motivo de demissão por justa causa ou a pedido, a partir da data de término da licença maternidade. 15 --- PAGINA 16 --CLÁUSULA 12 Cláusula 12 – PERÍODO DE AMAMENTAÇÃO – Os Correios assegurarão à empregada, durante a jornada de trabalho de 8 (oito) horas, um descanso especial de 2 (duas) horas ou dois descansos de uma hora para amamentar o próprio filho até que este complete 1 (um) ano de idade, já incluídos os descansos previstos em lei. §1º Por solicitação da empregada, no caso de um descanso especial de 2 (duas) horas, a jornada de trabalho poderá ser de 6 (seis) horas corridas, observando-se a legislação vigente. §2° A empregada em período de amamentação, quando solicitar, terá prioridade para preenchimento de vaga caracterizada no cargo, em unidade próxima de sua residência, não podendo haver recusa por parte da chefia. §3° Em caso de jornada inferior à prevista no caput desta cláusula, serão garantidos 2 (dois) descansos especiais de 30 (trinta) minutos durante a jornada ou 1 (um) único descanso de 1 (uma) hora, até que o filho complete 1 (um) ano de idade. 16 --- PAGINA 17 --CLÁUSULA 13 Cláusula 13 – PRORROGAÇÃO DA LICENÇA MATERNIDADE – Os Correios concederão à empregada a prorrogação por 60 (sessenta) dias da licença maternidade conforme estabelece a Lei 11.770 de 9/9/2008 e este Acordo Coletivo de Trabalho. §1º A empregada deverá requerer a prorrogação, junto a sua unidade de lotação, até o prazo de 30 (trinta) dias antes do término da licença-maternidade de 120 (cento e vinte) dias. §2º Durante o período de prorrogação a empregada terá o direito a sua remuneração integral nos mesmos moldes do salário maternidade pago pela Previdência Social. §3° No período de pro",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "SOC_SAUDE_MULHER",
+      "numero_clausula_original": 14,
+      "titulo_original": "SAÚDE DA MULHER",
+      "status": "MANTIDO",
+      "texto": "§1º No mês de março, as ações terão enfoque na saúde da mulher e, no mês de outubro, orientações com vistas à conscientização do combate ao câncer de mama. §2º As ações de comunicação serão realizadas corporativamente, e aquelas que envolvam workshops, palestras e seminários, ocorrerão no Correios Sede e Superintendências Estaduais. §3º Os Correios garantirão a mudança provisória de tarefa às empregadas, mediante prescrição expressa de médico especialista, devidamente homologada pelo Serviço Médico dos Correios, quando a atividade desempenhada coloque em risco seu estado de gravidez. I – Às empregadas que ocupem os cargos/atividades de carteiro, motorista e operadora de triagem e transbordo, os Correios garantirão, sem prejuízo do disposto no §3º, a mudança provisória automática, a partir do 5º (quinto) mês de gestação, para serviços internos que preservem o estado de saúde da mãe e da criança. §4º As mulheres/adolescentes/meninas dependentes poderão participar de quaisquer atividades de prevenção e promoção a saúde da mulher organizadas pelos Correios. Observações: As alterações ocorridas foram objeto de pleitos da Empresa, sendo acatadas pelo TST em julgamento de Dissídio Coletivo de Greve. 18 --- PAGINA 19 --CLÁUSULA 15 Cláusula 15 – PROMOÇÃO DA EQUIDADE DE GÊNERO E ENFRENTAMENTO AO SEXISMO – Os Correios promoverão atividades e ações com objetivo de contribuir para equidade de gênero e o enfrentamento ao sexismo, em sintonia com as diretrizes do Governo Federal. §1º Os princípios de empoderamento das mulheres serão orientadores no desenvolvimento de plano de ação de gênero para medir e acompanhar progresso na carreira das mulheres ecetistas. §2° Os programas de desenvolvimento de lideranças dos Correios, contemplarão recorte de gênero, objetivando desenvolvimento especifico para as mulheres, considerando suas especificidades. §3º Os Correios desenvolverão ações de sensibilização dos homens empregados da empresa, para a eliminação de todas as formas de discriminação contra as mulheres empregadas. §4º Será constituído Grupo de Trabalho paritário, contendo 7 (sete) representantes dos Correios e 7 (sete) representantes das Federações dos Trabalhadores, legalmente constituídas, para tratar do assunto Equidade de Gênero e Enfrentamento ao Sexismo nos Correios, de acordo com os critérios a seguir: I – Em continuidade às ações que a Empresa vem desenvolvendo em aderência às políticas do Governo Federal, que visam valorizar a diversidade humana e promover o resp",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "SIN_ACESSO_DEPENDENCIAS",
+      "numero_clausula_original": 16,
+      "titulo_original": "ACESSO ÀS DEPENDÊNCIAS",
+      "status": "MANTIDO",
+      "texto": "(Empresa e Entidade Sindical), os(as) empregados(as) dos Correios regularmente eleitos(as) como dirigentes sindicais e que não estejam com o contrato de trabalho suspenso para apuração de falta grave, terão acesso às dependências da Empresa para tratar de assuntos de interesse exclusivo dos(das) empregados(as), resguardadas as disposições do art. 5°, Parágrafo único, da Lei nº 6. 538/78 e observado o seguinte: §1º Nos Centros de Distribuição Domiciliária, Centros de Entrega de Encomendas, Centros de Tratamento e Centros de Transporte, as reuniões ocorrerão durante a jornada de trabalho. §2º Nas demais unidades, as reuniões poderão ser realizadas no início ou no final da jornada de trabalho. §3º Cada reunião deverá ser realizada, no máximo, por 3 (três) dirigentes sindicais, no exercício de seus mandatos, observadas as demais condições desta cláusula, com duração máxima de 40 (quarenta) minutos. §4º Os sindicatos poderão, durante o tempo reservado às reuniões, desenvolver processo de filiação. §5º As reuniões serão realizadas em locais apropriados, tais como salas de aula/reunião, áreas de lazer, refeitórios ou no local de trabalho, sem a participação do representante da área de relações sindicais da empresa, salvo se solicitado pela entidade sindical, sem prejuízo ao desenvolvimento das atividades previstas para a unidade visitada, sendo a participação do(a) empregado(a) facultativa. I – As reuniões deverão ser solicitadas, por escrito, ao (à) representante, da área de gestão das relações sindicais e do trabalho com 2 (dois) dias úteis de antecedência, para a viabilidade do atendimento correspondente. II – As Superintendências Estaduais e os Sindicatos dos(as) empregados(as) dos Correios compreendidos em sua área territorial ficam autorizados a negociar alterações ao disposto nos incisos desta Cláusula, que terão validade e eficácia somente em sua jurisdição. §6º Quando do treinamento para os(as) novos(as) empregados(as) admitidos(as) pelos Correios, em curso próprio de formação, o Sindicato dos Empregados e das Empregadas dos Correios da respectiva base territorial, onde os(as) empregados(as) serão lotados(as) poderá apresentar as atividades sindicais no período acordado entre o sindicato e a Superintendência Estadual, no prazo máximo de uma hora de duração. I – O sindicato deverá ser comunicado com antecedência mínima de 3 (três) dias úteis. §7º Durante a vigência deste Acordo Coletivo de Trabalho, os Correios disponibilizarão o acesso ao Sistema ECT Nor",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+      "numero_clausula_original": 17,
+      "titulo_original": "DESCONTO ASSISTENCIAL",
+      "status": "MANTIDO",
+      "texto": "art. 513, alínea “e”, da CLT, expressamente fixada neste Aditivo, para custeio dos Sindicatos Profissionais, a ser descontada pelos Correios no contracheque dos trabalhadores, no 2º (segundo) mês imediatamente subsequente à data de prolação da sentença normativa (02/10/2019), ressalvado o direito de oposição individual escrita do trabalhador não filiado ao sindicato profissional, na forma do parágrafo seguinte. Parágrafo Primeiro – Trabalhador não filiado à Sindicato Profissional deverá ser informado pelos Correios acerca da realização do desconto da contribuição mencionada no caput dessa cláusula, podendo apresentar ao Sindicato Profissional, pessoalmente, por escrito e com identificação de assinatura legível, sua expressa oposição, devendo no prazo de 20 (vinte) dias, a contar da ciência da informação supra, apresentar à Empresa o comprovante de oposição apresentada ao Sindicato, sob sua pena de aceitação do desconto. Parágrafo Segundo – Caberá aos Correios a entrega ao empregado do comprovante de recebimento do comprovante de oposição apresentado ao Sindicato no momento de sua entrega. Parágrafo Terceiro – Fica vedado aos Correios a realização de quaisquer manifestações, atos, campanhas ou condutas similares no sentido de incentivar ao instigar os trabalhadores não filiados à Sindicatos apresentarem o seu direito de oposição por escrito. Parágrafo Quarto – Fica vedado aos Sindicatos Profissionais e seus dirigentes a realização de quaisquer manifestações, atos ou condutas similares no sentido de constranger os trabalhadores não filiados à Sindicato profissional apresentarem o seu direito de oposição por escrito. Parágrafo Quinto – O trabalhador que não exercer o direito de oposição na forma e no prazo previstos no Parágrafo Primeiro não terá direito ao respectivo reembolso da presente contribuição (cota negocial). Parágrafo Sexto – O valor da contribuição prevista no caput corresponde a 50% (cinquenta por cento) de um único salário-dia vigente do trabalhador. Parágrafo Sétimo – Os Sindicatos Profissionais declaram que, mediante o presente ajuste, se abstém de, no período de vigência da sentença normativa, pleitear judicialmente a cobrança da contribuição prevista no art. 578 e seguintes da CLT, ressalvados as ações já ajuizadas sendo que tal compromisso passa a integrar a presente sentença normativa. Observações: Trata-se de cláusula com alteração em todo o seu teor. 22 --- PAGINA 23 --CLÁUSULA 18",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "SIN_FORNECIMENTO_DOCUMENTOS",
+      "numero_clausula_original": 18,
+      "titulo_original": "FORNECIMENTO DE DOCUMENTOS",
+      "status": "MANTIDO",
+      "texto": "Trabalhadores legalmente constituídas e Sindicatos dos Empregados dos Correios, desde que respeitada a Lei de Acesso à Informação, cópia em meio digital dos Manuais da Empresa, no prazo de 5 (cinco) dias da data de recebimento da solicitação. §1º Quando se tratar de manual estratégico dos Correios, a entidade sindical solicitante deverá assinar um termo de confidencialidade fornecido pelos Correios. I – A definição de manual estratégico ficará a critério dos Correios. §2º Os Correios enviarão às Federações de Trabalhadores dos Correios legalmente constituídas e aos Sindicatos seu informativo de comunicação interna – Primeira Hora. §3º Os Correios disponibilizarão, quando solicitado pelos Sindicatos, por meio magnético, em até 5 (cinco) dias úteis, relação contendo nome, matrícula, cargo/atividade, lotação de empregados(as), status (ativo/inativo) e período do afastamento, no intervalo mínimo de 1 (um) mês. 23 --- PAGINA 24 --CLÁUSULA 19 Cláusula 19 – LIBERAÇÃO DE CONSELHEIRO(A) DO POSTALIS – Os Correios, por solicitação do POSTALIS, liberarão os membros do Conselho Deliberativo e Fiscal do POSTALIS, eleitos pelos(as) empregados(as) ou indicados pela Empresa, pertencentes aos seus quadros, para o exercício das atribuições próprias dos respectivos colegiados. Parágrafo Único: Os Conselheiros(as) eleitos(as) pelos(as) empregados(as) serão liberados com ônus para os Correios, quando da participação em reuniões obrigatórias do POSTALIS e em horário que estiver realizando curso de capacitação continuada para atuar em conselhos estabelecidos pela Lei Complementar 108. 24 --- PAGINA 25 --CLÁUSULA 20",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+      "numero_clausula_original": 20,
+      "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+      "status": "MANTIDO",
+      "texto": "dos Trabalhadores dos Correios legalmente constituída e 5 (cinco) por Sindicato dos Empregados dos Correios, regularmente eleitos como dirigentes sindicais (comprovado por meio de Ata), nas bases sindicais com até 5.000 (cinco mil) empregados(as), sem prejuízo de suas remunerações e outras vantagens prescritas em lei. Nas bases sindicais com efetivo superior a 5.000 (cinco mil) empregados, será liberado mais 1 (um) empregado(a) a cada total de 1.500 (um mil e quinhentos), limitado a 9 (nove) liberações, sem prejuízo de suas remunerações e outras vantagens previstas em lei. §1º Nas liberações com ônus para as Federações de Trabalhadores legalmente constituídas ou Sindicatos dos Empregados dos Correios, os Correios manterão o pagamento dos salários e o recolhimento dos encargos respectivos, bem como o fornecimento dos Vales Alimentação/Refeição/Cesta e Vale Cultura, conforme os seus critérios, cujos valores serão totalmente suportados pelas entidades de representação, descontados das mensalidades a serem repassadas para as Federações/Sindicatos. I – As condições pactuadas no parágrafo 1º não descaracterizam a suspensão do contrato de trabalho. II – O não ressarcimento dos referidos valores, pelas entidades de representação, ensejará a imediata suspensão do pagamento dos salários e o recolhimento dos encargos e demais benefícios. §2° Toda e qualquer liberação de dirigente sindical, com ou sem ônus para os Correios, deverão ser solicitados, por escrito, à Gerência de Relações do Trabalho (se das Federações de Trabalhadores dos Correios legalmente constituídas) ou às áreas de Relações Sindicais e do Trabalho (se dos Sindicatos), e protocolizada, no mínimo, em até 2 (dois) dias úteis de antecedência da data de início da liberação. §3° As entidades sindicais deverão indicar, nas ocasiões oportunas e com o prazo de antecedência apontado no parágrafo anterior, o nome dos dirigentes e período que permanecerão liberados com e sem ônus para os Correios. §4° Nas liberações com ônus para as Federações de Trabalhadores dos Correios, legalmente constituídas ou Sindicatos dos Empregados dos Correios, será mantido o benefício de Assistência Médica regularmente compartilhada, sendo que a participação financeira dos(as) empregados(as) no custeio das despesas médicas se dará conforme previsto na Cláusula Assistência Médica/Hospitalar e Odontológica, do Acordo Coletivo de Trabalho vigente. §5º As despesas médicas relativas à parte da Empresa, dos(as) empregados(as) liberados co",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "PRO_NEGOCIACAO_COLETIVA",
+      "numero_clausula_original": 21,
+      "titulo_original": "NEGOCIAÇÃO COLETIVA",
+      "status": "MANTIDO",
+      "texto": "ou alterem substancialmente a regulamentação salarial vigente, serão revistos de comum acordo pelas partes os termos do presente Acordo Coletivo de Trabalho, visando ajustá-lo à nova realidade. 26 --- PAGINA 27 --CLÁUSULA 22 Cláusula 22 – PROCESSO PERMANENTE DE NEGOCIAÇÃO – Os Correios manterão o processo permanente de negociação com as Federações de Trabalhadores dos Correios legalmente constituídas e Sindicatos dos(as) Empregados(as) dos Correios, por meio do Sistema Nacional de Negociação Permanente – SNNP-Correios, com regras definidas em conjunto com as representações dos(as) trabalhadores(as). §1º Os temas/assuntos a serem debatidos serão acordados previamente entre as partes, dentre os quais: I – Vale Transporte não abrangido na Cláusula 52 – Vale Transporte e Jornada de Trabalho In Itinere; II – Sistema de Distritamento – SD; III – A substituição gradativa de Mão de Obra Temporária – MOT, por contrato de trabalho por prazo determinado, nos termos da Lei 9.601/98, cuja deliberação integrará, para todos os fins, o presente Acordo Coletivo de Trabalho; IV – A jornada de trabalho do(a) jornalista, com discussão sobre compensação de horas. §2º As partes se comprometem a discutir as pautas de reivindicações dos trabalhadores e da Empresa nas reuniões do SNNP-Correios. 27 --- PAGINA 28 --CLÁUSULA 23 Cláusula 23 – PRORROGAÇÃO, REVISÃO, DENÚNCIA OU REVOGAÇÃO – A prorrogação, revisão, denúncia ou revogação, total ou parcial, do presente Acordo Coletivo de Trabalho ficará subordinada às normas estabelecidas pelo Art. 615 da CLT, observando-se os princípios da liberdade e autonomia sindical estabelecidas na Constituição Federal. 28 --- PAGINA 29 --CLÁUSULA 24",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "SIN_QUADRO_AVISOS",
+      "numero_clausula_original": 24,
+      "titulo_original": "QUADRO DE AVISOS",
+      "status": "MANTIDO",
+      "texto": "respectiva base territorial, instale quadro para a fixação de avisos e comunicações de interesse da categoria profissional, em local apropriado e de comum acordo entre as partes. Parágrafo Único: As comunicações escritas serão de inteira responsabilidade dos Sindicatos, ficando vedadas as manifestações de conteúdo ou objetivos político-partidários e de ofensas a quem quer que seja. 29 --- PAGINA 30 --CLÁUSULA 25 Cláusula 25 – REPASSE DAS MENSALIDADES DO SINDICATO – Os Correios se comprometem a descontar dos empregados(as) filiados(as), na forma da legislação vigente, a mensalidade em favor das representações sindicais, mediante comprovação do respectivo valor ou percentual, por meio das Atas de Assembleias que as autorizarem. §1º O repasse desses descontos para as entidades sindicais será feito no primeiro dia útil após o pagamento mensal dos salários dos(as) empregados(as) dos Correios. §2° Os Correios se comprometem a restabelecer o desconto mensal em favor do sindicato, a partir da data em que os(as) empregados(as) filiados(as), afastados(as) do trabalho, retornarem ao serviço. §3° Os pedidos de filiação e desfiliação deverão ser encaminhados pelos(as) empregados(as) aos respectivos sindicatos. §4° Os comunicados de filiação e desfiliação deverão ser encaminhados pelos sindicatos à Empresa até o dia 10 (dez), para possibilitar o processamento na folha de pagamento no mesmo mês. 30 --- PAGINA 31 --CLÁUSULA 26 Cláusula 26 – REPRESENTANTES DOS(AS) EMPREGADOS(AS) – Os Representantes dos(as) Empregados(as) dirigentes sindicais, delegados/representantes sindicais e cipeiros(as) eleitos exclusivamente pelos empregados(as) dos Correios, mediante ato formal, não serão punidos, nem demitidos sem que os fatos motivadores da respectiva falta sejam inteiramente apurados, mediante procedimento próprio, ficando resguardado amplo direito de defesa, com a assistência da entidade sindical de sua base territorial, que será notificada com a devida antecedência, por decisão do Diretor Regional, cuja instância recursal será a Vice-presidência de Gestão Estratégica de Pessoas – VIGEP. §1º Os Correios garantirão estabilidade no emprego aos(as) dirigentes sindicais, conforme estabelece o Art. 522 da CLT, e cipeiros, por mais 6 (seis) meses após o término da estabilidade concedida por lei. §2º Na vigência deste Acordo Coletivo de Trabalho, os(as) delegados(as) sindicais terão estabilidade de 1 (um) ano após o término do seu mandato. §3º O número de delegados(as) por sindicato ob",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "SOC_ACOMPANHANTE",
+      "numero_clausula_original": 27,
+      "titulo_original": "ACOMPANHANTE",
+      "status": "MANTIDO",
+      "texto": "que equivale a 12 (doze) turnos de trabalho, durante a vigência deste Acordo Coletivo de Trabalho, para levar ao médico: dependente(s) e tutelado(s) menor(es) de 18 (dezoito) anos de idade; dependente(s) e curatelado(s) com deficiência (física, visual, auditiva ou mental); esposa gestante; companheira gestante; esposa(o) ou companheiro(a) com impossibilidade de locomover-se sozinho(a), por problema de saúde, atestado por médico assistente; e, pais com mais de 60 (sessenta) anos de idade. Para todos os casos, será necessária a apresentação de atestado de acompanhamento, subscrito por profissional da área de saúde, no prazo de 4 (quatro) dias úteis, a partir da data de emissão do atestado. §1º Caso a ausência ocorra em apenas um dos turnos da jornada diária de trabalho, será registrada como ausência parcial para fins de registro de frequência e para efeito do cálculo do saldo remanescente. §2º Para o(a) empregado(a) que possui filho(a) com deficiência nos termos da Cláusula 48 – Auxílio para Dependentes com Deficiência, o período para acompanhamento será acrescido de 4 (quatro) dias úteis o que equivale a 8 (oito) turnos de trabalho. §3º Para o(a) empregado(a) que, mediante laudo médico, comprovar que quaisquer dos entes mencionados no caput desta Cláusula é portador de neoplasias malignas e/ou doenças degenerativas graves, será concedido, até 8 (oito) dias úteis ou 16 (dezesseis) turnos, para acompanhamento do ente enfermo para tratamento de saúde, devendo o empregado ou empregada, após cada dia de ausência, ou no caso de esta ser utilizada de uma só vez, apresentar ao gestor(a) imediato o atestado de acompanhamento emitido por médico(a). §4º As ausências objeto desta Cláusula serão consideradas como de efetivo exercício, sem prejuízo de qualquer natureza para o empregado(a). 33 --- PAGINA 34 --CLÁUSULA 28 Cláusula 28 – ASSISTÊNCIA MÉDICA/HOSPITALAR E ODONTOLÓGICA – A Empresa oferecerá plano de saúde, com custeio da assistência médica/hospitalar e odontológica, com a cobrança de mensalidades e coparticipação, aos empregados(as) ativos(as), aos(às) aposentados(as) nos Correios que permanecem na ativa, aos(às) aposentados(as) desligados(as) sem justa causa ou a pedido e aos(às) aposentados(as) nos Correios por invalidez, bem como a seus dependentes cônjuges/companheiros e filhos beneficiários/menor sob guarda do Plano Correios Saúde ou no plano que o suceder. §1º A proporcionalidade da responsabilidade do pagamento das despesas será fixada em, no máximo, 30% ",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "SOC_ATESTADO_SAUDE_DEMISSAO",
+      "numero_clausula_original": 29,
+      "titulo_original": "ATESTADO DE SAÚDE NA DEMISSÃO",
+      "status": "MANTIDO",
+      "texto": "todas as rescisões, acompanhadas do Atestado de Saúde Ocupacional – ASO, dos(as) empregados(as) demitidos(as) nas unidades do interior, cujas homologações foram realizadas nas DRTs, bem como daqueles demitidos antes de completarem 1 (um) ano de serviço e que fizerem a homologação na própria Empresa. Parágrafo Único: Os Correios autorizarão a realização de exames complementares, sempre que solicitado pelo médico responsável pela emissão do ASO. 37 --- PAGINA 38 --CLÁUSULA 30 Cláusula 30 – AVERIGUAÇÃO DAS CONDIÇÕES DE TRABALHO – Os Correios garantirão o acesso aos locais de trabalho de representante da entidade sindical, acompanhado(a) por médico(a), engenheiro(a) do trabalho e/ou técnico de segurança do trabalho; e por representantes da Empresa, mediante agendamento prévio, sempre que solicitado pelos(as) empregados(as), para averiguação das condições de trabalho a que estão submetidos. §1º O Sindicato deverá solicitar o agendamento de visita com antecedência mínima de 5 (cinco) dias úteis, à Área de Gestão das Relações Sindicais e do Trabalho da respectiva Superintendência Regional. I – Os Correios agendarão a reunião no prazo máximo de 10 (dez) dias úteis após o recebimento da solicitação. II – Os prazos estabelecidos neste parágrafo não se aplicam quando da ocorrência de situações emergenciais ou extraordinárias. §2º Os Correios continuarão o processo gradual de exame das condições técnicas para climatização e melhoria das condições de conforto ambiental das unidades de trabalho que estiverem em desacordo com as normas regulamentadoras, observadas as disponibilidades de orçamento. Observações: As alterações ocorridas foram objeto de pleitos da Empresa, sendo acatadas pelo TST em julgamento de Dissídio Coletivo de Greve. 38 --- PAGINA 39 --CLÁUSULA 31 Cláusula 31 – COMISSÃO INTERNA DE PREVENÇÃO DE ACIDENTES – CIPA – Os Correios realizarão eleições para composição da CIPA em todos os seus estabelecimentos cujo efetivo seja superior a 30 (trinta) empregados (as). §1º A eleição para a CIPA será convocada em até 60 (sessenta) dias antes do término do mandato e realizada com antecedência de 30 (trinta) dias do seu término, facultando ao sindicato o acompanhamento. §2º A partir de 31 (trinta e um) empregados(as) observar-se-á o que estabelece a NR- 05. §3º Nos estabelecimentos com efetivo de até 30 (trinta) empregados(as) os Correios designarão um responsável pelo cumprimento dos objetivos da CIPA. §4º Para o desenvolvimento de suas atividades (verificação das ",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "CON_ERGONOMIA",
+      "numero_clausula_original": 34,
+      "titulo_original": "ERGONOMIA NA EMPRESA",
+      "status": "MANTIDO",
+      "texto": "de trabalho, tendo como base, dentre outros saberes técnicos científicos, os conceitos e princípios ergonômicos, de acordo com a NR 17 e seus anexos, conforme condições de trabalho e tipos de ambientes dos Correios. §1º Os Correios quando identificarem processo cuja operacionalização se mostre mais apropriado, sob o ponto vista ergonômico, com a utilização de sistema mecanizado ou automatizado, desencadeará ações com vistas ao seu aprimoramento. §2º A implementação destas soluções ficará condicionada à existência de soluções disponíveis no mercado. 42 --- PAGINA 43 --CLÁUSULA 35",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "SOC_FORNECIMENTO_CAT_LISA",
+      "numero_clausula_original": 35,
+      "titulo_original": "FORNECIMENTO DE CAT/LISA",
+      "status": "MANTIDO",
+      "texto": "de doenças ocupacionais, de acidentes do trabalho, de assaltos aos(às) empregados(as) em serviço, nas atividades promovidas e em representação. §1º Os Correios fornecerão, às Federações e Sindicatos dos empregados, uma via da CAT registrada no Ministério da Previdência Assistência Social – MPAS, relativa aos acidentes ocorridos no mês imediatamente anterior. §2º Os Correios emitirão CAT para o(a) empregado(a) Dirigente Sindical que estiver liberado(a) com ônus para a Empresa e que se acidentar, quando em atividades da representação sindical de que participa. §3º Os Correios orientarão aos(às) gestores(as) quanto ao preenchimento da CAT, em conformidade com as normas e orientações da Previdência Social. I – As orientações sobre emissão de CAT, emanadas pelos Correios, também serão encaminhadas às entidades sindicais. 43 --- PAGINA 44 --CLÁUSULA 36 Cláusula 36 – ITENS DE PROTEÇÃO NO CASO DE BAIXA UMIDADE RELATIVA DO AR – Os Correios se comprometem a fornecer itens de proteção ao(à) empregado(a) que realiza atividades externas em regiões de baixa umidade relativa do ar. §1º Considera-se a umidade relativa do ar baixa quando: I – A média dos menores índices de umidade relativa do ar, registrados nos últimos cinco dias consecutivos, atingir valores iguais ou inferiores a 20%. II – O menor índice de umidade relativa do ar, registrado no dia anterior, atingir valor igual ou inferior a 15%. §2º Nas situações descritas nos incisos do §1º, os Correios fornecerão ao(à) empregado(a) que realiza atividade externa: I – Garrafa individual de água (squeezes) para os(as) empregados(as), para o transporte de água durante as atividades de entrega externa, para hidratação. II – Frascos com soro fisiológico, visando evitar ressecamento nasal. III – Protetor labial FPS 30 com ação hidratante para minimizar o impacto da radiação solar e o ressecamento da pele. §3º Os procedimentos descritos nos incisos do §2º são suplementares, não havendo prejuízo ao fornecimento regular de camisa manga longa, protetor solar, bonés e óculos de sol. 44 --- PAGINA 45 --CLÁUSULA 37 Cláusula 37 – ITENS DE USO E PROTEÇÃO AO(À) EMPREGADO(A) – Os Correios fornecerão sem ônus aos(às) empregados(as), uniformes adequados à atividade desenvolvida na empresa e às condições climáticas da região, nos modelos masculino e feminino, no prazo de reposição previsto para cada peça e testado previamente pelos trabalhadores, por amostragem, quando do desenvolvimento do modelo. §1º Os Correios fornecerão meias de com",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "CON_PREVENCAO_DOENCAS",
+      "numero_clausula_original": 38,
+      "titulo_original": "PREVENÇÃO DE DOENÇAS",
+      "status": "MANTIDO",
+      "texto": "da saúde e prevenção de doenças no trabalho, visando: §1º Implantar gradativamente as ações de Cinesioterapia dentro dos Centros de Tratamento e Terminais de Carga ou nas suas imediações, com o objetivo de levar para perto dos(as) empregados(as) todas as condições de fortalecimento da saúde e melhoria da qualidade de vida. §2º Implantar gradativamente o rodízio operacional nos Centros de Tratamento, com vistas à melhoria contínua da saúde dos(as) empregados(as), ambientes de trabalho e clima organizacional. §3º Expandir o programa terapia comunitária integrativa em, no mínimo, 50% das Sedes das Superintendências Estaduais. Observações: As alterações ocorridas foram objeto de pleitos da Empresa, sendo acatadas pelo TST em julgamento de Dissídio Coletivo de Greve. 47 --- PAGINA 48 --CLÁUSULA 39",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "SOC_REABILITACAO_PROFISSIONAL",
+      "numero_clausula_original": 39,
+      "titulo_original": "REABILITAÇÃO PROFISSIONAL",
+      "status": "MANTIDO",
+      "texto": "assegurarão a reabilitação profissional de seus(suas) empregados(as), mediante laudo fornecido por instituição médica ou profissional habilitado, devidamente autorizado pela Previdência Social. §1º Quando autorizados pelo órgão competente, os(as) empregados(as) realizarão seu estágio de reabilitação na própria Empresa, em cargo adequado a sua situação. §2° Os Correios garantirão a estabilidade do reabilitado(a) por um período de 24 (vinte e quatro) meses. I – A garantia de estabilidade será ampliada para 36 (trinta e seis) meses no caso de ser o período que antecede à data para que o(a) trabalhador(a) reabilitado(a) possa legalmente requerer a sua aposentadoria junto à Previdência Social. §3º Os Correios se comprometem a realizar acompanhamento sistemático de empregado(a) reabilitado(a), sempre que houver recomendação do Médico Assistente, com vistas à sua manutenção em atividades compatíveis com sua capacidade laboral. §4º A Comissão/Grupo de Trabalho Regional de Reabilitação Profissional – CRRP, sempre que necessário, poderá interagir com a Comissão Regional de Saúde do Sindicato com vistas ao melhor encaminhamento das questões junto ao Instituto Nacional de Seguridade Social – INSS. 48 --- PAGINA 49 --CLÁUSULA 40",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "SOC_SAUDE_EMPREGADO",
+      "numero_clausula_original": 40,
+      "titulo_original": "SAÚDE DO(A) EMPREGADO(A)",
+      "status": "MANTIDO",
+      "texto": "promoção da saúde, abordando prioritariamente os temas vinculados à saúde e enfermidades relacionadas ao trabalho, possibilitando acesso de seus(suas) empregados(as) aos exames necessários. §1º Os Correios continuarão desenvolvendo estudos ergonômicos, conforme recomenda a NR 17 para prevenção de LER/DORT. §2º A Empresa promoverá campanhas de combate e prevenção à hipertensão arterial para empregados(as), com atenção às especificidades do(a) afrodescendente. §3º Por indicação profissional e autorização de médico(a) dos Correios, serão oferecidos acompanhamento psicológico para empregados(as) vítimas de assalto no exercício de suas atividades, bem como para os seus dependentes cadastrados no Plano CorreiosSaúde, nos casos destes serem feitos reféns durante o assalto. Neste último caso, as despesas serão compartilhadas pelo beneficiário titular. §4º A Empresa se compromete a entregar ao empregado(a), quando por ele(a) solicitado, cópia do seu prontuário médico, onde deverão estar todos os exames de saúde ocupacional, laudo, pareceres e resultados de exame admissional, periódico e demissional, se for o caso. §5º Quando solicitado, os Correios encaminharão aos Sindicatos os documentos relativos à segurança e à higiene do trabalho. §6º Os Correios promoverão cursos e palestras de orientação e prevenção sobre dependência química para empregados(as), assegurando acompanhamento social e psicológico e o tratamento clínico, quando necessários. §7º Os Correios continuarão incentivando a participação dos(as) empregados(as) no programa de ginástica laboral nos locais de trabalho, com o objetivo da prevenção de LER/DORT e de outras doenças. §8º Os Correios implantarão procedimentos voltados ao restabelecimento da saúde laboral do(a) empregado(a) em atividade que apresentar restrição médica e/ou psicossocial. I – Durante os 90 (noventa) dias em que o(a) empregado(a), ocupante do cargo de Agente de Correios (Carteiros, OTTs e Atendente Comercial) estiver em atividade com restrições médicas e/ou psicossocial, será garantido a ele(a) o recebimento do respectivo adicional de atividade. §9º Os Correios fornecerão serviço de saúde psicossocial atuando nas questões relacionadas ao adoecimento psíquico, distúrbios do comportamento, dependência química, vítima de assalto e outros eventos adversos. §10º O prazo para entrega de atestados médicos/odontológicos, de 1 (um) a 15 (quinze) dias de afastamento pelo(a) empregado(a) à sua chefia imediata passa a ser de 4 (quatro) dias úteis",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "CON_DISTRIBUICAO_DOMICILIARIA",
+      "numero_clausula_original": 41,
+      "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA",
+      "status": "MANTIDO",
+      "texto": "os seguintes critérios: §1º O limite de peso transportado pelo(a) carteiro(a), quer na saída das unidades, quer nos Depósitos Auxiliares – DAs, não ultrapassará 10 (dez) kg para homens e 8 (oito) kg para mulheres. §2º Em caso de gravidez, o limite do parágrafo anterior poderá ser reduzido mediante prescrição expressa de médico(a) especialista, homologada pelo Serviço Médico da Empresa. §3º Os Correios comprometem-se a aperfeiçoar os critérios e ampliar a aplicação de processo seletivo interno no preenchimento de vagas de função para o sistema motorizado de entrega domiciliária. O tempo de atuação do(a) carteiro(a) na atividade será o critério de maior peso e de desempate. §4º Depois de realizado o processo seletivo interno e não havendo êxito no preenchimento das funções de Motorizado(a) (M) e Motorizado(a) (V) a Empresa, mediante seleção entre os(as) carteiros interessados e que não possuam as respectivas carteiras de habilitação, garantirá os recursos necessários para a obtenção dessas. §5º A responsabilização por perdas, extravios e danos em objetos postais, malotes e outros será definida mediante aplicação do respectivo processo de apuração. §6º Os Correios continuarão aprimorando o complexo logístico de seu fluxo operacional, visando à otimização dos processos com vistas à antecipação do horário da distribuição domiciliária, sem comprometer a qualidade operacional ou as necessidades dos(as) clientes e zelando pela saúde dos(as) trabalhadores(as). A Empresa priorizará as entregas matutinas em âmbito nacional, nos Centros de Distribuição Domiciliária – CDDs, desde que atendidos os seguintes requisitos: I – Em distritos postais, executados de forma pedestre ou com uso de bicicletas. II – Em CDDs instalados em localidades classificadas, segundo a matriz de prazos para mensagens simples, a partir de B (Nacional) e B (Estadual). III – Quando o horário de chegada da carga qualificada nas unidades seja anterior ao horário de entrada dos carteiros na unidade. IV – Desde que atendidos os pré-requisitos de implantação da LOEC automática, em todos os distritos das unidades; implantação da rotina de Otimização de Atividades Internas relativas à primeira e segunda triagens; e, reequilíbrio dos tempos externos dos Distritos Postais. V – A implantação se dará em duas etapas, conforme abaixo: a) FASE 1 – 30% das unidades elegíveis, conforme os critérios acima estabelecidos, com encerramento previsto para o final do mês de outubro de 2015. b) FASE 2 – Nas demais unidad",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "CON_FROTA_OPERACIONAL",
+      "numero_clausula_original": 42,
+      "titulo_original": "FROTA OPERACIONAL",
+      "status": "MANTIDO",
+      "texto": "empregados(as), providenciarão, quando da aquisição e locação, novos veículos de carga contendo ar condicionado, direção hidráulica, vidro elétrico e trava para uso operacional. §1º Quando da aquisição de motos para uso operacional, os Correios priorizarão a introdução do item partida elétrica, desde que haja ampla oferta do item no mercado, garantindo-se o princípio da livre concorrência. §2º Os Correios continuarão promovendo estudos com o objetivo de especificar novo modelo de bicicleta, observando aspectos ergonômicos, funcionais, técnicos e de produtividade, adequada para utilização em terrenos mais irregulares, viabilizando a implantação das alternativas que se mostrarem viáveis técnica e economicamente e que proporcionem melhores condições de trabalho aos(às) empregados(as). §3º A implantação será realizada por meio de substituição, considerando o final da vida útil de cada item da Frota Operacional. 53 --- PAGINA 54 --CLÁUSULA 43",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "PRO_INOVACOES_TECNOLOGICAS",
+      "numero_clausula_original": 43,
+      "titulo_original": "INOVAÇÕES TECNOLÓGICAS",
+      "status": "MANTIDO",
+      "texto": "afetada por inovações tecnológicas ou racionalização de processo, remanejando-o(a) para outra atividade compatível com o cargo que ocupa, qualificando-o(a) para o exercício de sua nova atividade, sem prejuízo das vantagens adquiridas. 54 --- PAGINA 55 --CLÁUSULA 44 Cláusula 44 – JORNADA DE TRABALHO NAS AGÊNCIAS DE CORREIOS – O início da jornada de trabalho dos(as) empregados(as) lotados(as) nas Agências de Correio deverá ser escalonado de modo a permitir sua abertura e fechamento nos horários estabelecidos para cada unidade. Parágrafo Único: Os Correios respeitarão os horários estabelecidos para a jornada de trabalho e para o intervalo de alimentação. 55 --- PAGINA 56 --CLÁUSULA 45 Cláusula 45 – JORNADA DE TRABALHO PARA TRABALHADORES(AS) EM TERMINAIS COMPUTADORIZADOS – Aos(Às) empregados(as) com atividade permanente e ininterrupta de entrada de dados nos terminais computadorizados, por processo de digitação, será assegurado intervalo de 10 (dez) minutos para descanso a cada 50 (cinquenta) minutos trabalhados, computados na jornada normal de trabalho. 56 --- PAGINA 57 --CLÁUSULA 46",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "CON_REDIMENSIONAMENTO_CARGA",
+      "numero_clausula_original": 46,
+      "titulo_original": "REDIMENSIONAMENTO DE CARGA",
+      "status": "MANTIDO",
+      "texto": "empregados(as) que serão abrangidos(as) com o redimensionamento, os Correios viabilizarão a participação de 1 (um) representante sindical regularmente eleito, quando solicitado pelo sindicato, para participar do momento de realização dos levantamentos de carga específicos para dimensionamento de efetivo de CTC, CTE, CTCE, CDD, CEE, TECA e CTCI, de acordo com o cronograma previamente estabelecido pelas áreas funcionais. Parágrafo Único: Após a conclusão, o novo dimensionamento será implantado integralmente em até 120 (cento e vinte) dias após a liberação dos recursos necessários pelos órgãos competentes. 57 --- PAGINA 58 --CLÁUSULA 47",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "CON_SEGURANCA_EMPRESA",
+      "numero_clausula_original": 47,
+      "titulo_original": "SEGURANÇA NA EMPRESA",
+      "status": "MANTIDO",
+      "texto": "preservar a segurança física dos(as) empregados(as), clientes e visitantes que circulam em suas dependências, reafirmando, como política institucional, a valorização da vida e da integridade física das pessoas que participam das atividades postais, o reforço à confiança dos clientes nos serviços ofertados e à proteção do patrimônio da Empresa. §1º Os Correios fornecerão todo o suporte institucional para assegurar a operacionalização da segurança empresarial das suas unidades. §2º Os Correios comprometem-se a continuar informando os(as) representantes dos sindicatos regionais, sobre as providências já adotadas e as que estão em planejamento relativas à questão de segurança. §3º Os Correios continuarão aprimorando o sistema de transporte de numerários, visando minimizar os riscos operacionais, articulado à política de segurança empresarial. §4º As ações e compromissos decorrentes da implementação dessa política de segurança empresarial obedecerão ao princípio da eficiência na prestação dos serviços prestados pelos Correios à Sociedade que, como entidade da Administração Federal Pública, respeitarão as diretrizes e princípios norteadores dos procedimentos da Administração Pública. §5º Nos Correios, o compromisso com a preservação da vida e da integridade física das pessoas será priorizada sobre os demais aspectos da atividade postal. 58 --- PAGINA 59 --DOS BENEFÍCIOS 59 --- PAGINA 60 --CLÁUSULA 48 TÍTULO V DOS BENEFÍCIOS Cláusula 48 – AUXÍLIO PARA DEPENDENTES COM DEFICIÊNCIA – A ECT reembolsará aos(as) empregados(as) cujos filhos(as), enteados(as), tutelados(as) e curatelados(as) que dependam de cuidados especiais as despesas dos recursos especializados utilizados por eles. §1º Para os efeitos desta cláusula, entendem-se como recursos especializados os resultantes da manutenção em instituições escolares adequadas à educação e desenvolvimento neuropsicomotor de pessoas dependentes de cuidados especiais ou instituições que ofereçam tratamento e acompanhamento especializados, adequados ao desenvolvimento neuropsicomotor de pessoas dependentes de cuidados especiais. §2º A manutenção dos dependentes de cuidados especiais em associações afins e também as decorrentes de tratamentos especializados condicionam-se à prévia análise do Serviço Médico da ECT. §3º O valor do reembolso previsto nesta cláusula corresponde ao somatório das despesas respectivas, condicionado ao limite mensal máximo de R$ 956,15 (novecentos e cinquenta e seis reais e quinze centavos), em relaçã",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "SOC_TRANSPORTE_NOTURNO",
+      "numero_clausula_original": 50,
+      "titulo_original": "TRANSPORTE NOTURNO",
+      "status": "MANTIDO",
+      "texto": "inicie ou encerre seu expediente entre 22 (vinte e duas) horas de um dia e 6 (seis) horas da manhã do dia seguinte, em local de trabalho de difícil acesso ou onde comprovadamente não haja, neste período, meio de transporte urbano regular entre a Empresa e a residência do(a) empregado(a). 62 --- PAGINA 63 --CLÁUSULA 51",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "FIN_VALE_ALIMENTACAO",
+      "numero_clausula_original": 51,
+      "titulo_original": "VALE REFEIÇÃO/ALIMENTAÇÃO",
+      "status": "MANTIDO",
+      "texto": "dia útil da primeira quinzena de cada mês, a partir de agosto/2019, Vale Refeição ou Vale Alimentação no valor facial de R$ 39,10 (trinta e nove reais e dez centavos) na quantidade de 26 (vinte e seis) ou 30 (trinta) vales, para os que têm jornada de trabalho regular de 5 (cinco) ou 6 (seis) dias por semana, respectivamente, e Vale Cesta no valor de R$ 244,73 (duzentos e quarenta e quatro reais e setenta e três centavos). §1º Os benefícios referidos no caput terão a participação financeira dos(das) empregados(as) nas seguintes proporções: I – NM-01 até NM-63 – 0,5% (zero vírgula cinco por cento); II – NM-64 até NM-90 – 5% (cinco por cento); III – NS-01 até NS-60 – 10% (dez por cento). §2º No período de fruição de férias, licença-maternidade e licença adoção, inclusive prorrogação (conforme legislação específica), também serão concedidos os Vales Refeição/Alimentação e Vale Cesta, mencionados no caput, nas mesmas condições dos demais meses. Os créditos alusivos aos Vales Refeição, Alimentação e Cesta, em razão do atual suporte eletrônico, serão disponibilizados conforme descrito no caput desta cláusula. §3º O(a) empregado(a) poderá optar por receber o seu Vale Refeição ou Vale Alimentação das seguintes formas: 100% no Cartão Refeição ou 100% no Cartão Alimentação ou 30% no Cartão Refeição e 70% no Cartão Alimentação, ou 30% no Cartão Alimentação e 70% no cartão Refeição ou 50% em cada um dos cartões. §4º Os Correios ficam desobrigados das exigências previstas nos subitens 24.6.3. e 24.6.3.2 da Portaria MTE nº 13 de 17/09/93 principalmente em relação a aquecimento de marmita e instalação de local caracterizado como Cantina/Refeitório. §5º Serão concedidos, a partir da vigência deste Acordo Coletivo de Trabalho, os Vales Refeição ou Alimentação e Vale Cesta referidos nesta cláusula nos primeiros 90 (noventa) dias de afastamento por licença médica, e até o retorno por motivo de acidente do trabalho, inclusive para aposentados(as) em atividade que estejam afastados em tratamento de saúde. Para todos os casos haverá desconto do devido compartilhamento quando do retorno ao trabalho. I – Em caso de retorno ao auxílio doença e se o motivo ou o CID (Código Internacional de Doenças) de retorno for relacionado ao do último afastamento, o empregado(a) não terá direito a nova contagem de 90 (noventa) dias para recebimento de Vales Alimentação, Refeição e Cesta, exceto se o retorno ocorrer após 60 (sessenta) dias corridos, contados da data de retorno da última licença. §",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "FIN_VALE_CULTURA",
+      "numero_clausula_original": 53,
+      "titulo_original": "VALE CULTURA",
+      "status": "MANTIDO",
+      "texto": "até o limite de 5 (cinco) salários mínimos, o Vale Cultura instituído pela Lei 12.761, de 27/12/2012, regulamentado pelo Decreto nº. 8.084 de 26 de agosto de 2013, no valor único mensal de R$ 50,00 (cinquenta reais), respeitado o compartilhamento e a opção do(a) empregado(a), não tendo natureza remuneratória. §1º O percentual de compartilhamento do Vale Cultura, ocorrerá na forma descrita abaixo: I – até um salário mínimo – dois por cento. II – acima de um salário mínimo e até dois salários mínimos – quatro por cento. III – acima de dois salários mínimos e até três salários mínimos – seis por cento. IV – acima de três salários mínimos e até quatro salários mínimos – oito por cento. V – acima de quatro salários mínimos e até cinco salários mínimos – dez por cento. §2º O valor do Vale Cultura será reajustado na forma da Lei. 65 --- PAGINA 66 --DAS QUESTÕES ECONÔMICAS 66 --- PAGINA 67 --CLÁUSULA 54 TÍTULO VI DAS QUESTÕES ECONÔMICAS",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "FIN_ADIANTAMENTO_FERIAS",
+      "numero_clausula_original": 54,
+      "titulo_original": "ADIANTAMENTO DE FÉRIAS",
+      "status": "MANTIDO",
+      "texto": "por ocasião de sua fruição, em valor equivalente a um salário-base, acrescido de anuênios ou quinquênios, do IGQP incorporado e, quando for o caso, da gratificação de função. §1º Os Correios mantêm para todos(as) os(as) empregados(as) o pagamento desse adiantamento, reembolsável, por opção do(a) empregado(a), em até cinco parcelas mensais, sucessivas e sem reajuste, iniciando-se a restituição no pagamento relativo ao segundo mês subsequente à data de início do período de fruição das férias, independentemente da opção por abono pecuniário. §2º Para os efeitos desta cláusula, os(as) empregados(as) reintegrados(as) ou readmitidos(as) também farão jus ao reembolso parcelado do adiantamento de férias. §3º Poderá o(a) empregado(a) optar, por escrito, até quarenta dias antes do início do período previsto para a fruição das férias, pela não antecipação do respectivo pagamento. §4º Por solicitação do(a) empregado(a), inclusive aquele com idade superior a cinquenta anos e sem que haja prejuízos para as atividades da unidade, a Empresa poderá conceder as férias em dois períodos. Nenhum dos períodos poderá ser inferior a dez dias corridos e ambos deverão ocorrer dentro do mesmo período concessivo, com interstício mínimo de 30 (trinta) dias entre um período e outro. §5º No caso de a concessão de férias ocorrer em dois períodos, o adiantamento de férias será pago proporcionalmente a cada período. §6º A vantagem prevista no parágrafo anterior não gera direitos em relação a situações pretéritas. 67 --- PAGINA 68 --CLÁUSULA 55",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "FIN_ADICIONAL_NOTURNO",
+      "numero_clausula_original": 55,
+      "titulo_original": "ADICIONAL NOTURNO",
+      "status": "MANTIDO",
+      "texto": "os Correios pagarão, a título de adicional noturno, acréscimo de 60% (sessenta por cento) sobre o valor da hora diurna em relação ao salário-base, já incluído o respectivo valor correspondente ao adicional legal. §1º Para os fins desta Cláusula, considera-se horário noturno o prestado entre 20 (vinte) horas de um dia e 6 (seis) horas do dia seguinte, aplicando-se também a regra de hora reduzida de 52 (cinquenta e dois) minutos e 30 (trinta) segundos entre esse horário. §2º Não haverá a suspensão do pagamento do adicional noturno, para o(a) empregado(a) com jornada normal noturna ou mista, nos casos de não comparecimento ao trabalho pelos motivos de licença médica até os primeiros 15 (quinze) dias, treinamento, viagem a serviço ou folgas compensatórias resultantes de trabalho em dias de repouso remunerado ou feriado. 68 --- PAGINA 69 --CLÁUSULA 56",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "FIN_AJUDA_CUSTO_TRANSFERENCIA",
+      "numero_clausula_original": 56,
+      "titulo_original": "AJUDA DE CUSTO NA TRANSFERÊNCIA",
+      "status": "MANTIDO",
+      "texto": "necessidade de serviço, continuará sendo calculada sobre o valor do salário-base, acrescido de anuênios, do IGQP incorporado e, quando for o caso, da gratificação de função. O valor mínimo da ajuda de custo será de R$ 1.365,68 (hum mil trezentos e sessenta e cinco reais e sessenta e oito centavos). §1° As despesas com a transferência por necessidade de serviço serão de responsabilidade dos Correios, nos termos do Manual de Pessoal – MANPES. §2° Os(as) empregados(as) transferidos para exercício de função gratificada ou de confiança, na localidade de destino, farão jus à respectiva gratificação a partir do início do período de trânsito, quando houver. §3° Os Correios darão especial atenção aos pedidos de transferência de empregados(as), observando os critérios vigentes no Sistema Nacional de transferência – SNT, procurando conciliar cada caso à real necessidade do serviço. 69 --- PAGINA 70 --CLÁUSULA 57 Cláusula 57 – ANTECIPAÇÃO DE 50% DA GRATIFICAÇÃO NATALINA – Os(As) empregados(as) que, em 2019 e 2020, não gozarem férias até junho e não optarem pelo recebimento por ocasião de suas férias, receberão, a título de adiantamento, a metade do 13° (décimo terceiro) salário em 2 (duas) parcelas, sendo: 25% (vinte e cinco por cento) na folha de pagamento do mês de março/2019 e março/2020 25% (vinte e cinco por cento) na de junho/2019 e junho/2020 ou, por sua opção, em uma só parcela de 50% (cinquenta por cento) na folha de pagamento de junho/2019 e junho de 2020. §1º A diferença entre o valor do 13° (décimo terceiro) salário e o que foi adiantado na forma da presente cláusula será paga até 20/12/2019. §2º Os Correios garantirão, aos(às) empregados(as) que optarem, o direito de receber a antecipação de 50% (cinquenta por cento) da gratificação natalina no seu período de férias, de janeiro a novembro. Observações: Adequação ao reajuste salarial de 3% - Acórdão do 2019/2021. 70 --- PAGINA 71 --CLÁUSULA 58",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "FIN_ANUENIOS",
+      "numero_clausula_original": 58,
+      "titulo_original": "ANUÊNIOS",
+      "status": "MANTIDO",
+      "texto": "salário-base e respectivo valor da gratificação de função ou complementação de remuneração singular, quando houver, por ano de serviço prestado, observado o limite máximo de retroação a 20/03/69, data da criação da Empresa assegurados os direitos anteriormente adquiridos pelos(as) empregados(as). §1º Cada novo anuênio será pago a partir do mês em que se completar a data-base de anuênio do(a) empregado(a). §2º O limite máximo para o adicional de tempo de serviço é de 35% (trinta e cinco por cento). §3° As vantagens previstas nesta cláusula não geram direitos em relação a pagamentos pretéritos. 71 --- PAGINA 72 --CLÁUSULA 59",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "FIN_GRATIFICACAO_FERIAS",
+      "numero_clausula_original": 59,
+      "titulo_original": "GRATIFICAÇÃO DE FÉRIAS",
+      "status": "MANTIDO",
+      "texto": "no valor de 70% (setenta por cento) da remuneração vigente, estando incluído neste percentual o previsto no inciso XVII do artigo 7º da Constituição Federal, assegurados os direitos anteriormente adquiridos pelos(as) empregados(as). §1º No caso de a concessão de férias ocorrer em dois períodos, a gratificação de férias será paga proporcionalmente a cada período. §2º A vantagem prevista nesta cláusula não gera direitos em relação a pagamentos pretéritos. 72 --- PAGINA 73 --CLÁUSULA 60",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+      "numero_clausula_original": 60,
+      "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+      "status": "MANTIDO",
+      "texto": "durante toda a sua jornada de trabalho as atividades de recebimento e pagamento de dinheiro à vista (em espécie ou em cheque), em guichês de Agências, gratificação de quebra de caixa no seguinte valor: I – R$ 200,26 (duzentos reais e vinte e seis centavos) para os(as) empregados(as) que atuam em guichê de agências que não operam o Banco Postal. II – R$ 267,02 (duzentos e sessenta e sete reais e dois centavos) para os(as) empregados(as) que atuam em guichê de agências que operam o Banco Postal. §1º Se o(a) empregado(a) estiver recebendo ou vier receber qualquer outra gratificação de função, prevalecerá a maior, para que não haja acumulação de vantagens. §2º A vantagem prevista nesta cláusula não gera direitos em relação a pagamentos pretéritos. §3º A partir de janeiro de 2010, os(as) empregados(as) que atuarem em parte da sua jornada diária de trabalho, em guichês de Agências, cobrindo horário de almoço de titular de guichê, farão jus a 25% (vinte e cinco por cento) do valor previsto nos incisos \"I\" e \"II\", conforme o caso. Observações: Adequação ao reajuste salarial de 3% - Acórdão do 2019/2021. 73 --- PAGINA 74 --CLÁUSULA 61",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "FIN_HORAS_EXTRAS",
+      "numero_clausula_original": 61,
+      "titulo_original": "HORAS EXTRAS",
+      "status": "MANTIDO",
+      "texto": "mediante acréscimo de 70% (setenta por cento) sobre o valor da hora normal em relação ao salário-base. Parágrafo Único: As horas e/ou frações de hora que o(a) empregado(a) foi oficialmente liberado(a) não poderão ter o respectivo período para compensação de hora extra trabalhada em outro dia. 74 --- PAGINA 75 --CLÁUSULA 62",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "FIN_PAGAMENTO_SALARIO",
+      "numero_clausula_original": 62,
+      "titulo_original": "PAGAMENTO DE SALÁRIO",
+      "status": "MANTIDO",
+      "texto": "75 --- PAGINA 76 --CLÁUSULA 63",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "FIN_REAJUSTE_SALARIAL",
+      "numero_clausula_original": 63,
+      "titulo_original": "REAJUSTE SALARIAL",
+      "status": "MANTIDO",
+      "texto": "1º de agosto de 2019, às referências salariais vigentes. Observações: O TST não abarcou o teor da redação da Cláusula 63 – Reajuste Salarial. Discorreu sobre a decisão no item “II”, alínea “a” da Certidão de Julgamento, que também constou da página 138 do Acórdão do TST 2019/2021. 76 --- PAGINA 77 --CLÁUSULA 64",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "FIN_TRABALHO_DIA_REPOUSO",
+      "numero_clausula_original": 64,
+      "titulo_original": "TRABALHO EM DIA DE REPOUSO",
+      "status": "MANTIDO",
+      "texto": "remunerado fica assegurado ao(a) empregado(a) que for convocado(a) a trabalhar em dia de repouso semanal remunerado e feriados o pagamento do valor equivalente a 200% (duzentos por cento), calculado sobre o valor pago no dia de jornada normal de trabalho, fazendo também jus a um Vale Alimentação ou Refeição (de acordo com a modalidade na qual está cadastrado) pelo dia trabalhado, salvo na hipótese do parágrafo segundo. §1° Os 200% (duzentos por cento) de que trata esta cláusula serão pagos na folha do mês subsequente a sua apuração. §2° A critério do(a) empregado(a), o dia trabalhado na forma desta cláusula, poderá ser trocado pela concessão de 2 (duas) folgas compensatórias, devendo as folgas ocorrerem após o dia trabalhado. §3° A Empresa se compromete, salvo em casos excepcionais, a evitar as convocações para viagens a serviço em dia de repouso. §4° A Empresa se compromete, salvo em casos excepcionais, a realizar a convocação dos(as) empregados(as) nas situações previstas nesta cláusula com, no mínimo, 48 horas de antecedência. 77 --- PAGINA 78 --CLÁUSULA 65",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "FIN_TRABALHO_FINS_SEMANA",
+      "numero_clausula_original": 65,
+      "titulo_original": "TRABALHO NOS FINS DE SEMANA",
+      "status": "MANTIDO",
+      "texto": "trabalho normal de 44 (quarenta e quatro) horas semanais, que trabalham regularmente nos fins de semana, receberão pelo trabalho excedente, em relação ao pessoal com jornada de 40 (quarenta) horas semanais, um valor complementar de 15% (quinze por cento) do salário-base pelas horas trabalhadas. §1º Para os efeitos desta cláusula, consideram-se como atividades operacionais as de atendimento, transporte, tratamento, encaminhamento e distribuição de objetos postais e as de suporte imprescindível à realização dessas atividades. §2° Qualquer empregado(a), independentemente de sua área de lotação, convocado(a) eventualmente pela autoridade competente, devidamente justificado, terá direito a um quarto de 15% (quinze por cento) por fim de semana trabalhado, limitado a 15% (quinze por cento) ao mês. §3º O(a) empregado(a) convocado(a) na forma prevista no parágrafo anterior, com jornada mínima de trabalho de 4 (quatro) horas, fará jus também a um Vale Alimentação ou Refeição (de acordo com a modalidade na qual está cadastrado), pelo dia trabalhado. §4º A Empresa se compromete, salvo em casos excepcionais, a realizar a convocação dos(as) empregados(as) nas situações previstas nesta cláusula com, no mínimo, 48 (quarenta e oito) horas de antecedência. 78 --- PAGINA 79 --DAS DISPOSIÇÕES GERAIS 79 --- PAGINA 80 --CLÁUSULA 66 TÍTULO VII DAS DISPOSIÇÕES GERAIS",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+      "numero_clausula_original": 66,
+      "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+      "status": "MANTIDO",
+      "texto": "no presente Acordo Coletivo de Trabalho ou quaisquer outros já mantidos pelos Correios, será feita a necessária compensação, a fim de que não se computem ou se acumulem acréscimos pecuniários superiores sob o mesmo título ou idêntico fundamento, com consequente duplicidade de pagamento. 80 --- PAGINA 81 --CLÁUSULA 67",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "PRO_CONCURSO_PUBLICO",
+      "numero_clausula_original": 67,
+      "titulo_original": "CONCURSO PÚBLICO",
+      "status": "MANTIDO",
+      "texto": "seus cargos não haverá quaisquer discriminações raciais, religiosas ou de orientação sexual, conforme previsão da CF/88, respeitando o percentual de 10% (dez por cento) das vagas destinadas a pessoas com deficiência e 20% (vinte por cento) de reserva de vagas para negros(as). Parágrafo Único: Os Correios continuarão observando a sistemática de alocação e reposição de pessoal, com vistas a garantir a manutenção do efetivo necessário à prestação qualitativa e contínua dos serviços postais. 81 --- PAGINA 82 --CLÁUSULA 68",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "PRO_CURSOS_REUNIOES_OBRIGATORIAS",
+      "numero_clausula_original": 68,
+      "titulo_original": "CURSOS E REUNIÕES OBRIGATÓRIAS",
+      "status": "MANTIDO",
+      "texto": "em cursos e reuniões obrigatórias, por exigência da Empresa, para capacitação relacionada ao cargo/atividade/especialidade, referente às suas atribuições ou atuação em trabalhos específicos exercidos nos Correios. §1° Os Correios comunicarão, com no mínimo 3 (três) dias úteis de antecedência, aos(às) empregados(as) sobre sua participação em cursos obrigatórios. §2º Os locais de treinamento, inclusive para ensino à distância, deverão estar devidamente adequados à realização dos cursos. §3° No caso dos(as) empregados(as) em efetivo exercício: I – Os cursos e reuniões realizados fora do horário de serviço, os Correios pagarão horas extras aos(às) empregados(as) participantes. II – Poderá haver compensação em dobro, em substituição ao pagamento das horas extras realizadas, desde que acordado entre os Correios e o(a) empregado(a). III – Aos cursos em EaD, não se aplica o estabelecido nos incisos \"I\" e \"II\" deste parágrafo, quando o empregado(a), por seu interesse, optar por fazer o curso fora do seu horário de trabalho. IV – Os Correios desenvolverão treinamento para os(as) empregados(as) recém-contratados(as) que trabalham com valores e continuarão orientando sobre a identificação de cédulas falsas. §4° Convocação para cursos e reuniões obrigatórias, destinadas aos(as) empregados(as) estudantes, somente serão cumpridas caso não prejudiquem suas atividades estudantis e o seu horário de trabalho. §5° No caso dos(as) Dirigentes Sindicais, liberados com ou sem ônus para a Empresa: I – Os Cursos de capacitação se darão mediante o prévio acordo entre a Empresa e a Entidade Sindical dos(as) Empregados(as) dos Correios da respectiva base territorial e Federação dos Trabalhadores dos Correios, legalmente constituída. II – Não haverá pagamento de transporte, hospedagem, horas extras, adicional noturno ou quaisquer outras rubricas que excedam ao pagamento mensal a que fazem jus. III – Os(as) Dirigentes Sindicais poderão participar de cursos de capacitação promovidos pelos Correios, respeitados os princípios da razoabilidade, oportunidade e conveniência. IV – A participação dos(as) Dirigentes Sindicais em cursos de capacitação promovidos pelos Correios deverão seguir todas as regras de presença, frequência e resultados determinados para os(as) demais empregados(as). 82 --- PAGINA 83 --CLÁUSULA 69",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "PRO_AMPLA_DEFESA",
+      "numero_clausula_original": 69,
+      "titulo_original": "DIREITO A AMPLA DEFESA",
+      "status": "MANTIDO",
+      "texto": "e por sua solicitação serão assegurados a obtenção de documentos e o amplo direito de defesa. As cópias dos documentos deverão ser entregues diretamente ao(a) empregado(a) envolvido ou ao seu/sua procurador(a) legal, quando solicitado formalmente. A critério do(a) empregado(a) o sindicato poderá acompanhar o processo de apuração. 83 --- PAGINA 84 --CLÁUSULA 70",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "FIN_MULTAS_TRANSITO",
+      "numero_clausula_original": 70,
+      "titulo_original": "MULTAS DE TRÂNSITO",
+      "status": "MANTIDO",
+      "texto": "veículos de sua propriedade, quando sua aplicação tenha ocorrido no percurso programado para a prestação dos serviços de coleta e entrega de objetos postais. §1º Em não havendo recusa por parte do(a) empregado(a) junto ao órgão de trânsito, a Empresa processará o desconto do valor da multa na próxima folha de pagamento. §2° Havendo o recurso por parte do(a) empregado(a) e julgado improcedente pelo órgão de trânsito, obriga-se o infrator a ressarcir aos Correios o valor da multa atualizada na forma da lei. §3° Verificadas as hipóteses do §1° ou do §2°, o ressarcimento será feito de forma parcelada, obedecido o limite máximo legal de consignações. §4° Em caso de necessidade imperiosa de estacionamento em lugar não permitido, exonera-se o(a) empregado(a) dos reflexos financeiros da multa eventualmente aplicada e, por intermédio de seus prepostos, os Correios farão gestão junto ao DETRAN no sentido de não serem registrados os respectivos pontos no prontuário da Carteira Nacional de Habilitação – CNH. §5º Na ocorrência da suspensão da CNH pelo DETRAN em função exclusivamente do disposto no §4°, os Correios remanejarão, provisoriamente, sem a perda da função, o(a) empregado(a) para outra atividade compatível com o cargo. §6º Os Correios manterão a realização dos cursos de direção defensiva. §7º Nos casos em que as multas ocorrerem em linhas comboiadas, derivadas de situações em que as ações policiais determinaram a infração, os Correios adotarão os mesmos critérios previstos no §4º desta cláusula. 84 --- PAGINA 85 --CLÁUSULA 71 Cláusula 71 – PARTICIPAÇÃO NOS LUCROS OU RESULTADOS – PLR – Os Correios se comprometem a negociar a PLR com a participação das Federações de Trabalhadores dos Correios legalmente constituídas, em conformidade com a Lei 10.101, de 19 de Dezembro de 2000. 85 --- PAGINA 86 --CLÁUSULA 72",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "FIN_PENALIDADE",
+      "numero_clausula_original": 72,
+      "titulo_original": "PENALIDADE",
+      "status": "MANTIDO",
+      "texto": "ficará a parte infratora obrigada ao pagamento, em favor do(a) empregado(a) prejudicado(a), de multa equivalente a 20% (vinte por cento) do dia de serviço deste(a). 86 --- PAGINA 87 --CLÁUSULA 73 Cláusula 73 – PROCESSAMENTO DE CONSIGNAÇÕES EM FOLHA DE PAGAMENTO – As consignações em folha de pagamento são os descontos mensais processados nos contracheques dos(as) empregados(as) da Empresa, e se classificam em obrigatórias e voluntárias. Considera-se, para fins desta Cláusula: I – Consignado: empregado(a) ativo(a) que por contrato tenha estabelecido com pessoa jurídica relação jurídica que autorize o desconto de valores mediante consignação em folha de pagamento; II – Consignação Obrigatória: desconto incidente sobre a remuneração, efetuado por força de lei ou mandado judicial; III – Consignação Voluntária: desconto incidente sobre a remuneração, mediante autorização prévia e formal do consignado; e, IV – Margem Consignável: para efeito da consignação voluntária, é a parcela limitada a 30% da remuneração do empregado, considerados os proventos fixos. a) São consignações obrigatórias: I – contribuição para a Previdência Social; II – pensão alimentícia judicial; III – imposto sobre rendimentos do trabalho; IV – decorrente de decisão judicial ou administrativa da Empresa; V – mensalidade e contribuição em favor de entidades sindicais; VI – compartilhamento para serviço ou Plano CorreiosSaúde; VII – outros descontos obrigatórios instituídos por lei ou decorrentes de contrato de trabalho. VIII – Contribuição ou mensalidade para plano de previdência complementar. b) São consignações voluntárias, na seguinte ordem de prioridade: I – prestação referente a financiamento habitacional concedidos por entidades bancárias, caixas econômicas ou entidades integrantes do Sistema Financeiro da Habitação; II – pensão alimentícia voluntária, consignada em favor de dependente indicado no assentamento funcional do(a) empregado(a), contendo a indicação do valor ou percentual de desconto sobre a remuneração e o valor do benefício de pensão; III – prestação referente a empréstimo concedido por entidade aberta ou fechada de previdência complementar, ou, por cooperativas de crédito constituídas, na forma da lei, com a finalidade de prestar serviços financeiros a seus cooperados; IV – prestação referente a empréstimo concedido por entidades bancárias, caixas econômicas ou sociedade seguradora autorizada a instituir planos de previdência complementar aberta, em conformidade com o dispos",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "CON_REGISTRO_PONTO",
+      "numero_clausula_original": 74,
+      "titulo_original": "REGISTRO DE PONTO",
+      "status": "MANTIDO",
+      "texto": "a supervisão da Empresa. §1º Fica vedada qualquer interferência de terceiros na marcação do cartão de ponto. §2° Além da tolerância de 5 (cinco) minutos, prevista em lei, para registro do ponto no início de cada turno de trabalho, será concedida uma tolerância adicional de 5 (cinco) minutos em cada início de turno, limitada a 4 (quatro) vezes ao mês. 88 --- PAGINA 89 --CLÁUSULA 75 Cláusula 75 – RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO – Os Correios assumirão os custos com a recuperação dos danos de veículos de sua frota, bem como danos causados a terceiros, consequentes de acidentes de trânsito, nos casos em que, após apuração, ficar comprovada a inexistência de dolo por parte do(a) empregado(a), estando o mesmo no exercício de suas funções. §1º As diretrizes sobre o assunto serão estabelecidas e implantadas pelos Correios, por meio de grupo de trabalho constituído por portaria. §2° Os processos administrativos de apuração de responsabilidades não concluídos e sobrestados na Empresa, deverão ser analisados por comissão paritária, composta por 3 (três) integrantes dos Correios e 3 (três) integrantes do Sindicato dos Empregados dos Correios da respectiva base sindical. I – Somente se caracterizará a conduta dolosa do empregado quando houver decisão da comissão. II – As comissões paritárias responderão, administrativa e juridicamente, por todos os seus atos. III – As comissões paritárias já instituídas permanecerão conforme acordo assinado, anteriormente, na MNNP-Correios pelas respectivas Entidades Sindicais, até a data de sua vigência. §3° Os Correios se comprometem a desenvolver campanhas de prevenção sobre acidentes de trânsito, com o objetivo de mitigar os riscos de eventuais acidentes. 89 --- PAGINA 90 --CLÁUSULA 76 Cláusula 76 – INDENIZAÇÃO POR MORTE OU INVALIDEZ PERMANENTE – A Empresa indenizará o(a) empregado(a) ou seus dependentes legais, no caso de morte ou invalidez permanente, na importância de R$ 141.888,48 (cento e quarenta e um mil oitocentos e oitenta e oito reais e quarenta e oito centavos), em consequência de acidente de trabalho, assalto e/ou roubo, nas Unidades de Atendimento e/ou Operacional ou no percurso. §1º Enquanto o(a) empregado(a) estiver percebendo o benefício por acidente de trabalho, pelo INSS, decorrente do evento previsto no caput, sem definição quanto à invalidez permanente, a Empresa complementará o benefício previdenciário até o montante do salário da ativa, inclusive o 13º salário, salvo se a complementação for paga",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "PRO_CONCILIACAO_DIVERGENCIAS",
+      "numero_clausula_original": 78,
+      "titulo_original": "CONCILIAÇÃO DE DIVERGÊNCIAS",
+      "status": "MANTIDO",
+      "texto": "presente Acordo Coletivo de Trabalho deverão ser comunicadas, por escrito, aos Correios para fins de conciliação, no prazo de 15 (quinze) dias, antes de serem submetidas à Justiça do Trabalho. 92 --- PAGINA 93 --CLÁUSULA 79",
+      "novo_id": false
+    },
+    {
+      "id_canonico": "PRO_VIGENCIA",
+      "numero_clausula_original": 79,
+      "titulo_original": "VIGÊNCIA",
+      "status": "MANTIDO",
+      "texto": "até 31 de julho de 2021. Observações: Cláusula abarcada pela “Medida Cautelar na Suspensão de Liminar 1.264 Distrito Federal” do Supremo Tribunal Federal – STF, suspendendo a decisão do TST até o respectivo trânsito em julgado. Desta forma, a vigência do Acórdão até trânsito em julgado, é de apenas 1 (um) ano – Período de 1º de agosto de 2019 até 31 de julho de 2020. ***** 93",
+      "novo_id": false
+    }
+  ],
+  "notas_metodologicas": [
+    {
+      "tipo": "REEXTRACAO",
+      "descricao": "Documento re-extraído de Acordao-2019-2021.pdf via pdfplumber (v2). Título cortado antes do separador '–'. Mapeamento por dicionário de 70+ keywords + similaridade fallback."
+    },
+    {
+      "tipo": "FIX_DUPLICATA",
+      "descricao": "ID 'SOC_PRORROGACAO_LICENCA_MATERNIDADE' estava duplicado. Cláusula 'LICENÇA MATERNIDADE' (pos 36) renomeada para 'SOC_LICENCA_MATERNIDADE'."
+    }
+  ]
+}

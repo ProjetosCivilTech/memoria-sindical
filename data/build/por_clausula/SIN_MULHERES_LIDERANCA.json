@@ -1,0 +1,19 @@
+[
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "SIN_MULHERES_LIDERANCA",
+    "numero_clausula_original": 19,
+    "titulo_original": "INCENTIVO E PARTICIPAÇÃO DAS MULHERES NA LIDERANÇA DA EMPRESA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "percentual_mulheres_gestao": 40,
+      "percentual_negros_gestao": 30,
+      "percentual_vagas_ri_mulheres": 30,
+      "percentual_bolsas_mulheres": 30,
+      "projeto_mentoria": true
+    },
+    "pagina_referencia": "34"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ano_inicio": 1988,
+    "ano_fim": 1989,
+    "tipo": "ACT",
+    "id_canonico": "SOC_TRANSPORTE_CARTEIROS",
+    "numero_clausula_original": 20,
+    "titulo_original": "TRANSPORTE COLETIVO GRATUITO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "beneficiarios": "Carteiros e Mensageiros em serviço",
+      "prazo": "até 31.01.89",
+      "passe": "disciplinar uso onde aceito",
+      "onus": "ECT arca onde passe não é aceito"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "6-7"
+  }
+]

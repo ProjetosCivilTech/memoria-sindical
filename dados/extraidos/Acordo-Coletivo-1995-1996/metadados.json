@@ -1,0 +1,109 @@
+{
+  "arquivo_origem": "Acordo-Coletivo-1995-1996.pdf",
+  "metadados_pdf": {
+    "titulo": "Acordo Coletivo 1995 1996",
+    "autor": null,
+    "assunto": null,
+    "criador": "PDF reDirect v2",
+    "produtor": "EXP Systems LLC (www.exp-systems.com)",
+    "criado_em": "D:20070319173558",
+    "modificado_em": "D:20070319173607+03'00'"
+  },
+  "paginas_info": [
+    {
+      "pagina": 1,
+      "metodo": "OCR",
+      "chars": 2159,
+      "conf_ocr": 79.8
+    },
+    {
+      "pagina": 2,
+      "metodo": "OCR",
+      "chars": 1795,
+      "conf_ocr": 83.3
+    },
+    {
+      "pagina": 3,
+      "metodo": "OCR",
+      "chars": 1799,
+      "conf_ocr": 81.1
+    },
+    {
+      "pagina": 4,
+      "metodo": "OCR",
+      "chars": 1991,
+      "conf_ocr": 82.1
+    },
+    {
+      "pagina": 5,
+      "metodo": "OCR",
+      "chars": 1857,
+      "conf_ocr": 80.1
+    },
+    {
+      "pagina": 6,
+      "metodo": "OCR",
+      "chars": 1611,
+      "conf_ocr": 84.3
+    },
+    {
+      "pagina": 7,
+      "metodo": "OCR",
+      "chars": 2108,
+      "conf_ocr": 79.9
+    },
+    {
+      "pagina": 8,
+      "metodo": "OCR",
+      "chars": 1760,
+      "conf_ocr": 80.3
+    },
+    {
+      "pagina": 9,
+      "metodo": "OCR",
+      "chars": 1950,
+      "conf_ocr": 81.3
+    },
+    {
+      "pagina": 10,
+      "metodo": "OCR",
+      "chars": 1805,
+      "conf_ocr": 80.6
+    },
+    {
+      "pagina": 11,
+      "metodo": "OCR",
+      "chars": 1848,
+      "conf_ocr": 82.5
+    },
+    {
+      "pagina": 12,
+      "metodo": "OCR",
+      "chars": 1774,
+      "conf_ocr": 84.1
+    },
+    {
+      "pagina": 13,
+      "metodo": "OCR",
+      "chars": 2020,
+      "conf_ocr": 84.7
+    },
+    {
+      "pagina": 14,
+      "metodo": "OCR",
+      "chars": 1546,
+      "conf_ocr": 81.3
+    },
+    {
+      "pagina": 15,
+      "metodo": "OCR",
+      "chars": 688,
+      "conf_ocr": 61.3
+    }
+  ],
+  "paginas_total": 15,
+  "paginas_ocr": 15,
+  "conf_ocr_media": 80.4,
+  "metodo": "ocr",
+  "tempo_s": 25.97
+}

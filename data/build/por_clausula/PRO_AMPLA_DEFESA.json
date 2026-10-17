@@ -1,0 +1,395 @@
+[
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "PRO_AMPLA_DEFESA",
+    "numero_clausula_original": 21,
+    "titulo_original": "DIREITO À AMPLA DEFESA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "obtencao_documentos": true,
+      "ampla_defesa": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "11"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "PRO_AMPLA_DEFESA",
+    "numero_clausula_original": 21,
+    "titulo_original": "DIREITO À AMPLA DEFESA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "obtencao_documentos": true,
+      "ampla_defesa": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "11"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "PRO_AMPLA_DEFESA",
+    "numero_clausula_original": 21,
+    "titulo_original": "DIREITO À AMPLA DEFESA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "obtencao_documentos": true,
+      "ampla_defesa": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "8"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "PRO_AMPLA_DEFESA",
+    "numero_clausula_original": 21,
+    "titulo_original": "DIREITO À AMPLA DEFESA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "obtencao_documentos": true
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "PRO_AMPLA_DEFESA",
+    "numero_clausula_original": 21,
+    "titulo_original": "DIREITO À AMPLA DEFESA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "obtencao_documentos": true,
+      "ampla_defesa": true,
+      "acompanhamento_sindical": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "10"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "PRO_AMPLA_DEFESA",
+    "numero_clausula_original": 21,
+    "titulo_original": "DIREITO À AMPLA DEFESA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "obtencao_documentos": true,
+      "ampla_defesa": true,
+      "acompanhamento_sindical": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 8
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "PRO_AMPLA_DEFESA",
+    "numero_clausula_original": 21,
+    "titulo_original": "DIREITO À AMPLA DEFESA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "obtencao_documentos": true,
+      "entrega_copias": "diretamente ao empregado ou procurador",
+      "apoio_sindical": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "7"
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "PRO_AMPLA_DEFESA",
+    "numero_clausula_original": 21,
+    "titulo_original": "DIREITO À AMPLA DEFESA",
+    "status": "MANTIDO",
+    "texto": "Empregados em processo de falta grave têm direito a documentos e ampla defesa. A critério do empregado o sindicato poderá acompanhar o processo de apuração.",
+    "observacao": "Idêntica ao DC 2013-2014.",
+    "pagina_referencia": 6
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "PRO_AMPLA_DEFESA",
+    "numero_clausula_original": 21,
+    "titulo_original": "DIREITO À AMPLA DEFESA",
+    "status": "ALTERADO",
+    "texto": "Empregados em processo de falta grave têm direito a documentos e ampla defesa. Acrescido: 'A critério do empregado o sindicato poderá acompanhar o processo de apuração'.",
+    "observacao": "Acrescentada a expressão 'A critério do empregado'.",
+    "pagina_referencia": 61
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "PRO_AMPLA_DEFESA",
+    "numero_clausula_original": 69,
+    "titulo_original": "DIREITO A AMPLA DEFESA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "entrega_copias": true,
+      "apoio_sindical": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "29"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "PRO_AMPLA_DEFESA",
+    "numero_clausula_original": 70,
+    "titulo_original": "DIREITO A AMPLA DEFESA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "obtencao_documentos": true,
+      "contraditorio": true,
+      "ampla_defesa": true,
+      "acompanhamento_sindical": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 38
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "PRO_AMPLA_DEFESA",
+    "numero_clausula_original": 71,
+    "titulo_original": "DIREITO A AMPLA DEFESA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "entrega_copias": true,
+      "apoio_sindical": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "40"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "PRO_AMPLA_DEFESA",
+    "numero_clausula_original": 69,
+    "titulo_original": "DIREITO À AMPLA DEFESA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "obtencao_documentos": true,
+      "entrega_copias": true,
+      "acompanhamento_sindical": true
+    },
+    "pagina_referencia": 91
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "PRO_AMPLA_DEFESA",
+    "numero_clausula_original": 69,
+    "titulo_original": "DIREITO A AMPLA DEFESA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "obtencao_documentos": true,
+      "contraditorio": true,
+      "ampla_defesa": true,
+      "acompanhamento_sindical": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 37
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "PRO_AMPLA_DEFESA",
+    "numero_clausula_original": 69,
+    "titulo_original": "DIREITO A AMPLA DEFESA",
+    "status": "MANTIDO",
+    "texto": "e por sua solicitação serão assegurados a obtenção de documentos e o amplo direito de defesa. As cópias dos documentos deverão ser entregues diretamente ao(a) empregado(a) envolvido ou ao seu/sua procurador(a) legal, quando solicitado formalmente. A critério do(a) empregado(a) o sindicato poderá acompanhar o processo de apuração. 83 --- PAGINA 84 --CLÁUSULA 70",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2020,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "PRO_AMPLA_DEFESA",
+    "numero_clausula_original": 20,
+    "titulo_original": "DIREITO A AMPLA DEFESA",
+    "status": "MANTIDO",
+    "texto": "falta grave e por sua solicitação serão assegurados a obtenção de documentos e o amplo direito de defesa. As cópias dos documentos deverão ser entregues diretamente ao(a) empregado(a) envolvido ou ao seu/sua procurador(a) legal, quando solicitado formalmente. A critério do(a) empregado(a) o sindicato poderá acompanhar o processo de apuração. OPERACIONALIZAÇÃO DA CLÁUSULA É garantindo ao empregado envolvido em processo disciplinar, a partir da sua Citação ou do recebimento da Solicitação de Defesa (SID), todos os meios necessários ao exercício do direito à ampla defesa e ao contraditório, dentre os quais: a. Ter ciência, mediante Citação ou SID, do que lhe está sendo imputado; b. Ter vistas e obter cópia integral dos autos, preferencialmente em mídia; c. Produzir prova oportuna e necessária à sua defesa; d. Ser notificado a manifestar-se sempre que forem juntados aos autos novos elementos de prova contra a sua pessoa; e. Fazer-se assistir, facultativamente, por defensor legalmente constituído. A entrega de cópia integral dos autos do processo disciplinar será feita, obrigatoriamente, no momento da entrega da Citação ou SID. As solicitações de informações referentes a esta cláusula devem ser encaminhadas à Corregedoria dos Correios nos seguintes endereços: Órgão Endereço para consulta CS - CORREGEDORIA Órgãos do CS localizados em Brasília (corregedoria@correios.com.br) Órgãos das SEs e CS localizados em: SE/AM, SE/RR, CS - CORREGEDORIA - CCOR-MG - Caixa Postal SE/AP, SE/PA, SE/ACR, SE/BA, SE/GO, SE/BSB e (corregedoria.MG@correios.com.br) SE/MG. Órgãos das SEs e CS localizados em: SE/RO, SE/MT, CS - CORREGEDORIA - CCOR-SPM - Caixa Postal SE/TO, SE/MS, SE/ES, SE/RJ, SE/SP, SE/SPM, SE/PR, (corregedoria.SPM@correios.com.br) SE/SC e SE/RS. Órgãos das SEs e CS localizados em: SE/MA, SE/PI, CS - CORREGEDORIA - CCOR-PE - Caixa Postal SE/CE, SE/RN, SE/PB, SE/PE, SE/AL e SE/SE. (corregedoria.PE@correios.com.br) 30 --- PAGINA 31 --CLÁUSULA 21 Cláusula 21 – RESPONSABILIDADE CIVIL EM ACIDENTE DE TRANSITO – Os Correios assumirão os custos com a recuperação dos danos de veículos de sua frota, bem como danos causados a terceiros, consequentes de acidentes de trânsito, nos casos em que, após apuração, ficar comprovada a inexistência de dolo por parte do(a) empregado(a), estando o mesmo no exercício de suas funções. §1° As diretrizes sobre o assunto serão estabelecidas e implantadas pelos Correios, por meio de grupo de trabalho constituído por portaria. §2º Os processos admin",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "PRO_AMPLA_DEFESA",
+    "numero_clausula_original": 26,
+    "titulo_original": "DIREITO À AMPLA DEFESA (69ª do DCG 2019/2020)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "redacao": "Aos(Às) empregados(as) arrolados(as) em processo de apuração de falta grave e por sua solicitação serão assegurados a obtenção de documentos e o amplo direito de defesa. As cópias dos documentos deverão ser entregues diretamente ao(a) empregado(a) envolvido ou ao seu/sua procurador(a) legal, quando solicitado formalmente. A critério do(a) empregado(a) o sindicato poderá acompanhar o processo de apuração"
+    },
+    "memoria_negociacao": "Manutenção anuída pelas entidades sindicais",
+    "observacao": null,
+    "pagina_referencia": "66"
+  },
+  {
+    "ano_inicio": 2022,
+    "ano_fim": 2023,
+    "tipo": "ACT",
+    "id_canonico": "PRO_AMPLA_DEFESA",
+    "numero_clausula_original": 27,
+    "titulo_original": "DIREITO À AMPLA DEFESA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "obtencao_documentos": true,
+      "entrega_copias": true,
+      "acompanhamento_sindical": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "PRO_AMPLA_DEFESA",
+    "numero_clausula_original": 69,
+    "titulo_original": "DIREITO À AMPLA DEFESA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "entrega_copias": true,
+      "apoio_sindical": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "14"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "PRO_AMPLA_DEFESA",
+    "numero_clausula_original": 70,
+    "titulo_original": "DIREITO À AMPLA DEFESA",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "obtencao_documentos": true,
+      "contraditorio": true,
+      "ampla_defesa": true,
+      "acompanhamento_sindical": true
+    },
+    "observacao": null,
+    "pagina_referencia": 25
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "PRO_AMPLA_DEFESA",
+    "numero_clausula_original": 60,
+    "titulo_original": "DIREITO AO CONTRADITÓRIO E À AMPLA DEFESA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "obtencao_documentos": true,
+      "contraditorio": true,
+      "ampla_defesa": true,
+      "acompanhamento_sindical": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 25
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "PRO_AMPLA_DEFESA",
+    "numero_clausula_original": 60,
+    "titulo_original": "DIREITO À AMPLA DEFESA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "obtencao_documentos": true,
+      "contraditorio": true,
+      "ampla_defesa": true,
+      "acompanhamento_sindical": true
+    },
+    "pagina_referencia": "72"
+  }
+]

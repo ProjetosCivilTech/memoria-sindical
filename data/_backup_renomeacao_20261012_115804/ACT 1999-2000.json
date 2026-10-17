@@ -1,0 +1,869 @@
+{
+  "metadados_documento": {
+    "tipo": "ACT",
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "processo": "Negociação direta ECT/FENTECT",
+    "tribunal": null,
+    "orgao": null,
+    "relator": null,
+    "data_julgamento": null,
+    "data_publicacao": null,
+    "entidade_patronal": "ECT",
+    "entidades_profissionais": ["FENTECT"],
+    "arquivo_origem": "acordo-coletivo-1999-2000.pdf",
+    "greve": null
+  },
+  "clausulas": [
+    {
+      "id_canonico": "SIN_ACESSO_DEPENDENCIAS",
+      "numero_clausula_original": 1,
+      "titulo_original": "ACESSO ÀS DEPENDÊNCIAS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "dirigentes_por_reuniao": 2,
+        "duracao_maxima_reuniao": 20,
+        "antecedencia_solicitacao": "48 horas",
+        "visitas_CDD": "início da jornada de trabalho dos carteiros",
+        "visitas_agencias": "após as 17h",
+        "negociacao_regional": true
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 1
+    },
+    {
+      "id_canonico": "SOC_LICENCA_ACOMPANHANTE",
+      "numero_clausula_original": 2,
+      "titulo_original": "ACOMPANHANTE",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "dias_ausencia": 2,
+        "publico_alvo": ["filho até 6 anos", "filho excepcional de qualquer idade"],
+        "prazo_atestado": "48 horas"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 2
+    },
+    {
+      "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+      "numero_clausula_original": 3,
+      "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "regra_compensacao": "não acumulação de acréscimos pecuniários sob o mesmo título"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 2
+    },
+    {
+      "id_canonico": "FIN_ADIANTAMENTO_FERIAS",
+      "numero_clausula_original": 4,
+      "titulo_original": "ADIANTAMENTO DE FÉRIAS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "restituicao_parcelada": "somente admitidos até 26/08/87",
+        "parcelas": "até 5 parcelas mensais",
+        "inicio_restituicao": "segundo mês subsequente ao início das férias",
+        "opcao_escrita": "até 45 dias antes",
+        "base_legal": "Decreto-lei 2355/87, determinação do TCU"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 2
+    },
+    {
+      "id_canonico": "FIN_ADICIONAL_NOTURNO",
+      "numero_clausula_original": 5,
+      "titulo_original": "ADICIONAL NOTURNO",
+      "status": "DEFERIDO",
+      "valor_atual": 60,
+      "unidade": "percentual",
+      "detalhes": {
+        "percentual": 60,
+        "horario": "20h às 5h"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 3
+    },
+    {
+      "id_canonico": "FIN_AJUDA_CUSTO",
+      "numero_clausula_original": 6,
+      "titulo_original": "AJUDA DE CUSTO NA TRANSFERÊNCIA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "calculo": "salário-base + anuênio + gratificação de função",
+        "responsabilidade": "ECT"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 3
+    },
+    {
+      "id_canonico": "FIN_ANTECIPACAO_13",
+      "numero_clausula_original": 7,
+      "titulo_original": "ANTECIPAÇÃO DE 50% DA GRATIFICAÇÃO NATALINA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "percentual": 50,
+        "parcelas": "2 (25% abril + 25% junho) ou 1 (50% junho)",
+        "publico_alvo": "admitidos até 30/11/96",
+        "diferenca_paga_ate": "20 de dezembro de 2000"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 3
+    },
+    {
+      "id_canonico": "FIN_ANUENIOS",
+      "numero_clausula_original": 8,
+      "titulo_original": "ANUÊNIOS",
+      "status": "DEFERIDO",
+      "valor_atual": 1,
+      "unidade": "percentual",
+      "detalhes": {
+        "percentual": 1,
+        "base_calculo": "salário-base",
+        "retroacao": "20/03/1969",
+        "quinquenio": "5% a partir de 01/12/96 (Resolução 09 do CCE)"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 3
+    },
+    {
+      "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+      "numero_clausula_original": 9,
+      "titulo_original": "ASSISTÊNCIA MÉDICA / HOSPITALAR E ODONTOLÓGICA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "participacao_empregado": {
+          "RS-01 a RS-16": 10,
+          "RS-17 a RS-32": 15,
+          "RS-33 a RS-65": 20
+        },
+        "teto_compartilhamento": "2x salário-base",
+        "exames_periodicos": "sem ônus",
+        "acidente_trabalho": "atendimento gratuito",
+        "falecimento": "benefício mantido por 3 meses",
+        "extensao_conjuges": true
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 3-4
+    },
+    {
+      "id_canonico": "SOC_ASSISTENCIA_DIRIGENTES",
+      "numero_clausula_original": 10,
+      "titulo_original": "ASSISTÊNCIA PARA DIRIGENTES SINDICAIS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "concessao": "Assistência Médico-Hospitalar e Odontológica a dirigentes sindicais liberados pelo art. 543 da CLT",
+        "limite": "2 dirigentes por Sindicato e 7 para FENTECT",
+        "gradual": {
+          "a_partir_01_01_2000": "1 dirigente por Sindicato e 3 da Federação"
+        },
+        "ressarcimento": "mensal pelos Sindicatos via compensação do repasse das mensalidades"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 4-5
+    },
+    {
+      "id_canonico": "SOC_AUXILIO_DOENCA",
+      "numero_clausula_original": 11,
+      "titulo_original": "AUXÍLIO-DOENÇA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "compromisso": "atuar junto ao INSS para viabilizar convênio de pagamento"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 5
+    },
+    {
+      "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+      "numero_clausula_original": 12,
+      "titulo_original": "AUXÍLIO PARA FILHOS DEPENDENTES DE CUIDADOS ESPECIAIS",
+      "status": "DEFERIDO",
+      "valor_atual": 235.00,
+      "unidade": "BRL",
+      "detalhes": {
+        "valor_mensal": 235.00,
+        "publico_alvo": ["filhos", "enteados", "tutelados"],
+        "reembolso_licenca_medica": true,
+        "analise": "Serviço Social e Serviço Médico da Diretoria Regional"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 5
+    },
+    {
+      "id_canonico": "FIN_VALE_ALIMENTACAO",
+      "numero_clausula_original": 13,
+      "titulo_original": "CESTA BÁSICA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "participacao_empregado": {
+          "Nivel Basico": 10,
+          "Nivel Medio/Tecnico": 20,
+          "Nivel Superior": 30
+        },
+        "regionalizacao": true,
+        "vale_cesta_substituto": {
+          "valor": 40.00,
+          "sem_prejuizo_compartilhamento": true
+        }
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 6
+    },
+    {
+      "id_canonico": "CON_CIPA",
+      "numero_clausula_original": 14,
+      "titulo_original": "CIPA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "base_legal": "legislação específica"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 6
+    },
+    {
+      "id_canonico": "PRO_CONCILIACAO_DIVERGENCIAS",
+      "numero_clausula_original": 15,
+      "titulo_original": "CONCILIAÇÃO DE DIVERGÊNCIAS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "prazo": "15 dias",
+        "procedimento": "comunicação por escrito à ECT antes de recorrer à Justiça do Trabalho"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 6
+    },
+    {
+      "id_canonico": "PRO_CURSOS_REUNIOES",
+      "numero_clausula_original": 16,
+      "titulo_original": "CURSOS E REUNIÕES OBRIGATÓRIOS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "horas_extras": "se fora do horário de serviço",
+        "compensacao": "interesse do empregado",
+        "comunicacao_antecedencia": "48 horas"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 6-7
+    },
+    {
+      "id_canonico": "SIN_DELEGADO_SINDICAL",
+      "numero_clausula_original": 17,
+      "titulo_original": "DELEGADO SINDICAL",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "estabilidade": "não será punido nem demitido sem apuração",
+        "transferencia_sem_perda_mandato": true
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 7
+    },
+    {
+      "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+      "numero_clausula_original": 18,
+      "titulo_original": "DESCONTO ASSISTENCIAL",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "desconto": "conforme aprovado em assembleia geral",
+        "oposicao": "manifestação ao sindicato",
+        "envio_atas": "até 20 dias antes do pagamento",
+        "empregado_nao_sindicalizado": "só com autorização"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 7
+    },
+    {
+      "id_canonico": "SIN_EQUIDADE_RACIAL",
+      "numero_clausula_original": 19,
+      "titulo_original": "DISCRIMINAÇÕES E PRECONCEITOS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "compromisso": "desenvolver ações positivas contra discriminações",
+        "temas": ["origem", "raça", "sexo", "cor", "idade"],
+        "assedio_sexual": true
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 7
+    },
+    {
+      "id_canonico": "CON_DISTRIBUICAO_DOMICILIARIA",
+      "numero_clausula_original": 20,
+      "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "limite_peso_homem": 15,
+        "limite_peso_mulher": 12,
+        "redistritamento": "participação dos carteiros",
+        "preferencia_motorizado": "tempo de serviço"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 8
+    },
+    {
+      "id_canonico": "SOC_EMPREGADO_VIVENDO_HIV",
+      "numero_clausula_original": 21,
+      "titulo_original": "EMPREGADO PORTADOR DO VÍRUS HIV",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "remanejamento_provisorio": true,
+        "vedacao_dispensa": true,
+        "acoes_junto_entidades_publicas": true
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 8
+    },
+    {
+      "id_canonico": "SOC_FORNECIMENTO_CAT",
+      "numero_clausula_original": 22,
+      "titulo_original": "FORNECIMENTO DE CAT/LISA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "envio_copias": "mês imediatamente anterior ao pedido"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 8
+    },
+    {
+      "id_canonico": "SIN_FORNECIMENTO_DOCUMENTOS",
+      "numero_clausula_original": 23,
+      "titulo_original": "FORNECIMENTO DE DOCUMENTOS BÁSICOS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "publico_alvo": "FENTECT",
+        "adaptacao_clausulas": true
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 8
+    },
+    {
+      "id_canonico": "SOC_SAUDE_MULHER",
+      "numero_clausula_original": 24,
+      "titulo_original": "GARANTIAS À MULHER ECETISTA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "transparencia_direitos": true,
+        "mudanca_provisoria_tarefa": true,
+        "banheiro_feminino": true
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 9
+    },
+    {
+      "id_canonico": "SIN_EMPREGADO_ESTUDANTE",
+      "numero_clausula_original": 25,
+      "titulo_original": "GARANTIAS AO EMPREGADO ESTUDANTE",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "nao_alteracao_jornada": true,
+        "estagio_curricular": true,
+        "incentivo_ensino_fundamental_medio": true
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 9
+    },
+    {
+      "id_canonico": "FIN_GRATIFICACAO_FERIAS",
+      "numero_clausula_original": 26,
+      "titulo_original": "GRATIFICAÇÃO DE FÉRIAS",
+      "status": "DEFERIDO",
+      "valor_atual": 70,
+      "unidade": "percentual",
+      "detalhes": {
+        "percentual": 70,
+        "base_calculo": "remuneração vigente",
+        "publico_alvo": "admitidos até 30/11/96"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 9
+    },
+    {
+      "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+      "numero_clausula_original": 27,
+      "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+      "status": "DEFERIDO",
+      "valor_atual": 45.60,
+      "unidade": "BRL",
+      "detalhes": {
+        "valor_unico": 45.60,
+        "publico_alvo": "Agências de Categoria I a V"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 9-10
+    },
+    {
+      "id_canonico": "FIN_HORAS_EXTRAS",
+      "numero_clausula_original": 28,
+      "titulo_original": "HORAS EXTRAS",
+      "status": "DEFERIDO",
+      "valor_atual": 70,
+      "unidade": "percentual",
+      "detalhes": {
+        "percentual": 70,
+        "base_calculo": "salário-base"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 10
+    },
+    {
+      "id_canonico": "FIN_GQP",
+      "numero_clausula_original": 29,
+      "titulo_original": "ÍNDICE INDIVIDUAL DE INCORPORAÇÃO DA GQP",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "extincao_GQP": true,
+        "incorporacao": "valor equivalente a um índice individual de compensação",
+        "calculo": "soma dos valores pagos de GQP de agosto/98 a julho/99 / 12 / salário-base",
+        "piso": 4,
+        "teto": 8.9,
+        "rubrica": "GQP INCOR – ACT/99"
+      },
+      "memoria_negociacao": null,
+      "observacao": "Extinção da GQP com incorporação de índice individual.",
+      "pagina_referencia": 10
+    },
+    {
+      "id_canonico": "TEC_INOVACOES",
+      "numero_clausula_original": 30,
+      "titulo_original": "INOVAÇÕES TECNOLÓGICAS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "realocacao": "reaproveitar empregado afetado"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 10
+    },
+    {
+      "id_canonico": "CON_ITENS_USO_PROTECAO",
+      "numero_clausula_original": 31,
+      "titulo_original": "ITENS DE USO E PROTEÇÃO AO EMPREGADO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "descentralizacao_suprimento": true,
+        "uniformes": "adaptados ao sexo, atividade e clima",
+        "meias_compressao": "recomendação médica",
+        "tenis_amortecedor": true
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 11
+    },
+    {
+      "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+      "numero_clausula_original": 32,
+      "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "quantidade_para_fentect": "até 31/12/1999: 7; de 01/01/2000 a 31/12/2000: 4",
+        "quantidade_por_sindicato": "até 31/12/1999: 2; de 01/01/2000 a 31/12/2000: 1",
+        "apos_2000": "sem ônus para ECT",
+        "solicitacao": "72 horas de antecedência",
+        "nao_aplicavel": "entidades constituídas a partir de 01/08/1999"
+      },
+      "memoria_negociacao": null,
+      "observacao": "Liberação com redução gradual até 31/12/2000.",
+      "pagina_referencia": 11
+    },
+    {
+      "id_canonico": "SOC_LICENCA_ADOCAO",
+      "numero_clausula_original": 33,
+      "titulo_original": "LICENÇA-ADOÇÃO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "dias_licenca": 60,
+        "idade_crianca": "0 a 18 meses"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 12
+    },
+    {
+      "id_canonico": "CON_MULTAS_TRANSITO",
+      "numero_clausula_original": 34,
+      "titulo_original": "MULTAS DE TRÂNSITO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "responsabilidade_provisoria": "ECT arca provisoriamente",
+        "desconto": "se julgado improcedente o recurso",
+        "isencao_reflexos": true
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 12
+    },
+    {
+      "id_canonico": "PRO_NEGOCIACAO_COLETIVA",
+      "numero_clausula_original": 35,
+      "titulo_original": "NEGOCIAÇÃO COLETIVA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "gatilho": "fatos econômicos, sociais ou políticos"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 12
+    },
+    {
+      "id_canonico": "FIN_PAGAMENTO_SALARIO",
+      "numero_clausula_original": 36,
+      "titulo_original": "PAGAMENTO DE SALÁRIOS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "data_pagamento": "último dia útil bancário do mês trabalhado"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 12
+    },
+    {
+      "id_canonico": "FIN_PENALIDADE",
+      "numero_clausula_original": 37,
+      "titulo_original": "PENALIDADE",
+      "status": "DEFERIDO",
+      "valor_atual": 20,
+      "unidade": "percentual",
+      "detalhes": {
+        "percentual": 20,
+        "base_calculo": "dia de serviço do empregado prejudicado"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 12
+    },
+    {
+      "id_canonico": "SOC_PERIODO_AMAMENTACAO",
+      "numero_clausula_original": 38,
+      "titulo_original": "PERÍODO DE AMAMENTAÇÃO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "intervalo_especial": "2 descansos de 30 min ou 1 descanso de 1h",
+        "idade_limite_filho": 1,
+        "prorrogacao": "programa de amamentação"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 13
+    },
+    {
+      "id_canonico": "PRO_PERIODO_FERIAS",
+      "numero_clausula_original": 39,
+      "titulo_original": "PERÍODO DE CONCESSÃO DE FÉRIAS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "inicio_periodo_concessivo": "dias 5 e 15 de cada mês",
+        "programacao": "janeiro a outubro, até 15% do pessoal"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 13
+    },
+    {
+      "id_canonico": "PRO_PROCESSO_LICITATORIO",
+      "numero_clausula_original": 40,
+      "titulo_original": "PROCESSO LICITATÓRIO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "observador_sindical": true,
+        "sigilo_propostas": true
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 13
+    },
+    {
+      "id_canonico": "PRO_PROMOCAO_TEMPO_SERVICO",
+      "numero_clausula_original": 41,
+      "titulo_original": "PROMOÇÃO POR TEMPO DE SERVIÇO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "progressao": "1 referência salarial",
+        "publico_alvo": "29 anos (mulher) / 34 anos (homem)",
+        "efeitos_financeiros": "a partir do requerimento",
+        "excecao": "última referência salarial"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 13-14
+    },
+    {
+      "id_canonico": "PRO_PRORROGACAO_REVISAO",
+      "numero_clausula_original": 42,
+      "titulo_original": "PRORROGAÇÃO, REVISÃO, DENÚNCIA OU REVOGAÇÃO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "base_legal": "Art. 615 da CLT"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 14
+    },
+    {
+      "id_canonico": "SIN_QUADRO_AVISOS",
+      "numero_clausula_original": 43,
+      "titulo_original": "QUADRO DE AVISOS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "instalacao_sindicato": true,
+        "dimensoes": "1,00m x 1,20m",
+        "fundo_verde": true,
+        "chaves_exclusivas": true,
+        "vedacao_manifestacoes_politico_partidarias": true
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 14
+    },
+    {
+      "id_canonico": "SOC_REABILITACAO_PROFISSIONAL",
+      "numero_clausula_original": 44,
+      "titulo_original": "REABILITAÇÃO PROFISSIONAL",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "estagio_na_empresa": true
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 14-15
+    },
+    {
+      "id_canonico": "FIN_REAJUSTE_SALARIAL",
+      "numero_clausula_original": 45,
+      "titulo_original": "REAJUSTE SALARIAL",
+      "status": "DEFERIDO",
+      "valor_atual": 2.00,
+      "unidade": "%",
+      "detalhes": {
+        "indice_aplicado": "2% (linear) a partir de 01/08/1999",
+        "abono": "50% sobre salário-base de julho/1999",
+        "limite_minimo": 400.00,
+        "limite_maximo": 1000.00,
+        "data_base": "1999-08-01"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 15
+    },
+    {
+      "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+      "numero_clausula_original": 46,
+      "titulo_original": "REEMBOLSO-CRECHE",
+      "status": "DEFERIDO",
+      "valor_atual": 142.50,
+      "unidade": "BRL",
+      "detalhes": {
+        "valor_mensal": 142.50,
+        "idade_limite": "até 7 anos",
+        "extensao_pai_solteiro": true,
+        "extensao_viuvo": true
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 15
+    },
+    {
+      "id_canonico": "CON_REGISTRO_ATIVIDADES_GRATIFICADAS",
+      "numero_clausula_original": 47,
+      "titulo_original": "REGISTRO DE ATIVIDADES COMISSIONADAS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "registro_CTPS": true,
+        "atividades": ["Carteiro Motorizado", "Mensageiro Motorizado"]
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 15
+    },
+    {
+      "id_canonico": "CON_REGISTRO_PONTO",
+      "numero_clausula_original": 48,
+      "titulo_original": "REGISTRO DE PONTO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "registro_pelo_empregado": true,
+        "vedacao_interferencia_terceiros": true,
+        "vedacao_RAI": true
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 15
+    },
+    {
+      "id_canonico": "SIN_REPASSE_MENSALIDADES",
+      "numero_clausula_original": 49,
+      "titulo_original": "REPASSE DAS MENSALIDADES DO SINDICATO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "prazo_repasse": "primeiro dia útil após o pagamento mensal",
+        "restabelecimento_afastados": true
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 15-16
+    },
+    {
+      "id_canonico": "SOC_SAUDE_EMPREGADO",
+      "numero_clausula_original": 50,
+      "titulo_original": "SAÚDE DO EMPREGADO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "campanhas_prevencao": true,
+        "estudos_ergonomicos": true,
+        "exames_cancer": ["mama", "uterino", "próstata"],
+        "acompanhamento_psicologico": true
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 16
+    },
+    {
+      "id_canonico": "FIN_TRABALHO_DIA_REPOUSO",
+      "numero_clausula_original": 51,
+      "titulo_original": "TRABALHO EM DIA DE REPOUSO",
+      "status": "DEFERIDO",
+      "valor_atual": 150,
+      "unidade": "percentual",
+      "detalhes": {
+        "percentual": 150,
+        "vale_refeicao": true,
+        "troca_por_folgas": "2 folgas compensatórias"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 16-17
+    },
+    {
+      "id_canonico": "FIN_TRABALHO_FINS_SEMANA",
+      "numero_clausula_original": 52,
+      "titulo_original": "TRABALHO NOS FINS DE SEMANA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "publico": "Área Operacional com jornada de 44 horas",
+        "calculo": "1,5x hora normal, limitado a 15% do salário-base"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 17
+    },
+    {
+      "id_canonico": "PRO_TRANSFERENCIA_PEDIDO",
+      "numero_clausula_original": 53,
+      "titulo_original": "TRANSFERÊNCIAS A PEDIDO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "compromisso": "atender pedidos conciliando com necessidade do serviço"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 17
+    },
+    {
+      "id_canonico": "SOC_TRANSPORTE_NOTURNO",
+      "numero_clausula_original": 54,
+      "titulo_original": "TRANSPORTE NOTURNO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "horario": "0h às 5h",
+        "gratuito": true,
+        "local_dificil_acesso": true
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 17
+    },
+    {
+      "id_canonico": "FIN_VALE_REFEICAO",
+      "numero_clausula_original": 55,
+      "titulo_original": "VALE-REFEIÇÃO/ALIMENTAÇÃO",
+      "status": "DEFERIDO",
+      "valor_atual": 8.50,
+      "unidade": "BRL",
+      "detalhes": {
+        "valor_facial": 8.50,
+        "quantidade": "23 ou 27 vales",
+        "compartilhamento": {
+          "RS-01 a RS-17": 5,
+          "RS-18 a RS-27": 10,
+          "RS-28 a RS-65": 15
+        },
+        "fornecimento_ferias": true,
+        "talonario_reduzivel": true
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 17-18
+    },
+    {
+      "id_canonico": "PRO_VIGENCIA",
+      "numero_clausula_original": 56,
+      "titulo_original": "VIGÊNCIA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "data_inicio": "1999-08-01",
+        "data_fim": "2000-07-31",
+        "duracao_meses": 12
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": 18
+    }
+  ],
+  "temas_nao_mapeados": [],
+  "retorno_ao_trabalho": null,
+  "dispositivo_final": {
+    "data_base": "1999-08-01",
+    "vigencia": "1999-08-01 a 2000-07-31",
+    "data_assinatura": "1999-11-25",
+    "local": "Brasília/DF",
+    "reajuste": "2% sobre tabela salarial",
+    "abono": "50% do salário-base de julho/1999, com mínimo de R$ 400,00 e máximo de R$ 1.000,00",
+    "auxilio_creche": "R$ 142,50",
+    "auxilio_dependentes": "R$ 235,00",
+    "quebra_caixa": "R$ 45,60",
+    "vale_refeicao": "R$ 8,50",
+    "observacoes": "ACT 1999/2000 foi negociado diretamente entre ECT e FENTECT. Vigência de 01/08/1999 a 31/07/2000, contendo 56 cláusulas. Reajuste de 2% + abono de 50%. Extinção da GQP com incorporação de índice individual."
+  },
+  "notas_metodologicas": [
+    {
+      "tipo": "ACT_NEGOCIADO",
+      "tema": "GERAL",
+      "descricao": "ACT 1999/2000 foi negociado diretamente entre ECT e FENTECT. Celebrado em 25/11/1999, com vigência de 01/08/1999 a 31/07/2000, contendo 56 cláusulas."
+    },
+    {
+      "tipo": "VALORES_ACT_1999_2000",
+      "tema": "GERAL",
+      "descricao": "Valores do ACT 1999/2000: Reajuste 2%; Abono 50% (mín. R$ 400,00 / máx. R$ 1.000,00); VA/VR R$ 8,50; Auxílio Dependentes R$ 235,00; Reembolso Creche R$ 142,50; Quebra Caixa R$ 45,60."
+    },
+    {
+      "tipo": "DIFERENCAS_ACT_1998_1999",
+      "tema": "GERAL",
+      "descricao": "Comparado ao ACT 1998/1999, o ACT 1999/2000 tinha: (1) Reajuste de 2% + abono de 50% (contra 2% + abono de 60% em 1998-1999); (2) VA/VR de R$ 8,50 (contra R$ 8,50 em 1998-1999); (3) Auxílio Dependentes R$ 235,00 (contra R$ 235,00 em 1998-1999); (4) Reembolso Creche R$ 142,50 (contra R$ 142,50 em 1998-1999); (5) Quebra Caixa R$ 45,60 (contra R$ 45,60 em 1998-1999); (6) Extinção da GQP com incorporação de índice individual; (7) Liberação de dirigentes com redução gradual até 31/12/2000; (8) Cláusula de assistência médica para dirigentes sindicais."
+    }
+  ]
+}

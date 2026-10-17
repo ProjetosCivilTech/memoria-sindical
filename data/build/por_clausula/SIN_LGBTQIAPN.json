@@ -1,0 +1,67 @@
+[
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SIN_LGBTQIAPN",
+    "numero_clausula_original": 6,
+    "titulo_original": "DOS DIREITOS DAS PESSOAS LGBTQIAPN+",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "campanhas_comunicacao": true,
+      "treinamentos": true,
+      "seminarios_foruns": true,
+      "comissoes_regionais": true,
+      "curso_tema": true,
+      "acolhimento_psicossocial": true
+    },
+    "observacao": null,
+    "pagina_referencia": 3
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SIN_LGBTQIAPN",
+    "numero_clausula_original": 5,
+    "titulo_original": "DOS DIREITOS DAS PESSOAS LGBTQIAPN+",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "campanhas_comunicacao": true,
+      "seminarios_foruns": true,
+      "comissoes_regionais": true,
+      "acolhimento_psicossocial": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 3
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "SIN_LGBTQIAPN",
+    "numero_clausula_original": 5,
+    "titulo_original": "DOS DIREITOS DAS PESSOAS LGBTQIAPN+",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "campanhas_comunicacao": true,
+      "seminarios_foruns": true,
+      "cursos_formacao": true,
+      "comissoes_regionais": true,
+      "curso_tema": true,
+      "acolhimento_psicossocial": true
+    },
+    "pagina_referencia": "19-20"
+  }
+]

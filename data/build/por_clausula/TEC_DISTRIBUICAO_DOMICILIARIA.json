@@ -1,0 +1,26 @@
+[
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "TEC_DISTRIBUICAO_DOMICILIARIA",
+    "numero_clausula_original": 23,
+    "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA",
+    "status": "MANTIDO",
+    "texto": "Peso máximo: 10kg (homem) e 8kg (mulher). Em caso de gravidez, pode ser reduzido. Redimensionamento com participação dos carteiros e dirigente sindical, implantado em 120 dias. Processo seletivo interno para função motorizada prioriza tempo de atuação. ECT estenderá o projeto piloto de entregas matutinas de 3 para 6 unidades em DRs diferentes.",
+    "observacao": "Idêntica ao DC 2013-2014.",
+    "pagina_referencia": 7
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "TEC_DISTRIBUICAO_DOMICILIARIA",
+    "numero_clausula_original": 23,
+    "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA",
+    "status": "ALTERADO",
+    "texto": "Peso máximo: 10kg (homem) e 8kg (mulher). Em caso de gravidez, pode ser reduzido por prescrição médica. Redimensionamento com participação dos carteiros e dirigente sindical, implantado em até 120 dias. Processo seletivo interno para função motorizada prioriza tempo de atuação. ECT estenderá o projeto piloto de entregas matutinas de 3 para 6 unidades em DRs diferentes.",
+    "observacao": "Ampliação do projeto piloto de entregas matutinas.",
+    "pagina_referencia": 61
+  }
+]

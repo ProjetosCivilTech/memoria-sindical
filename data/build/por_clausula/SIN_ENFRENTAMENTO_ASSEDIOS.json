@@ -1,0 +1,386 @@
+[
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ENFRENTAMENTO_ASSEDIOS",
+    "numero_clausula_original": 10,
+    "titulo_original": "ASSÉDIO SEXUAL E MORAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "programas_educativos": true,
+      "eventos_sensibilizacao": true,
+      "canais_denuncia": "área de relações de trabalho",
+      "comissao_apuracao": true,
+      "orientacao_psicologica": true,
+      "orientacao_juridica": true,
+      "acoes_desenvolvimento_gerencial": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "5"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ENFRENTAMENTO_ASSEDIOS",
+    "numero_clausula_original": 10,
+    "titulo_original": "ASSÉDIO SEXUAL E ASSÉDIO MORAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "programas_educativos": true,
+      "eventos_sensibilizacao": true,
+      "canais_denuncia": "área de relações de trabalho",
+      "comissao_apuracao": true,
+      "orientacao_psicologica": true,
+      "orientacao_juridica": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "5"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ENFRENTAMENTO_ASSEDIOS",
+    "numero_clausula_original": 10,
+    "titulo_original": "ASSÉDIO SEXUAL E ASSÉDIO MORAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "programas_educativos": true,
+      "eventos_sensibilizacao": true,
+      "canais_denuncia": "área de relações de trabalho",
+      "comissao_apuracao": true,
+      "orientacao_psicologica": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "4"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ENFRENTAMENTO_ASSEDIOS",
+    "numero_clausula_original": 10,
+    "titulo_original": "ASSÉDIO SEXUAL E ASSÉDIO MORAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "programas_educativos": true,
+      "canais_denuncia": "área de Gestão Relações Sindicais",
+      "orientacao_psicologica": true
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ENFRENTAMENTO_ASSEDIOS",
+    "numero_clausula_original": 10,
+    "titulo_original": "ASSÉDIO SEXUAL E ASSÉDIO MORAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "programas_educativos": true,
+      "eventos_sensibilizacao": true,
+      "canais_denuncia": "área de gestão das relações sindicais e do trabalho",
+      "orientacao_psicologica": true,
+      "grupo_trabalho": true,
+      "apoio_sindical": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ENFRENTAMENTO_ASSEDIOS",
+    "numero_clausula_original": 10,
+    "titulo_original": "ASSÉDIO SEXUAL E ASSÉDIO MORAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "canais_denuncia": "área de gestão das relações sindicais e do trabalho",
+      "orientacao_psicologica": true,
+      "grupo_trabalho": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 5
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ENFRENTAMENTO_ASSEDIOS",
+    "numero_clausula_original": 10,
+    "titulo_original": "ASSÉDIO SEXUAL E ASSÉDIO MORAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "canais_denuncia": "área de gestão das relações sindicais e do trabalho",
+      "orientacao_psicologica": true,
+      "grupo_trabalho": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "4"
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ENFRENTAMENTO_ASSEDIOS",
+    "numero_clausula_original": 3,
+    "titulo_original": "ASSÉDIO SEXUAL E ASSÉDIO MORAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "canais_denuncia": "área de gestão das relações sindicais e do trabalho",
+      "orientacao_psicologica": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "3"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ENFRENTAMENTO_ASSEDIOS",
+    "numero_clausula_original": 3,
+    "titulo_original": "ASSÉDIO SEXUAL E ASSÉDIO MORAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "canais_denuncia": "área de gestão das relações sindicais e do trabalho",
+      "grupo_trabalho": true,
+      "composicao_gt": "7 representantes dos Correios + 7 representantes das Federações",
+      "orientacao_psicologica": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 3
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ENFRENTAMENTO_ASSEDIOS",
+    "numero_clausula_original": 3,
+    "titulo_original": "ASSÉDIO SEXUAL E ASSÉDIO MORAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "grupo_trabalho": "7 + 7",
+      "mesa_tematica": true,
+      "orientacao_psicologica": true
+    },
+    "memoria_negociacao": null,
+    "observacao": "Incluída Mesa Temática paritária.",
+    "pagina_referencia": "3-4"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ENFRENTAMENTO_ASSEDIOS",
+    "numero_clausula_original": 3,
+    "titulo_original": "ASSÉDIO SEXUAL E ASSÉDIO MORAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "programas_educativos": true,
+      "canais_denuncia": "área de gestão das relações sindicais e do trabalho",
+      "apoio_sindical": true,
+      "orientacao_psicologica": true,
+      "grupo_trabalho": "7 Correios + 7 Federações",
+      "mesa_tematica": true
+    },
+    "pagina_referencia": "15-16"
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ENFRENTAMENTO_ASSEDIOS",
+    "numero_clausula_original": 3,
+    "titulo_original": "ASSÉDIO SEXUAL E ASSÉDIO MORAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "canais_denuncia": "área de gestão das relações sindicais e do trabalho",
+      "grupo_trabalho": true,
+      "composicao_gt": "7 representantes dos Correios + 7 representantes das Federações",
+      "orientacao_psicologica": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 2
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "SIN_ENFRENTAMENTO_ASSEDIOS",
+    "numero_clausula_original": 7,
+    "titulo_original": "ASSÉDIO SEXUAL E MORAL (3ª do DCG 2019/2020)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "redacao": "Os Correios prosseguirão no desenvolvimento de programas educativos, visando coibir o assédio sexual e o assédio moral. §1° Continuará promovendo eventos de sensibilização... §2º As denúncias... deverão ser feitas pelo(a) próprio(a) empregado(a), por escrito, à área de gestão das relações sindicais a do trabalho ou canal de denúncias da Ouvidoria... §3º Havendo a comprovação da denúncia... as vítimas... receberão a orientação psicológica (psicossocial) pertinente. §4° Será constituído Grupo de Trabalho paritário, contendo 7 representantes dos Correios e 7 representantes das Federações..."
+    },
+    "memoria_negociacao": "Manutenção anuída pelas entidades sindicais",
+    "observacao": null,
+    "pagina_referencia": "61-62"
+  },
+  {
+    "ano_inicio": 2022,
+    "ano_fim": 2023,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ENFRENTAMENTO_ASSEDIOS",
+    "numero_clausula_original": 7,
+    "titulo_original": "ASSÉDIO SEXUAL E MORAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "programas_educativos": true,
+      "canais_denuncia": "área de gestão das relações sindicais / Ouvidoria",
+      "orientacao_psicologica": true,
+      "grupo_trabalho": "7 Correios + 7 Federações",
+      "mesa_tematica": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "1-2"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ENFRENTAMENTO_ASSEDIOS",
+    "numero_clausula_original": 4,
+    "titulo_original": "ENFRENTAMENTO AOS ASSÉDIOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "canal_denuncia": "Ouvidoria",
+      "grupo_trabalho": "7 + 7",
+      "mesa_tematica": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "1"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ENFRENTAMENTO_ASSEDIOS",
+    "numero_clausula_original": 4,
+    "titulo_original": "ENFRENTAMENTO AOS ASSÉDIOS",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "canais_denuncia": "Ouvidoria",
+      "apoio_sindical": true,
+      "acolhimento_psicossocial": true,
+      "grupo_trabalho": true,
+      "prazo_gt": "30 dias após assinatura do ACT",
+      "composicao_gt": "7 representantes dos Correios + 7 representantes das Federações",
+      "paridade_genero": true,
+      "capacitacao_gestores": true,
+      "link_app_sou_correios": true
+    },
+    "observacao": null,
+    "pagina_referencia": 2
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ENFRENTAMENTO_ASSEDIOS",
+    "numero_clausula_original": 3,
+    "titulo_original": "ENFRENTAMENTO AOS ASSÉDIOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "canais_denuncia": "Ouvidoria",
+      "grupo_trabalho": true,
+      "prazo_gt": "30 dias após assinatura do ACT",
+      "composicao_gt": "7 representantes dos Correios + 7 representantes das Federações",
+      "paridade_genero": true,
+      "capacitacao_gestores": true,
+      "link_app_sou_correios": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 2
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "SIN_ENFRENTAMENTO_ASSEDIOS",
+    "numero_clausula_original": 3,
+    "titulo_original": "ENFRENTAMENTO AOS ASSÉDIOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "canal_denuncia": "Ouvidoria",
+      "apoio_sindical": true,
+      "grupo_trabalho": "7 representantes dos Correios + 7 das Federações",
+      "prazo_gt": "30 dias após publicação",
+      "paridade_genero": true,
+      "capacitacao_gestores": true,
+      "link_app_sou_correios": true,
+      "manuais_atualizados": true
+    },
+    "observacao": "ECT tentou excluir §§ 3º e 7º; TST manteve integralmente",
+    "pagina_referencia": "15-17"
+  }
+]

@@ -1,0 +1,115 @@
+{
+  "arquivo_origem": "ACT-2023-2024.pdf",
+  "metadados_pdf": {
+    "titulo": "SEI/CORREIOS - 43879565 - ACT - Acordo Coletivo de Trabalho",
+    "autor": "89185439",
+    "assunto": null,
+    "criador": null,
+    "produtor": "Microsoft: Print To PDF",
+    "criado_em": "D:20230929092306-03'00'",
+    "modificado_em": "D:20230929092306-03'00'"
+  },
+  "paginas_info": [
+    {
+      "pagina": 1,
+      "metodo": "OCR",
+      "chars": 6079,
+      "conf_ocr": 94.2
+    },
+    {
+      "pagina": 2,
+      "metodo": "OCR",
+      "chars": 7072,
+      "conf_ocr": 94.7
+    },
+    {
+      "pagina": 3,
+      "metodo": "OCR",
+      "chars": 7566,
+      "conf_ocr": 94.5
+    },
+    {
+      "pagina": 4,
+      "metodo": "OCR",
+      "chars": 7204,
+      "conf_ocr": 94.7
+    },
+    {
+      "pagina": 5,
+      "metodo": "OCR",
+      "chars": 7507,
+      "conf_ocr": 94.7
+    },
+    {
+      "pagina": 6,
+      "metodo": "OCR",
+      "chars": 7512,
+      "conf_ocr": 94.5
+    },
+    {
+      "pagina": 7,
+      "metodo": "OCR",
+      "chars": 7110,
+      "conf_ocr": 94.7
+    },
+    {
+      "pagina": 8,
+      "metodo": "OCR",
+      "chars": 7566,
+      "conf_ocr": 94.5
+    },
+    {
+      "pagina": 9,
+      "metodo": "OCR",
+      "chars": 8174,
+      "conf_ocr": 94.7
+    },
+    {
+      "pagina": 10,
+      "metodo": "OCR",
+      "chars": 6937,
+      "conf_ocr": 94.9
+    },
+    {
+      "pagina": 11,
+      "metodo": "OCR",
+      "chars": 7342,
+      "conf_ocr": 94.4
+    },
+    {
+      "pagina": 12,
+      "metodo": "OCR",
+      "chars": 7451,
+      "conf_ocr": 94.9
+    },
+    {
+      "pagina": 13,
+      "metodo": "OCR",
+      "chars": 5768,
+      "conf_ocr": 94.8
+    },
+    {
+      "pagina": 14,
+      "metodo": "OCR",
+      "chars": 6176,
+      "conf_ocr": 93.7
+    },
+    {
+      "pagina": 15,
+      "metodo": "OCR",
+      "chars": 5548,
+      "conf_ocr": 92.1
+    },
+    {
+      "pagina": 16,
+      "metodo": "OCR",
+      "chars": 3096,
+      "conf_ocr": 89.0
+    }
+  ],
+  "paginas_total": 16,
+  "paginas_ocr": 16,
+  "conf_ocr_media": 94.1,
+  "metodo": "ocr",
+  "tempo_s": 71.42
+}

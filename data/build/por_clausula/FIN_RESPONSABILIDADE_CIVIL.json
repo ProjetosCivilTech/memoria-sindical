@@ -1,0 +1,98 @@
+[
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "FIN_RESPONSABILIDADE_CIVIL",
+    "numero_clausula_original": 75,
+    "titulo_original": "RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "ECT assume custos": "sem dolo do empregado",
+      "comissao_paritaria": "3 + 3"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "31-32"
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "FIN_RESPONSABILIDADE_CIVIL",
+    "numero_clausula_original": 77,
+    "titulo_original": "RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "comissao_paritaria": "3 + 3"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "42"
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "FIN_RESPONSABILIDADE_CIVIL",
+    "numero_clausula_original": 27,
+    "titulo_original": "RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO (75ª do DCG 2019/2020)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "redacao": "Os Correios assumirão os custos com a recuperação dos danos de veículos de sua frota, bem como danos causados a terceiros, consequentes de acidentes de trânsito, nos casos em que, após apuração, ficar comprovada a inexistência de dolo por parte do(a) empregado(a), estando o mesmo no exercício de suas funções. §1° As diretrizes sobre o assunto serão estabelecidas e implantadas pelos Correios, por meio de grupo de trabalho constituído por portaria. §2º Os processos administrativos de apuração de responsabilidades não concluídos e sobrestados na Empresa, deverão ser analisados por comissão paritária, composta por 3 integrantes dos Correios e 3"
+    },
+    "memoria_negociacao": "Manutenção anuída pelas entidades sindicais",
+    "observacao": null,
+    "pagina_referencia": "66"
+  },
+  {
+    "ano_inicio": 2022,
+    "ano_fim": 2023,
+    "tipo": "ACT",
+    "id_canonico": "FIN_RESPONSABILIDADE_CIVIL",
+    "numero_clausula_original": 28,
+    "titulo_original": "RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "assume_custos": "sem dolo comprovado",
+      "comissao_paritaria": "3 Correios + 3 Sindicato",
+      "conduta_dolosa": "somente com decisão da comissão",
+      "campanhas_prevencao": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "FIN_RESPONSABILIDADE_CIVIL",
+    "numero_clausula_original": 74,
+    "titulo_original": "RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "comissao_paritaria": "3 + 3"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "15"
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "FIN_RESPONSABILIDADE_CIVIL",
+    "numero_clausula_original": 65,
+    "titulo_original": "RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "responsabilidade_ECT": "custos com recuperação de veículos da frota e danos a terceiros",
+      "excecao": "inexistência de dolo",
+      "comissao_paritaria": "3 Correios + 3 Sindicato",
+      "campanhas_prevencao": true
+    },
+    "observacao": "ECT tentou ampliar hipóteses de isenção (negligência, imprudência, imperícia); TST barrou, mantendo apenas 'dolo'",
+    "pagina_referencia": "75-77"
+  }
+]

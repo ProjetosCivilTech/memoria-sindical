@@ -1,0 +1,19 @@
+[
+  {
+    "ano_inicio": 1993,
+    "ano_fim": 1994,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PRODUTIVIDADE_ANUAL",
+    "numero_clausula_original": 21,
+    "titulo_original": "PRODUTIVIDADE ANUAL",
+    "status": "DEFERIDO",
+    "valor_atual": 3.0,
+    "unidade": "%",
+    "detalhes": {
+      "incorporacao": "3% ao salário a partir de 01/01/1993"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "12"
+  }
+]

@@ -1,0 +1,580 @@
+[
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "CON_DISTRIBUICAO_DOMICILIARIA",
+    "numero_clausula_original": 19,
+    "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "limite_peso_homem": 15,
+      "limite_peso_mulher": 12,
+      "unidade_peso": "kg",
+      "participacao_carteiros_redistritamento": true
+    }
+  },
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "CON_DISTRIBUICAO_DOMICILIARIA",
+    "numero_clausula_original": 20,
+    "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "limite_peso_homem": 15,
+      "limite_peso_mulher": 12,
+      "redistritamento": "participação dos carteiros",
+      "preferencia_motorizado": "tempo de serviço"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "8"
+  },
+  {
+    "ano_inicio": 2000,
+    "ano_fim": 2001,
+    "tipo": "DC",
+    "id_canonico": "CON_DISTRIBUICAO_DOMICILIARIA",
+    "numero_clausula_original": 15,
+    "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "limite_peso_homem": 12,
+      "limite_peso_mulher": 10,
+      "redistritamento": "participação dos carteiros",
+      "preferencia_motorizado": "tempo de serviço"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE como proposta pela ECT",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "Cláusula deferida conforme proposta da ECT. A FENTECT pedia item 'e' sobre transferência para serviço interno após 18 anos de entrega domiciliar, não acolhido.",
+    "pagina_referencia": "5"
+  },
+  {
+    "ano_inicio": 2001,
+    "ano_fim": 2002,
+    "tipo": "ACT",
+    "id_canonico": "CON_DISTRIBUICAO_DOMICILIARIA",
+    "numero_clausula_original": 15,
+    "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "limite_peso_homem": 12,
+      "limite_peso_mulher": 10,
+      "redistritamento": "participação dos carteiros",
+      "processo_seletivo_motorizado": "preferência por tempo de serviço"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "5"
+  },
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "CON_DISTRIBUICAO_DOMICILIARIA",
+    "numero_clausula_original": 23,
+    "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "limite_peso_homem": 10,
+      "limite_peso_mulher": 8,
+      "redistritamento": "participação dos carteiros e dirigente sindical",
+      "processo_seletivo_motorizado": true,
+      "entrega_matutina": "aprimoramento do fluxo operacional",
+      "adaptador_garrafa_agua": "estudo de viabilidade"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "12-13"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "CON_DISTRIBUICAO_DOMICILIARIA",
+    "numero_clausula_original": 23,
+    "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "limite_peso_homem": 12,
+      "limite_peso_mulher": 10,
+      "redistritamento": "participação dos carteiros e dirigente sindical",
+      "processo_seletivo_motorizado": true,
+      "entrega_matutina": "aprimoramento do fluxo operacional"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "11-12"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "CON_DISTRIBUICAO_DOMICILIARIA",
+    "numero_clausula_original": 23,
+    "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "limite_peso_homem": 10,
+      "limite_peso_mulher": 8,
+      "redistritamento": "participação dos carteiros e dirigente sindical",
+      "processo_seletivo_motorizado": true,
+      "entrega_matutina": "aprimoramento do fluxo operacional"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "8"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "CON_DISTRIBUICAO_DOMICILIARIA",
+    "numero_clausula_original": 23,
+    "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "limite_peso_homem": 10,
+      "limite_peso_mulher": 8,
+      "redistritamento": true,
+      "processo_seletivo_motorizado": true,
+      "carteiras_habilitacao": "recursos garantidos",
+      "responsabilizacao_perdas": "processo de apuração",
+      "entrega_matutina": "projeto piloto em 3 unidades"
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "CON_DISTRIBUICAO_DOMICILIARIA",
+    "numero_clausula_original": 23,
+    "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "limite_peso_homem": 10,
+      "limite_peso_mulher": 8,
+      "redistritamento": "participação dos carteiros e dirigente sindical",
+      "processo_seletivo_motorizado": true,
+      "entrega_matutina": "aprimoramento do fluxo operacional"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "10-11"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "CON_DISTRIBUICAO_DOMICILIARIA",
+    "numero_clausula_original": 23,
+    "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "limite_peso_homem": 10,
+      "limite_peso_mulher": 8,
+      "redistritamento": "participação dos carteiros e dirigente sindical",
+      "processo_seletivo_motorizado": true,
+      "entrega_matutina": "aprimoramento do fluxo operacional"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 8
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "CON_DISTRIBUICAO_DOMICILIARIA",
+    "numero_clausula_original": 23,
+    "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "limite_peso_homem": 10,
+      "limite_peso_mulher": 8,
+      "redistritamento": "participação dos carteiros e dirigente sindical"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "8"
+  },
+  {
+    "ano_inicio": 2011,
+    "ano_fim": 2012,
+    "tipo": "DCG",
+    "id_canonico": "CON_DISTRIBUICAO_DOMICILIARIA",
+    "numero_clausula_original": 23,
+    "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "limite_peso_homem": 10,
+      "limite_peso_mulher": 8,
+      "processo_seletivo_motorizado": true,
+      "entrega_matutina": "projeto piloto em 3 unidades"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção com criação de projeto piloto de entrega matutina",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos pela ECT",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 51
+  },
+  {
+    "ano_inicio": 2012,
+    "ano_fim": 2013,
+    "tipo": "DCG",
+    "id_canonico": "CON_DISTRIBUICAO_DOMICILIARIA",
+    "numero_clausula_original": 23,
+    "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA",
+    "status": "DEFERIDO_PARCIALMENTE",
+    "detalhes": {
+      "limite_peso_homem": 10,
+      "limite_peso_mulher": 8,
+      "processo_seletivo_motorizado": true,
+      "entrega_matutina": "projeto piloto em 3 unidades",
+      "GT_entrega_matutina": "excluído no DC 2013"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção com criação de projeto piloto de entrega matutina",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos pela ECT",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "O DC 2012/2013 criou o projeto piloto de entrega matutina em 3 unidades.",
+    "pagina_referencia": 51
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "CON_DISTRIBUICAO_DOMICILIARIA",
+    "numero_clausula_original": 23,
+    "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA",
+    "status": "MANTIDO",
+    "texto": "Peso máximo: 10kg (homem) e 8kg (mulher). Em caso de gravidez, pode ser reduzido. Redimensionamento com participação dos carteiros e dirigente sindical, implantado em 120 dias. Processo seletivo interno para função motorizada prioriza tempo de atuação. ECT estenderá o projeto piloto de entregas matutinas de 3 para 6 unidades em DRs diferentes.",
+    "observacao": "Idêntica ao DC 2013-2014.",
+    "pagina_referencia": 7
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "CON_DISTRIBUICAO_DOMICILIARIA",
+    "numero_clausula_original": 23,
+    "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA",
+    "status": "ALTERADO",
+    "texto": "Peso máximo: 10kg (homem) e 8kg (mulher). Em caso de gravidez, pode ser reduzido por prescrição médica. Redimensionamento com participação dos carteiros e dirigente sindical, implantado em até 120 dias. Processo seletivo interno para função motorizada prioriza tempo de atuação. ECT estenderá o projeto piloto de entregas matutinas de 3 para 6 unidades em DRs diferentes.",
+    "observacao": "Ampliação do projeto piloto de entregas matutinas.",
+    "pagina_referencia": 61
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "CON_DISTRIBUICAO_DOMICILIARIA",
+    "numero_clausula_original": 41,
+    "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "limite_peso_homem": 10,
+      "limite_peso_mulher": 8,
+      "entrega_matutina": {
+        "fase_1": "20% em até 30 dias",
+        "fase_2": "30% em até 8 meses",
+        "fase_3": "restantes em até 60 meses"
+      },
+      "baixa_umidade": "antecipação do horário"
+    },
+    "memoria_negociacao": null,
+    "observacao": "Entrega matutina em 3 fases.",
+    "pagina_referencia": "20-21"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "CON_DISTRIBUICAO_DOMICILIARIA",
+    "numero_clausula_original": 41,
+    "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "limite_peso_homem": 10,
+      "limite_peso_mulher": 8,
+      "processo_seletivo_motorizado": true,
+      "entrega_matutina": "priorização em âmbito nacional",
+      "GT_entrega_matutina": "5 representantes da Empresa + 4 das Federações"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 25
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "CON_DISTRIBUICAO_DOMICILIARIA",
+    "numero_clausula_original": 41,
+    "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "limite_peso_homem": 10,
+      "limite_peso_mulher": 8,
+      "entrega_matutina": {
+        "fase_1": "30% até outubro/2015",
+        "fase_2": "restantes até dezembro/2016"
+      },
+      "baixa_umidade": "antecipação"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "26-27"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "CON_DISTRIBUICAO_DOMICILIARIA",
+    "numero_clausula_original": 41,
+    "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "limite_peso_homem": 10,
+      "limite_peso_mulher": 8,
+      "unidade_peso": "kg",
+      "gravidez": "redução mediante prescrição",
+      "processo_seletivo_motorizado": true,
+      "entrega_matutina": true,
+      "comissao_entrega_matutina": "5 Empresa + 4 Federações",
+      "prazo_cronograma": "90 dias"
+    },
+    "pagina_referencia": "63-66"
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "CON_DISTRIBUICAO_DOMICILIARIA",
+    "numero_clausula_original": 41,
+    "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "limite_peso_homem": 10,
+      "limite_peso_mulher": 8,
+      "processo_seletivo_motorizado": true,
+      "entrega_matutina": "priorização em âmbito nacional",
+      "GT_entrega_matutina": "5 representantes da Empresa + 4 das Federações"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 25
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "CON_DISTRIBUICAO_DOMICILIARIA",
+    "numero_clausula_original": 41,
+    "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA",
+    "status": "MANTIDO",
+    "texto": "os seguintes critérios: §1º O limite de peso transportado pelo(a) carteiro(a), quer na saída das unidades, quer nos Depósitos Auxiliares – DAs, não ultrapassará 10 (dez) kg para homens e 8 (oito) kg para mulheres. §2º Em caso de gravidez, o limite do parágrafo anterior poderá ser reduzido mediante prescrição expressa de médico(a) especialista, homologada pelo Serviço Médico da Empresa. §3º Os Correios comprometem-se a aperfeiçoar os critérios e ampliar a aplicação de processo seletivo interno no preenchimento de vagas de função para o sistema motorizado de entrega domiciliária. O tempo de atuação do(a) carteiro(a) na atividade será o critério de maior peso e de desempate. §4º Depois de realizado o processo seletivo interno e não havendo êxito no preenchimento das funções de Motorizado(a) (M) e Motorizado(a) (V) a Empresa, mediante seleção entre os(as) carteiros interessados e que não possuam as respectivas carteiras de habilitação, garantirá os recursos necessários para a obtenção dessas. §5º A responsabilização por perdas, extravios e danos em objetos postais, malotes e outros será definida mediante aplicação do respectivo processo de apuração. §6º Os Correios continuarão aprimorando o complexo logístico de seu fluxo operacional, visando à otimização dos processos com vistas à antecipação do horário da distribuição domiciliária, sem comprometer a qualidade operacional ou as necessidades dos(as) clientes e zelando pela saúde dos(as) trabalhadores(as). A Empresa priorizará as entregas matutinas em âmbito nacional, nos Centros de Distribuição Domiciliária – CDDs, desde que atendidos os seguintes requisitos: I – Em distritos postais, executados de forma pedestre ou com uso de bicicletas. II – Em CDDs instalados em localidades classificadas, segundo a matriz de prazos para mensagens simples, a partir de B (Nacional) e B (Estadual). III – Quando o horário de chegada da carga qualificada nas unidades seja anterior ao horário de entrada dos carteiros na unidade. IV – Desde que atendidos os pré-requisitos de implantação da LOEC automática, em todos os distritos das unidades; implantação da rotina de Otimização de Atividades Internas relativas à primeira e segunda triagens; e, reequilíbrio dos tempos externos dos Distritos Postais. V – A implantação se dará em duas etapas, conforme abaixo: a) FASE 1 – 30% das unidades elegíveis, conforme os critérios acima estabelecidos, com encerramento previsto para o final do mês de outubro de 2015. b) FASE 2 – Nas demais unidad",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2020,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "CON_DISTRIBUICAO_DOMICILIARIA",
+    "numero_clausula_original": 15,
+    "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA",
+    "status": "MANTIDO",
+    "texto": "acordo com os seguintes critérios: §1° O limite de peso transportado pelo(a) carteiro(a), quer na salda das Unidades, quer nos Depósitos AuxiliaresDAs, não ultrapassará 10(dez) kg para homens e 08 (oito) kg para mulheres. §2º Em caso de gravidez, o limite do parágrafo anterior poderá ser reduzido mediante prescrição expressa de médico(a) especialista, homologada pelo Serviço Médico da Empresa. §3º Os Correios comprometem-se a aperfeiçoar os critérios e ampliar a aplicação de processo seletivo interno no preenchimento de vagas de função para o sistema motorizado de entrega domiciliária. O tempo de atuação do(a) carteiro(a) na atividade será o critério de maior peso e de desempate. §4° Depois de realizado o processo seletivo interno e não havendo êxito no preenchimento das funções de Motorizado(a) (M) e Motorizado(a) (V) a Empresa, mediante seleção entre os(as) carteiros interessados e que não possuam as respectivas carteiras de habilitação, garantirá os recursos necessários para a obtenção dessas. §5° A responsabilização por perdas, extravios e danos em objetos postais, malotes e outros será definida mediante aplicação do respectivo processo de apuração. §6° Os Correios continuarão aprimorando o complexo logístico de seu fluxo operacional, visando à otimização dos processos com vistas à antecipação do horário da distribuição domiciliária, sem comprometer a qualidade operacional ou as necessidades dos(as) clientes e zelando pela saúde dos(das) trabalhadores(as). A Empresa priorizará as entregas matutinas em âmbito nacional, nos Centros de Distribuição Domiciliária – CDD. §7º A Implantação da entrega matutina continuará sendo acompanhada por Comissão formada por 5 (cinco) representantes da Empresa e 4 (quatro) representantes das Federações dos Trabalhadores dos Correios legalmente constituídas. §8º A ampliação da entrega matutina de cartas simples para novas unidades será objeto de estudo pela comissão formada por 5 (cinco) representantes da empresa e 4 (quatro) representantes das Federações dos trabalhadores dos Correios legalmente constituídas, com prazo de 90 (noventa) dias para entrega do cronograma de ampliação das unidades contempladas, garantida uma única saída para entrega desse seguimento. OPERACIONALIZAÇÃO DA CLÁUSULA As solicitações de informações referentes a esta cláusula devem ser encaminhadas ao Departamento de Coleta e Distribuição da Diretoria de Operações – DEDIS/DIOPE - dedis-viope@correios.com.br 25 --- PAGINA 26 --CLÁUSULA 16",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "CON_DISTRIBUICAO_DOMICILIARIA",
+    "numero_clausula_original": 20,
+    "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA (41ª do DCG 2019/2020)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "redacao": "A Distribuição Domiciliária de Correspondência será efetuada de acordo com os seguintes critérios: §1° O limite de peso transportado pelo(a) carteiro(a)... não ultrapassará 10 kg para homens e 08 kg para mulheres. §2º Em caso de gravidez, o limite poderá ser reduzido mediante prescrição médica... §3º Os Correios comprometem-se a aperfeiçoar os critérios e ampliar a aplicação de processo seletivo interno... §4° Depois de realizado o processo seletivo interno e não havendo êxito no preenchimento das funções de Motorizado(a) (M) e Motorizado(a) (V) a Empresa... garantirá os recursos necessários para a obtenção das carteiras de habilitação. §5° A responsabilização por perdas, extravios e danos... será definida mediante aplicação do respectivo processo de apuração. §6° Os Correios continuarão aprimorando o complexo logístico... A Empresa priorizará as entregas matutinas em âmbito nacional, nos Centros de Distribuição Domiciliária – CDD. §7° A Implantação da entrega matutina continuará sendo acompanhada por Comissão formada por 5 representantes da Empresa e 4 representantes das Federações... §8° A ampliação da entrega matutina de cartas simples para novas unidades será objeto de estudo pela comissão... com prazo de 90 dias..."
+    },
+    "memoria_negociacao": "Sindicatos propuseram alteração do §6º e inclusão de §7º; SDC rejeitou por implicar alteração da estrutura organizacional e ônus financeiro",
+    "observacao": "Mantida redação da sentença normativa anterior",
+    "pagina_referencia": "68-74, 107-108"
+  },
+  {
+    "ano_inicio": 2022,
+    "ano_fim": 2023,
+    "tipo": "ACT",
+    "id_canonico": "CON_DISTRIBUICAO_DOMICILIARIA",
+    "numero_clausula_original": 21,
+    "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "limite_peso_homem": 10,
+      "limite_peso_mulher": 8,
+      "unidade_peso": "kg",
+      "gravidez": "redução mediante prescrição",
+      "processo_seletivo_motorizado": true,
+      "carteiras_habilitacao": "recursos garantidos pela Empresa",
+      "responsabilizacao_perdas": "processo de apuração",
+      "entrega_matutina": true,
+      "comissao_entrega_matutina": "5 Empresa + 4 Federações",
+      "prazo_cronograma": "90 dias"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "5"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "CON_DISTRIBUICAO_DOMICILIARIA",
+    "numero_clausula_original": 43,
+    "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "limite_peso_homem": 10,
+      "limite_peso_mulher": 8,
+      "entrega_matutina": "comissão 5+5",
+      "estudo_DDA": "180 dias"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "10"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "CON_DISTRIBUICAO_DOMICILIARIA",
+    "numero_clausula_original": 45,
+    "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "limite_peso_homem": 10,
+      "limite_peso_mulher": 8,
+      "processo_seletivo_motorizado": true,
+      "entrega_matutina": "priorização em âmbito nacional",
+      "comissao_entrega_matutina": "5 + 5 representantes",
+      "GT_ampliacao_entrega_matutina": true,
+      "prazo_gt": "90 dias",
+      "prioridade_unidades": "umidade < 30%, temperatura > 30°"
+    },
+    "observacao": "No DC 2025/2026, os §§ 7º, 8º e 9º (Comissão e GT) foram EXCLUÍDOS pelo TST, a pedido da ECT.",
+    "pagina_referencia": 17
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "CON_DISTRIBUICAO_DOMICILIARIA",
+    "numero_clausula_original": 38,
+    "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "limite_peso_homem": 10,
+      "limite_peso_mulher": 8,
+      "processo_seletivo_motorizado": true,
+      "entrega_matutina": "priorização em âmbito nacional",
+      "GT_entrega_matutina": "EXCLUÍDO"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção com exclusão dos §§ 7º, 8º e 9º",
+      "pedido_fentect": "Manutenção com ampliações",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "Mantida a priorização das entregas matutinas. Excluídos os grupos de trabalho.",
+    "pagina_referencia": 17
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "CON_DISTRIBUICAO_DOMICILIARIA",
+    "numero_clausula_original": 38,
+    "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA",
+    "status": "DEFERIDO_PARCIALMENTE",
+    "detalhes": {
+      "limite_peso_homem": 10,
+      "limite_peso_mulher": 8,
+      "unidade_peso": "kg",
+      "processo_seletivo_motorizado": true,
+      "entrega_matutina": "priorização em âmbito nacional",
+      "exclusao": "§§ 7º, 8º e 9º (grupos de trabalho)"
+    },
+    "observacao": "TST excluiu os grupos de trabalho por serem próprios de acordo entre as partes",
+    "pagina_referencia": "49-51"
+  }
+]

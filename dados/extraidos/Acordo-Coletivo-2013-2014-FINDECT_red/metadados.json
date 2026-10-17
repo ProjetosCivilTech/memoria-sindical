@@ -1,0 +1,127 @@
+{
+  "arquivo_origem": "Acordo-Coletivo-2013-2014-FINDECT_red.pdf",
+  "metadados_pdf": {
+    "titulo": null,
+    "autor": null,
+    "assunto": null,
+    "criador": null,
+    "produtor": "EPSON Scan",
+    "criado_em": "D:20160615171310-03'00'",
+    "modificado_em": "D:20160615171310-03'00'"
+  },
+  "paginas_info": [
+    {
+      "pagina": 1,
+      "metodo": "OCR",
+      "chars": 3019,
+      "conf_ocr": 89.4
+    },
+    {
+      "pagina": 2,
+      "metodo": "OCR",
+      "chars": 3853,
+      "conf_ocr": 94.4
+    },
+    {
+      "pagina": 3,
+      "metodo": "OCR",
+      "chars": 3643,
+      "conf_ocr": 92.9
+    },
+    {
+      "pagina": 4,
+      "metodo": "OCR",
+      "chars": 3907,
+      "conf_ocr": 93.5
+    },
+    {
+      "pagina": 5,
+      "metodo": "OCR",
+      "chars": 3376,
+      "conf_ocr": 93.5
+    },
+    {
+      "pagina": 6,
+      "metodo": "OCR",
+      "chars": 3497,
+      "conf_ocr": 93.7
+    },
+    {
+      "pagina": 7,
+      "metodo": "OCR",
+      "chars": 3747,
+      "conf_ocr": 94.1
+    },
+    {
+      "pagina": 8,
+      "metodo": "OCR",
+      "chars": 3708,
+      "conf_ocr": 92.5
+    },
+    {
+      "pagina": 9,
+      "metodo": "OCR",
+      "chars": 3629,
+      "conf_ocr": 93.2
+    },
+    {
+      "pagina": 10,
+      "metodo": "OCR",
+      "chars": 3885,
+      "conf_ocr": 93.0
+    },
+    {
+      "pagina": 11,
+      "metodo": "OCR",
+      "chars": 3922,
+      "conf_ocr": 92.5
+    },
+    {
+      "pagina": 12,
+      "metodo": "OCR",
+      "chars": 3482,
+      "conf_ocr": 92.4
+    },
+    {
+      "pagina": 13,
+      "metodo": "OCR",
+      "chars": 3832,
+      "conf_ocr": 92.3
+    },
+    {
+      "pagina": 14,
+      "metodo": "OCR",
+      "chars": 3645,
+      "conf_ocr": 92.1
+    },
+    {
+      "pagina": 15,
+      "metodo": "OCR",
+      "chars": 3862,
+      "conf_ocr": 93.3
+    },
+    {
+      "pagina": 16,
+      "metodo": "OCR",
+      "chars": 3733,
+      "conf_ocr": 93.2
+    },
+    {
+      "pagina": 17,
+      "metodo": "OCR",
+      "chars": 3955,
+      "conf_ocr": 93.2
+    },
+    {
+      "pagina": 18,
+      "metodo": "OCR",
+      "chars": 1754,
+      "conf_ocr": 84.9
+    }
+  ],
+  "paginas_total": 18,
+  "paginas_ocr": 18,
+  "conf_ocr_media": 92.5,
+  "metodo": "ocr",
+  "tempo_s": 59.03
+}

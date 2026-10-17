@@ -1,0 +1,67 @@
+{
+  "arquivo_origem": "Acordo-Coletivo-1989.pdf",
+  "metadados_pdf": {
+    "titulo": "Documento2",
+    "autor": null,
+    "assunto": null,
+    "criador": "PDF reDirect v2",
+    "produtor": "EXP Systems LLC (www.exp-systems.com)",
+    "criado_em": "D:20070814170847",
+    "modificado_em": "D:20070814170934+03'00'"
+  },
+  "paginas_info": [
+    {
+      "pagina": 1,
+      "metodo": "OCR",
+      "chars": 1552,
+      "conf_ocr": 62.6
+    },
+    {
+      "pagina": 2,
+      "metodo": "OCR",
+      "chars": 1643,
+      "conf_ocr": 67.4
+    },
+    {
+      "pagina": 3,
+      "metodo": "OCR",
+      "chars": 1731,
+      "conf_ocr": 68.5
+    },
+    {
+      "pagina": 4,
+      "metodo": "OCR",
+      "chars": 1779,
+      "conf_ocr": 72.8
+    },
+    {
+      "pagina": 5,
+      "metodo": "OCR",
+      "chars": 1539,
+      "conf_ocr": 69.0
+    },
+    {
+      "pagina": 6,
+      "metodo": "OCR",
+      "chars": 1724,
+      "conf_ocr": 65.8
+    },
+    {
+      "pagina": 7,
+      "metodo": "OCR",
+      "chars": 1435,
+      "conf_ocr": 86.1
+    },
+    {
+      "pagina": 8,
+      "metodo": "OCR",
+      "chars": 1297,
+      "conf_ocr": 58.1
+    }
+  ],
+  "paginas_total": 8,
+  "paginas_ocr": 8,
+  "conf_ocr_media": 68.8,
+  "metodo": "ocr",
+  "tempo_s": 15.63
+}

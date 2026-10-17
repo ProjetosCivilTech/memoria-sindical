@@ -1,0 +1,91 @@
+{
+  "arquivo_origem": "Acordo-Coletivo-2007-2008_redp1.pdf",
+  "metadados_pdf": {
+    "titulo": "Documento1",
+    "autor": null,
+    "assunto": null,
+    "criador": "PDF reDirect v2",
+    "produtor": "EXP Systems LLC (www.exp-systems.com)",
+    "criado_em": "D:20070924165741Z",
+    "modificado_em": "D:20160616100142-03'00'"
+  },
+  "paginas_info": [
+    {
+      "pagina": 1,
+      "metodo": "OCR",
+      "chars": 2691,
+      "conf_ocr": 93.4
+    },
+    {
+      "pagina": 2,
+      "metodo": "OCR",
+      "chars": 2217,
+      "conf_ocr": 89.1
+    },
+    {
+      "pagina": 3,
+      "metodo": "OCR",
+      "chars": 1742,
+      "conf_ocr": 90.4
+    },
+    {
+      "pagina": 4,
+      "metodo": "OCR",
+      "chars": 2526,
+      "conf_ocr": 93.7
+    },
+    {
+      "pagina": 5,
+      "metodo": "OCR",
+      "chars": 2795,
+      "conf_ocr": 91.8
+    },
+    {
+      "pagina": 6,
+      "metodo": "OCR",
+      "chars": 2473,
+      "conf_ocr": 93.0
+    },
+    {
+      "pagina": 7,
+      "metodo": "OCR",
+      "chars": 2597,
+      "conf_ocr": 89.1
+    },
+    {
+      "pagina": 8,
+      "metodo": "OCR",
+      "chars": 2796,
+      "conf_ocr": 90.7
+    },
+    {
+      "pagina": 9,
+      "metodo": "OCR",
+      "chars": 2577,
+      "conf_ocr": 92.0
+    },
+    {
+      "pagina": 10,
+      "metodo": "OCR",
+      "chars": 1912,
+      "conf_ocr": 90.5
+    },
+    {
+      "pagina": 11,
+      "metodo": "OCR",
+      "chars": 2294,
+      "conf_ocr": 92.6
+    },
+    {
+      "pagina": 12,
+      "metodo": "OCR",
+      "chars": 2476,
+      "conf_ocr": 92.7
+    }
+  ],
+  "paginas_total": 12,
+  "paginas_ocr": 12,
+  "conf_ocr_media": 91.6,
+  "metodo": "ocr",
+  "tempo_s": 35.08
+}

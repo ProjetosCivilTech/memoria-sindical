@@ -1,0 +1,20 @@
+[
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ABONO_INDENIZATORIO",
+    "numero_clausula_original": 63,
+    "titulo_original": "ABONO INDENIZATÓRIO PERU",
+    "status": "DEFERIDO",
+    "valor_atual": 1000.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor": 1000.0,
+      "pagamento": "5 dias úteis"
+    },
+    "memoria_negociacao": null,
+    "observacao": "Referência ao acordo PERU.",
+    "pagina_referencia": "13"
+  }
+]

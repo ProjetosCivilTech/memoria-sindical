@@ -1,0 +1,95 @@
+{
+  "datas_br": {
+    "total": 1,
+    "amostra": [
+      "17/09/93"
+    ]
+  },
+  "datas_ext": {
+    "total": 1,
+    "amostra": [
+      "01 de outubro de 2001"
+    ]
+  },
+  "valores_brl": {
+    "total": 7,
+    "amostra": [
+      "R$800,00",
+      "R$1.000,00",
+      "R$ 170,00",
+      "R$ 9,50",
+      "R$9,00",
+      "R$0,50",
+      "R$7,50"
+    ]
+  },
+  "percentuais": {
+    "total": 10,
+    "amostra": [
+      "20%",
+      "15%",
+      "6 %",
+      "70%",
+      "150%",
+      "150%",
+      "15%",
+      "05%",
+      "10%",
+      "15%"
+    ]
+  },
+  "clausulas": {
+    "total": 22,
+    "amostra": [
+      "26",
+      "83",
+      "27",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "38",
+      "39",
+      "41",
+      "43",
+      "82",
+      "45",
+      "47",
+      "48",
+      "49",
+      "50"
+    ]
+  },
+  "processos_tst": {
+    "total": 0,
+    "amostra": []
+  },
+  "cnpj": {
+    "total": 0,
+    "amostra": []
+  },
+  "artigos": {
+    "total": 1,
+    "amostra": [
+      "art. 615"
+    ]
+  },
+  "incisos": {
+    "total": 4,
+    "amostra": [
+      "X",
+      "III",
+      "X",
+      "LX"
+    ]
+  },
+  "paragrafos": {
+    "total": 0,
+    "amostra": []
+  }
+}

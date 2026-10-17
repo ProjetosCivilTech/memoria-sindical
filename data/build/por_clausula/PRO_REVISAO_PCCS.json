@@ -1,0 +1,89 @@
+[
+  {
+    "ano_inicio": 1988,
+    "ano_fim": 1989,
+    "tipo": "ACT",
+    "id_canonico": "PRO_REVISAO_PCCS",
+    "numero_clausula_original": 25,
+    "titulo_original": "REVISÃO DO PCS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "iniciar estudos em 1989",
+      "participacao_sindicatos": "envio de sugestões",
+      "remessa_PCS": "até 31.03.89"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "7-8"
+  },
+  {
+    "ano_inicio": 1992,
+    "ano_fim": 1992,
+    "tipo": "ACT",
+    "id_canonico": "PRO_REVISAO_PCCS",
+    "numero_clausula_original": 3,
+    "titulo_original": "REVISÃO DO PLANO DE CARGOS E SALÁRIOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "rever o PCCS preservando a relação de janeiro/1992 entre os níveis salariais",
+      "vigencia": "a partir de maio de 1992"
+    },
+    "pagina_referencia": "2"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "PRO_REVISAO_PCCS",
+    "numero_clausula_original": 44,
+    "titulo_original": "PARTICIPAÇÃO DOS EMPREGADOS NAS DISCUSSÕES DO PCCS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "dar continuidade ao processo de revisão do PCCS",
+      "participacao_fentect": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "14"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "PRO_REVISAO_PCCS",
+    "numero_clausula_original": 45,
+    "titulo_original": "PROCESSO DE REVISÃO DO PCCS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "participacao_fentect": true
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "PRO_REVISAO_PCCS",
+    "numero_clausula_original": 45,
+    "titulo_original": "PROCESSO DE REVISÃO DO PCCS - PLANO DE CARREIRAS, CARGOS E SALÁRIOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "dar continuidade ao processo de revisão do PCCS",
+      "participacao_fentect": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "19-20"
+  }
+]

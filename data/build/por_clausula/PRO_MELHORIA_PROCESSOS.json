@@ -1,0 +1,46 @@
+[
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "PRO_MELHORIA_PROCESSOS",
+    "numero_clausula_original": 44,
+    "titulo_original": "PARTICIPAÇÃO DOS EMPREGADOS NA MELHORIA DE PROCESSOS E REVISÃO DE CLÁUSULAS DO ACORDO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "processo": "permanente de negociações",
+      "comissoes": "ECT e FENTECT"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "22"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "PRO_MELHORIA_PROCESSOS",
+    "numero_clausula_original": 44,
+    "titulo_original": "PARTICIPAÇÃO DOS EMPREGADOS NA MELHORIA DE PROCESSOS E REVISÃO DE CLÁUSULAS DO ACORDO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "processo": "permanente de negociações",
+      "comissoes": "ECT e FENTECT"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "22"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "PRO_INCORPORACAO_SENTENCA_NORMATIVA",
+    "numero_clausula_original": 2,
+    "titulo_original": "INCORPORAÇÃO DA SENTENÇA NORMATIVA E CONQUISTAS",
+    "status": "DEFERIDO",
+    "texto": "Cláusulas previstas na sentença normativa (Processo nº TST-DC-8981-76.2012.5.00.0000) até então vigentes, bem como as cláusulas que representam avanços e conquistas acordados durante a presente negociação coletiva (conforme Ata em anexo - reunião de 12/09/2013), passam a integrar o presente ACT.",
+    "detalhes": {
+      "processo_referencia": "TST-DC-8981-76.2012.5.00.0000",
+      "clausulas_incorporadas": "todas as cláusulas da sentença normativa até então vigentes",
+      "conquistas_novas": "cláusulas acordadas na reunião de 12/09/2013 (conforme Ata em anexo)"
+    },
+    "observacao": "Cláusula de incorporação por referência. O texto integral consta do DC 2013-2014.",
+    "pagina_referencia": 1
+  }
+]

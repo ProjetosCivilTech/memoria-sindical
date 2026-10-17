@@ -1,0 +1,66 @@
+[
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "SOC_PREVENCAO_DOENCAS",
+    "numero_clausula_original": 38,
+    "titulo_original": "PREVENÇÃO DE DOENÇAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "cinesioterapia": true,
+      "rodizio_operacional": true,
+      "terapia_comunitaria": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "18"
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "SOC_PREVENCAO_DOENCAS",
+    "numero_clausula_original": 38,
+    "titulo_original": "PREVENÇÃO DE DOENÇAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "cinesioterapia": true,
+      "rodizio_operacional": true,
+      "terapia_comunitaria": "50% das DRs"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "24-25"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "SOC_PREVENCAO_DOENCAS",
+    "numero_clausula_original": 38,
+    "titulo_original": "PREVENÇÃO DE DOENÇAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "cinesioterapia": true,
+      "rodizio_operacional": true,
+      "terapia_comunitaria": "mínimo 50% das Sedes das Diretorias Regionais"
+    },
+    "pagina_referencia": 58
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "SOC_PREVENCAO_DOENCAS",
+    "numero_clausula_original": 38,
+    "titulo_original": "PREVENÇÃO DE DOENÇAS",
+    "status": "INDEFERIDO",
+    "detalhes": {
+      "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+    },
+    "memoria_negociacao": "SDC indeferiu",
+    "observacao": null,
+    "pagina_referencia": "113"
+  }
+]

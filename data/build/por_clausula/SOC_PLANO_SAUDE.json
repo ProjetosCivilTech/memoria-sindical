@@ -1,0 +1,122 @@
+[
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "SOC_PLANO_SAUDE",
+    "numero_clausula_original": 3,
+    "titulo_original": "PLANO DE SAÚDE DOS EMPREGADOS DOS CORREIOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "redacao": "A empresa disponibilizará Benefício de Assistência à Saúde por meio de operadora contratada, de adesão facultativa e mediante cobrança de mensalidade e coparticipação dos beneficiários",
+      "manutencao": "sentença normativa anterior"
+    },
+    "memoria_negociacao": "Sindicatos pleitearam novas regras (patrocínio para aposentados, isenções); SDC indeferiu por ausência de cláusula preexistente e impacto financeiro",
+    "observacao": "Cláusula mantida nos mesmos moldes da sentença normativa passada; análise da Cláusula 28ª (§§1º, 3º, II e 7º) e Cláusula 79ª sobrestada por decisão do STF na SL 1264",
+    "pagina_referencia": "24-25"
+  },
+  {
+    "ano_inicio": 2022,
+    "ano_fim": 2023,
+    "tipo": "ACT",
+    "id_canonico": "SOC_PLANO_SAUDE",
+    "numero_clausula_original": 3,
+    "titulo_original": "PLANO DE SAÚDE DOS EMPREGADOS DOS CORREIOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "modelo": "operadora contratada",
+      "adesao": "facultativa",
+      "cobranca": "mensalidade e coparticipação dos beneficiários"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "1"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "SOC_PLANO_SAUDE",
+    "numero_clausula_original": 60,
+    "titulo_original": "PLANO DE SAÚDE DOS EMPREGADOS DOS CORREIOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "modelo": "operadora contratada",
+      "comissao_permanente": "6 + 6"
+    },
+    "memoria_negociacao": null,
+    "observacao": "Nova cláusula com comissão permanente.",
+    "pagina_referencia": "12-13"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SOC_PLANO_SAUDE",
+    "numero_clausula_original": 63,
+    "titulo_original": "PLANO DE SAÚDE DOS EMPREGADOS DOS CORREIOS",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "modelo": "operadora contratada",
+      "adesao": "facultativa",
+      "cobranca": "mensalidade + coparticipação",
+      "ECT_mantenedora": true,
+      "grupo_trabalho": true,
+      "prazo_gt": "30 dias após assinatura do ACT",
+      "composicao_gt": "6 representantes da ECT + 6 das Federações",
+      "acoes_melhoria": "60 dias"
+    },
+    "observacao": "No DC 2025/2026, a cláusula foi mantida com a ECT como mantenedora. No DC 2026/2027, o STF (SS 5.731) suspendeu a cláusula, e a ECT deixou de ser mantenedora. Uma das maiores perdas da categoria.",
+    "pagina_referencia": 23
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SOC_PLANO_SAUDE",
+    "numero_clausula_original": 54,
+    "titulo_original": "PLANO DE SAÚDE DOS EMPREGADOS DOS CORREIOS",
+    "status": "REDUZIDO",
+    "valor_anterior": "ECT mantenedora",
+    "valor_atual": "Novo modelo sem ECT como mantenedora",
+    "unidade": null,
+    "detalhes": {
+      "modelo": "novo modelo a ser implementado",
+      "subsidio_empresarial": "assegurado",
+      "adesao": "facultativa",
+      "mantencao_correios_saude_II": "até implementação de novo modelo",
+      "base_legal": "SS 5.731 do STF"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Alterar o caput: retirar a expressão 'na condição de mantenedora do plano'",
+      "pedido_fentect": "Manutenção da assistência médica/hospitalar e odontológica diretamente pela empresa",
+      "pedido_findect": "Manutenção da cláusula preexistente",
+      "decisao_tst": "DEFERE nos termos propostos pela ECT",
+      "fundamento_juridico": "SS 5.731 do STF",
+      "votos_divergentes": null
+    },
+    "observacao": "**PERDA HISTÓRICA**. A cláusula foi suspensa pelo STF em 26/01/2026 (SS 5.731). A ECT deixou de ser mantenedora do plano.",
+    "pagina_referencia": 22
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "SOC_PLANO_SAUDE",
+    "numero_clausula_original": 54,
+    "titulo_original": "PLANO DE SAÚDE DOS EMPREGADOS DOS CORREIOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "modelo": "operadora contratada",
+      "ECT_mantenedora": true,
+      "adesao": "facultativa",
+      "comissao_melhorias": "6 Correios + 6 Federações",
+      "prazo_acoes_melhoria": "60 dias"
+    },
+    "observacao": "Mantida cláusula do ACT 2024/2025 com ECT como mantenedora (só no DC 2026/2027 perdeu com base na SS 5.731 do STF)",
+    "pagina_referencia": "64-65"
+  }
+]

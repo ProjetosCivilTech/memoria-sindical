@@ -1,0 +1,85 @@
+{
+  "arquivo_origem": "Acordo-Coletivo-1991-parcial.pdf",
+  "metadados_pdf": {
+    "titulo": "ACORDO PARCIAL--.pdf",
+    "autor": "davidav",
+    "assunto": null,
+    "criador": "PDFCreator Version 0.9.2",
+    "produtor": "AFPL Ghostscript 8.54",
+    "criado_em": "D:20101118113658-02'00'",
+    "modificado_em": "D:20101118113658-02'00'"
+  },
+  "paginas_info": [
+    {
+      "pagina": 1,
+      "metodo": "OCR",
+      "chars": 826,
+      "conf_ocr": 72.0
+    },
+    {
+      "pagina": 2,
+      "metodo": "OCR",
+      "chars": 1429,
+      "conf_ocr": 78.8
+    },
+    {
+      "pagina": 3,
+      "metodo": "OCR",
+      "chars": 1488,
+      "conf_ocr": 79.7
+    },
+    {
+      "pagina": 4,
+      "metodo": "OCR",
+      "chars": 1245,
+      "conf_ocr": 81.3
+    },
+    {
+      "pagina": 5,
+      "metodo": "OCR",
+      "chars": 1392,
+      "conf_ocr": 76.9
+    },
+    {
+      "pagina": 6,
+      "metodo": "OCR",
+      "chars": 1076,
+      "conf_ocr": 75.2
+    },
+    {
+      "pagina": 7,
+      "metodo": "OCR",
+      "chars": 1567,
+      "conf_ocr": 81.5
+    },
+    {
+      "pagina": 8,
+      "metodo": "OCR",
+      "chars": 1491,
+      "conf_ocr": 79.3
+    },
+    {
+      "pagina": 9,
+      "metodo": "OCR",
+      "chars": 1256,
+      "conf_ocr": 77.6
+    },
+    {
+      "pagina": 10,
+      "metodo": "OCR",
+      "chars": 850,
+      "conf_ocr": 77.4
+    },
+    {
+      "pagina": 11,
+      "metodo": "OCR",
+      "chars": 310,
+      "conf_ocr": 42.0
+    }
+  ],
+  "paginas_total": 11,
+  "paginas_ocr": 11,
+  "conf_ocr_media": 74.7,
+  "metodo": "ocr",
+  "tempo_s": 17.73
+}

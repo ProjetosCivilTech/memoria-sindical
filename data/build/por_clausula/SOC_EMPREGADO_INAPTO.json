@@ -1,0 +1,209 @@
+[
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "SOC_EMPREGADO_INAPTO",
+    "numero_clausula_original": 33,
+    "titulo_original": "EMPREGADO INAPTO PARA RETORNO AO TRABALHO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "manutencao_remuneracao": "até 90 dias",
+      "prorrogacao": "até +90 dias",
+      "devolucao": "em até 6 parcelas se INSS deferir"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "15-16"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "SOC_EMPREGADO_INAPTO",
+    "numero_clausula_original": 33,
+    "titulo_original": "EMPREGADO(A) INAPTO(A) PARA RETORNO AO TRABALHO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "retorno_imediato_apos_alta_INSS": true,
+      "manutencao_remuneracao": "90 dias",
+      "devolucao_valores": "6 parcelas",
+      "prorrogacao_prazo": "mais 90 dias"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 19
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "SOC_EMPREGADO_INAPTO",
+    "numero_clausula_original": 33,
+    "titulo_original": "EMPREGADO(A) INAPTO(A) PARA RETORNO AO TRABALHO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "manutencao_remuneracao": "90 dias",
+      "prorrogacao": "+90 dias (Junta Médica)",
+      "devolucao": "6 parcelas se INSS deferir"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "20-21"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "SOC_EMPREGADO_INAPTO",
+    "numero_clausula_original": 33,
+    "titulo_original": "EMPREGADO(A) INAPTO(A) PARA RETORNO AO TRABALHO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "retorno_imediato_apos_alta_INSS": true,
+      "manutencao_remuneracao": "90 dias",
+      "devolucao": "6 parcelas",
+      "prorrogacao": "mais 90 dias",
+      "prazo_analise": "15 dias úteis"
+    },
+    "pagina_referencia": "50-52"
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "SOC_EMPREGADO_INAPTO",
+    "numero_clausula_original": 33,
+    "titulo_original": "EMPREGADO(A) INAPTO(A) PARA RETORNO AO TRABALHO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "retorno_imediato_apos_alta_INSS": true,
+      "manutencao_remuneracao": "90 dias",
+      "devolucao_valores": "6 parcelas",
+      "prorrogacao_prazo": "mais 90 dias"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 19
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "SOC_EMPREGADO_INAPTO",
+    "numero_clausula_original": 33,
+    "titulo_original": "EMPREGADO(A) INAPTO (A) PARA RETORNO AO TRABALHO .......................................................................",
+    "status": "MANTIDO",
+    "texto": "Cláusula 34 – ERGONOMIA NA EMPRESA ......................................................................................................................................... 57 Cláusula 35 – FORNECIMENTO DE CAT/LISA .................................................................................................................................... 58",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "SOC_EMPREGADO_INAPTO",
+    "numero_clausula_original": 33,
+    "titulo_original": "EMPREGADO INAPTO PARA RETORNO AO TRABALHO",
+    "status": "INDEFERIDO",
+    "detalhes": {
+      "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+    },
+    "memoria_negociacao": "SDC indeferiu",
+    "observacao": null,
+    "pagina_referencia": "113"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "SOC_EMPREGADO_INAPTO",
+    "numero_clausula_original": 42,
+    "titulo_original": "EMPREGADO INAPTO PARA RETORNO AO TRABALHO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "manutencao_remuneracao": "90 dias",
+      "prorrogacao": "+90 dias",
+      "devolucao": "8 parcelas"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "9"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SOC_EMPREGADO_INAPTO",
+    "numero_clausula_original": 44,
+    "titulo_original": "EMPREGADO(A) INAPTO(A) PARA RETORNO AO TRABALHO",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "retorno_imediato_apos_alta_INSS": true,
+      "manutencao_remuneracao": "90 dias",
+      "devolucao_valores": "8 parcelas",
+      "vales_alimentacao_90_dias": true,
+      "prorrogacao_prazo": "mais 90 dias"
+    },
+    "observacao": null,
+    "pagina_referencia": 16
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SOC_EMPREGADO_INAPTO",
+    "numero_clausula_original": 37,
+    "titulo_original": "EMPREGADO(A) INAPTO(A) PARA RETORNO AO TRABALHO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "retorno_imediato_apos_alta_INSS": true,
+      "manutencao_remuneracao": "90 dias",
+      "devolucao_valores": "8 parcelas",
+      "prorrogacao_prazo": "mais 90 dias"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com adaptação",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 17
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "SOC_EMPREGADO_INAPTO",
+    "numero_clausula_original": 37,
+    "titulo_original": "EMPREGADO(A) INAPTO(A) PARA RETORNO AO TRABALHO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "retorno_imediato_apos_alta_INSS": true,
+      "manutencao_remuneracao": "90 dias",
+      "devolucao_valores": "8 parcelas",
+      "prorrogacao_prazo": "mais 90 dias",
+      "vale_refeicao_90_dias": true
+    },
+    "pagina_referencia": "48-49"
+  }
+]

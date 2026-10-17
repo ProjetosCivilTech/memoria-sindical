@@ -1,0 +1,61 @@
+{
+  "arquivo_origem": "Acordo-Coletivo-2001-2002_redp2.pdf",
+  "metadados_pdf": {
+    "titulo": "Acordo Coletivo 2001 2002",
+    "autor": null,
+    "assunto": null,
+    "criador": "PDF reDirect v2",
+    "produtor": "EXP Systems LLC (www.exp-systems.com)",
+    "criado_em": "D:20070223095125Z",
+    "modificado_em": "D:20160615174436-03'00'"
+  },
+  "paginas_info": [
+    {
+      "pagina": 1,
+      "metodo": "OCR",
+      "chars": 2315,
+      "conf_ocr": 93.1
+    },
+    {
+      "pagina": 2,
+      "metodo": "OCR",
+      "chars": 1990,
+      "conf_ocr": 92.0
+    },
+    {
+      "pagina": 3,
+      "metodo": "OCR",
+      "chars": 2079,
+      "conf_ocr": 93.7
+    },
+    {
+      "pagina": 4,
+      "metodo": "OCR",
+      "chars": 2242,
+      "conf_ocr": 91.6
+    },
+    {
+      "pagina": 5,
+      "metodo": "OCR",
+      "chars": 2382,
+      "conf_ocr": 92.7
+    },
+    {
+      "pagina": 6,
+      "metodo": "OCR",
+      "chars": 2074,
+      "conf_ocr": 89.2
+    },
+    {
+      "pagina": 7,
+      "metodo": "OCR",
+      "chars": 2020,
+      "conf_ocr": 85.1
+    }
+  ],
+  "paginas_total": 7,
+  "paginas_ocr": 7,
+  "conf_ocr_media": 91.1,
+  "metodo": "ocr",
+  "tempo_s": 19.5
+}

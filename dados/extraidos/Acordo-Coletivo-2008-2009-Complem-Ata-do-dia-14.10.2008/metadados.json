@@ -1,0 +1,25 @@
+{
+  "arquivo_origem": "Acordo-Coletivo-2008-2009-Complem-Ata-do-dia-14.10.2008.pdf",
+  "metadados_pdf": {
+    "titulo": "Documento1",
+    "autor": null,
+    "assunto": null,
+    "criador": "PDF reDirect v2",
+    "produtor": "EXP Systems LLC (www.exp-systems.com)",
+    "criado_em": "D:20081014185544Z",
+    "modificado_em": "D:20090129122051-02'00'"
+  },
+  "paginas_info": [
+    {
+      "pagina": 1,
+      "metodo": "OCR",
+      "chars": 1630,
+      "conf_ocr": 85.6
+    }
+  ],
+  "paginas_total": 1,
+  "paginas_ocr": 1,
+  "conf_ocr_media": 85.6,
+  "metodo": "ocr",
+  "tempo_s": 2.29
+}

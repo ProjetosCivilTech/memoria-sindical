@@ -1,0 +1,45 @@
+[
+  {
+    "ano_inicio": 1988,
+    "ano_fim": 1989,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ADICIONAL_PENOSIDADE",
+    "numero_clausula_original": 16,
+    "titulo_original": "ADICIONAL DE PENOSIDADE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "condicao": "regulamentação do Art. 7º, XXIII, CF"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "5"
+  },
+  {
+    "ano_inicio": 1990,
+    "ano_fim": 1991,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ADICIONAL_PENOSIDADE",
+    "numero_clausula_original": 10,
+    "titulo_original": "ADICIONAL DE PENOSIDADE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "condicao": "regulamentação do Art. 7º, XXIII, CF"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 1991,
+    "ano_fim": 1991,
+    "tipo": "DC",
+    "id_canonico": "FIN_ADICIONAL_PENOSIDADE",
+    "numero_clausula_original": 46,
+    "titulo_original": "ADICIONAL DE PENOSIDADE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "condicao": "regulamentação do art. 79, XXIII, da Constituição Federal"
+    },
+    "pagina_referencia": "6"
+  }
+]

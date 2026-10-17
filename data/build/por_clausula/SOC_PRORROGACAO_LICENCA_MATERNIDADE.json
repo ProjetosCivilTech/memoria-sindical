@@ -1,0 +1,159 @@
+[
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "SOC_PRORROGACAO_LICENCA_MATERNIDADE",
+    "numero_clausula_original": 48,
+    "titulo_original": "PRORROGAÇÃO DA LICENÇA-MATERNIDADE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_prorrogacao": 60,
+      "base_legal": "Lei 11.770/2008",
+      "requerimento": "30 dias antes do término",
+      "aplicacao_adocao": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "14"
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "SOC_PRORROGACAO_LICENCA_MATERNIDADE",
+    "numero_clausula_original": 48,
+    "titulo_original": "PRORROGAÇÃO DA LICENÇA-MATERNIDADE",
+    "status": "MANTIDO",
+    "texto": "Prorrogação de 60 dias (Lei 11.770/2008). Requerimento até 30 dias antes do término da licença de 120 dias. Remuneração integral nos moldes do salário-maternidade. Extensiva à adoção: 60/30/15 dias. Vedado exercer atividade remunerada ou manter criança em creche.",
+    "observacao": "Idêntica ao DC 2013-2014.",
+    "pagina_referencia": 13
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "SOC_PRORROGACAO_LICENCA_MATERNIDADE",
+    "numero_clausula_original": 48,
+    "titulo_original": "PRORROGAÇÃO DA LICENÇA-MATERNIDADE",
+    "status": "MANTIDO",
+    "texto": "Prorrogação de 60 dias (Lei 11.770/2008). Requerimento até 30 dias antes do término da licença de 120 dias. Remuneração integral nos moldes do salário-maternidade. Extensiva à adoção: 60/30/15 dias conforme idade da criança. Vedado exercer atividade remunerada ou manter criança em creche.",
+    "observacao": "Idêntica ao DC 2012-2013.",
+    "pagina_referencia": 95
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "SOC_PRORROGACAO_LICENCA_MATERNIDADE",
+    "numero_clausula_original": 13,
+    "titulo_original": "PRORROGAÇÃO DA LICENÇA MATERNIDADE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_prorrogacao": 60,
+      "base_legal": "Lei 11.770/2008",
+      "requerimento": "30 dias antes do término"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "7"
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "SOC_PRORROGACAO_LICENCA_MATERNIDADE",
+    "numero_clausula_original": 13,
+    "titulo_original": "PRORROGAÇÃO DA LICENÇA MATERNIDADE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_prorrogacao": 60,
+      "base_legal": "Lei 11.770/2008",
+      "requerimento": "30 dias antes"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "9-10"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "SOC_PRORROGACAO_LICENCA_MATERNIDADE",
+    "numero_clausula_original": 13,
+    "titulo_original": "PRORROGAÇÃO DA LICENÇA MATERNIDADE",
+    "status": "DEFERIDO",
+    "valor_atual": 60,
+    "unidade": "dias",
+    "detalhes": {
+      "dias_prorrogacao": 60,
+      "remuneracao_integral": true,
+      "vedacao_atividade_remunerada": true,
+      "vedacao_creche": true,
+      "perda_reembolso_creche_baba": true,
+      "base_legal": "Lei 11.770/2008"
+    },
+    "pagina_referencia": "25-26"
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "SOC_PRORROGACAO_LICENCA_MATERNIDADE",
+    "numero_clausula_original": 13,
+    "titulo_original": "PRORROGAÇÃO DA LICENÇA MATERNIDADE .....................................................................................",
+    "status": "MANTIDO",
+    "texto": "Cláusula 14 – SAÚDE DA MULHER .................................................................................................................................................... 25",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "SOC_PRORROGACAO_LICENCA_MATERNIDADE",
+    "numero_clausula_original": 13,
+    "titulo_original": "PRORROGAÇÃO DA LICENÇA MATERNIDADE",
+    "status": "INDEFERIDO",
+    "detalhes": {
+      "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+    },
+    "memoria_negociacao": "SDC indeferiu",
+    "observacao": null,
+    "pagina_referencia": "113"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "SOC_PRORROGACAO_LICENCA_MATERNIDADE",
+    "numero_clausula_original": 17,
+    "titulo_original": "PRORROGAÇÃO DA LICENÇA MATERNIDADE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias": 60,
+      "requerimento_nao_prorrogacao": "30 dias antes"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "4"
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "SOC_PRORROGACAO_LICENCA_MATERNIDADE",
+    "numero_clausula_original": 13,
+    "titulo_original": "PRORROGAÇÃO DA LICENÇA MATERNIDADE",
+    "status": "DEFERIDO",
+    "valor_atual": 60,
+    "unidade": "dias",
+    "detalhes": {
+      "dias_prorrogacao": 60,
+      "remuneracao_integral": true,
+      "vedacao_atividade_remunerada": true,
+      "perda_reembolso_creche_baba": true,
+      "base_legal": "Lei 11.770/2008"
+    },
+    "pagina_referencia": "30"
+  }
+]

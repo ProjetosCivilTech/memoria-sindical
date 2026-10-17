@@ -1,0 +1,18 @@
+[
+  {
+    "ano_inicio": 1988,
+    "ano_fim": 1989,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SEGURO_ACIDENTE",
+    "numero_clausula_original": 15,
+    "titulo_original": "SEGURO CONTRA ACIDENTES",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "estudos no 1º semestre/1989",
+      "implantacao": "após anuência do CISE"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "5"
+  }
+]

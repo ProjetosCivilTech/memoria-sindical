@@ -1,0 +1,642 @@
+[
+  {
+    "ano_inicio": 1990,
+    "ano_fim": 1991,
+    "tipo": "ACT",
+    "id_canonico": "CON_ITENS_USO_PROTECAO",
+    "numero_clausula_original": 21,
+    "titulo_original": "UNIFORMES",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "revisar sistema de distribuição no 1º semestre/1990"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "8"
+  },
+  {
+    "ano_inicio": 1993,
+    "ano_fim": 1994,
+    "tipo": "ACT",
+    "id_canonico": "CON_ITENS_USO_PROTECAO",
+    "numero_clausula_original": 34,
+    "titulo_original": "UNIFORME",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "estudo_bermuda": "regiões quentes/litorâneas"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "18"
+  },
+  {
+    "ano_inicio": 1994,
+    "ano_fim": 1995,
+    "tipo": "ACT",
+    "id_canonico": "CON_ITENS_USO_PROTECAO",
+    "numero_clausula_original": 44,
+    "titulo_original": "UNIFORME",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "estudo sobre adoção de bermuda como peça alternativa"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "13"
+  },
+  {
+    "ano_inicio": 1995,
+    "ano_fim": 1996,
+    "tipo": "ACT",
+    "id_canonico": "CON_ITENS_USO_PROTECAO",
+    "numero_clausula_original": 28,
+    "titulo_original": "ITENS OPERACIONAIS DE USO E PROTEÇÃO AO EMPREGADO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "descentralizacao_suprimento": true
+    }
+  },
+  {
+    "ano_inicio": 1997,
+    "ano_fim": 1998,
+    "tipo": "ACT",
+    "id_canonico": "CON_ITENS_USO_PROTECAO",
+    "numero_clausula_original": 28,
+    "titulo_original": "ITENS OPERACIONAIS DE USO E PROTEÇÃO AO EMPREGADO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "descentralizacao_suprimento": true
+    }
+  },
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "CON_ITENS_USO_PROTECAO",
+    "numero_clausula_original": 30,
+    "titulo_original": "ITENS DE USO E PROTEÇÃO AO EMPREGADO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "descentralizacao_suprimento": true,
+      "meias_compressao": "recomendação médica",
+      "tenis_amortecedor": true,
+      "estudo_uniformes": true
+    }
+  },
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "CON_ITENS_USO_PROTECAO",
+    "numero_clausula_original": 31,
+    "titulo_original": "ITENS DE USO E PROTEÇÃO AO EMPREGADO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "descentralizacao_suprimento": true,
+      "uniformes": "adaptados ao sexo, atividade e clima",
+      "meias_compressao": "recomendação médica",
+      "tenis_amortecedor": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "11"
+  },
+  {
+    "ano_inicio": 2000,
+    "ano_fim": 2001,
+    "tipo": "DC",
+    "id_canonico": "CON_ITENS_USO_PROTECAO",
+    "numero_clausula_original": 25,
+    "titulo_original": "ITENS DE USO E PROTEÇÃO AO EMPREGADO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "descentralizacao_suprimento": true,
+      "uniformes": "adaptados ao sexo, atividade e clima",
+      "meias_compressao": "recomendação médica",
+      "tenis_amortecedor": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "Cláusula incontroversa.",
+    "pagina_referencia": "7"
+  },
+  {
+    "ano_inicio": 2001,
+    "ano_fim": 2002,
+    "tipo": "ACT",
+    "id_canonico": "CON_ITENS_USO_PROTECAO",
+    "numero_clausula_original": 25,
+    "titulo_original": "ITENS DE USO E PROTEÇÃO AO EMPREGADO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "uniformes": "adequados ao sexo, atividade e clima",
+      "meias_compressao": true,
+      "tenis_amortecedor": true,
+      "EPIs": "conforme legislação"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "7-8"
+  },
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "CON_ITENS_USO_PROTECAO",
+    "numero_clausula_original": 33,
+    "titulo_original": "ITENS DE USO E PROTEÇÃO AO EMPREGADO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "uniformes": "adequados ao sexo, atividade e clima",
+      "meias_compressao": true,
+      "joelheira": true,
+      "cinturao_ergonomico": true,
+      "tenis_amortecedor": true,
+      "EPIs": "conforme NR-06",
+      "protetor_solar": true,
+      "oculos_sol": true,
+      "PPRA": true,
+      "campanhas_exposicao_solar": true,
+      "comissao_bipartite": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "16-18"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "CON_ITENS_USO_PROTECAO",
+    "numero_clausula_original": 33,
+    "titulo_original": "ITENS DE USO E PROTEÇÃO AO EMPREGADO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "uniformes": "adequados ao sexo, atividade e clima",
+      "meias_compressao": true,
+      "joelheira": true,
+      "cinturao_ergonomico": true,
+      "tenis_amortecedor": true,
+      "EPIs": "conforme NR-06",
+      "protetor_solar": true,
+      "oculos_sol": true,
+      "PPRA": true,
+      "campanhas_exposicao_solar": true,
+      "comissao_bipartite": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "14-16"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "CON_ITENS_USO_PROTECAO",
+    "numero_clausula_original": 33,
+    "titulo_original": "ITENS DE USO E PROTEÇÃO AO EMPREGADO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "uniformes": "adequados ao sexo, atividade e clima",
+      "meias_compressao": true,
+      "joelheira": true,
+      "cinturao_ergonomico": true,
+      "tenis_amortecedor": true,
+      "EPIs": "conforme NR-06",
+      "protetor_solar": true,
+      "oculos_sol": true,
+      "PPRA": true,
+      "campanhas_exposicao_solar": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "11-12"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "CON_ITENS_USO_PROTECAO",
+    "numero_clausula_original": 33,
+    "titulo_original": "ITENS DE USO E PROTEÇÃO AO EMPREGADO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "uniformes": "masculino e feminino",
+      "meias_compressao": true,
+      "joelheira": true,
+      "cinturao_ergonomico": true,
+      "tenis_amortecedor": true,
+      "EPIs": "NR-06",
+      "protetor_solar": true,
+      "oculos_sol": true,
+      "PPRA": true
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "CON_ITENS_USO_PROTECAO",
+    "numero_clausula_original": 33,
+    "titulo_original": "ITENS DE USO E PROTEÇÃO AO EMPREGADO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "uniformes": "adequados ao sexo, atividade e clima",
+      "meias_compressao": true,
+      "joelheira": true,
+      "cinturao_ergonomico": true,
+      "tenis_amortecedor": true,
+      "EPIs": "conforme NR-06",
+      "protetor_solar": true,
+      "oculos_sol": true,
+      "PPRA": true,
+      "campanhas_exposicao_solar": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "13"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "CON_ITENS_USO_PROTECAO",
+    "numero_clausula_original": 33,
+    "titulo_original": "ITENS DE USO E PROTEÇÃO AO EMPREGADO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "uniformes": "adequados ao sexo, atividade e clima",
+      "meias_compressao": true,
+      "joelheira": true,
+      "cinturao_ergonomico": true,
+      "tenis_amortecedor": true,
+      "EPIs": "conforme NR-06",
+      "protetor_solar": true,
+      "oculos_sol": true,
+      "PPRA": true,
+      "campanhas_exposicao_solar": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 11
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "CON_ITENS_USO_PROTECAO",
+    "numero_clausula_original": 33,
+    "titulo_original": "ITENS DE USO E PROTEÇÃO AO EMPREGADO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "meias_compressao": true,
+      "joelheira": true,
+      "cinturao_ergonomico": true,
+      "tenis_amortecedor": true,
+      "EPIs": "conforme NR-06",
+      "protetor_solar": true,
+      "oculos_sol": true,
+      "fornecimento_motorizado": "2 peças por item",
+      "mesa_ergonomica_carteiro": "estudos"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "10-11"
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "CON_ITENS_USO_PROTECAO",
+    "numero_clausula_original": 37,
+    "titulo_original": "ITENS DE USO E PROTEÇÃO AO EMPREGADO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "meias_compressao": true,
+      "tenis_amortecedor": true,
+      "botina_OTT": true,
+      "protetor_solar": true,
+      "oculos_sol": true,
+      "motorizado_M": "2 peças por item",
+      "mesa_ergonomica_carteiro": "estudos",
+      "uniformes_gestantes": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "17-18"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "CON_ITENS_USO_PROTECAO",
+    "numero_clausula_original": 36,
+    "titulo_original": "ITENS DE PROTEÇÃO NO CASO DE BAIXA UMIDADE RELATIVA DO AR",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "umidade_baixa": "≤ 20% (média 5 dias) ou ≤ 15% (dia anterior)",
+      "itens": [
+        "squeezes",
+        "soro fisiológico",
+        "protetor labial FPS 30"
+      ],
+      "suplementar": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 20
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "CON_ITENS_USO_PROTECAO",
+    "numero_clausula_original": 37,
+    "titulo_original": "ITENS DE USO E PROTEÇÃO AO(À) EMPREGADO(A)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "uniformes": "modelos masculino e feminino",
+      "calcados": "tênis com amortecedor, botina para OTTs",
+      "EPIs": "conforme NR-06",
+      "protetor_solar": true,
+      "motorizado_M": "luvas, jaquetas de couro, botas, calça de motociclista",
+      "carteiro_ciclista": "luvas e capacetes",
+      "PPRA": true,
+      "uniforme_gestante": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 21
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "CON_ITENS_USO_PROTECAO",
+    "numero_clausula_original": 37,
+    "titulo_original": "ITENS DE USO E PROTEÇÃO AO(À) EMPREGADO(A)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "meias_compressao": true,
+      "botina_OTT": true,
+      "tenis_amortecedor": true,
+      "protetor_solar": true,
+      "motorizado_M": "4 peças de calça",
+      "mesa_ergonomica_carteiro": "estudos",
+      "uniforme_gestante": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "23-24"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "CON_ITENS_USO_PROTECAO",
+    "numero_clausula_original": 37,
+    "titulo_original": "ITENS DE USO E PROTEÇÃO AO(À) EMPREGADO(A)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "uniformes": "modelos masculino e feminino",
+      "calcados": "tênis com amortecedor, botina para OTTs",
+      "EPIs": "conforme NR-06",
+      "protetor_solar": true,
+      "motorizado_M": "luvas, jaquetas de couro, botas, calça de motociclista",
+      "carteiro_ciclista": "luvas e capacetes",
+      "PPRA": true,
+      "uniforme_gestante": true
+    },
+    "pagina_referencia": "54-58"
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "CON_ITENS_USO_PROTECAO",
+    "numero_clausula_original": 36,
+    "titulo_original": "ITENS DE PROTEÇÃO NO CASO DE BAIXA UMIDADE RELATIVA DO AR",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "umidade_baixa": "≤ 20% (média 5 dias) ou ≤ 15% (dia anterior)",
+      "itens": [
+        "squeezes",
+        "soro fisiológico",
+        "protetor labial FPS 30"
+      ],
+      "suplementar": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 20
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "CON_ITENS_USO_PROTECAO",
+    "numero_clausula_original": 37,
+    "titulo_original": "ITENS DE USO E PROTEÇÃO AO(À) EMPREGADO(A)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "uniformes": "modelos masculino e feminino",
+      "calcados": "tênis com amortecedor, botina para OTTs",
+      "EPIs": "conforme NR-06",
+      "protetor_solar": true,
+      "motorizado_M": "luvas, jaquetas de couro, botas, calça de motociclista",
+      "carteiro_ciclista": "luvas e capacetes",
+      "PPRA": true,
+      "uniforme_gestante": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 21
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "CON_ITENS_USO_PROTECAO",
+    "numero_clausula_original": 37,
+    "titulo_original": "ITENS DE USO E PROTEÇÃO AO(À) EMPREGADO (A) ............................................................................",
+    "status": "MANTIDO",
+    "texto": "Cláusula 38 – PREVENÇÃO DE DOENÇAS .......................................................................................................................................... 62 Cláusula 39 – REABILITAÇÃO PROFISSIONAL .................................................................................................................................... 63 2 --- PAGINA 3 --Cláusula 40 – SAÚDE DO(A) EMPREGADO (A) .................................................................................................................................. 64 TÍTULO IV – DAS CONDIÇÕES DE TRABALHO Cláusula 41 – DISTRIBUIÇÃO DOMICILIÁRIA ..................................................................................................................................... 66 Cláusula 42 – FROTA OPERACIONAL ................................................................................................................................................. 68 Cláusula 43 – INOVAÇÕES TECNOLÓGICAS ....................................................................................................................................... 69",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "CON_ITENS_USO_PROTECAO",
+    "numero_clausula_original": 37,
+    "titulo_original": "ITENS DE USO E PROTEÇÃO AO (À) EMPREGADO (A)",
+    "status": "INDEFERIDO",
+    "detalhes": {
+      "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+    },
+    "memoria_negociacao": "SDC indeferiu",
+    "observacao": null,
+    "pagina_referencia": "113"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "CON_ITENS_USO_PROTECAO",
+    "numero_clausula_original": 39,
+    "titulo_original": "ITENS DE USO E PROTEÇÃO AO EMPREGADO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "PGR": true,
+      "motorizado_M": "4 peças de calça",
+      "grupo_trabalho_nacional": true,
+      "WEBSUN": true,
+      "uniforme_gestante": true
+    },
+    "memoria_negociacao": null,
+    "observacao": "PGR substituiu PPRA.",
+    "pagina_referencia": "8-9"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "CON_ITENS_USO_PROTECAO",
+    "numero_clausula_original": 41,
+    "titulo_original": "ITENS DE USO E PROTEÇÃO AO(À) EMPREGADO(A)",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "uniformes": "modelos masculino e feminino",
+      "meias_compressao": true,
+      "calcados": "tênis com amortecedor, botina para OTTs",
+      "EPIs": "conforme NR-06",
+      "protetor_solar": true,
+      "motorizado_M": "luvas, jaquetas de couro, botas, calça de motociclista",
+      "carteiro_ciclista": "luvas e capacetes",
+      "PGR": true,
+      "grupo_trabalho_uniformes": true
+    },
+    "observacao": null,
+    "pagina_referencia": 14
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "CON_ITENS_USO_PROTECAO",
+    "numero_clausula_original": 34,
+    "titulo_original": "ITENS DE USO E PROTEÇÃO AO(À) EMPREGADO(A)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "uniformes": "modelos masculino e feminino",
+      "calcados": "tênis com amortecedor, botina para OTTs",
+      "EPIs": "conforme NR-06",
+      "protetor_solar": "conforme recomendações da área de saúde",
+      "motorizado_M": "luvas, jaquetas de couro, botas, calça de motociclista",
+      "carteiro_ciclista": "luvas e capacetes",
+      "PGR": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção com alteração do §6º",
+      "pedido_fentect": "Manutenção da redação preexistente",
+      "pedido_findect": "Manutenção da redação preexistente",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula sem expressão econômica",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 15
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "CON_ITENS_USO_PROTECAO",
+    "numero_clausula_original": 34,
+    "titulo_original": "ITENS DE USO E PROTEÇÃO AO(À) EMPREGADO(A)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "uniformes": "modelos masculino e feminino",
+      "calcados": "tênis com amortecedor, botina para OTTs",
+      "EPIs": "conforme NR-06",
+      "protetor_solar": true,
+      "motorizado_M": "luvas, jaquetas de couro, botas, calça de motociclista",
+      "carteiro_ciclista": "luvas e capacetes",
+      "PGR": true,
+      "uniforme_gestante": true
+    },
+    "pagina_referencia": "45-46"
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "PRO_REVISAO_PROCESSOS_DISCIPLINARES",
+    "numero_clausula_original": 2,
+    "titulo_original": "GRUPO DE TRABALHO PARA REVISÃO DE PROCESSOS ADMINISTRATIVOS DISCIPLINARES",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "grupo_trabalho": "5 + 5",
+      "prazo": "60 dias",
+      "retroatividade": "2015"
+    },
+    "memoria_negociacao": null,
+    "observacao": "Nova cláusula.",
+    "pagina_referencia": "1"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "PRO_REVISAO_PROCESSOS_DISCIPLINARES",
+    "numero_clausula_original": 2,
+    "titulo_original": "GRUPO DE TRABALHO PARA REVISÃO DE PROCESSOS ADMINISTRATIVOS DISCIPLINARES",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "grupo_trabalho": true,
+      "prazo_gt": "30 dias após assinatura do ACT",
+      "composicao_gt": "5 representantes dos Correios + 5 membros indicados pelas Federações",
+      "publico_alvo": [
+        "dirigentes",
+        "delegados",
+        "ativistas sindicais"
+      ],
+      "retroacao": 2015
+    },
+    "observacao": null,
+    "pagina_referencia": 2
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "PRO_REVISAO_PROCESSOS_DISCIPLINARES",
+    "numero_clausula_original": 69,
+    "titulo_original": "GRUPO DE TRABALHO PARA REVISÃO DE PROCESSOS ADMINISTRATIVOS DISCIPLINARES",
+    "status": "INDEFERIDO",
+    "detalhes": {
+      "grupo_trabalho": true,
+      "publico_alvo": [
+        "dirigentes",
+        "delegados",
+        "ativistas sindicais"
+      ],
+      "retroacao": 2015
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Excluir a cláusula",
+      "pedido_fentect": "Manutenção da cláusula preexistente",
+      "pedido_findect": "Manutenção da cláusula preexistente",
+      "decisao_tst": "INDEFERE a cláusula",
+      "fundamento_juridico": "Art. 114, §2º, CF; ausência de norma preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "**PERDA**. No DC 2025/2026, a cláusula foi mantida. No DC 2026/2027, foi INDEFERIDA.",
+    "pagina_referencia": 28
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "PRO_REVISAO_PROCESSOS_DISCIPLINARES",
+    "numero_clausula_original": 69,
+    "titulo_original": "GRUPO DE TRABALHO PARA REVISÃO DE PROCESSOS ADMINISTRATIVOS DISCIPLINARES",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "grupo_trabalho": "5 Correios + 5 Federações",
+      "prazo_gt": "30 dias após publicação",
+      "publico_alvo": [
+        "dirigentes",
+        "delegados",
+        "ativistas sindicais"
+      ],
+      "retroacao": 2015,
+      "paridade_genero": true
+    },
+    "observacao": "No DC 2026/2027 esta cláusula foi INDEFERIDA",
+    "pagina_referencia": "80-81"
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "arquivo_origem": "Acordo-Coletivo-1990-Suplementar.pdf",
+  "metadados_pdf": {
+    "titulo": null,
+    "autor": null,
+    "assunto": null,
+    "criador": null,
+    "produtor": null,
+    "criado_em": null,
+    "modificado_em": null
+  },
+  "paginas_info": [
+    {
+      "pagina": 1,
+      "metodo": "OCR",
+      "chars": 344,
+      "conf_ocr": 24.8
+    },
+    {
+      "pagina": 2,
+      "metodo": "OCR",
+      "chars": 1494,
+      "conf_ocr": 81.3
+    },
+    {
+      "pagina": 3,
+      "metodo": "OCR",
+      "chars": 1384,
+      "conf_ocr": 85.1
+    },
+    {
+      "pagina": 4,
+      "metodo": "OCR",
+      "chars": 1806,
+      "conf_ocr": 81.6
+    },
+    {
+      "pagina": 5,
+      "metodo": "OCR",
+      "chars": 1534,
+      "conf_ocr": 76.6
+    },
+    {
+      "pagina": 6,
+      "metodo": "OCR",
+      "chars": 1659,
+      "conf_ocr": 82.2
+    },
+    {
+      "pagina": 7,
+      "metodo": "OCR",
+      "chars": 983,
+      "conf_ocr": 72.2
+    }
+  ],
+  "paginas_total": 7,
+  "paginas_ocr": 7,
+  "conf_ocr_media": 72.0,
+  "metodo": "ocr",
+  "tempo_s": 11.82
+}

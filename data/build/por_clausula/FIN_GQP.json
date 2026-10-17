@@ -1,0 +1,22 @@
+[
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "FIN_GQP",
+    "numero_clausula_original": 29,
+    "titulo_original": "ÍNDICE INDIVIDUAL DE INCORPORAÇÃO DA GQP",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "extincao_GQP": true,
+      "incorporacao": "valor equivalente a um índice individual de compensação",
+      "calculo": "soma dos valores pagos de GQP de agosto/98 a julho/99 / 12 / salário-base",
+      "piso": 4,
+      "teto": 8.9,
+      "rubrica": "GQP INCOR – ACT/99"
+    },
+    "memoria_negociacao": null,
+    "observacao": "Extinção da GQP com incorporação de índice individual.",
+    "pagina_referencia": "10"
+  }
+]

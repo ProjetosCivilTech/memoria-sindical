@@ -1,0 +1,26 @@
+[
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "TEC_MULTAS_TRANSITO",
+    "numero_clausula_original": 40,
+    "titulo_original": "MULTAS DE TRÂNSITO",
+    "status": "MANTIDO",
+    "texto": "ECT arca provisoriamente com multas em veículos de sua propriedade em percurso programado. Desconto em folha se sem recurso; ressarcimento parcelado se recurso improcedente. Necessidade imperiosa de estacionamento exime o empregado. Cursos de direção defensiva mantidos.",
+    "observacao": "Idêntica ao DC 2013-2014.",
+    "pagina_referencia": 12
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "TEC_MULTAS_TRANSITO",
+    "numero_clausula_original": 40,
+    "titulo_original": "MULTAS DE TRÂNSITO",
+    "status": "MANTIDO",
+    "texto": "ECT arca provisoriamente com multas em veículos de sua propriedade em percurso programado. Desconto em folha se sem recurso; ressarcimento parcelado se recurso improcedente. Necessidade imperiosa de estacionamento exime o empregado. Cursos de direção defensiva mantidos.",
+    "observacao": "Idêntica ao DC 2012-2013.",
+    "pagina_referencia": 92
+  }
+]

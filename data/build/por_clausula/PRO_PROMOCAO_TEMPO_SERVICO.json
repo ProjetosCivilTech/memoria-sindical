@@ -1,0 +1,99 @@
+[
+  {
+    "ano_inicio": 1988,
+    "ano_fim": 1989,
+    "tipo": "ACT",
+    "id_canonico": "PRO_PROMOCAO_TEMPO_SERVICO",
+    "numero_clausula_original": 10,
+    "titulo_original": "PROMOÇÃO POR MERECIMENTO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "aplicacao": "1989",
+      "alternancia": "com promoção por antiguidade a cada 12 meses, a partir do 2º semestre/1989"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "3"
+  },
+  {
+    "ano_inicio": 1993,
+    "ano_fim": 1994,
+    "tipo": "ACT",
+    "id_canonico": "PRO_PROMOCAO_TEMPO_SERVICO",
+    "numero_clausula_original": 36,
+    "titulo_original": "PROMOÇÃO POR TEMPO DE SERVIÇO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "progressao": "1 referência salarial",
+      "publico_alvo": "29 anos mulher / 34 anos homem",
+      "efeitos": "a partir de 01/01/1993"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "18-19"
+  },
+  {
+    "ano_inicio": 1994,
+    "ano_fim": 1995,
+    "tipo": "ACT",
+    "id_canonico": "PRO_PROMOCAO_TEMPO_SERVICO",
+    "numero_clausula_original": 35,
+    "titulo_original": "PROMOÇÃO POR TEMPO DE SERVIÇO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "progressao": "1 referência salarial",
+      "publico_alvo": "29 anos (mulher) / 34 anos (homem)",
+      "efeitos_financeiros": "a partir do requerimento"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "11"
+  },
+  {
+    "ano_inicio": 1997,
+    "ano_fim": 1998,
+    "tipo": "ACT",
+    "id_canonico": "PRO_PROMOCAO_TEMPO_SERVICO",
+    "numero_clausula_original": 37,
+    "titulo_original": "PROMOÇÃO POR TEMPO DE SERVIÇO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "progressao": "1 referência salarial",
+      "publico_alvo": "29 anos mulher / 34 anos homem",
+      "efeitos": "a partir do requerimento"
+    }
+  },
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "PRO_PROMOCAO_TEMPO_SERVICO",
+    "numero_clausula_original": 40,
+    "titulo_original": "PROMOÇÃO POR TEMPO DE SERVIÇO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "progressao": "1 referência salarial",
+      "29_anos_mulher": true,
+      "34_anos_homem": true,
+      "efeitos_requerimento": true
+    }
+  },
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "PRO_PROMOCAO_TEMPO_SERVICO",
+    "numero_clausula_original": 41,
+    "titulo_original": "PROMOÇÃO POR TEMPO DE SERVIÇO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "progressao": "1 referência salarial",
+      "publico_alvo": "29 anos (mulher) / 34 anos (homem)",
+      "efeitos_financeiros": "a partir do requerimento",
+      "excecao": "última referência salarial"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "13-14"
+  }
+]

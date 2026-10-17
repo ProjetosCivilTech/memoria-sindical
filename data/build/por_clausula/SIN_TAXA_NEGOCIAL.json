@@ -1,0 +1,22 @@
+[
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "SIN_TAXA_NEGOCIAL",
+    "numero_clausula_original": 72,
+    "titulo_original": "TAXA NEGOCIAL",
+    "status": "DEFERIDO",
+    "valor_atual": 2,
+    "unidade": "%",
+    "detalhes": {
+      "percentual": 2,
+      "base_calculo": "remuneração",
+      "mes_desconto": "mês da aplicação do reajuste",
+      "direito_oposicao": "10 dias",
+      "vedacao_ECT": "não pode incentivar oposição",
+      "base_legal": "art. 513, 'e', CLT; Tema 935/STF"
+    },
+    "pagina_referencia": "82-85"
+  }
+]

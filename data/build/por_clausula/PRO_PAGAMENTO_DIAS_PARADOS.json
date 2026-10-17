@@ -1,0 +1,16 @@
+[
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "PRO_PAGAMENTO_DIAS_PARADOS",
+    "numero_clausula_original": 62,
+    "titulo_original": "PAGAMENTO DOS DIAS PARADOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compensacao": "até 31/12/2005",
+      "proporcao_repouso": "1h trabalhada = 3h",
+      "proporcao_demais_dias": "1h trabalhada = 2h"
+    }
+  }
+]

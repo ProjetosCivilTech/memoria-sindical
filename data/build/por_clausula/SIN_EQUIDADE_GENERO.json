@@ -1,0 +1,256 @@
+[
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EQUIDADE_GENERO",
+    "numero_clausula_original": 15,
+    "titulo_original": "PROMOÇÃO DA EQUIDADE DE GÊNERO E ENFRENTAMENTO AO SEXISMO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "principios_empoderamento": true,
+      "programas_lideranca": true,
+      "grupo_trabalho": true,
+      "composicao_gt": "7 representantes dos Correios + 7 representantes das Federações",
+      "mesa_tematica": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 10
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EQUIDADE_GENERO",
+    "numero_clausula_original": 15,
+    "titulo_original": "PROMOÇÃO DA EQUIDADE DE GÊNERO E ENFRENTAMENTO AO SEXISMO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "plano_acao_genero": true,
+      "recorte_genero_lideranca": true,
+      "grupo_trabalho": "7 + 7"
+    },
+    "memoria_negociacao": null,
+    "observacao": "Nova cláusula.",
+    "pagina_referencia": "10-11"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EQUIDADE_GENERO",
+    "numero_clausula_original": 15,
+    "titulo_original": "PROMOÇÃO DA EQUIDADE DE GÊNERO E ENFRENTAMENTO AO SEXISMO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "principios_empoderamento": true,
+      "programas_lideranca": true,
+      "sensibilizacao_homens": true,
+      "grupo_trabalho": "7 Correios + 7 Federações",
+      "mesa_tematica": true,
+      "eliminacao_homofobia": true
+    },
+    "pagina_referencia": "27-28"
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EQUIDADE_GENERO",
+    "numero_clausula_original": 15,
+    "titulo_original": "PROMOÇÃO DA EQUIDADE DE GÊNERO E ENFRENTAMENTO AO SEXISMO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "principios_empoderamento": true,
+      "programas_lideranca": true,
+      "grupo_trabalho": true,
+      "composicao_gt": "7 representantes dos Correios + 7 representantes das Federações",
+      "mesa_tematica": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 8
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "SIN_EQUIDADE_GENERO",
+    "numero_clausula_original": 15,
+    "titulo_original": "PROMOÇÃO DA EQUIDADE DE GÊNERO E ENFRENTAMENTO AO SEXISMO ..............................................................",
+    "status": "MANTIDO",
+    "texto": "TÍTULO II – DAS RELAÇÕES SINDICAIS Cláusula 16 – ACESSO ÀS DEPENDÊNCIAS ........................................................................................................................................ 27 Cláusula 17 – DESCONTO ASSISTENCIAL ........................................................................................................................................... 29 Cláusula 18 – FORNECIMENTO DE DOCUMENTOS ........................................................................................................................... 34",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "SIN_EQUIDADE_GENERO",
+    "numero_clausula_original": 15,
+    "titulo_original": "PROMOÇÃO DA EQUIDADE DE GÊNERO E ENFRENTAMENTO AO SEXISMO",
+    "status": "INDEFERIDO",
+    "detalhes": {
+      "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+    },
+    "memoria_negociacao": "SDC indeferiu",
+    "observacao": null,
+    "pagina_referencia": "113"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EQUIDADE_GENERO",
+    "numero_clausula_original": 21,
+    "titulo_original": "PROMOÇÃO DA EQUIDADE DE GÊNERO E ENFRENTAMENTO AO SEXISMO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "plano_acao_genero": true,
+      "grupo_trabalho": "7 + 7",
+      "reserva_vagas_bolsas": "Mulheres"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "4-5"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EQUIDADE_GENERO",
+    "numero_clausula_original": 21,
+    "titulo_original": "PROMOÇÃO DA EQUIDADE DE GÊNERO E ENFRENTAMENTO AO SEXISMO",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "principios_empoderamento": true,
+      "programas_lideranca": true,
+      "grupo_trabalho": true,
+      "prazo_gt": "30 dias após assinatura do ACT",
+      "composicao_gt": "7 representantes dos Correios + 7 representantes das Federações",
+      "cotas_capacitacao": {
+        "mulheres": 40,
+        "negros": 30,
+        "operacionais": 20
+      }
+    },
+    "observacao": null,
+    "pagina_referencia": 8
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EQUIDADE_GENERO",
+    "numero_clausula_original": 22,
+    "titulo_original": "INCENTIVO E PARTICIPAÇÃO DAS MULHERES NA LIDERANÇA DA EMPRESA",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "percentual_mulheres_gestao": 40,
+      "percentual_negros_gestao": 30,
+      "percentual_vagas_ri_mulheres": 30,
+      "percentual_bolsas_mulheres": 30
+    },
+    "observacao": null,
+    "pagina_referencia": 9
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EQUIDADE_GENERO",
+    "numero_clausula_original": 18,
+    "titulo_original": "PROMOÇÃO DA EQUIDADE DE GÊNERO E ENFRENTAMENTO AO SEXISMO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "principios_empoderamento": true,
+      "programas_lideranca": true,
+      "grupo_trabalho": true,
+      "prazo_gt": "30 dias após assinatura do ACT",
+      "composicao_gt": "7 representantes dos Correios + 7 representantes das Federações",
+      "cotas_capacitacao": {
+        "mulheres": 40,
+        "negros": 30,
+        "operacionais": 20
+      }
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 9
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EQUIDADE_GENERO",
+    "numero_clausula_original": 19,
+    "titulo_original": "INCENTIVO E PARTICIPAÇÃO DAS MULHERES NA LIDERANÇA DA EMPRESA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "percentual_mulheres_gestao": 40,
+      "percentual_negros_gestao": 30,
+      "percentual_vagas_ri_mulheres": 30,
+      "percentual_bolsas_mulheres": 30
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 9
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "SIN_EQUIDADE_GENERO",
+    "numero_clausula_original": 18,
+    "titulo_original": "PROMOÇÃO DA EQUIDADE DE GÊNERO E ENFRENTAMENTO AO SEXISMO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "principios_empoderamento": true,
+      "programas_lideranca": true,
+      "grupo_trabalho": "7 Correios + 7 Federações",
+      "prazo_gt": "30 dias após publicação",
+      "cotas_capacitacao": {
+        "mulheres": 40,
+        "negros": 30,
+        "operacionais": 20
+      },
+      "link_app_sou_correios_120_dias": true
+    },
+    "pagina_referencia": "33-34"
+  }
+]

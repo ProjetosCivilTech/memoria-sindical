@@ -1,0 +1,502 @@
+[
+  {
+    "ano_inicio": 1994,
+    "ano_fim": 1995,
+    "tipo": "ACT",
+    "id_canonico": "SIN_FORNECIMENTO_DOCUMENTOS",
+    "numero_clausula_original": 19,
+    "titulo_original": "DOCUMENTOS BÁSICOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo_fornecimento": "quando solicitado",
+      "publico_alvo": "FENTECT"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "7"
+  },
+  {
+    "ano_inicio": 1995,
+    "ano_fim": 1996,
+    "tipo": "ACT",
+    "id_canonico": "SIN_FORNECIMENTO_DOCUMENTOS",
+    "numero_clausula_original": 21,
+    "titulo_original": "FORNECIMENTO DE DOCUMENTOS BÁSICOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "publico_alvo": "FENTECT",
+      "adaptacao_clausulas": true
+    }
+  },
+  {
+    "ano_inicio": 1997,
+    "ano_fim": 1998,
+    "tipo": "ACT",
+    "id_canonico": "SIN_FORNECIMENTO_DOCUMENTOS",
+    "numero_clausula_original": 21,
+    "titulo_original": "FORNECIMENTO DE DOCUMENTOS BÁSICOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "publico_alvo": "FENTECT"
+    }
+  },
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "SIN_FORNECIMENTO_DOCUMENTOS",
+    "numero_clausula_original": 22,
+    "titulo_original": "FORNECIMENTO DE DOCUMENTOS BÁSICOS",
+    "status": "DEFERIDO"
+  },
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "SIN_FORNECIMENTO_DOCUMENTOS",
+    "numero_clausula_original": 23,
+    "titulo_original": "FORNECIMENTO DE DOCUMENTOS BÁSICOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "publico_alvo": "FENTECT",
+      "adaptacao_clausulas": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "8"
+  },
+  {
+    "ano_inicio": 2000,
+    "ano_fim": 2001,
+    "tipo": "DC",
+    "id_canonico": "SIN_FORNECIMENTO_DOCUMENTOS",
+    "numero_clausula_original": 18,
+    "titulo_original": "FORNECIMENTO DE DOCUMENTOS BÁSICOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo_fornecimento": "quando solicitado",
+      "publico_alvo": "FENTECT e Sindicatos filiados",
+      "adaptacao_clausulas": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "Cláusula incontroversa.",
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 2001,
+    "ano_fim": 2002,
+    "tipo": "ACT",
+    "id_canonico": "SIN_FORNECIMENTO_DOCUMENTOS",
+    "numero_clausula_original": 18,
+    "titulo_original": "FORNECIMENTO DE DOCUMENTOS BÁSICOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo_fornecimento": "5 dias",
+      "publico_alvo": "FENTECT e Sindicatos filiados"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "SIN_FORNECIMENTO_DOCUMENTOS",
+    "numero_clausula_original": 26,
+    "titulo_original": "FORNECIMENTO DE DOCUMENTOS BÁSICOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo_fornecimento": "5 dias",
+      "publico_alvo": "FENTECT e Sindicatos"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "14"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "SIN_FORNECIMENTO_DOCUMENTOS",
+    "numero_clausula_original": 26,
+    "titulo_original": "FORNECIMENTO DE DOCUMENTOS BÁSICOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo_fornecimento": "5 dias",
+      "publico_alvo": "FENTECT e Sindicatos"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "12"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "SIN_FORNECIMENTO_DOCUMENTOS",
+    "numero_clausula_original": 26,
+    "titulo_original": "FORNECIMENTO DE DOCUMENTOS BÁSICOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo_fornecimento": "5 dias",
+      "publico_alvo": "FENTECT e Sindicatos"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "9"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "SIN_FORNECIMENTO_DOCUMENTOS",
+    "numero_clausula_original": 26,
+    "titulo_original": "FORNECIMENTO DE DOCUMENTOS BÁSICOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo": "5 dias"
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "SIN_FORNECIMENTO_DOCUMENTOS",
+    "numero_clausula_original": 26,
+    "titulo_original": "FORNECIMENTO DE MANUAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo_fornecimento": "5 dias",
+      "publico_alvo": "FENTECT e Sindicatos"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção do texto do ACT 2005/2006",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "11"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "SIN_FORNECIMENTO_DOCUMENTOS",
+    "numero_clausula_original": 26,
+    "titulo_original": "FORNECIMENTO DE MANUAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo_fornecimento": "5 dias",
+      "publico_alvo": "FENTECT e Sindicatos"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 9
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "SIN_FORNECIMENTO_DOCUMENTOS",
+    "numero_clausula_original": 26,
+    "titulo_original": "FORNECIMENTO DE MANUAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo_fornecimento": "5 dias",
+      "publico_alvo": "FENTECT e Sindicatos"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "9"
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "SIN_FORNECIMENTO_DOCUMENTOS",
+    "numero_clausula_original": 18,
+    "titulo_original": "FORNECIMENTO DE DOCUMENTOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo": "5 dias",
+      "manual_estrategico": "termo de confidencialidade",
+      "relacao_empregados": "intervalo mínimo de 1 mês"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "9-10"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "SIN_FORNECIMENTO_DOCUMENTOS",
+    "numero_clausula_original": 18,
+    "titulo_original": "FORNECIMENTO DE DOCUMENTOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo_fornecimento": "5 dias",
+      "respeito_lai_lgpd": true,
+      "envio_informativos": [
+        "Primeira Hora"
+      ],
+      "relacao_empregados": "nome, matrícula, cargo/atividade, lotação, status",
+      "termo_confidencialidade": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 12
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "SIN_FORNECIMENTO_DOCUMENTOS",
+    "numero_clausula_original": 18,
+    "titulo_original": "FORNECIMENTO DE DOCUMENTOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo": "5 dias",
+      "manual_estrategico": "termo de confidencialidade",
+      "relacao_empregados": "intervalo mínimo de 1 mês"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "12-13"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "SIN_FORNECIMENTO_DOCUMENTOS",
+    "numero_clausula_original": 18,
+    "titulo_original": "FORNECIMENTO DE DOCUMENTOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo": "5 dias",
+      "base_legal": "Lei de Acesso à Informação",
+      "manual_estrategico": "termo de confidencialidade",
+      "envio_informativos": [
+        "Primeira Hora"
+      ],
+      "relacao_empregados": "5 dias úteis, intervalo mínimo de 1 mês"
+    },
+    "pagina_referencia": "33-34"
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "SIN_FORNECIMENTO_DOCUMENTOS",
+    "numero_clausula_original": 18,
+    "titulo_original": "FORNECIMENTO DE DOCUMENTOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo_fornecimento": "5 dias",
+      "respeito_lai_lgpd": true,
+      "envio_informativos": [
+        "Primeira Hora"
+      ],
+      "relacao_empregados": "nome, matrícula, cargo/atividade, lotação, status",
+      "termo_confidencialidade": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 11
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "SIN_FORNECIMENTO_DOCUMENTOS",
+    "numero_clausula_original": 18,
+    "titulo_original": "FORNECIMENTO DE DOCUMENTOS",
+    "status": "MANTIDO",
+    "texto": "Trabalhadores legalmente constituídas e Sindicatos dos Empregados dos Correios, desde que respeitada a Lei de Acesso à Informação, cópia em meio digital dos Manuais da Empresa, no prazo de 5 (cinco) dias da data de recebimento da solicitação. §1º Quando se tratar de manual estratégico dos Correios, a entidade sindical solicitante deverá assinar um termo de confidencialidade fornecido pelos Correios. I – A definição de manual estratégico ficará a critério dos Correios. §2º Os Correios enviarão às Federações de Trabalhadores dos Correios legalmente constituídas e aos Sindicatos seu informativo de comunicação interna – Primeira Hora. §3º Os Correios disponibilizarão, quando solicitado pelos Sindicatos, por meio magnético, em até 5 (cinco) dias úteis, relação contendo nome, matrícula, cargo/atividade, lotação de empregados(as), status (ativo/inativo) e período do afastamento, no intervalo mínimo de 1 (um) mês. 23 --- PAGINA 24 --CLÁUSULA 19 Cláusula 19 – LIBERAÇÃO DE CONSELHEIRO(A) DO POSTALIS – Os Correios, por solicitação do POSTALIS, liberarão os membros do Conselho Deliberativo e Fiscal do POSTALIS, eleitos pelos(as) empregados(as) ou indicados pela Empresa, pertencentes aos seus quadros, para o exercício das atribuições próprias dos respectivos colegiados. Parágrafo Único: Os Conselheiros(as) eleitos(as) pelos(as) empregados(as) serão liberados com ônus para os Correios, quando da participação em reuniões obrigatórias do POSTALIS e em horário que estiver realizando curso de capacitação continuada para atuar em conselhos estabelecidos pela Lei Complementar 108. 24 --- PAGINA 25 --CLÁUSULA 20",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2020,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "SIN_FORNECIMENTO_DOCUMENTOS",
+    "numero_clausula_original": 9,
+    "titulo_original": "FORNECIMENTO DE DOCUMENTOS",
+    "status": "MANTIDO",
+    "texto": "de Trabalhadores legalmente constituídas e Sindicatos dos Empregados dos Correios, desde que respeitada a Lei de Acesso à Informação, cópia em meio digital dos Manuais da Empresa, no prazo de 5 (cinco) dias da data de recebimento da solicitação. §1° Quando se tratar de manual estratégico dos Correios, a entidade sindical solicitante deverá assinar um termo de confidencialidade fornecido pelos Correios. A definição de manual estratégico ficará à critério dos Correios. §2º Os Correios enviarão às Federações de Trabalhadores dos Correios legalmente constituídas e aos Sindicatos seu informativo de comunicação Interna Primeira Hora. §3° Os Correios disponibilizarão, quando solicitado pelos Sindicatos, por meio magnético, em até 5 (cinco) dias úteis, relação contendo nome, matrícula, cargo/atividade, lotação de empregados(as), status (ativo/inativo) e período do afastamento, no intervalo mínimo de 1(um) mês. OPERACIONALIZAÇÃO DA CLÁUSULA O fornecimento dos Manuais da ECT serão disponibilizados exclusivamente por mídia eletrônica. O atendimento ao pleito pelos Correios estará condicionado à formalização da solicitação do sindicato, bem como à assinatura do Termo de Confidencialidade fornecido pela ECT, quando se tratar de manual estratégico. O informativo Primeira Hora, de âmbito nacional, será enviado pelo DEREO/DIGEP às Federações e sindicatos dos empregados dos Correios. Quando da existência de temas regionais, o assunto deverá ser enviado pela Área de Relacionamento Organizacional nas SEs ao respectivo sindicato. Em relação ao parágrafo 3º, as federações legalmente constituídas terão acesso somente às informações relativas aos empregados de suas respectivas bases territoriais, não incluindo dados que sejam pessoais, conforme Nota Jurídica GJTRI/DJTRA - 567/2017. As informações solicitadas nos documentos deverão ser preenchidas com os dados dos empregados que serão responsáveis pelo acesso ao \"Correios Normas\". De posse das informações, a área gestora procederá com as configurações e informará os procedimentos de acesso ao sistema. Os sindicatos que possuírem acesso ao “Correios Normas” por meio do serviço de acesso remoto Virtual Private Network – VPN poderão obter os Manuais via Intranet – http://intranet/correios-normas. A área de Relacionamento Organizacional ao receber o pedido de acesso ao “Correios Normas”, deverá acessar o link a seguir: http://servicosderede/portalsrs/vpnclient_frm.php e proceder com o registro da solicitação, devendo aguardar a liber",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "SIN_FORNECIMENTO_DOCUMENTOS",
+    "numero_clausula_original": 12,
+    "titulo_original": "FORNECIMENTO DE DOCUMENTOS (18ª do DCG 2019/2020)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "redacao": "Os Correios, quando solicitados, fornecerão às Federações de Trabalhadores legalmente constituídas e Sindicatos dos Empregados dos Correios, desde que respeitada a Lei de Acesso à Informação, cópia em meio digital dos Manuais da Empresa, no prazo de 5 dias da data de recebimento da solicitação. §1° Quando se tratar de manual estratégico... termo de confidencialidade... §2º Os Correios enviarão... informativo de comunicação Interna Primeira Hora. §3º Os Correios disponibilizarão... relação contendo nome, matrícula, cargo/atividade, lotação de empregados(as), status (ativo/inativo) e período do afastamento, no intervalo mínimo de 1 mês"
+    },
+    "memoria_negociacao": "Manutenção anuída pelas entidades sindicais",
+    "observacao": null,
+    "pagina_referencia": "62-63"
+  },
+  {
+    "ano_inicio": 2022,
+    "ano_fim": 2023,
+    "tipo": "ACT",
+    "id_canonico": "SIN_FORNECIMENTO_DOCUMENTOS",
+    "numero_clausula_original": 13,
+    "titulo_original": "FORNECIMENTO DE DOCUMENTOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo": "5 dias",
+      "base_legal": "Lei de Acesso à Informação",
+      "manual_estrategico": "termo de confidencialidade",
+      "relacao_empregados": "prazo de 5 dias úteis, intervalo mínimo de 1 mês"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "3"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "SIN_FORNECIMENTO_DOCUMENTOS",
+    "numero_clausula_original": 29,
+    "titulo_original": "FORNECIMENTO DE DOCUMENTOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo": "5 dias",
+      "LGPD": true,
+      "relacao_empregados": "intervalo mínimo de 1 mês"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SIN_FORNECIMENTO_DOCUMENTOS",
+    "numero_clausula_original": 30,
+    "titulo_original": "FORNECIMENTO DE DOCUMENTOS",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "prazo_fornecimento": "5 dias",
+      "respeito_lai_lgpd": true,
+      "envio_informativos": [
+        "Primeira Hora",
+        "Correios Informa"
+      ],
+      "relacao_empregados": "nome, matrícula, cargo/atividade, lotação, função, status"
+    },
+    "observacao": null,
+    "pagina_referencia": 12
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SIN_FORNECIMENTO_DOCUMENTOS",
+    "numero_clausula_original": 26,
+    "titulo_original": "FORNECIMENTO DE DOCUMENTOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo_fornecimento": "5 dias",
+      "respeito_lai_lgpd": true,
+      "envio_informativos": [
+        "Primeira Hora",
+        "Correios Informa"
+      ],
+      "relacao_empregados": "nome, matrícula, cargo/atividade, lotação, função, status"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com acréscimo",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 12
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "SIN_FORNECIMENTO_DOCUMENTOS",
+    "numero_clausula_original": 26,
+    "titulo_original": "FORNECIMENTO DE DOCUMENTOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo_fornecimento": "5 dias",
+      "respeito_lai_lgpd": true,
+      "envio_informativos": [
+        "Primeira Hora",
+        "Correios Informa"
+      ],
+      "relacao_empregados": "nome, matrícula, cargo/atividade, lotação, local, função, status"
+    },
+    "pagina_referencia": "39-40"
+  }
+]

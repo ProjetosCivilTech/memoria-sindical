@@ -1,0 +1,355 @@
+[
+  {
+    "ano_inicio": 1990,
+    "ano_fim": 1991,
+    "tipo": "ACT",
+    "id_canonico": "CON_SEGURANCA_EMPRESA",
+    "numero_clausula_original": 22,
+    "titulo_original": "TRANSPORTE DE VALORES E SEGURANÇA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "concluir estudos no 1º semestre/1990"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "8"
+  },
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "CON_SEGURANCA_EMPRESA",
+    "numero_clausula_original": 39,
+    "titulo_original": "MEDIDAS DE SEGURANÇA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "transporte_numerarios": true,
+      "acessibilidade": true,
+      "ergonomia": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "20"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "CON_SEGURANCA_EMPRESA",
+    "numero_clausula_original": 39,
+    "titulo_original": "MEDIDAS DE SEGURANÇA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "transporte_numerarios": true,
+      "acessibilidade": true,
+      "ergonomia": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "18-19"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "CON_SEGURANCA_EMPRESA",
+    "numero_clausula_original": 38,
+    "titulo_original": "MEDIDAS DE SEGURANÇA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "transporte_numerarios": true,
+      "acessibilidade": true,
+      "ergonomia": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "13"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "CON_SEGURANCA_EMPRESA",
+    "numero_clausula_original": 38,
+    "titulo_original": "MEDIDAS DE SEGURANÇA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "transporte_numerarios": true,
+      "acessibilidade": true,
+      "ergonomia": true
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "CON_SEGURANCA_EMPRESA",
+    "numero_clausula_original": 38,
+    "titulo_original": "MEDIDAS DE SEGURANÇA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "transporte_numerarios": true,
+      "acessibilidade": true,
+      "ergonomia": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "15"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "CON_SEGURANCA_EMPRESA",
+    "numero_clausula_original": 38,
+    "titulo_original": "MEDIDAS DE SEGURANÇA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "transporte_numerarios": true,
+      "acessibilidade": true,
+      "ergonomia": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 13
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "CON_SEGURANCA_EMPRESA",
+    "numero_clausula_original": 39,
+    "titulo_original": "MEDIDAS DE SEGURANÇA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "transporte_numerarios": true,
+      "acessibilidade": true,
+      "ergonomia": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "12"
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "CON_SEGURANCA_EMPRESA",
+    "numero_clausula_original": 47,
+    "titulo_original": "SEGURANÇA NA EMPRESA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "orgaos_regionais_seguranca": "90 dias",
+      "transporte_numerarios": true,
+      "prioridade_vida": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "22"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "CON_SEGURANCA_EMPRESA",
+    "numero_clausula_original": 47,
+    "titulo_original": "SEGURANÇA NA EMPRESA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "base_legal": "Manual de Segurança – MANSEG, Módulo 6",
+      "transporte_numerarios": true,
+      "preservacao_vida": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 27
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "CON_SEGURANCA_EMPRESA",
+    "numero_clausula_original": 47,
+    "titulo_original": "SEGURANÇA NA EMPRESA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prioridade_vida": true,
+      "transporte_numerarios": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "29-30"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "CON_SEGURANCA_EMPRESA",
+    "numero_clausula_original": 47,
+    "titulo_original": "SEGURANÇA NA EMPRESA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "transporte_numerarios": true,
+      "preservacao_vida": true,
+      "informacao_sindicatos": true
+    },
+    "pagina_referencia": "68-69"
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "CON_SEGURANCA_EMPRESA",
+    "numero_clausula_original": 47,
+    "titulo_original": "SEGURANÇA NA EMPRESA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "base_legal": "Manual de Segurança – MANSEG, Módulo 6",
+      "transporte_numerarios": true,
+      "preservacao_vida": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 27
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "CON_SEGURANCA_EMPRESA",
+    "numero_clausula_original": 47,
+    "titulo_original": "SEGURANÇA NA EMPRESA",
+    "status": "MANTIDO",
+    "texto": "preservar a segurança física dos(as) empregados(as), clientes e visitantes que circulam em suas dependências, reafirmando, como política institucional, a valorização da vida e da integridade física das pessoas que participam das atividades postais, o reforço à confiança dos clientes nos serviços ofertados e à proteção do patrimônio da Empresa. §1º Os Correios fornecerão todo o suporte institucional para assegurar a operacionalização da segurança empresarial das suas unidades. §2º Os Correios comprometem-se a continuar informando os(as) representantes dos sindicatos regionais, sobre as providências já adotadas e as que estão em planejamento relativas à questão de segurança. §3º Os Correios continuarão aprimorando o sistema de transporte de numerários, visando minimizar os riscos operacionais, articulado à política de segurança empresarial. §4º As ações e compromissos decorrentes da implementação dessa política de segurança empresarial obedecerão ao princípio da eficiência na prestação dos serviços prestados pelos Correios à Sociedade que, como entidade da Administração Federal Pública, respeitarão as diretrizes e princípios norteadores dos procedimentos da Administração Pública. §5º Nos Correios, o compromisso com a preservação da vida e da integridade física das pessoas será priorizada sobre os demais aspectos da atividade postal. 58 --- PAGINA 59 --DOS BENEFÍCIOS 59 --- PAGINA 60 --CLÁUSULA 48 TÍTULO V DOS BENEFÍCIOS Cláusula 48 – AUXÍLIO PARA DEPENDENTES COM DEFICIÊNCIA – A ECT reembolsará aos(as) empregados(as) cujos filhos(as), enteados(as), tutelados(as) e curatelados(as) que dependam de cuidados especiais as despesas dos recursos especializados utilizados por eles. §1º Para os efeitos desta cláusula, entendem-se como recursos especializados os resultantes da manutenção em instituições escolares adequadas à educação e desenvolvimento neuropsicomotor de pessoas dependentes de cuidados especiais ou instituições que ofereçam tratamento e acompanhamento especializados, adequados ao desenvolvimento neuropsicomotor de pessoas dependentes de cuidados especiais. §2º A manutenção dos dependentes de cuidados especiais em associações afins e também as decorrentes de tratamentos especializados condicionam-se à prévia análise do Serviço Médico da ECT. §3º O valor do reembolso previsto nesta cláusula corresponde ao somatório das despesas respectivas, condicionado ao limite mensal máximo de R$ 956,15 (novecentos e cinquenta e seis reais e quinze centavos), em relaçã",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "CON_SEGURANCA_EMPRESA",
+    "numero_clausula_original": 47,
+    "titulo_original": "SEGURANÇA NA EMPRESA",
+    "status": "INDEFERIDO",
+    "detalhes": {
+      "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+    },
+    "memoria_negociacao": "SDC indeferiu",
+    "observacao": null,
+    "pagina_referencia": "113"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "CON_SEGURANCA_EMPRESA",
+    "numero_clausula_original": 49,
+    "titulo_original": "SEGURANÇA NA EMPRESA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "base_legal": "Manual de Segurança – MANSEG, Módulo 6"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "10"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "CON_SEGURANCA_EMPRESA",
+    "numero_clausula_original": 51,
+    "titulo_original": "SEGURANÇA NA EMPRESA",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "base_legal": "Manual de Segurança – MANSEG, Módulo 6",
+      "transporte_numerarios": true
+    },
+    "observacao": null,
+    "pagina_referencia": 19
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "CON_SEGURANCA_EMPRESA",
+    "numero_clausula_original": 44,
+    "titulo_original": "SEGURANÇA NA EMPRESA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "base_legal": "Manual de Segurança – MANSEG, Módulo 6",
+      "transporte_numerarios": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 19
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "CON_SEGURANCA_EMPRESA",
+    "numero_clausula_original": 44,
+    "titulo_original": "SEGURANÇA NA EMPRESA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "base_legal": "Manual de Segurança – MANSEG, Módulo 6",
+      "transporte_numerarios": true
+    },
+    "pagina_referencia": "55"
+  }
+]

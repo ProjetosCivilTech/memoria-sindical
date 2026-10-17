@@ -1,0 +1,580 @@
+[
+  {
+    "ano_inicio": 1993,
+    "ano_fim": 1994,
+    "tipo": "ACT",
+    "id_canonico": "CON_REGISTRO_PONTO",
+    "numero_clausula_original": 35,
+    "titulo_original": "REGISTRO DE FREQUÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "registro_pelo_empregado": true,
+      "vedacao_RAI": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "18"
+  },
+  {
+    "ano_inicio": 1994,
+    "ano_fim": 1995,
+    "tipo": "ACT",
+    "id_canonico": "CON_REGISTRO_PONTO",
+    "numero_clausula_original": 40,
+    "titulo_original": "REGISTRO DE FREQUÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "registro_pelo_empregado": true,
+      "vedacao_interferencia_terceiros": true,
+      "vedacao_RAI": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "12"
+  },
+  {
+    "ano_inicio": 1995,
+    "ano_fim": 1996,
+    "tipo": "ACT",
+    "id_canonico": "CON_REGISTRO_PONTO",
+    "numero_clausula_original": 43,
+    "titulo_original": "REGISTRO DE PONTO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "registro_pelo_empregado": true,
+      "vedacao_RAI": true
+    }
+  },
+  {
+    "ano_inicio": 1997,
+    "ano_fim": 1998,
+    "tipo": "ACT",
+    "id_canonico": "CON_REGISTRO_PONTO",
+    "numero_clausula_original": 43,
+    "titulo_original": "REGISTRO DE PONTO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "registro_pelo_empregado": true,
+      "vedacao_RAI": true
+    }
+  },
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "CON_REGISTRO_PONTO",
+    "numero_clausula_original": 47,
+    "titulo_original": "REGISTRO DE PONTO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "registro_pelo_empregado": true,
+      "vedacao_RAI": true
+    }
+  },
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "CON_REGISTRO_PONTO",
+    "numero_clausula_original": 48,
+    "titulo_original": "REGISTRO DE PONTO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "registro_pelo_empregado": true,
+      "vedacao_interferencia_terceiros": true,
+      "vedacao_RAI": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "15"
+  },
+  {
+    "ano_inicio": 2000,
+    "ano_fim": 2001,
+    "tipo": "DC",
+    "id_canonico": "CON_REGISTRO_PONTO",
+    "numero_clausula_original": 44,
+    "titulo_original": "REGISTRO DE PONTO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "registro_pelo_empregado": true,
+      "vedacao_interferencia_terceiros": true,
+      "vedacao_RAI": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "Cláusula incontroversa.",
+    "pagina_referencia": "9-10"
+  },
+  {
+    "ano_inicio": 2001,
+    "ano_fim": 2002,
+    "tipo": "ACT",
+    "id_canonico": "CON_REGISTRO_PONTO",
+    "numero_clausula_original": 42,
+    "titulo_original": "REGISTRO DE PONTO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "registro_pelo_empregado": true,
+      "vedacao_interferencia_terceiros": true,
+      "vedacao_RAI": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "11"
+  },
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "CON_REGISTRO_PONTO",
+    "numero_clausula_original": 53,
+    "titulo_original": "REGISTRO DE PONTO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "registro_pelo_empregado": true,
+      "vedacao_interferencia_terceiros": true,
+      "tolerancia": "5 minutos"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "25"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "CON_REGISTRO_PONTO",
+    "numero_clausula_original": 52,
+    "titulo_original": "REGISTRO DE PONTO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "registro_pelo_empregado": true,
+      "vedacao_interferencia_terceiros": true,
+      "tolerancia": "5 minutos",
+      "tolerancia_estendida": "15 minutos diários, 5 vezes/mês"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "24-25"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "CON_REGISTRO_PONTO",
+    "numero_clausula_original": 53,
+    "titulo_original": "REGISTRO DE PONTO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "registro_pelo_empregado": true,
+      "vedacao_interferencia_terceiros": true,
+      "tolerancia": "5 minutos"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "16"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "CON_REGISTRO_PONTO",
+    "numero_clausula_original": 53,
+    "titulo_original": "REGISTRO DE PONTO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "tolerancia": "5 min"
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "CON_REGISTRO_PONTO",
+    "numero_clausula_original": 53,
+    "titulo_original": "REGISTRO DE PONTO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "registro_pelo_empregado": true,
+      "vedacao_interferencia_terceiros": true,
+      "tolerancia": "5 minutos"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "22"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "CON_REGISTRO_PONTO",
+    "numero_clausula_original": 53,
+    "titulo_original": "REGISTRO DE PONTO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "registro_pelo_empregado": true,
+      "vedacao_interferencia_terceiros": true,
+      "tolerancia": "5 minutos"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 17
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "CON_REGISTRO_PONTO",
+    "numero_clausula_original": 54,
+    "titulo_original": "REGISTRO DE PONTO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "registro_pelo_empregado": true,
+      "tolerancia": "5 minutos"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "16"
+  },
+  {
+    "ano_inicio": 2011,
+    "ano_fim": 2012,
+    "tipo": "DCG",
+    "id_canonico": "CON_REGISTRO_PONTO",
+    "numero_clausula_original": 54,
+    "titulo_original": "REGISTRO DE PONTO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "registro_pelo_empregado": true,
+      "vedacao_interferencia_terceiros": true,
+      "tolerancia": "5 minutos + 5 minutos adicionais (4x/mês)"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 66
+  },
+  {
+    "ano_inicio": 2012,
+    "ano_fim": 2013,
+    "tipo": "DCG",
+    "id_canonico": "CON_REGISTRO_PONTO",
+    "numero_clausula_original": 54,
+    "titulo_original": "REGISTRO DE PONTO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "registro_pelo_empregado": true,
+      "vedacao_interferencia_terceiros": true,
+      "tolerancia": "5 minutos + 5 minutos adicionais (4x/mês)"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 66
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "CON_REGISTRO_PONTO",
+    "numero_clausula_original": 54,
+    "titulo_original": "REGISTRO DE PONTO",
+    "status": "MANTIDO",
+    "texto": "Registro exclusivamente pelo empregado sob supervisão da Empresa. Vedada interferência de terceiros. Tolerância de 5 min (lei) + 5 min adicionais no início de cada turno, limitado a 4 vezes ao mês.",
+    "observacao": "Idêntica ao DC 2013-2014.",
+    "pagina_referencia": 15
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "CON_REGISTRO_PONTO",
+    "numero_clausula_original": 54,
+    "titulo_original": "REGISTRO DE PONTO",
+    "status": "MANTIDO",
+    "texto": "Registro exclusivamente pelo empregado sob supervisão da Empresa. Vedada interferência de terceiros. Tolerância de 5 min (lei) + 5 min adicionais no início de cada turno, limitado a 4 vezes ao mês.",
+    "observacao": "Idêntica ao DC 2012-2013.",
+    "pagina_referencia": 98
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "CON_REGISTRO_PONTO",
+    "numero_clausula_original": 74,
+    "titulo_original": "REGISTRO DE PONTO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "tolerancia": "5 + 5 minutos (4x/mês)"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "31"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "CON_REGISTRO_PONTO",
+    "numero_clausula_original": 75,
+    "titulo_original": "REGISTRO DE PONTO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "registro_pelo_empregado": true,
+      "vedacao_interferencia_terceiros": true,
+      "sistemas_alternativos": true,
+      "tolerancia": "5 minutos + 5 minutos adicionais (4x/mês)"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 40
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "CON_REGISTRO_PONTO",
+    "numero_clausula_original": 76,
+    "titulo_original": "REGISTRO DE PONTO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "tolerancia": "5 + 5 min (4x/mês)"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "42"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "CON_REGISTRO_PONTO",
+    "numero_clausula_original": 74,
+    "titulo_original": "REGISTRO DE PONTO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "registro_pelo_empregado": true,
+      "vedacao_interferencia_terceiros": true,
+      "tolerancia": "5 minutos + 5 minutos adicionais (4x/mês)"
+    },
+    "pagina_referencia": 96
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "CON_REGISTRO_PONTO",
+    "numero_clausula_original": 74,
+    "titulo_original": "REGISTRO DE PONTO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "registro_pelo_empregado": true,
+      "vedacao_interferencia_terceiros": true,
+      "sistemas_alternativos": true,
+      "tolerancia": "5 minutos + 5 minutos adicionais (4x/mês)"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 39
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "CON_REGISTRO_PONTO",
+    "numero_clausula_original": 74,
+    "titulo_original": "REGISTRO DE PONTO",
+    "status": "MANTIDO",
+    "texto": "a supervisão da Empresa. §1º Fica vedada qualquer interferência de terceiros na marcação do cartão de ponto. §2° Além da tolerância de 5 (cinco) minutos, prevista em lei, para registro do ponto no início de cada turno de trabalho, será concedida uma tolerância adicional de 5 (cinco) minutos em cada início de turno, limitada a 4 (quatro) vezes ao mês. 88 --- PAGINA 89 --CLÁUSULA 75 Cláusula 75 – RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO – Os Correios assumirão os custos com a recuperação dos danos de veículos de sua frota, bem como danos causados a terceiros, consequentes de acidentes de trânsito, nos casos em que, após apuração, ficar comprovada a inexistência de dolo por parte do(a) empregado(a), estando o mesmo no exercício de suas funções. §1º As diretrizes sobre o assunto serão estabelecidas e implantadas pelos Correios, por meio de grupo de trabalho constituído por portaria. §2° Os processos administrativos de apuração de responsabilidades não concluídos e sobrestados na Empresa, deverão ser analisados por comissão paritária, composta por 3 (três) integrantes dos Correios e 3 (três) integrantes do Sindicato dos Empregados dos Correios da respectiva base sindical. I – Somente se caracterizará a conduta dolosa do empregado quando houver decisão da comissão. II – As comissões paritárias responderão, administrativa e juridicamente, por todos os seus atos. III – As comissões paritárias já instituídas permanecerão conforme acordo assinado, anteriormente, na MNNP-Correios pelas respectivas Entidades Sindicais, até a data de sua vigência. §3° Os Correios se comprometem a desenvolver campanhas de prevenção sobre acidentes de trânsito, com o objetivo de mitigar os riscos de eventuais acidentes. 89 --- PAGINA 90 --CLÁUSULA 76 Cláusula 76 – INDENIZAÇÃO POR MORTE OU INVALIDEZ PERMANENTE – A Empresa indenizará o(a) empregado(a) ou seus dependentes legais, no caso de morte ou invalidez permanente, na importância de R$ 141.888,48 (cento e quarenta e um mil oitocentos e oitenta e oito reais e quarenta e oito centavos), em consequência de acidente de trabalho, assalto e/ou roubo, nas Unidades de Atendimento e/ou Operacional ou no percurso. §1º Enquanto o(a) empregado(a) estiver percebendo o benefício por acidente de trabalho, pelo INSS, decorrente do evento previsto no caput, sem definição quanto à invalidez permanente, a Empresa complementará o benefício previdenciário até o montante do salário da ativa, inclusive o 13º salário, salvo se a complementação for paga",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2020,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "CON_REGISTRO_PONTO",
+    "numero_clausula_original": 5,
+    "titulo_original": "REGISTRO DE PONTO",
+    "status": "MANTIDO",
+    "texto": "empregado(a) sob a supervisão da Empresa. §1º Fica vedada qualquer interferência de terceiros na marcação do cartão de ponto. §2° A Empresa poderá adotar sistemas alternativos de controle da jornada de trabalho, em conformidade com legislação vigente. OPERACIONALIZAÇÃO DA CLÁUSULA As solicitações de informações referentes a esta cláusula devem ser obtidas por meio do Help Desk http://helpdesk Após acessar o sistema do Help Desk, clique no botão \"Procurar\", irão carregar as opções, conforme imagem abaixo, onde você irá clicar na subcategoria \"08 – Gestão de Pessoas\" Agora selecione a subcategoria \"Cadastro\" e clique na opção \"08.08 – Frequência e Jornada de Trabalho\" 10 --- PAGINA 11 --11 --- PAGINA 12 --CLÁUSULA 06",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "CON_REGISTRO_PONTO",
+    "numero_clausula_original": 5,
+    "titulo_original": "REGISTRO DE PONTO (74ª do DCG 2019/2020)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "redacao": "O registro de presença ao serviço será feito exclusivamente pelo empregado(a) sob a supervisão da Empresa. §1º Fica vedada qualquer interferência de terceiros na marcação do cartão de ponto. §2º A Empresa poderá adotar sistemas alternativos de controle da jornada de trabalho, em conformidade com legislação vigente"
+    },
+    "memoria_negociacao": "Sindicatos propuseram tolerância adicional de 5 min (4x/mês); SDC indeferiu por contrariar art. 58, §1º, CLT",
+    "observacao": "Mantida redação da sentença normativa anterior",
+    "pagina_referencia": "67-68, 72"
+  },
+  {
+    "ano_inicio": 2022,
+    "ano_fim": 2023,
+    "tipo": "ACT",
+    "id_canonico": "CON_REGISTRO_PONTO",
+    "numero_clausula_original": 5,
+    "titulo_original": "REGISTRO DE PONTO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "registro_pelo_empregado": true,
+      "vedacao_interferencia_terceiros": true,
+      "sistemas_alternativos": "conforme legislação vigente"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "1"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "CON_REGISTRO_PONTO",
+    "numero_clausula_original": 73,
+    "titulo_original": "REGISTRO DE PONTO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "registro_pelo_empregado": true,
+      "sistemas_alternativos": true
+    },
+    "memoria_negociacao": null,
+    "observacao": "Permitidos sistemas alternativos.",
+    "pagina_referencia": "14-15"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "CON_REGISTRO_PONTO",
+    "numero_clausula_original": 74,
+    "titulo_original": "REGISTRO DE PONTO",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "registro_pelo_empregado": true,
+      "vedacao_interferencia_terceiros": true,
+      "sistemas_alternativos": true,
+      "regime_excecao": "distribuição/coleta",
+      "tolerancia": "5 minutos + 5 minutos adicionais (4x/mês)"
+    },
+    "observacao": null,
+    "pagina_referencia": 26
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "CON_REGISTRO_PONTO",
+    "numero_clausula_original": 64,
+    "titulo_original": "REGISTRO DE PONTO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "registro_pelo_empregado": true,
+      "vedacao_interferencia_terceiros": true,
+      "sistemas_alternativos": true,
+      "regime_excecao": "distribuição/coleta",
+      "tolerancia": "5 minutos + 5 minutos adicionais (4x/mês)"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Excluir o inciso I do §2º",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Art. 74, §4º, CLT",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 26
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "CON_REGISTRO_PONTO",
+    "numero_clausula_original": 64,
+    "titulo_original": "REGISTRO DE PONTO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "registro_pelo_empregado": true,
+      "vedacao_interferencia_terceiros": true,
+      "sistemas_alternativos": true,
+      "regime_excecao": "distribuição/coleta",
+      "tolerancia": "5 minutos + 5 minutos adicionais (4x/mês)"
+    },
+    "pagina_referencia": "74-75"
+  }
+]

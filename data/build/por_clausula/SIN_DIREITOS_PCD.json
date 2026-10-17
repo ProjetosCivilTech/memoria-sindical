@@ -1,0 +1,19 @@
+[
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DIREITOS_PCD",
+    "numero_clausula_original": 7,
+    "titulo_original": "DIREITOS DAS PESSOAS COM DEFICIÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "campanhas": true,
+      "Libras": true,
+      "neurodivergentes": true
+    },
+    "memoria_negociacao": null,
+    "observacao": "Nova cláusula.",
+    "pagina_referencia": "2"
+  }
+]

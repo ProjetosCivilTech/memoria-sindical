@@ -1,0 +1,26 @@
+[
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "PRO_PRORROGACAO_REVISAO_DENUNCIA",
+    "numero_clausula_original": 49,
+    "titulo_original": "PRORROGAÇÃO, REVISÃO, DENÚNCIA OU REVOGAÇÃO",
+    "status": "MANTIDO",
+    "texto": "Subordinada ao art. 615 da CLT.",
+    "observacao": "Idêntica ao DC 2013-2014.",
+    "pagina_referencia": 14
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "PRO_PRORROGACAO_REVISAO_DENUNCIA",
+    "numero_clausula_original": 49,
+    "titulo_original": "PRORROGAÇÃO, REVISÃO, DENÚNCIA OU REVOGAÇÃO",
+    "status": "MANTIDO",
+    "texto": "Subordinada ao art. 615 da CLT.",
+    "observacao": "Idêntica ao DC 2012-2013.",
+    "pagina_referencia": 96
+  }
+]

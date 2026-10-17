@@ -1,0 +1,701 @@
+[
+  {
+    "ano_inicio": 1991,
+    "ano_fim": 1991,
+    "tipo": "DC",
+    "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+    "numero_clausula_original": 82,
+    "titulo_original": "AUXÍLIO ESCOLAR PARA FILHOS EXCEPCIONAIS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "valor_limite": "8 MVRs mensais",
+      "publico_alvo": "filhos menores de 16 anos",
+      "tipo_despesa": "instituições escolares especializadas em educação e desenvolvimento psicomotor",
+      "extensao_pai_solteiro_viuvo": true,
+      "extensao_licenca_gestante": true
+    },
+    "pagina_referencia": "10"
+  },
+  {
+    "ano_inicio": 1992,
+    "ano_fim": 1992,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+    "numero_clausula_original": 16,
+    "titulo_original": "AUXÍLIO ESCOLAR PARA FILHOS EXCEPCIONAIS",
+    "status": "DEFERIDO",
+    "valor_atual": 80000.0,
+    "unidade": "CRUZEIROS",
+    "detalhes": {
+      "valor": "Cr$ 80.000,00 (jan/1992)",
+      "correcao": "trimestral INPC/IBGE",
+      "publico_alvo": "filhos menores de 21 anos",
+      "extensao_licenca_gestante": true
+    },
+    "pagina_referencia": "4"
+  },
+  {
+    "ano_inicio": 1993,
+    "ano_fim": 1994,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+    "numero_clausula_original": 15,
+    "titulo_original": "AUXÍLIO PARA FILHOS DEPENDENTES DE CUIDADOS ESPECIAIS",
+    "status": "DEFERIDO",
+    "valor_atual": 1000000.0,
+    "unidade": "CRUZEIROS",
+    "detalhes": {
+      "percentual_reembolso": 70,
+      "valor_mensal": "Cr$ 1.000.000,00 (jan/1993)",
+      "correcao": "bimestral INPC/IBGE",
+      "publico_alvo": "filhos menores de 21 anos"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "9-10"
+  },
+  {
+    "ano_inicio": 1994,
+    "ano_fim": 1995,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+    "numero_clausula_original": 10,
+    "titulo_original": "AUXÍLIO PARA OS FILHOS DEPENDENTES DE CUIDADOS ESPECIAIS",
+    "status": "DEFERIDO",
+    "valor_atual": 80.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "percentual_reembolso": 70,
+      "valor_mensal": 80.0,
+      "publico_alvo": "filhos menores de 21 anos",
+      "inicio": "01/03/1994",
+      "analise": "Serviço Social da Diretoria Regional"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "4"
+  },
+  {
+    "ano_inicio": 1995,
+    "ano_fim": 1996,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+    "numero_clausula_original": 12,
+    "titulo_original": "AUXÍLIO PARA FILHOS DEPENDENTES DE CUIDADOS ESPECIAIS",
+    "status": "DEFERIDO",
+    "valor_atual": 133.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "percentual_reembolso": 80,
+      "limite_mensal": 133.0,
+      "sem_limite_idade": true
+    }
+  },
+  {
+    "ano_inicio": 1997,
+    "ano_fim": 1998,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+    "numero_clausula_original": 12,
+    "titulo_original": "AUXÍLIO PARA FILHOS DEPENDENTES DE CUIDADOS ESPECIAIS",
+    "status": "DEFERIDO",
+    "valor_atual": 180.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "percentual_reembolso": 80,
+      "limite_mensal": 180.0
+    }
+  },
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+    "numero_clausula_original": 12,
+    "titulo_original": "AUXÍLIO PARA FILHOS DEPENDENTES DE CUIDADOS ESPECIAIS",
+    "status": "DEFERIDO",
+    "valor_atual": 235.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "percentual_reembolso": 80,
+      "limite_mensal": 235.0
+    }
+  },
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+    "numero_clausula_original": 12,
+    "titulo_original": "AUXÍLIO PARA FILHOS DEPENDENTES DE CUIDADOS ESPECIAIS",
+    "status": "DEFERIDO",
+    "valor_atual": 235.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 235.0,
+      "publico_alvo": [
+        "filhos",
+        "enteados",
+        "tutelados"
+      ],
+      "reembolso_licenca_medica": true,
+      "analise": "Serviço Social e Serviço Médico da Diretoria Regional"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "5"
+  },
+  {
+    "ano_inicio": 2000,
+    "ano_fim": 2001,
+    "tipo": "DC",
+    "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+    "numero_clausula_original": 10,
+    "titulo_original": "AUXÍLIO PARA FILHOS DEPENDENTES DE CUIDADOS ESPECIAIS",
+    "status": "DEFERIDO",
+    "valor_anterior": 235.0,
+    "valor_atual": 235.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 235.0,
+      "publico_alvo": [
+        "filhos"
+      ],
+      "reembolso_licenca_medica": true,
+      "analise": "Serviço Social e Serviço Médico da Diretoria Regional"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "Cláusula incontroversa.",
+    "pagina_referencia": "4"
+  },
+  {
+    "ano_inicio": 2001,
+    "ano_fim": 2002,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+    "numero_clausula_original": 10,
+    "titulo_original": "AUXÍLIO P/ FILHOS DEPENDENTES DE CUIDADOS ESPECIAIS",
+    "status": "DEFERIDO",
+    "valor_anterior": 235.0,
+    "valor_atual": 260.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 260.0,
+      "publico_alvo": [
+        "filhos",
+        "enteados",
+        "tutelados"
+      ],
+      "reembolso_licenca_medica": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Reajuste para R$ 260,00",
+      "pedido_fentect": "Reajuste",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "4"
+  },
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+    "numero_clausula_original": 13,
+    "titulo_original": "AUXÍLIO PARA FILHOS DEPENDENTES DE CUIDADOS ESPECIAIS",
+    "status": "DEFERIDO",
+    "valor_anterior": 260.0,
+    "valor_atual": 290.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 290.0,
+      "publico_alvo": [
+        "filhos",
+        "enteados",
+        "tutelados"
+      ],
+      "reembolso_licenca_medica": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Reajuste para R$ 290,00",
+      "pedido_fentect": "Reajuste",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "8"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+    "numero_clausula_original": 13,
+    "titulo_original": "AUXÍLIO PARA FILHOS DEPENDENTES DE CUIDADOS ESPECIAIS",
+    "status": "DEFERIDO",
+    "valor_anterior": 290.0,
+    "valor_atual": 350.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 350.0,
+      "publico_alvo": [
+        "filhos",
+        "enteados",
+        "tutelados"
+      ],
+      "reembolso_licenca_medica": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Reajuste para R$ 350,00",
+      "pedido_fentect": "Reajuste",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "7"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+    "numero_clausula_original": 13,
+    "titulo_original": "AUXÍLIO PARA FILHOS DEPENDENTES DE CUIDADOS ESPECIAIS",
+    "status": "DEFERIDO",
+    "valor_anterior": 350.0,
+    "valor_atual": 420.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 420.0,
+      "publico_alvo": [
+        "filhos",
+        "enteados",
+        "tutelados"
+      ],
+      "reembolso_licenca_medica": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Reajuste para R$ 420,00",
+      "pedido_fentect": "Reajuste",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "5-6"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+    "numero_clausula_original": 13,
+    "titulo_original": "AUXÍLIO PARA FILHOS DEPENDENTES DE CUIDADOS ESPECIAIS",
+    "status": "DEFERIDO",
+    "valor_atual": 447.6,
+    "unidade": "BRL",
+    "detalhes": {
+      "publico_alvo": [
+        "filhos",
+        "enteados",
+        "tutelados"
+      ],
+      "reembolso_licenca_medica": true
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+    "numero_clausula_original": 13,
+    "titulo_original": "AUXÍLIO PARA FILHOS DEPENDENTES, PORTADORES DE NECESSIDADES ESPECIAIS",
+    "status": "DEFERIDO",
+    "valor_anterior": 470.0,
+    "valor_atual": 470.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 470.0,
+      "publico_alvo": [
+        "filhos",
+        "enteados",
+        "tutelados"
+      ],
+      "reembolso_licenca_medica": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "7"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+    "numero_clausula_original": 13,
+    "titulo_original": "AUXÍLIO PARA FILHOS DEPENDENTES, PORTADORES DE NECESSIDADES ESPECIAIS",
+    "status": "DEFERIDO",
+    "valor_anterior": 500.0,
+    "valor_atual": 531.85,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 531.85,
+      "publico_alvo": [
+        "filhos",
+        "enteados",
+        "tutelados"
+      ],
+      "reembolso_licenca_medica": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Reajuste para R$ 531,85",
+      "pedido_fentect": "Reajuste",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 6
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+    "numero_clausula_original": 13,
+    "titulo_original": "AUXÍLIO PARA FILHOS DEPENDENTES, PORTADORES DE NECESSIDADES ESPECIAIS",
+    "status": "DEFERIDO",
+    "valor_atual": 571.74,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 571.74,
+      "publico_alvo": [
+        "filhos",
+        "enteados",
+        "tutelados"
+      ],
+      "analise": "Serviço Médico da ECT"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "5-6"
+  },
+  {
+    "ano_inicio": 2011,
+    "ano_fim": 2012,
+    "tipo": "DCG",
+    "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+    "numero_clausula_original": 13,
+    "titulo_original": "AUXÍLIO PARA FILHOS DEPENDENTES, PORTADORES DE NECESSIDADES ESPECIAIS",
+    "status": "DEFERIDO",
+    "valor_anterior": 611.0,
+    "valor_atual": 611.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 611.0,
+      "publico_alvo": [
+        "filhos",
+        "enteados",
+        "tutelados"
+      ],
+      "reembolso_licenca_medica": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção",
+      "pedido_fentect": "Reajuste",
+      "decisao_tst": "DEFERE a manutenção com reajuste de 6,87%",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 47
+  },
+  {
+    "ano_inicio": 2012,
+    "ano_fim": 2013,
+    "tipo": "DCG",
+    "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+    "numero_clausula_original": 13,
+    "titulo_original": "AUXÍLIO PARA FILHOS DEPENDENTES, PORTADORES DE NECESSIDADES ESPECIAIS",
+    "status": "DEFERIDO",
+    "valor_anterior": 611.0,
+    "valor_atual": 651.0,
+    "unidade": "BRL",
+    "variacao_percentual": "6,5",
+    "detalhes": {
+      "valor_mensal": 651.0,
+      "reajuste_aplicado": "6,5%",
+      "publico_alvo": [
+        "filhos",
+        "enteados",
+        "tutelados"
+      ],
+      "reembolso_licenca_medica": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção",
+      "pedido_fentect": "Reajuste",
+      "decisao_tst": "DEFERE reajuste de 6,5%",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 47
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+    "numero_clausula_original": 48,
+    "titulo_original": "AUXÍLIO PARA DEPENDENTES COM DEFICIÊNCIA",
+    "status": "DEFERIDO",
+    "valor_atual": 736.8,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 736.8,
+      "publico_alvo": [
+        "filhos",
+        "enteados",
+        "tutelados",
+        "curatelados"
+      ]
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "22-23"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+    "numero_clausula_original": 48,
+    "titulo_original": "AUXÍLIO PARA DEPENDENTES COM DEFICIÊNCIA",
+    "status": "DEFERIDO",
+    "valor_anterior": 807.24,
+    "valor_atual": 807.24,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 807.24,
+      "publico_alvo": [
+        "filhos",
+        "enteados",
+        "tutelados",
+        "curatelados"
+      ],
+      "reembolso_licenca_medica": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 28
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+    "numero_clausula_original": 48,
+    "titulo_original": "AUXÍLIO PARA DEPENDENTES COM DEFICIÊNCIA",
+    "status": "DEFERIDO",
+    "valor_atual": 877.79,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 877.79
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "30"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+    "numero_clausula_original": 48,
+    "titulo_original": "AUXÍLIO PARA DEPENDENTES COM DEFICIÊNCIA",
+    "status": "DEFERIDO",
+    "valor_atual": 895.96,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 895.96,
+      "publico_alvo": [
+        "filhos",
+        "enteados",
+        "tutelados",
+        "curatelados"
+      ],
+      "reembolso_licenca_medica": true
+    },
+    "pagina_referencia": "71-72"
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+    "numero_clausula_original": 48,
+    "titulo_original": "AUXÍLIO PARA DEPENDENTES COM DEFICIÊNCIA",
+    "status": "DEFERIDO",
+    "valor_anterior": 928.3,
+    "valor_atual": 928.3,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 928.3,
+      "publico_alvo": [
+        "filhos",
+        "enteados",
+        "tutelados",
+        "curatelados"
+      ],
+      "reembolso_licenca_medica": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 28
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+    "numero_clausula_original": 48,
+    "titulo_original": "AUXÍLIO PARA DEPENDENTES COM DEFICIÊNCIA",
+    "status": "INDEFERIDO",
+    "detalhes": {
+      "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+    },
+    "memoria_negociacao": "SDC indeferiu",
+    "observacao": null,
+    "pagina_referencia": "113"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+    "numero_clausula_original": 51,
+    "titulo_original": "AUXÍLIO PARA DEPENDENTES COM DEFICIÊNCIA",
+    "status": "DEFERIDO",
+    "valor_atual": 989.9,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 989.9
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "11"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+    "numero_clausula_original": 53,
+    "titulo_original": "AUXÍLIO PARA DEPENDENTES COM DEFICIÊNCIA",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": 1030.58,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 1030.58,
+      "publico_alvo": [
+        "filhos",
+        "enteados",
+        "tutelados",
+        "curatelados"
+      ],
+      "condicionamento": "prévia análise do Serviço Médico",
+      "manutencao_licenca_medica": true
+    },
+    "observacao": "No DC 2025/2026, o valor foi reajustado para R$ 1.083,14 (5,10%).",
+    "pagina_referencia": 19
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+    "numero_clausula_original": 46,
+    "titulo_original": "AUXÍLIO PARA EMPREGADOS E DEPENDENTES COM DEFICIÊNCIA",
+    "status": "DEFERIDO",
+    "valor_anterior": 1030.58,
+    "valor_atual": 1125.32,
+    "unidade": "BRL",
+    "variacao_percentual": "9,18",
+    "detalhes": {
+      "valor_mensal": 1125.32,
+      "reajuste_aplicado": "4,09%",
+      "publico_alvo": [
+        "filhos",
+        "enteados",
+        "tutelados",
+        "curatelados"
+      ],
+      "vigencia": "a partir de 1º de agosto de 2026"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Reajuste de 2,61%",
+      "pedido_fentect": "Concorda com a proposta da ECT",
+      "pedido_findect": "Reajuste de 100% do INPC",
+      "decisao_tst": "DEFERE reajuste de 4,09%",
+      "fundamento_juridico": "Jurisprudência da SDC/TST",
+      "votos_divergentes": null
+    },
+    "observacao": "**CONQUISTA PARCIAL**. A ECT queria reajuste de 2,61%, mas o TST aplicou o INPC de 4,09%. O valor passou de R$ 1.083,14 para R$ 1.125,32. Também foi ampliado o público-alvo (empregados, não apenas dependentes).",
+    "pagina_referencia": 20
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+    "numero_clausula_original": 46,
+    "titulo_original": "AUXÍLIO PARA DEPENDENTES COM DEFICIÊNCIA",
+    "status": "DEFERIDO_PARCIALMENTE",
+    "valor_anterior": 1030.58,
+    "valor_atual": 1083.14,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 1083.14,
+      "reajuste_aplicado": "5,10%",
+      "publico_alvo": [
+        "filhos",
+        "enteados",
+        "tutelados",
+        "curatelados"
+      ]
+    },
+    "pagina_referencia": "56"
+  }
+]

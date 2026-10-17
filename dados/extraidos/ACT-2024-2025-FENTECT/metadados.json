@@ -1,0 +1,175 @@
+{
+  "arquivo_origem": "ACT-2024-2025-FENTECT.pdf",
+  "metadados_pdf": {
+    "titulo": null,
+    "autor": null,
+    "assunto": null,
+    "criador": "Mozilla Firefox 115.7.0",
+    "produtor": "cairo 1.17.4 (https://cairographics.org)",
+    "criado_em": "D:20240913174441-03'00",
+    "modificado_em": null
+  },
+  "paginas_info": [
+    {
+      "pagina": 1,
+      "metodo": "OCR",
+      "chars": 2804,
+      "conf_ocr": 94.0
+    },
+    {
+      "pagina": 2,
+      "metodo": "OCR",
+      "chars": 4808,
+      "conf_ocr": 94.4
+    },
+    {
+      "pagina": 3,
+      "metodo": "OCR",
+      "chars": 5347,
+      "conf_ocr": 94.2
+    },
+    {
+      "pagina": 4,
+      "metodo": "OCR",
+      "chars": 5176,
+      "conf_ocr": 93.8
+    },
+    {
+      "pagina": 5,
+      "metodo": "OCR",
+      "chars": 4961,
+      "conf_ocr": 94.1
+    },
+    {
+      "pagina": 6,
+      "metodo": "OCR",
+      "chars": 4795,
+      "conf_ocr": 94.3
+    },
+    {
+      "pagina": 7,
+      "metodo": "OCR",
+      "chars": 4563,
+      "conf_ocr": 94.4
+    },
+    {
+      "pagina": 8,
+      "metodo": "OCR",
+      "chars": 5050,
+      "conf_ocr": 94.5
+    },
+    {
+      "pagina": 9,
+      "metodo": "OCR",
+      "chars": 4621,
+      "conf_ocr": 94.0
+    },
+    {
+      "pagina": 10,
+      "metodo": "OCR",
+      "chars": 5257,
+      "conf_ocr": 94.1
+    },
+    {
+      "pagina": 11,
+      "metodo": "OCR",
+      "chars": 5314,
+      "conf_ocr": 94.3
+    },
+    {
+      "pagina": 12,
+      "metodo": "OCR",
+      "chars": 4571,
+      "conf_ocr": 94.1
+    },
+    {
+      "pagina": 13,
+      "metodo": "OCR",
+      "chars": 5172,
+      "conf_ocr": 93.9
+    },
+    {
+      "pagina": 14,
+      "metodo": "OCR",
+      "chars": 5150,
+      "conf_ocr": 93.3
+    },
+    {
+      "pagina": 15,
+      "metodo": "OCR",
+      "chars": 5043,
+      "conf_ocr": 93.9
+    },
+    {
+      "pagina": 16,
+      "metodo": "OCR",
+      "chars": 4804,
+      "conf_ocr": 94.4
+    },
+    {
+      "pagina": 17,
+      "metodo": "OCR",
+      "chars": 5173,
+      "conf_ocr": 94.1
+    },
+    {
+      "pagina": 18,
+      "metodo": "OCR",
+      "chars": 4754,
+      "conf_ocr": 94.1
+    },
+    {
+      "pagina": 19,
+      "metodo": "OCR",
+      "chars": 5165,
+      "conf_ocr": 94.3
+    },
+    {
+      "pagina": 20,
+      "metodo": "OCR",
+      "chars": 4883,
+      "conf_ocr": 94.4
+    },
+    {
+      "pagina": 21,
+      "metodo": "OCR",
+      "chars": 4968,
+      "conf_ocr": 94.0
+    },
+    {
+      "pagina": 22,
+      "metodo": "OCR",
+      "chars": 3974,
+      "conf_ocr": 93.8
+    },
+    {
+      "pagina": 23,
+      "metodo": "OCR",
+      "chars": 4618,
+      "conf_ocr": 94.0
+    },
+    {
+      "pagina": 24,
+      "metodo": "OCR",
+      "chars": 4187,
+      "conf_ocr": 94.0
+    },
+    {
+      "pagina": 25,
+      "metodo": "OCR",
+      "chars": 4330,
+      "conf_ocr": 93.9
+    },
+    {
+      "pagina": 26,
+      "metodo": "OCR",
+      "chars": 1983,
+      "conf_ocr": 88.7
+    }
+  ],
+  "paginas_total": 26,
+  "paginas_ocr": 26,
+  "conf_ocr_media": 93.9,
+  "metodo": "ocr",
+  "tempo_s": 87.22
+}

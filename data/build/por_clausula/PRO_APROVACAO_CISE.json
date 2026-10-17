@@ -1,0 +1,32 @@
+[
+  {
+    "ano_inicio": 1988,
+    "ano_fim": 1989,
+    "tipo": "ACT",
+    "id_canonico": "PRO_APROVACAO_CISE",
+    "numero_clausula_original": 27,
+    "titulo_original": "APROVAÇÃO PELO CISE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "condicao": "sujeito à prévia aprovação do CISE"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "8"
+  },
+  {
+    "ano_inicio": 1990,
+    "ano_fim": 1991,
+    "tipo": "ACT",
+    "id_canonico": "PRO_APROVACAO_CISE",
+    "numero_clausula_original": 33,
+    "titulo_original": "APROVAÇÃO DO ACORDO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "condicao": "sujeito à aprovação do CISE"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "11"
+  }
+]

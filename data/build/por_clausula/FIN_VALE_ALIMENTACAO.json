@@ -1,0 +1,866 @@
+[
+  {
+    "ano_inicio": 1988,
+    "ano_fim": 1989,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_ALIMENTACAO",
+    "numero_clausula_original": 8,
+    "titulo_original": "VALE-ALIMENTAÇÃO",
+    "status": "DEFERIDO",
+    "valor_atual": 1200.0,
+    "unidade": "CRUZADOS",
+    "detalhes": {
+      "valor": "Cz$ 1.200,00 a partir de 01.01.89",
+      "atualizacao": "mensal pela variação da OTN",
+      "extensao_afastados": "doença ou acidente INPS, máximo 30 dias a partir do 16º dia"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "3"
+  },
+  {
+    "ano_inicio": 1990,
+    "ano_fim": 1991,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_ALIMENTACAO",
+    "numero_clausula_original": 17,
+    "titulo_original": "CESTA BÁSICA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compartilhamento": "50% empregado / 50% empresa"
+    },
+    "memoria_negociacao": null,
+    "observacao": "Alterado pelo ACT Suplementar 1990 (regionalização).",
+    "pagina_referencia": "8"
+  },
+  {
+    "ano_inicio": 1993,
+    "ano_fim": 1994,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_ALIMENTACAO",
+    "numero_clausula_original": 17,
+    "titulo_original": "CESTA BÁSICA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compartilhamento": {
+        "nivel_basico": 30,
+        "nivel_medio": 40,
+        "nivel_superior": 50
+      },
+      "regionalizacao": true,
+      "extensao_afastados": "45 dias + férias",
+      "prorrogacao_acidente": "avaliação Chefia + Serviço Social"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "10-11"
+  },
+  {
+    "ano_inicio": 1994,
+    "ano_fim": 1995,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_ALIMENTACAO",
+    "numero_clausula_original": 13,
+    "titulo_original": "CESTA BÁSICA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "participacao_empregado": {
+        "Nivel Basico": 30,
+        "Nivel Medio/Tecnico": 40,
+        "Nivel Superior": 50
+      },
+      "fornecimento_afastados": "primeiros 45 dias",
+      "prorrogacao_acidente": "avaliação da chefia e Serviço Social"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "5"
+  },
+  {
+    "ano_inicio": 1995,
+    "ano_fim": 1996,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_ALIMENTACAO",
+    "numero_clausula_original": 50,
+    "titulo_original": "VALE-REFEIÇÃO/ALIMENTAÇÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "distribuicao": "1º dia útil da 2ª quinzena",
+      "compartilhamento": {
+        "RS-01 a RS-17": 5,
+        "RS-18 a RS-27": 10,
+        "RS-28 a RS-65": 15
+      },
+      "reajuste": "IPC-r jan-jun/1995",
+      "desobrigacao_portaria": true
+    }
+  },
+  {
+    "ano_inicio": 1997,
+    "ano_fim": 1998,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_ALIMENTACAO",
+    "numero_clausula_original": 50,
+    "titulo_original": "VALE-REFEIÇÃO/ALIMENTAÇÃO",
+    "status": "DEFERIDO",
+    "valor_atual": 7.5,
+    "unidade": "BRL",
+    "detalhes": {
+      "compartilhamento": {
+        "RS-01 a RS-17": 5,
+        "RS-18 a RS-27": 10,
+        "RS-28 a RS-65": 15
+      },
+      "nao_concedido_ferias": true,
+      "reducao_folhas": true
+    }
+  },
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_ALIMENTACAO",
+    "numero_clausula_original": 54,
+    "titulo_original": "VALE-REFEIÇÃO/ALIMENTAÇÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compartilhamento": {
+        "RS-01 a RS-17": 5,
+        "RS-18 a RS-27": 10,
+        "RS-28 a RS-65": 15
+      },
+      "desobrigacao_portaria": true
+    }
+  },
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_ALIMENTACAO",
+    "numero_clausula_original": 13,
+    "titulo_original": "CESTA BÁSICA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "participacao_empregado": {
+        "Nivel Basico": 10,
+        "Nivel Medio/Tecnico": 20,
+        "Nivel Superior": 30
+      },
+      "regionalizacao": true,
+      "vale_cesta_substituto": {
+        "valor": 40.0,
+        "sem_prejuizo_compartilhamento": true
+      }
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 2000,
+    "ano_fim": 2001,
+    "tipo": "DC",
+    "id_canonico": "FIN_VALE_ALIMENTACAO",
+    "numero_clausula_original": 46,
+    "titulo_original": "VALE REFEIÇÃO/ALIMENTAÇÃO",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": 9.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_facial": 9.0,
+      "quantidade": "23 ou 27 vales",
+      "compartilhamento": {
+        "RS-01 a RS-17": 5,
+        "RS-18 a RS-27": 10,
+        "RS-28 a RS-65": 15
+      },
+      "fornecimento_ferias": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Valor facial de R$ 8,50",
+      "pedido_fentect": "Valor facial de R$ 13,00",
+      "decisao_tst": "DEFERE, fixando R$ 9,00",
+      "fundamento_juridico": "Negociação coletiva",
+      "votos_divergentes": null
+    },
+    "observacao": "Cláusula econômica parcialmente controvertida.",
+    "pagina_referencia": "13-14"
+  },
+  {
+    "ano_inicio": 2001,
+    "ano_fim": 2002,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_ALIMENTACAO",
+    "numero_clausula_original": 49,
+    "titulo_original": "VALE-REFEIÇÃO/ALIMENTAÇÃO",
+    "status": "DEFERIDO",
+    "valor_anterior": 8.5,
+    "valor_atual": 9.5,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_facial": 9.5,
+      "quantidade": "23 ou 27 vales",
+      "vale_alimentacao_extra": "5 vales em substituição ao vale-cesta",
+      "compartilhamento": {
+        "RS-01 a RS-17": 5,
+        "RS-18 a RS-27": 10,
+        "RS-28 a RS-65": 15
+      },
+      "fornecimento_ferias": true,
+      "talonario_ou_cartao": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Reajuste para R$ 9,50",
+      "pedido_fentect": "Reajuste",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": "Vale-cesta foi substituído por 5 vales-alimentação.",
+    "pagina_referencia": "13"
+  },
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_ALIMENTACAO",
+    "numero_clausula_original": 60,
+    "titulo_original": "VALE-REFEIÇÃO/ALIMENTAÇÃO",
+    "status": "DEFERIDO",
+    "valor_anterior": 9.5,
+    "valor_atual": 10.5,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_facial": 10.5,
+      "quantidade": "23 ou 27 vales",
+      "vale_alimentacao_extra": "5 vales em substituição ao vale-cesta",
+      "compartilhamento": {
+        "RS-01 a RS-17": 5,
+        "RS-18 a RS-27": 10,
+        "RS-28 a RS-65": 15
+      },
+      "fornecimento_ferias": true,
+      "talonario_ou_cartao": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Reajuste para R$ 10,50",
+      "pedido_fentect": "Reajuste",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "28-29"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_ALIMENTACAO",
+    "numero_clausula_original": 61,
+    "titulo_original": "VALE-REFEIÇÃO/ALIMENTAÇÃO",
+    "status": "DEFERIDO",
+    "valor_anterior": 10.5,
+    "valor_atual": 12.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_facial": "R$ 11,50 (16/08/2003 a 15/01/2004) e R$ 12,00 (a partir de 16/01/2004)",
+      "quantidade": "23 ou 27 vales",
+      "vale_alimentacao_extra": "5 vales em substituição ao vale-cesta",
+      "compartilhamento": {
+        "RS-01 a RS-17": 5,
+        "RS-18 a RS-27": 10,
+        "RS-28 a RS-65": 15
+      },
+      "fornecimento_ferias": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Reajuste para R$ 11,50/R$ 12,00",
+      "pedido_fentect": "Reajuste",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": "Vale-cesta foi substituído por 5 vales-alimentação.",
+    "pagina_referencia": "28-29"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_ALIMENTACAO",
+    "numero_clausula_original": 60,
+    "titulo_original": "VALE-REFEIÇÃO/ALIMENTAÇÃO",
+    "status": "DEFERIDO",
+    "valor_anterior": 11.5,
+    "valor_atual": 13.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_facial": 13.0,
+      "quantidade": "23 ou 27 vales",
+      "vale_cesta": 72.0,
+      "compartilhamento": {
+        "RS-01 a RS-17": 5,
+        "RS-18 a RS-27": 10,
+        "RS-28 a RS-65": 15
+      },
+      "fornecimento_ferias": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Reajuste para R$ 13,00 e VC R$ 72,00",
+      "pedido_fentect": "Reajuste",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "18-19"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_ALIMENTACAO",
+    "numero_clausula_original": 60,
+    "titulo_original": "VALE-REFEIÇÃO/ALIMENTAÇÃO",
+    "status": "DEFERIDO",
+    "valor_atual": 14.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_facial": 14.0,
+      "quantidade": "23 ou 27 vales",
+      "vale_cesta": 80.0,
+      "compartilhamento": {
+        "RS-01 a RS-17": 5,
+        "RS-18 a RS-27": 10,
+        "RS-28 a RS-65": 15
+      },
+      "abono": 800.0,
+      "extensao_licenca": "90 dias"
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_ALIMENTACAO",
+    "numero_clausula_original": 60,
+    "titulo_original": "VALE-REFEIÇÃO/ALIMENTAÇÃO",
+    "status": "DEFERIDO",
+    "valor_anterior": 15.0,
+    "valor_atual": 15.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_facial": 15.0,
+      "quantidade": "23 ou 27 vales",
+      "vale_cesta": 90.0,
+      "compartilhamento": {
+        "RS-01 a RS-17": 5,
+        "RS-18 a RS-27": 10,
+        "RS-28 a RS-65": 15
+      },
+      "credito_extra": 391.0,
+      "abono": 500.0,
+      "fornecimento_ferias": true,
+      "fornecimento_licenca_medica": "90 dias",
+      "nao_desconto_falecido": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Reajuste do VA para R$ 15,00, VC R$ 90,00, abono R$ 500,00, crédito extra R$ 391,00",
+      "pedido_fentect": "Reajuste",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "24-25"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_ALIMENTACAO",
+    "numero_clausula_original": 60,
+    "titulo_original": "VALE REFEIÇÃO/ALIMENTAÇÃO",
+    "status": "DEFERIDO",
+    "valor_anterior": 17.0,
+    "valor_atual": 18.5,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_facial": "R$ 18,50 (ago-dez/2008) e R$ 20,00 (a partir jan/2009)",
+      "quantidade": "23 ou 27 vales",
+      "vale_cesta": 110.0,
+      "compartilhamento": {
+        "RS-01 a RS-17": 5,
+        "RS-18 a RS-27": 10,
+        "RS-28 a RS-65": 15
+      },
+      "credito_extra": 425.5,
+      "opcao_fracionamento": true,
+      "fornecimento_ferias": true,
+      "fornecimento_licenca_medica": "90 dias"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Reajuste para R$ 18,50 e R$ 20,00; VC R$ 110,00; crédito extra R$ 425,50",
+      "pedido_fentect": "Reajuste",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 19
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_ALIMENTACAO",
+    "numero_clausula_original": 61,
+    "titulo_original": "VALE REFEIÇÃO/ALIMENTAÇÃO",
+    "status": "DEFERIDO",
+    "valor_atual": 21.5,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_facial": "R$ 21,50 (ago/2009) e R$ 23,00 (ago/2010)",
+      "quantidade": "23 ou 27 vales",
+      "vale_cesta": "R$ 120,00 (2009) e R$ 130,00 (2010)",
+      "compartilhamento": {
+        "NM-01 a NM-18": 5,
+        "NM-19 a NM-38": 10,
+        "NM-39 a NM-90": 15,
+        "NS-01 a NS-60": 15
+      },
+      "credito_extra": "R$ 494,50 (2009) e R$ 529,00 (2010)"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "17-18"
+  },
+  {
+    "ano_inicio": 2011,
+    "ano_fim": 2012,
+    "tipo": "DCG",
+    "id_canonico": "FIN_VALE_ALIMENTACAO",
+    "numero_clausula_original": 61,
+    "titulo_original": "VALE REFEIÇÃO/ALIMENTAÇÃO",
+    "status": "DEFERIDO",
+    "valor_anterior": 25.0,
+    "valor_atual": 25.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_facial": 25.0,
+      "quantidade": "23 ou 27 vales",
+      "vale_cesta": 140.0,
+      "compartilhamento": {
+        "NM-01 a NM-18": 5,
+        "NM-19 a NM-38": 10,
+        "NM-39 a NM-90": 15,
+        "NS-01 a NS-60": 15
+      },
+      "vale_extra": 563.5
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção",
+      "pedido_fentect": "Reajuste",
+      "decisao_tst": "DEFERE a manutenção com reajuste de 6,87%",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 61
+  },
+  {
+    "ano_inicio": 2012,
+    "ano_fim": 2013,
+    "tipo": "DCG",
+    "id_canonico": "FIN_VALE_ALIMENTACAO",
+    "numero_clausula_original": 61,
+    "titulo_original": "VALE REFEIÇÃO/ALIMENTAÇÃO",
+    "status": "DEFERIDO",
+    "valor_anterior": 25.99,
+    "valor_atual": 26.62,
+    "unidade": "BRL",
+    "variacao_percentual": "8,84",
+    "detalhes": {
+      "valor_facial": 26.62,
+      "quantidade": "23 ou 27 vales",
+      "vale_cesta": 149.1,
+      "reajuste_aplicado": "8,84% (IPCA alimentos)",
+      "compartilhamento": {
+        "NM-01 a NM-18": 5,
+        "NM-19 a NM-38": 10,
+        "NM-39 a NM-90": 15,
+        "NS-01 a NS-60": 15
+      },
+      "vale_extra": 612.26,
+      "opcao_fracionamento": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção com reajuste de 5,2%",
+      "pedido_fentect": "Reajuste de 100% do INPC",
+      "decisao_tst": "DEFERE reajuste de 8,84% (IPCA alimentos e bebidas)",
+      "fundamento_juridico": "Jurisprudência da SDC",
+      "votos_divergentes": null
+    },
+    "observacao": "Reajuste de 8,84% sobre R$ 25,00 → R$ 26,62. Vale Cesta R$ 140,00 → R$ 149,10.",
+    "pagina_referencia": 61
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_ALIMENTACAO",
+    "numero_clausula_original": 61,
+    "titulo_original": "VALE REFEIÇÃO/ALIMENTAÇÃO",
+    "status": "MANTIDO",
+    "texto": "Vale Refeição/Alimentação de R$ 28,29 (23 ou 27 vales) + Vale Cesta de R$ 158,45. Compartilhamento: 5% (NM-01 a NM-18), 10% (NM-19 a NM-38), 15% (NM-39 a NM-90 e NS-01 a NS-60). Crédito extra de R$ 650,65 (Vale Cesta extra) em dezembro/2013.",
+    "observacao": "Idêntica ao DC 2013-2014.",
+    "pagina_referencia": 17
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "FIN_VALE_ALIMENTACAO",
+    "numero_clausula_original": 61,
+    "titulo_original": "VALE REFEIÇÃO/ALIMENTAÇÃO",
+    "status": "ALTERADO",
+    "texto": "Vale Refeição/Alimentação de R$ 28,29 (23 ou 27 vales conforme jornada) + Vale Cesta de R$ 158,45. Compartilhamento: 5% (NM-01 a NM-18), 10% (NM-19 a NM-38), 15% (NM-39 a NM-90 e NS-01 a NS-60). Crédito extra de R$ 650,65 (Vale Cesta extra) em dezembro/2013 para admitidos até 31/07/2013.",
+    "observacao": "Valores reajustados. Incluído o crédito extra de R$ 650,65 (Vale Cesta extra).",
+    "pagina_referencia": 102
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_ALIMENTACAO",
+    "numero_clausula_original": 51,
+    "titulo_original": "VALE REFEIÇÃO/ALIMENTAÇÃO",
+    "status": "DEFERIDO",
+    "valor_atual": 30.13,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_facial": 30.13,
+      "quantidade": "26 ou 30 vales",
+      "vale_cesta": 188.58,
+      "compartilhamento": {
+        "NM-01 a NM-18": 5,
+        "NM-19 a NM-38": 10,
+        "NM-39 a NM-90": 15,
+        "NS-01 a NS-60": 15
+      },
+      "credito_extra": 813.51
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "23-24"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_ALIMENTACAO",
+    "numero_clausula_original": 51,
+    "titulo_original": "VALE REFEIÇÃO/ALIMENTAÇÃO",
+    "status": "DEFERIDO",
+    "valor_anterior": 33.01,
+    "valor_atual": 33.01,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_facial": 33.01,
+      "quantidade": "26 ou 30 vales",
+      "vale_cesta": 206.61,
+      "compartilhamento": {
+        "NM-01 a NM-63": 0.5,
+        "NM-64 a NM-90": 5,
+        "NS-01 a NS-60": 10
+      },
+      "vale_extra": 891.28,
+      "opcao_fracionamento": true,
+      "fornecimento_ferias": true,
+      "fornecimento_licenca_medica": "90 dias"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 29
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_ALIMENTACAO",
+    "numero_clausula_original": 51,
+    "titulo_original": "VALE REFEIÇÃO/ALIMENTAÇÃO",
+    "status": "DEFERIDO",
+    "valor_atual": 35.9,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_facial": 35.9,
+      "quantidade": "26 ou 30 vales",
+      "vale_cesta": 224.67,
+      "compartilhamento": {
+        "NM-01 a NM-63": 0.5,
+        "NM-64 a NM-90": 5,
+        "NS-01 a NS-60": 10
+      },
+      "credito_extra": 969.18
+    },
+    "memoria_negociacao": null,
+    "observacao": "Compartilhamento reduzido para 0,5% nas faixas iniciais.",
+    "pagina_referencia": "31-32"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_ALIMENTACAO",
+    "numero_clausula_original": 51,
+    "titulo_original": "VALE REFEIÇÃO/ALIMENTAÇÃO",
+    "status": "DEFERIDO",
+    "valor_atual": 36.64,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_facial": 36.64,
+      "quantidade": "26 ou 30 vales",
+      "vale_cesta": 229.32,
+      "compartilhamento": {
+        "NM-01 a NM-63": 0.5,
+        "NM-64 a NM-90": 5,
+        "NS-01 a NS-60": 10
+      },
+      "vale_extra": 989.24,
+      "opcao_fracionamento": true,
+      "extensao_licenca_medica_90_dias": true,
+      "extensao_ferias": true,
+      "extensao_licenca_maternidade_adoção": true
+    },
+    "pagina_referencia": "74-77"
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_ALIMENTACAO",
+    "numero_clausula_original": 51,
+    "titulo_original": "VALE REFEIÇÃO/ALIMENTAÇÃO",
+    "status": "DEFERIDO",
+    "valor_anterior": 37.96,
+    "valor_atual": 37.96,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_facial": 37.96,
+      "quantidade": "26 ou 30 vales",
+      "vale_cesta": 237.6,
+      "compartilhamento": {
+        "NM-01 a NM-63": 0.5,
+        "NM-64 a NM-90": 5,
+        "NS-01 a NS-60": 10
+      },
+      "vale_extra": 1024.95,
+      "opcao_fracionamento": true,
+      "fornecimento_ferias": true,
+      "fornecimento_licenca_medica": "90 dias"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 29
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "FIN_VALE_ALIMENTACAO",
+    "numero_clausula_original": 51,
+    "titulo_original": "VALE REFEIÇÃO/ALIMENTAÇÃO",
+    "status": "MANTIDO",
+    "texto": "dia útil da primeira quinzena de cada mês, a partir de agosto/2019, Vale Refeição ou Vale Alimentação no valor facial de R$ 39,10 (trinta e nove reais e dez centavos) na quantidade de 26 (vinte e seis) ou 30 (trinta) vales, para os que têm jornada de trabalho regular de 5 (cinco) ou 6 (seis) dias por semana, respectivamente, e Vale Cesta no valor de R$ 244,73 (duzentos e quarenta e quatro reais e setenta e três centavos). §1º Os benefícios referidos no caput terão a participação financeira dos(das) empregados(as) nas seguintes proporções: I – NM-01 até NM-63 – 0,5% (zero vírgula cinco por cento); II – NM-64 até NM-90 – 5% (cinco por cento); III – NS-01 até NS-60 – 10% (dez por cento). §2º No período de fruição de férias, licença-maternidade e licença adoção, inclusive prorrogação (conforme legislação específica), também serão concedidos os Vales Refeição/Alimentação e Vale Cesta, mencionados no caput, nas mesmas condições dos demais meses. Os créditos alusivos aos Vales Refeição, Alimentação e Cesta, em razão do atual suporte eletrônico, serão disponibilizados conforme descrito no caput desta cláusula. §3º O(a) empregado(a) poderá optar por receber o seu Vale Refeição ou Vale Alimentação das seguintes formas: 100% no Cartão Refeição ou 100% no Cartão Alimentação ou 30% no Cartão Refeição e 70% no Cartão Alimentação, ou 30% no Cartão Alimentação e 70% no cartão Refeição ou 50% em cada um dos cartões. §4º Os Correios ficam desobrigados das exigências previstas nos subitens 24.6.3. e 24.6.3.2 da Portaria MTE nº 13 de 17/09/93 principalmente em relação a aquecimento de marmita e instalação de local caracterizado como Cantina/Refeitório. §5º Serão concedidos, a partir da vigência deste Acordo Coletivo de Trabalho, os Vales Refeição ou Alimentação e Vale Cesta referidos nesta cláusula nos primeiros 90 (noventa) dias de afastamento por licença médica, e até o retorno por motivo de acidente do trabalho, inclusive para aposentados(as) em atividade que estejam afastados em tratamento de saúde. Para todos os casos haverá desconto do devido compartilhamento quando do retorno ao trabalho. I – Em caso de retorno ao auxílio doença e se o motivo ou o CID (Código Internacional de Doenças) de retorno for relacionado ao do último afastamento, o empregado(a) não terá direito a nova contagem de 90 (noventa) dias para recebimento de Vales Alimentação, Refeição e Cesta, exceto se o retorno ocorrer após 60 (sessenta) dias corridos, contados da data de retorno da última licença. §",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2020,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "FIN_VALE_ALIMENTACAO",
+    "numero_clausula_original": 2,
+    "titulo_original": "VALE REFEIÇÃO/ALIMENTAÇÃO",
+    "status": "MANTIDO",
+    "texto": "conforme o Programa de Alimentação do Trabalhador – PAT, definindo seus parâmetros. OPERACIONALIZAÇÃO DA CLÁUSULA As regras e condições para operacionalização da concessão do vale-alimentação/refeição e do vale-cesta, bem como os valores do benefício estão previstas na PRT/PRESI/DIGEP-002/2020, publicada em 01/08/2020 e atualizada em 17/11/2020. O Vale-Cesta somente é devido nos meses em que o empregado tiver a fração maior ou igual a 15 dias trabalhados. O vale-alimentação/refeição é fornecido em quantidade de 22 ou 26 vales, respectivamente para turnos de trabalho de 5 (cinco) ou de 6 (seis) dias na semana, independentemente da quantidade de dias úteis. A concessão mensal levará em consideração o turno de trabalho constante da ficha cadastral do empregado. Aquele que possui jornada regular de 5 (cinco) dias na semana e que for convocado para trabalho em dias de sábado (ou 6º dia), terá direito a 1 (um) vale-alimentação/refeição adicional, desde que tenha cumprido uma jornada igual ou superior a 4 horas nesse dia. Assim como ocorre quando há realização de trabalho em dia de repouso, o crédito do vale adicional no cartão alimentação/refeição ocorrerá até o último dia do mês subsequente, desde que o gestor tenha registrado a informação no PGP, no menu \"Informar Ponto\". Ressaltase que o registro da jornada de 6 (seis) dias apenas no quadro horário do PGP não define parâmetros para fornecimento dos vale-alimentação/refeição. Não haverá pagamento de vale adicional pelo trabalho em dia de repouso, caso o empregado tenha optado por folga. Da mesma forma, não haverá desconto do vale nos dias de folga compensatória. Haverá a suspensão do fornecimento (ou o desconto dos vales já concedidos) para o período em que o contrato de trabalho estiver suspenso, exceto se for em razão de afastamento com recebimento de benefício previdenciário auxílio acidentário. Contudo, nos casos de Licença Acidente de Trabalho, a concessão dos vales está condicionada à manutenção do benefício previdenciário acidentário ativo pelo INSS. Assim, nos períodos em que o empregado encontrar-se com benefício INSS negado ou aguardando decisão daquele órgão, o fornecimento do vale-alimentação/refeição e cesta será suspenso, até manifestação favorável do Órgão Previdenciário. Não haverá concessão de vale-alimentação/refeição para o período de fruição de férias. Assim, como o fornecimento do vale se dá no último dia útil da primeira quinzena do mês para o período de do dia 16 até o dia 15 do mês subs",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "FIN_VALE_ALIMENTACAO",
+    "numero_clausula_original": 2,
+    "titulo_original": "VALE-ALIMENTAÇÃO/REFEIÇÃO",
+    "status": "DEFERIDO",
+    "valor_atual": 9.75,
+    "unidade": "%",
+    "detalhes": {
+      "reajuste": 9.75,
+      "base_legal": "PAT - Programa de Alimentação do Trabalhador",
+      "redacao": "A empresa disponibilizará benefício de refeição/alimentação conforme PAT, definindo seus parâmetros, promovendo o reajuste de 9,75% no benefício"
+    },
+    "memoria_negociacao": "Empresa ofertou reajuste de 100% do INPC sobre o benefício durante audiências",
+    "observacao": "Mantida a redação anterior com acréscimo do reajuste",
+    "pagina_referencia": "24, 96"
+  },
+  {
+    "ano_inicio": 2022,
+    "ano_fim": 2023,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_ALIMENTACAO",
+    "numero_clausula_original": 2,
+    "titulo_original": "VALE-ALIMENTAÇÃO/REFEIÇÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "base_legal": "PAT – Programa de Alimentação do Trabalhador",
+      "reajuste": "10,12%",
+      "extensao_ferias": "mesmas condições dos demais meses",
+      "vale_cesta": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "1"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_ALIMENTACAO",
+    "numero_clausula_original": 53,
+    "titulo_original": "VALE REFEIÇÃO/ALIMENTAÇÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "reajuste": "3,53%",
+      "compartilhamento": {
+        "NM-01 a NM-63": 5,
+        "NM-64 a NM-90": 10,
+        "NS-01 a NS-60": 15
+      },
+      "PAT": true
+    },
+    "memoria_negociacao": null,
+    "observacao": "Vinculado ao PAT (Programa de Alimentação do Trabalhador).",
+    "pagina_referencia": "11-12"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_ALIMENTACAO",
+    "numero_clausula_original": 55,
+    "titulo_original": "VALE REFEIÇÃO/ALIMENTAÇÃO",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": 50.93,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_facial": 50.93,
+      "quantidade": "22 ou 26 vales",
+      "vale_cesta": 319.79,
+      "ticket_extra": 2500.0,
+      "compartilhamento": {
+        "NM-01 a NM-63": 5,
+        "NM-64 a NM-90": 10,
+        "NS-01 a NS-60": 15
+      },
+      "opcoes_cartao": [
+        "100% Refeição",
+        "100% Alimentação",
+        "30/70",
+        "70/30",
+        "50/50"
+      ],
+      "desobrigacao_cantina": true,
+      "vales_licenca_medica_90_dias": true,
+      "nao_desconto_falecido": true,
+      "manutencao_dirigente_sindical": true,
+      "ticket_extra_parcelas": [
+        "R$ 1.000,00 em setembro/2024",
+        "R$ 1.500,00 até 5º dia útil de janeiro/2025"
+      ],
+      "ticket_adicional_ago_dez_2024": "1 folha de ticket mensal adicional para empregados com remuneração até R$ 7.300,00"
+    },
+    "observacao": "No DC 2025/2026, o valor foi reajustado para R$ 53,53 (VA) e R$ 336,10 (VC), com ticket extra mantido em R$ 2.500,00.",
+    "pagina_referencia": 20
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_ALIMENTACAO",
+    "numero_clausula_original": 48,
+    "titulo_original": "VALE REFEIÇÃO/ALIMENTAÇÃO",
+    "status": "DEFERIDO_PARCIALMENTE",
+    "valor_anterior": 53.53,
+    "valor_atual": 55.61,
+    "unidade": "BRL",
+    "variacao_percentual": "3,89",
+    "detalhes": {
+      "valor_facial": 55.61,
+      "quantidade": "22 ou 26 vales",
+      "vale_cesta": 349.18,
+      "reajuste_aplicado": "4,09%",
+      "ticket_extra": "não previsto",
+      "compartilhamento": {
+        "NM-01 a NM-63": 5,
+        "NM-64 a NM-90": 10,
+        "NS-01 a NS-60": 15
+      }
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção com exclusão dos §§ 2º e 9º",
+      "pedido_fentect": "Manutenção com reajuste",
+      "pedido_findect": "Manutenção com reajuste",
+      "decisao_tst": "DEFERE reajuste de 4,09%",
+      "fundamento_juridico": "Jurisprudência da SDC/TST",
+      "votos_divergentes": null
+    },
+    "observacao": "**PERDA**. O ticket extra de R$ 2.500,00, que existia no ACT 2024/2025 e foi mantido no DC 2025/2026, NÃO consta do DC 2026/2027. Os valores foram reajustados em 4,09%: VA R$ 53,53 → R$ 55,61; VC R$ 336,10 → R$ 349,18.",
+    "pagina_referencia": 21
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "FIN_VALE_ALIMENTACAO",
+    "numero_clausula_original": 48,
+    "titulo_original": "VALE REFEIÇÃO/ALIMENTAÇÃO",
+    "status": "DEFERIDO_PARCIALMENTE",
+    "valor_anterior": 50.93,
+    "valor_atual": 53.53,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_facial": 53.53,
+      "quantidade": "22 ou 26 vales",
+      "vale_cesta": 336.1,
+      "reajuste_aplicado": "5,10%",
+      "ticket_extra": 2500.0,
+      "compartilhamento": {
+        "NM-01 a NM-63": 5,
+        "NM-64 a NM-90": 10,
+        "NS-01 a NS-60": 15
+      },
+      "opcao_fracionamento": true,
+      "extensao_licenca_medica_90_dias": true
+    },
+    "pagina_referencia": "58-60"
+  }
+]

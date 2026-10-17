@@ -1,0 +1,270 @@
+[
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "FIN_CONSIGNACOES",
+    "numero_clausula_original": 73,
+    "titulo_original": "PROCESSAMENTO DE CONSIGNAÇÕES",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "consignacoes_obrigatorias": true,
+      "consignacoes_voluntarias": true,
+      "margem_consignavel": 30,
+      "cartao_consignado": 10
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "30-31"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "FIN_CONSIGNACOES",
+    "numero_clausula_original": 74,
+    "titulo_original": "PROCESSAMENTO DE CONSIGNAÇÕES EM FOLHA DE PAGAMENTO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "consignacoes_obrigatorias": [
+        "INSS",
+        "pensão alimentícia judicial",
+        "IR",
+        "decisão judicial/administrativa",
+        "mensalidade sindical",
+        "plano de saúde",
+        "previdência complementar"
+      ],
+      "consignacoes_voluntarias": [
+        "financiamento habitacional",
+        "cooperativas",
+        "seguro de vida",
+        "empréstimo consignado",
+        "pensão alimentícia voluntária"
+      ],
+      "margem_consignavel": "30% para empréstimos, 10% para cartão"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 39
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "FIN_CONSIGNACOES",
+    "numero_clausula_original": 75,
+    "titulo_original": "PROCESSAMENTO DE CONSIGNAÇÕES",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "margem_consignavel": 30,
+      "cartao_consignado": 10
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "41-42"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "FIN_CONSIGNACOES",
+    "numero_clausula_original": 73,
+    "titulo_original": "PROCESSAMENTO DE CONSIGNAÇÕES EM FOLHA DE PAGAMENTO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "consignacoes_obrigatorias": [
+        "INSS",
+        "pensão alimentícia judicial",
+        "IR",
+        "decisão judicial/administrativa",
+        "mensalidade sindical",
+        "plano Correios Saúde",
+        "outros legais"
+      ],
+      "consignacoes_voluntarias": [
+        "previdência complementar",
+        "financiamento habitacional",
+        "pensão alimentícia voluntária",
+        "empréstimo cooperativa",
+        "empréstimo bancário"
+      ],
+      "margem_consignavel": "30% empréstimos + 10% cartão"
+    },
+    "pagina_referencia": "93-96"
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "FIN_CONSIGNACOES",
+    "numero_clausula_original": 73,
+    "titulo_original": "PROCESSAMENTO DE CONSIGNAÇÕES EM FOLHA DE PAGAMENTO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "consignacoes_obrigatorias": [
+        "INSS",
+        "pensão alimentícia judicial",
+        "IR",
+        "decisão judicial/administrativa",
+        "mensalidade sindical",
+        "plano de saúde",
+        "previdência complementar"
+      ],
+      "consignacoes_voluntarias": [
+        "financiamento habitacional",
+        "cooperativas",
+        "seguro de vida",
+        "empréstimo consignado",
+        "pensão alimentícia voluntária"
+      ],
+      "margem_consignavel": "30% para empréstimos, 10% para cartão"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 38
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "FIN_CONSIGNACOES",
+    "numero_clausula_original": 73,
+    "titulo_original": "PROCESSAMENTO DE CONSIGNAÇÕES EM FOLHA DE PAGAMENTO ....................................................................",
+    "status": "MANTIDO",
+    "texto": "Cláusula 74 – REGISTRO DE PONTO ................................................................................................................................................ 124",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "FIN_CONSIGNACOES",
+    "numero_clausula_original": 72,
+    "titulo_original": "PROCESSAMENTO DE CONSIGNAÇÕES",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "consignacoes_obrigatorias": true,
+      "consignacoes_voluntarias": true,
+      "POSTALIS": true,
+      "implementacao": "folha subsequente"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "14"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "FIN_CONSIGNACOES",
+    "numero_clausula_original": 73,
+    "titulo_original": "PROCESSAMENTO DE CONSIGNAÇÕES EM FOLHA DE PAGAMENTO",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "consignacoes_obrigatorias": [
+        "INSS",
+        "pensão alimentícia judicial",
+        "IR",
+        "decisão judicial/administrativa",
+        "mensalidade sindical",
+        "plano de saúde",
+        "previdência complementar"
+      ],
+      "consignacoes_voluntarias": [
+        "financiamento habitacional",
+        "cooperativas",
+        "seguro de vida",
+        "empréstimo consignado",
+        "pensão alimentícia voluntária"
+      ],
+      "margem_consignavel": true
+    },
+    "observacao": null,
+    "pagina_referencia": 25
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "FIN_CONSIGNACOES",
+    "numero_clausula_original": 63,
+    "titulo_original": "PROCESSAMENTO DE CONSIGNAÇÕES EM FOLHA DE PAGAMENTO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "consignacoes_obrigatorias": [
+        "INSS",
+        "pensão alimentícia judicial",
+        "IR",
+        "decisão judicial/administrativa",
+        "mensalidade sindical",
+        "plano de saúde",
+        "previdência complementar"
+      ],
+      "consignacoes_voluntarias": [
+        "financiamento habitacional",
+        "cooperativas",
+        "seguro de vida",
+        "empréstimo consignado",
+        "pensão alimentícia voluntária"
+      ],
+      "margem_consignavel": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 26
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "FIN_CONSIGNACOES",
+    "numero_clausula_original": 63,
+    "titulo_original": "PROCESSAMENTO DE CONSIGNAÇÕES EM FOLHA DE PAGAMENTO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "consignacoes_obrigatorias": [
+        "INSS",
+        "pensão alimentícia judicial",
+        "IR",
+        "decisão judicial/administrativa",
+        "mensalidade sindical",
+        "plano de saúde",
+        "previdência complementar"
+      ],
+      "consignacoes_voluntarias": [
+        "financiamento habitacional",
+        "cooperativas",
+        "seguro de vida",
+        "empréstimo consignado",
+        "pensão alimentícia voluntária"
+      ],
+      "margem_consignavel": true
+    },
+    "pagina_referencia": "73-74"
+  }
+]

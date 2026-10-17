@@ -1,0 +1,109 @@
+[
+  {
+    "ano_inicio": 1990,
+    "ano_fim": 1991,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_REFEICAO",
+    "numero_clausula_original": 12,
+    "titulo_original": "VALE-REFEIÇÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "quantidade": "25 unidades (trabalha sábado) / 22 unidades (não trabalha sábado)",
+      "extensao_ferias": true,
+      "extensao_licenca_gestante": "primeiros 45 dias"
+    },
+    "memoria_negociacao": null,
+    "observacao": "Quantidade por unidade (posteriormente alterado para 23/27 vales por jornada 5/6 dias).",
+    "pagina_referencia": "7"
+  },
+  {
+    "ano_inicio": 1992,
+    "ano_fim": 1992,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_REFEICAO",
+    "numero_clausula_original": 12,
+    "titulo_original": "VALE-REFEIÇÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "distribuicao": "1º dia útil da 2ª quinzena de cada mês",
+      "reajuste": "INPC/IBGE automaticamente",
+      "extensao_ferias_licenca": "45 dias em licença gestante, acidente de trabalho e licença médica"
+    },
+    "pagina_referencia": "4"
+  },
+  {
+    "ano_inicio": 1993,
+    "ano_fim": 1994,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_REFEICAO",
+    "numero_clausula_original": 10,
+    "titulo_original": "VALE-REFEIÇÃO",
+    "status": "DEFERIDO",
+    "valor_atual": 80000.0,
+    "unidade": "CRUZEIROS",
+    "detalhes": {
+      "distribuicao": "1º dia útil da 2ª quinzena",
+      "valores": {
+        "regioes_metropolitanas": 80000,
+        "150k_a_800k": 68000,
+        "menos_150k": 60000
+      },
+      "reajuste": "INPC/IBGE mensal",
+      "extensao_ferias": true,
+      "extensao_licenca_medica": "45 dias"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "6-7"
+  },
+  {
+    "ano_inicio": 1994,
+    "ano_fim": 1995,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_REFEICAO",
+    "numero_clausula_original": 45,
+    "titulo_original": "VALE-REFEIÇÃO",
+    "status": "DEFERIDO",
+    "valor_atual": 3.9,
+    "unidade": "BRL",
+    "detalhes": {
+      "distribuicao": "1º dia útil da 2ª quinzena",
+      "valores": {
+        "regioes_metropolitanas": 3.9,
+        "150k_a_800k_habitantes": 3.3,
+        "menos_150k_habitantes": 2.9
+      },
+      "fornecimento_ferias": true,
+      "fornecimento_licenca_medica": "45 dias",
+      "vale_alimentacao_opcao": true
+    },
+    "memoria_negociacao": null,
+    "observacao": "Valores regionalizados conforme população.",
+    "pagina_referencia": "13-14"
+  },
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_REFEICAO",
+    "numero_clausula_original": 55,
+    "titulo_original": "VALE-REFEIÇÃO/ALIMENTAÇÃO",
+    "status": "DEFERIDO",
+    "valor_atual": 8.5,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_facial": 8.5,
+      "quantidade": "23 ou 27 vales",
+      "compartilhamento": {
+        "RS-01 a RS-17": 5,
+        "RS-18 a RS-27": 10,
+        "RS-28 a RS-65": 15
+      },
+      "fornecimento_ferias": true,
+      "talonario_reduzivel": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "17-18"
+  }
+]

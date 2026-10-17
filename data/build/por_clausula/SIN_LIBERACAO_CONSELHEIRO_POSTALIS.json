@@ -1,0 +1,97 @@
+[
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "SIN_LIBERACAO_CONSELHEIRO_POSTALIS",
+    "numero_clausula_original": 37,
+    "titulo_original": "LIBERAÇÃO DE CONSELHEIRO DO POSTALIS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "membros": "Conselho Deliberativo e Fiscal do POSTALIS"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "12"
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "SIN_LIBERACAO_CONSELHEIRO_POSTALIS",
+    "numero_clausula_original": 19,
+    "titulo_original": "LIBERAÇÃO DE CONSELHEIRO DO POSTALIS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "onus_ECT": "em reuniões obrigatórias e cursos"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "10"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "SIN_LIBERACAO_CONSELHEIRO_POSTALIS",
+    "numero_clausula_original": 19,
+    "titulo_original": "LIBERAÇÃO DE CONSELHEIRO(A) DO POSTALIS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "liberacao": "membros do Conselho Deliberativo e Fiscal do POSTALIS",
+      "onus": "ECT",
+      "reunioes_obrigatorias": true,
+      "curso_capacitacao": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 12
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "SIN_LIBERACAO_CONSELHEIRO_POSTALIS",
+    "numero_clausula_original": 19,
+    "titulo_original": "LIBERAÇÃO DE CONSELHEIRO(A) DO POSTALIS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "onus_ECT": "reuniões obrigatórias e cursos LC 108"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "13"
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "SIN_LIBERACAO_CONSELHEIRO_POSTALIS",
+    "numero_clausula_original": 19,
+    "titulo_original": "LIBERAÇÃO DE CONSELHEIRO(A) DO POSTALIS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "liberacao": "membros do Conselho Deliberativo e Fiscal do POSTALIS",
+      "onus": "ECT",
+      "reunioes_obrigatorias": true,
+      "curso_capacitacao": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 11
+  }
+]

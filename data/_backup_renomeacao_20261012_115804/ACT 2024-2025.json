@@ -1,0 +1,1480 @@
+{
+  "metadados_documento": {
+    "tipo": "ACT",
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "processo": "53180.035944/2024-79",
+    "entidade_patronal": "ECT",
+    "entidades_profissionais": ["FINDECT"],
+    "sindicatos_filiados": ["SINTECT/SP", "SINTECT/RJ", "SINTECT/MA", "SINTECT/TO", "SINDECTEB/BRU"],
+    "data_assinatura": "2024-09-13",
+    "vigencia_inicio": "2024-08-01",
+    "vigencia_fim": "2025-07-31",
+    "arquivo_origem": "ACT-2024-2025-FINDECT.pdf"
+  },
+  "clausulas": [
+    {
+      "id_canonico": "PRO_ANISTIA",
+      "numero_clausula_original": 1,
+      "titulo_original": "ANISTIA",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "leis_aplicaveis": ["8.632/93", "8.878/94", "10.559/2002", "11.282/2006"],
+        "grupo_trabalho": true,
+        "prazo_gt": "30 dias após assinatura do ACT",
+        "composicao_gt": "5 representantes dos Correios + 5 membros indicados pelas Federações",
+        "paridade_genero": true
+      },
+      "observacao": null,
+      "pagina_referencia": 1
+    },
+    {
+      "id_canonico": "PRO_REVISAO_PROCESSOS_DISCIPLINARES",
+      "numero_clausula_original": 2,
+      "titulo_original": "GRUPO DE TRABALHO PARA REVISÃO DE PROCESSOS ADMINISTRATIVOS DISCIPLINARES",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "grupo_trabalho": true,
+        "prazo_gt": "30 dias após assinatura do ACT",
+        "composicao_gt": "5 representantes dos Correios + 5 membros indicados pelas Federações",
+        "publico_alvo": ["dirigentes", "delegados", "ativistas sindicais"],
+        "retroacao": 2015
+      },
+      "observacao": null,
+      "pagina_referencia": 2
+    },
+    {
+      "id_canonico": "SOC_APOSENTADOS",
+      "numero_clausula_original": 3,
+      "titulo_original": "APOSENTADOS(AS)",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "dia_aposentado": "24 de janeiro",
+        "cracha_especifico": true,
+        "programa_preparacao": true,
+        "relacionamento_entidades": true,
+        "participacao_acoes_diversidade": true
+      },
+      "observacao": null,
+      "pagina_referencia": 2
+    },
+    {
+      "id_canonico": "SIN_ENFRENTAMENTO_ASSEDIOS",
+      "numero_clausula_original": 4,
+      "titulo_original": "ENFRENTAMENTO AOS ASSÉDIOS",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "canais_denuncia": "Ouvidoria",
+        "apoio_sindical": true,
+        "acolhimento_psicossocial": true,
+        "grupo_trabalho": true,
+        "prazo_gt": "30 dias após assinatura do ACT",
+        "composicao_gt": "7 representantes dos Correios + 7 representantes das Federações",
+        "paridade_genero": true,
+        "capacitacao_gestores": true,
+        "link_app_sou_correios": true
+      },
+      "observacao": null,
+      "pagina_referencia": 2
+    },
+    {
+      "id_canonico": "SIN_EQUIDADE_RACIAL",
+      "numero_clausula_original": 5,
+      "titulo_original": "PROMOÇÃO DA EQUIDADE RACIAL E ENFRENTAMENTO AO RACISMO",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "painel_radar_pessoas": true,
+        "grupo_trabalho": true,
+        "prazo_gt": "30 dias após assinatura do ACT",
+        "composicao_gt": "7 representantes dos Correios + 7 representantes das Federações",
+        "cotas_capacitacao": {
+          "mulheres": 40,
+          "negros": 30,
+          "operacionais": 20
+        },
+        "letramento_racial": true,
+        "reserva_vagas_bolsas": ["negros", "indígenas"]
+      },
+      "observacao": null,
+      "pagina_referencia": 3
+    },
+    {
+      "id_canonico": "SIN_LGBTQIAPN",
+      "numero_clausula_original": 6,
+      "titulo_original": "DOS DIREITOS DAS PESSOAS LGBTQIAPN+",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "campanhas_comunicacao": true,
+        "treinamentos": true,
+        "seminarios_foruns": true,
+        "comissoes_regionais": true,
+        "curso_tema": true,
+        "acolhimento_psicossocial": true
+      },
+      "observacao": null,
+      "pagina_referencia": 3
+    },
+    {
+      "id_canonico": "SIN_PESSOAS_DEFICIENCIA",
+      "numero_clausula_original": 7,
+      "titulo_original": "DOS DIREITOS DAS PESSOAS COM DEFICIÊNCIA",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "campanhas_comunicacao": true,
+        "deficiencias_ocultas": true,
+        "seminarios_foruns": true,
+        "LIBRAS": true,
+        "neurodivergentes": true
+      },
+      "observacao": "No ACT 2024/2025, a cláusula NÃO incluía os incisos I, II e III sobre redução de jornada para pais de filhos com deficiência/TEA. Estes foram adicionados no DC 2025/2026.",
+      "pagina_referencia": 4
+    },
+    {
+      "id_canonico": "SIN_DIREITOS_GERACIONAIS",
+      "numero_clausula_original": 8,
+      "titulo_original": "DOS DIREITOS GERACIONAIS",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "estudos_pluralidade": true,
+        "programa_mentoria": true,
+        "acoes_comunicacao": true
+      },
+      "observacao": null,
+      "pagina_referencia": 4
+    },
+    {
+      "id_canonico": "SIN_EMPREGADO_ESTUDANTE",
+      "numero_clausula_original": 9,
+      "titulo_original": "GARANTIAS AO(À) EMPREGADO(A) ESTUDANTE",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "abono_enem_vestibular": true,
+        "nao_alteracao_jornada": true,
+        "estagio_curricular": true,
+        "parcerias_instituicoes": true,
+        "flexibilizacao_provas": true,
+        "flexibilizacao_teletrabalho": true,
+        "dias_defesa_tcc": 2,
+        "acesso_internet": true
+      },
+      "observacao": "Cláusula tem 13 parágrafos.",
+      "pagina_referencia": 4
+    },
+    {
+      "id_canonico": "SOC_LICENCA_ADOCAO",
+      "numero_clausula_original": 10,
+      "titulo_original": "LICENÇA ADOÇÃO",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": 14,
+      "unidade": "anos de idade",
+      "detalhes": {
+        "dias_licenca": 120,
+        "dias_prorrogacao": 60,
+        "idade_limite_crianca": 14,
+        "termo_guarda": true,
+        "aplicacao_casais_homoafetivos": true
+      },
+      "observacao": null,
+      "pagina_referencia": 5
+    },
+    {
+      "id_canonico": "SOC_LICENCA_PATERNIDADE",
+      "numero_clausula_original": 11,
+      "titulo_original": "LICENÇA PATERNIDADE",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": 22,
+      "unidade": "dias",
+      "detalhes": {
+        "dias_licenca": 22,
+        "extensao_adocao": true,
+        "ampliacao_filho_deficiencia": 30,
+        "garantia_natimorto": true,
+        "garantia_falecimento_recem_nascido": true
+      },
+      "observacao": null,
+      "pagina_referencia": 5
+    },
+    {
+      "id_canonico": "SIN_PROGRAMA_HABITACIONAL",
+      "numero_clausula_original": 12,
+      "titulo_original": "PROGRAMA HABITACIONAL",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "programa": "Minha Casa, Minha Vida",
+        "liberacao_dirigentes": 2,
+        "solicitacao": "escrita, 5 dias úteis de antecedência"
+      },
+      "observacao": null,
+      "pagina_referencia": 5
+    },
+    {
+      "id_canonico": "SIN_PARCERIA_ASSOCIACOES_RECREATIVAS",
+      "numero_clausula_original": 13,
+      "titulo_original": "PARCERIA COM AS ASSOCIAÇÕES RECREATIVAS DOS(AS) EMPREGADOS(AS)",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "liberacao_mensal": 1,
+        "onus": "ECT",
+        "repasse": "segundo dia útil após pagamento"
+      },
+      "observacao": null,
+      "pagina_referencia": 6
+    },
+    {
+      "id_canonico": "FIN_AADC",
+      "numero_clausula_original": 14,
+      "titulo_original": "AADC DURANTE GESTAÇÃO",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": 30,
+      "unidade": "percentual",
+      "detalhes": {
+        "percentual": 30,
+        "base_calculo": "salário-base",
+        "publico_alvo": ["gestantes", "lactantes em licença maternidade"],
+        "cargos": ["Agente de Correios - Carteiro", "Carteiro motorizado"],
+        "inicio": "1º mês de gestação (por recomendação médica)"
+      },
+      "observacao": "Cláusula específica para gestantes. A cláusula geral de AADC para todos os carteiros está no PCCS/2008.",
+      "pagina_referencia": 6
+    },
+    {
+      "id_canonico": "SOC_ENFRENTAMENTO_VIOLENCIA_MULHER",
+      "numero_clausula_original": 15,
+      "titulo_original": "ENFRENTAMENTO À VIOLÊNCIA CONTRA A MULHER",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "transferencia_unidade": true,
+        "divulgacao_ligue_180": true,
+        "manutencao_vinculo_6_meses": true,
+        "licenca_remunerada_20_dias": true,
+        "campanha_tolerancia_zero": true,
+        "ajuda_custo_salario_base": true
+      },
+      "observacao": null,
+      "pagina_referencia": 6
+    },
+    {
+      "id_canonico": "SOC_LICENCA_MATERNIDADE",
+      "numero_clausula_original": 16,
+      "titulo_original": "LICENÇA MATERNIDADE",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": 120,
+      "unidade": "dias",
+      "detalhes": {
+        "dias_licenca": 120,
+        "inicio_ate_28_dias_antes_parto": true,
+        "permanencia_2_meses_atividades_internas": true,
+        "estabilidade_120_dias": true
+      },
+      "observacao": null,
+      "pagina_referencia": 7
+    },
+    {
+      "id_canonico": "SOC_LICENCA_MATERNIDADE",
+      "numero_clausula_original": 17,
+      "titulo_original": "PRORROGAÇÃO DA LICENÇA MATERNIDADE",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": 60,
+      "unidade": "dias",
+      "detalhes": {
+        "dias_prorrogacao": 60,
+        "remuneracao_integral": true,
+        "perda_reembolso_creche_baba": true
+      },
+      "observacao": null,
+      "pagina_referencia": 7
+    },
+    {
+      "id_canonico": "SOC_AFASTAMENTO_ALTA_HOSPITALAR",
+      "numero_clausula_original": 18,
+      "titulo_original": "AFASTAMENTO ESPECIAL ATÉ ALTA HOSPITALAR",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "duracao_mae": "equivalente ao número de dias de internação",
+        "duracao_pai": "limitado a 15 dias",
+        "internacao_minima": "superior a uma semana"
+      },
+      "observacao": null,
+      "pagina_referencia": 7
+    },
+    {
+      "id_canonico": "SOC_PERIODO_AMAMENTACAO",
+      "numero_clausula_original": 19,
+      "titulo_original": "PERÍODO DE AMAMENTAÇÃO",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "intervalo_especial": "3 horas ou dois intervalos de 1h30",
+        "idade_limite_filho": 18,
+        "jornada_reduzida": "5 horas corridas",
+        "salas_amamentacao": "efetivo de mulheres maior que 50"
+      },
+      "observacao": null,
+      "pagina_referencia": 8
+    },
+    {
+      "id_canonico": "SOC_SAUDE_MULHER",
+      "numero_clausula_original": 20,
+      "titulo_original": "SAÚDE DA MULHER",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "acoes_marco_outubro": true,
+        "mudanca_provisoria_tarefa": true,
+        "mudanca_automatica_5_mes": true,
+        "licenca_menstrual_dias": 2,
+        "projeto_bem_estar_obesas": true
+      },
+      "observacao": null,
+      "pagina_referencia": 8
+    },
+    {
+      "id_canonico": "SIN_EQUIDADE_GENERO",
+      "numero_clausula_original": 21,
+      "titulo_original": "PROMOÇÃO DA EQUIDADE DE GÊNERO E ENFRENTAMENTO AO SEXISMO",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "principios_empoderamento": true,
+        "programas_lideranca": true,
+        "grupo_trabalho": true,
+        "prazo_gt": "30 dias após assinatura do ACT",
+        "composicao_gt": "7 representantes dos Correios + 7 representantes das Federações",
+        "cotas_capacitacao": {
+          "mulheres": 40,
+          "negros": 30,
+          "operacionais": 20
+        }
+      },
+      "observacao": null,
+      "pagina_referencia": 8
+    },
+    {
+      "id_canonico": "SIN_EQUIDADE_GENERO",
+      "numero_clausula_original": 22,
+      "titulo_original": "INCENTIVO E PARTICIPAÇÃO DAS MULHERES NA LIDERANÇA DA EMPRESA",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "percentual_mulheres_gestao": 40,
+        "percentual_negros_gestao": 30,
+        "percentual_vagas_ri_mulheres": 30,
+        "percentual_bolsas_mulheres": 30
+      },
+      "observacao": null,
+      "pagina_referencia": 9
+    },
+    {
+      "id_canonico": "PRO_NEGOCIACAO_COLETIVA",
+      "numero_clausula_original": 23,
+      "titulo_original": "NEGOCIAÇÃO COLETIVA",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "gatilho": "fatos que alterem substancialmente a regulamentação salarial vigente"
+      },
+      "observacao": null,
+      "pagina_referencia": 9
+    },
+    {
+      "id_canonico": "PRO_PROCESSO_PERMANENTE",
+      "numero_clausula_original": 24,
+      "titulo_original": "PROCESSO PERMANENTE DE NEGOCIAÇÃO",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "sistema": "SNNP-Correios",
+        "mesas": ["MNNP-Correios", "MRNP-Correios"],
+        "periodicidade_reunioes": "intervalos máximos de 30 dias"
+      },
+      "observacao": null,
+      "pagina_referencia": 9
+    },
+    {
+      "id_canonico": "PRO_VIGENCIA",
+      "numero_clausula_original": 25,
+      "titulo_original": "PRORROGAÇÃO, REVISÃO, DENÚNCIA OU REVOGAÇÃO",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "base_legal": "art. 615 da CLT",
+        "principios": ["liberdade sindical", "autonomia sindical"]
+      },
+      "observacao": null,
+      "pagina_referencia": 9
+    },
+    {
+      "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+      "numero_clausula_original": 26,
+      "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": 21,
+      "unidade": "quantidade",
+      "detalhes": {
+        "quantidade_por_federacao": 15,
+        "quantidade_por_sindicato": 6,
+        "onus_misto": true,
+        "manutencao_salarios": true,
+        "manutencao_vale_alimentacao": true,
+        "manutencao_assistencia_medica": true,
+        "limite_total_por_federacao": 20
+      },
+      "observacao": "A ECT alegou custo de R$ 35 milhões/ano, mas a cláusula foi mantida no ACT.",
+      "pagina_referencia": 10
+    },
+    {
+      "id_canonico": "SIN_REPRESENTANTES_EMPREGADOS",
+      "numero_clausula_original": 27,
+      "titulo_original": "REPRESENTANTES DOS EMPREGADOS",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "estabilidade_dirigentes_sindicais": true,
+        "estabilidade_cipeiros": "6 meses após término da estabilidade legal",
+        "estabilidade_delegados_sindicais": "1 ano após término do mandato",
+        "vedacao_transferencia_sem_anuencia": true
+      },
+      "observacao": null,
+      "pagina_referencia": 10
+    },
+    {
+      "id_canonico": "SIN_REPASSE_MENSALIDADES",
+      "numero_clausula_original": 28,
+      "titulo_original": "REPASSE DAS MENSALIDADES DO SINDICATO",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "prazo_repasse": "primeiro dia útil após o pagamento mensal dos salários",
+        "comprovacao": "Atas de Assembleias",
+        "prazo_comunicados": "dia 10 do mês corrente"
+      },
+      "observacao": "No DC 2025/2026, a ECT tentou alterar para o 5º dia útil, mas o TST manteve o 1º dia útil.",
+      "pagina_referencia": 11
+    },
+    {
+      "id_canonico": "SIN_ACESSO_DEPENDENCIAS",
+      "numero_clausula_original": 29,
+      "titulo_original": "ACESSO ÀS DEPENDÊNCIAS",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "dirigentes_por_reuniao": 6,
+        "duracao_maxima_reuniao": 60,
+        "antecedencia_solicitacao": "2 dias úteis",
+        "locais_permitidos": ["salas de aula/reunião", "áreas de lazer", "refeitórios", "local de trabalho"],
+        "acesso_sistema_ect_normas": true,
+        "treinamento_novos_empregados": "1 hora de duração"
+      },
+      "observacao": "No DC 2025/2026, a ECT tentou reduzir para 1 dirigente e 30 minutos, mas o TST manteve 6 dirigentes e 60 minutos.",
+      "pagina_referencia": 11
+    },
+    {
+      "id_canonico": "SIN_FORNECIMENTO_DOCUMENTOS",
+      "numero_clausula_original": 30,
+      "titulo_original": "FORNECIMENTO DE DOCUMENTOS",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "prazo_fornecimento": "5 dias",
+        "respeito_lai_lgpd": true,
+        "envio_informativos": ["Primeira Hora", "Correios Informa"],
+        "relacao_empregados": "nome, matrícula, cargo/atividade, lotação, função, status"
+      },
+      "observacao": null,
+      "pagina_referencia": 12
+    },
+    {
+      "id_canonico": "SIN_QUADRO_AVISOS",
+      "numero_clausula_original": 31,
+      "titulo_original": "QUADRO DE AVISOS",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "instalacao_sindicato": true,
+        "local_apropriado": true,
+        "responsabilidade_comunicacoes": "Sindicatos"
+      },
+      "observacao": null,
+      "pagina_referencia": 12
+    },
+    {
+      "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+      "numero_clausula_original": 32,
+      "titulo_original": "TAXA NEGOCIAL",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": 2,
+      "unidade": "percentual",
+      "detalhes": {
+        "percentual": 2,
+        "base_calculo": "remuneração",
+        "mes_desconto": "mês da aplicação do reajuste",
+        "direito_oposicao": true,
+        "prazo_oposicao": "10 dias",
+        "vedacao_ECT": "não pode incentivar oposição",
+        "vedacao_sindicatos": "não podem pleitear judicialmente a cobrança no período de vigência do ACT"
+      },
+      "observacao": "No DC 2025/2026, a ECT tentou excluir, mas o TST deferiu com base no Tema 935 do STF.",
+      "pagina_referencia": 12
+    },
+    {
+      "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+      "numero_clausula_original": 33,
+      "titulo_original": "DESCONTO ASSISTENCIAL",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "desconto": "conforme aprovado em assembleia geral",
+        "publico": "filiados e não filiados",
+        "informacao": "pelos sindicatos",
+        "oposicao": "manifestação ao sindicato até o dia 10"
+      },
+      "observacao": null,
+      "pagina_referencia": 12
+    },
+    {
+      "id_canonico": "SIN_LIBERACAO_CONSELHOS",
+      "numero_clausula_original": 34,
+      "titulo_original": "LIBERAÇÃO DE EMPREGADO ELEITO PARA CONSELHOS",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": 5,
+      "unidade": "dias",
+      "detalhes": {
+        "dias_liberacao": 5,
+        "publico": "empregado eleito para Conselho de Administração da ECT, Conselhos Deliberativo e Fiscal da Postal Saúde e Postalis",
+        "inclui_transito": true
+      },
+      "observacao": null,
+      "pagina_referencia": 12
+    },
+    {
+      "id_canonico": "SOC_ATESTADO_SAUDE_DEMISSAO",
+      "numero_clausula_original": 35,
+      "titulo_original": "ATESTADO DE SAÚDE NA DEMISSÃO",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "envio_copias_rescisoes": true,
+        "envio_aso": true,
+        "envio_ppp": true
+      },
+      "observacao": null,
+      "pagina_referencia": 13
+    },
+    {
+      "id_canonico": "CON_AVERIGUACAO_CONDICOES",
+      "numero_clausula_original": 36,
+      "titulo_original": "AVERIGUAÇÃO DAS CONDIÇÕES DE TRABALHO",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "limite_pessoas": 3,
+        "agendamento_antecedencia": "2 dias úteis",
+        "prazo_agendamento": "3 dias úteis",
+        "climatizacao_gradual": true
+      },
+      "observacao": null,
+      "pagina_referencia": 13
+    },
+    {
+      "id_canonico": "CON_CIPA_CIPAA",
+      "numero_clausula_original": 37,
+      "titulo_original": "COMISSÃO INTERNA DE PREVENÇÃO DE ACIDENTES E ASSÉDIOS – CIPAA",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "efetivo_minimo": 30,
+        "eleicao": "60 dias antes do término, 30 dias de antecedência",
+        "designacao_responsavel": "até 30 empregados",
+        "liberacao_cipeiros": {
+          "menos_400_empregados": "4 horas/mês",
+          "400_a_1000_empregados": "6 horas/mês",
+          "mais_1000_empregados": "8 horas/mês"
+        },
+        "curso_formacao": "EaD ou presencial",
+        "reunioes_semestrais": "presidentes de CIPAA com mais de 1.000 empregados",
+        "SIPAT": true
+      },
+      "observacao": "No DC 2025/2026, a cláusula foi atualizada para CIPA (sem o 'A' final) e adaptada à NR-5 (Portaria MTP 4.219/2022).",
+      "pagina_referencia": 13
+    },
+    {
+      "id_canonico": "SOC_EMPREGADO_VIVENDO_HIV",
+      "numero_clausula_original": 38,
+      "titulo_original": "EMPREGADO VIVENDO COM HIV",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "remanejamento": "para outra posição que preserve a saúde",
+        "vedacao_dispensa": true,
+        "liberacao_mensal_medicamentos": true,
+        "transferencia_a_pedido": true
+      },
+      "observacao": null,
+      "pagina_referencia": 14
+    },
+    {
+      "id_canonico": "CON_ERGONOMIA",
+      "numero_clausula_original": 39,
+      "titulo_original": "ERGONOMIA NA EMPRESA",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "base_legal": "NR-17",
+        "avaliacao_permanente": true
+      },
+      "observacao": null,
+      "pagina_referencia": 14
+    },
+    {
+      "id_canonico": "SOC_FORNECIMENTO_CAT",
+      "numero_clausula_original": 40,
+      "titulo_original": "FORNECIMENTO DE CAT",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "atendimento_medico": "próprio ou rede credenciada",
+        "envio_federacoes": "via CAT registrada no MPS mensalmente",
+        "emissao_para_dirigente_sindical": true,
+        "emissao_para_assaltos": true,
+        "treinamento_gestores_cipeiros": true,
+        "cadastro_doencas": "por unidade e cargo/atividade"
+      },
+      "observacao": null,
+      "pagina_referencia": 14
+    },
+    {
+      "id_canonico": "CON_ITENS_USO_PROTECAO",
+      "numero_clausula_original": 41,
+      "titulo_original": "ITENS DE USO E PROTEÇÃO AO(À) EMPREGADO(A)",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "uniformes": "modelos masculino e feminino",
+        "meias_compressao": true,
+        "calcados": "tênis com amortecedor, botina para OTTs",
+        "EPIs": "conforme NR-06",
+        "protetor_solar": true,
+        "motorizado_M": "luvas, jaquetas de couro, botas, calça de motociclista",
+        "carteiro_ciclista": "luvas e capacetes",
+        "PGR": true,
+        "grupo_trabalho_uniformes": true
+      },
+      "observacao": null,
+      "pagina_referencia": 14
+    },
+    {
+      "id_canonico": "SOC_REABILITACAO_PROFISSIONAL",
+      "numero_clausula_original": 42,
+      "titulo_original": "REABILITAÇÃO PROFISSIONAL",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "estabilidade_reabilitado": "24 meses",
+        "estabilidade_ampliada": "36 meses se próximo da aposentadoria",
+        "CRRP": "interage com Comissão Regional de Saúde do Sindicato"
+      },
+      "observacao": null,
+      "pagina_referencia": 16
+    },
+    {
+      "id_canonico": "SOC_SAUDE_EMPREGADO",
+      "numero_clausula_original": 43,
+      "titulo_original": "SAÚDE DO(A) EMPREGADO(A)",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "campanhas_prevencao": true,
+        "estudos_ergonomicos_LER_DORT": true,
+        "campanhas_hipertensao": true,
+        "acompanhamento_psicologico": "vítimas de assalto/sequestro",
+        "prontuario_medico": "cópia em até 5 dias úteis",
+        "PGR_AET": true,
+        "ginastica_laboral": true,
+        "restricao_medica": "adicional de atividade garantido por 90 dias",
+        "prazo_atestado": "4 dias úteis",
+        "saude_mental": true
+      },
+      "observacao": null,
+      "pagina_referencia": 16
+    },
+    {
+      "id_canonico": "SOC_EMPREGADO_INAPTO",
+      "numero_clausula_original": 44,
+      "titulo_original": "EMPREGADO(A) INAPTO(A) PARA RETORNO AO TRABALHO",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "retorno_imediato_apos_alta_INSS": true,
+        "manutencao_remuneracao": "90 dias",
+        "devolucao_valores": "8 parcelas",
+        "vales_alimentacao_90_dias": true,
+        "prorrogacao_prazo": "mais 90 dias"
+      },
+      "observacao": null,
+      "pagina_referencia": 16
+    },
+    {
+      "id_canonico": "CON_DISTRIBUICAO_DOMICILIARIA",
+      "numero_clausula_original": 45,
+      "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "limite_peso_homem": 10,
+        "limite_peso_mulher": 8,
+        "processo_seletivo_motorizado": true,
+        "entrega_matutina": "priorização em âmbito nacional",
+        "comissao_entrega_matutina": "5 + 5 representantes",
+        "GT_ampliacao_entrega_matutina": true,
+        "prazo_gt": "90 dias",
+        "prioridade_unidades": "umidade < 30%, temperatura > 30°"
+      },
+      "observacao": "No DC 2025/2026, os §§ 7º, 8º e 9º (Comissão e GT) foram EXCLUÍDOS pelo TST, a pedido da ECT.",
+      "pagina_referencia": 17
+    },
+    {
+      "id_canonico": "CON_FROTA_OPERACIONAL",
+      "numero_clausula_original": 46,
+      "titulo_original": "FROTA OPERACIONAL",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "veiculos_novos": "ar condicionado, direção hidráulica, vidro elétrico, trava",
+        "motos": "partida elétrica",
+        "bicicletas": "estudos ergonômicos"
+      },
+      "observacao": null,
+      "pagina_referencia": 18
+    },
+    {
+      "id_canonico": "TEC_INOVACOES",
+      "numero_clausula_original": 47,
+      "titulo_original": "INOVAÇÕES TECNOLÓGICAS",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "realocacao": "para atividade compatível",
+        "qualificacao": "para nova atividade",
+        "sem_prejuizo_vantagens": true
+      },
+      "observacao": null,
+      "pagina_referencia": 18
+    },
+    {
+      "id_canonico": "TEC_JORNADA_TERMINAIS",
+      "numero_clausula_original": 48,
+      "titulo_original": "JORNADA DE TRABALHO PARA TRABALHADORES(AS) EM TERMINAIS COMPUTADORIZADOS",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "intervalo": "10 minutos a cada 50 minutos trabalhados"
+      },
+      "observacao": null,
+      "pagina_referencia": 18
+    },
+    {
+      "id_canonico": "CON_REDIMENSIONAMENTO_CARGA",
+      "numero_clausula_original": 49,
+      "titulo_original": "REDIMENSIONAMENTO DE CARGA",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "cronograma_regional": "30 dias de antecedência",
+        "representante_sindical": "1 por levantamento",
+        "implantacao": "120 dias após liberação de recursos",
+        "retorno_questionamentos": "30 dias",
+        "GT_supressao_DDA": true,
+        "suspensao_SD": "retomada após concurso público"
+      },
+      "observacao": "No DC 2025/2026, os §§ 3º em diante (GT, supressão da DDA, suspensão do SD) foram EXCLUÍDOS pelo TST, a pedido da ECT.",
+      "pagina_referencia": 18
+    },
+    {
+      "id_canonico": "CON_JORNADA_AGENCIAS",
+      "numero_clausula_original": 50,
+      "titulo_original": "JORNADA DE TRABALHO NAS AGÊNCIAS DOS CORREIOS",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "escalonamento": "para abertura e fechamento"
+      },
+      "observacao": null,
+      "pagina_referencia": 19
+    },
+    {
+      "id_canonico": "CON_SEGURANCA_EMPRESA",
+      "numero_clausula_original": 51,
+      "titulo_original": "SEGURANÇA NA EMPRESA",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "base_legal": "Manual de Segurança – MANSEG, Módulo 6",
+        "transporte_numerarios": true
+      },
+      "observacao": null,
+      "pagina_referencia": 19
+    },
+    {
+      "id_canonico": "SOC_LICENCA_ACOMPANHANTE",
+      "numero_clausula_original": 52,
+      "titulo_original": "ACOMPANHANTE",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "dias_ausencia": 6,
+        "turnos": 12,
+        "publico_alvo": ["dependentes menores de 18 anos", "deficientes", "gestantes", "cônjuge com dificuldade de locomoção", "pais com mais de 60 anos"],
+        "acrescimo_filho_deficiencia": "4 dias úteis (8 turnos)",
+        "neoplasias": "até 8 dias úteis (16 turnos)"
+      },
+      "observacao": null,
+      "pagina_referencia": 19
+    },
+    {
+      "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+      "numero_clausula_original": 53,
+      "titulo_original": "AUXÍLIO PARA DEPENDENTES COM DEFICIÊNCIA",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": 1030.58,
+      "unidade": "BRL",
+      "detalhes": {
+        "valor_mensal": 1030.58,
+        "publico_alvo": ["filhos", "enteados", "tutelados", "curatelados"],
+        "condicionamento": "prévia análise do Serviço Médico",
+        "manutencao_licenca_medica": true
+      },
+      "observacao": "No DC 2025/2026, o valor foi reajustado para R$ 1.083,14 (5,10%).",
+      "pagina_referencia": 19
+    },
+    {
+      "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+      "numero_clausula_original": 54,
+      "titulo_original": "REEMBOLSO CRECHE E REEMBOLSO BABÁ",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": 714.72,
+      "unidade": "BRL",
+      "detalhes": {
+        "valor_mensal": 714.72,
+        "idade_limite": "até 7 anos",
+        "participacao_empregada": "5%",
+        "participacao_empresa": "95%",
+        "reembolso_integral": "6 primeiros meses",
+        "extensao_pai_solteiro": true,
+        "vedacao_ensino_fundamental": true
+      },
+      "observacao": "No DC 2025/2026, o valor foi reajustado para R$ 751,17 (5,10%).",
+      "pagina_referencia": 20
+    },
+    {
+      "id_canonico": "FIN_VALE_ALIMENTACAO",
+      "numero_clausula_original": 55,
+      "titulo_original": "VALE REFEIÇÃO/ALIMENTAÇÃO",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": 50.93,
+      "unidade": "BRL",
+      "detalhes": {
+        "valor_facial": 50.93,
+        "quantidade": "22 ou 26 vales",
+        "vale_cesta": 319.79,
+        "ticket_extra": 2500.00,
+        "compartilhamento": {
+          "NM-01 a NM-63": 5,
+          "NM-64 a NM-90": 10,
+          "NS-01 a NS-60": 15
+        },
+        "opcoes_cartao": ["100% Refeição", "100% Alimentação", "30/70", "70/30", "50/50"],
+        "desobrigacao_cantina": true,
+        "vales_licenca_medica_90_dias": true,
+        "nao_desconto_falecido": true,
+        "manutencao_dirigente_sindical": true,
+        "ticket_extra_parcelas": ["R$ 1.000,00 em setembro/2024", "R$ 1.500,00 até 5º dia útil de janeiro/2025"],
+        "ticket_adicional_ago_dez_2024": "1 folha de ticket mensal adicional para empregados com remuneração até R$ 7.300,00"
+      },
+      "observacao": "No DC 2025/2026, o valor foi reajustado para R$ 53,53 (VA) e R$ 336,10 (VC), com ticket extra mantido em R$ 2.500,00.",
+      "pagina_referencia": 20
+    },
+    {
+      "id_canonico": "FIN_ADIANTAMENTO_FERIAS",
+      "numero_clausula_original": 56,
+      "titulo_original": "ADIANTAMENTO DE FÉRIAS",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "valor": "um salário-base + anuênios/quinquênios + IGQP + gratificação de função",
+        "restituicao": "até 5 parcelas mensais",
+        "inicio_restituicao": "mês subsequente ao início das férias",
+        "opcao_escrita": "até 40 dias antes"
+      },
+      "observacao": null,
+      "pagina_referencia": 21
+    },
+    {
+      "id_canonico": "FIN_GRATIFICACAO_FERIAS",
+      "numero_clausula_original": 57,
+      "titulo_original": "GRATIFICAÇÃO DE FÉRIAS",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": 70,
+      "unidade": "percentual",
+      "detalhes": {
+        "percentual": 70,
+        "publico": "todos os empregados cujo período de fruição se inicie a partir de 1º de janeiro de 2025",
+        "excecao": "admitidos por concurso público após assinatura do ACT",
+        "calculo": "70% proporcional ao período aquisitivo de 2025",
+        "reflexos_abono_pecuniario": true
+      },
+      "observacao": "No DC 2025/2026, a cláusula foi mantida. No DC 2026/2027, o STF (SS 5.731) suspendeu a cláusula, e ela foi INDEFERIDA.",
+      "pagina_referencia": 21
+    },
+    {
+      "id_canonico": "FIN_VALE_TRANSPORTE",
+      "numero_clausula_original": 58,
+      "titulo_original": "VALE-TRANSPORTE E JORNADA DE TRABALHO IN ITINERE",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": 870.18,
+      "unidade": "BRL",
+      "detalhes": {
+        "valor_mensal": 870.18,
+        "compartilhamento": "conforme lei",
+        "pecunia": "permitido em caso de indisponibilidade",
+        "jornada_in_itinere": "conforme art. 58, §2º, CLT"
+      },
+      "observacao": "No DC 2025/2026, o valor foi mantido em R$ 914,55 sem reajuste.",
+      "pagina_referencia": 22
+    },
+    {
+      "id_canonico": "FIN_ANTECIPACAO_13",
+      "numero_clausula_original": 59,
+      "titulo_original": "ANTECIPAÇÃO DE 50% DA GRATIFICAÇÃO NATALINA",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": 50,
+      "unidade": "percentual",
+      "detalhes": {
+        "percentual": 50,
+        "parcelas": "2 (25% março + 25% junho) ou 1 (50% junho)",
+        "opcao_ferias": "janeiro a novembro",
+        "diferenca_paga_ate": "20 de dezembro"
+      },
+      "observacao": null,
+      "pagina_referencia": 22
+    },
+    {
+      "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+      "numero_clausula_original": 60,
+      "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": 267.64,
+      "unidade": "BRL",
+      "detalhes": {
+        "valor": 267.64,
+        "publico_alvo": "guichês de agências",
+        "participacao_parcial": "25% para cobertura de almoço"
+      },
+      "observacao": "No DC 2025/2026, o valor foi reajustado para R$ 281,29 (5,10%).",
+      "pagina_referencia": 22
+    },
+    {
+      "id_canonico": "FIN_PAGAMENTO_SALARIO",
+      "numero_clausula_original": 61,
+      "titulo_original": "PAGAMENTO DE SALÁRIO",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "prazo": "último dia útil bancário do mês trabalhado"
+      },
+      "observacao": "No DC 2025/2026, a ECT tentou alterar para o 5º dia útil do mês seguinte. O TST manteve o último dia útil do mês trabalhado.",
+      "pagina_referencia": 22
+    },
+    {
+      "id_canonico": "FIN_TRABALHO_FINS_SEMANA",
+      "numero_clausula_original": 62,
+      "titulo_original": "TRABALHO NOS FINS DE SEMANA",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": 15,
+      "unidade": "percentual",
+      "detalhes": {
+        "percentual": 15,
+        "publico": "Área Operacional com jornada de 44 horas semanais",
+        "convocacao_eventual": "um quarto de 15% por fim de semana trabalhado, limitado a 15% ao mês",
+        "vale_alimentacao": true,
+        "antecedencia": "48 horas",
+        "nao_constitui_jornada_extraordinaria": true
+      },
+      "observacao": "No DC 2025/2026, a cláusula foi mantida.",
+      "pagina_referencia": 22
+    },
+    {
+      "id_canonico": "SOC_PLANO_SAUDE",
+      "numero_clausula_original": 63,
+      "titulo_original": "PLANO DE SAÚDE DOS EMPREGADOS DOS CORREIOS",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "modelo": "operadora contratada",
+        "adesao": "facultativa",
+        "cobranca": "mensalidade + coparticipação",
+        "ECT_mantenedora": true,
+        "grupo_trabalho": true,
+        "prazo_gt": "30 dias após assinatura do ACT",
+        "composicao_gt": "6 representantes da ECT + 6 das Federações",
+        "acoes_melhoria": "60 dias"
+      },
+      "observacao": "No DC 2025/2026, a cláusula foi mantida com a ECT como mantenedora. No DC 2026/2027, o STF (SS 5.731) suspendeu a cláusula, e a ECT deixou de ser mantenedora. Uma das maiores perdas da categoria.",
+      "pagina_referencia": 23
+    },
+    {
+      "id_canonico": "SOC_REGIME_CALAMIDADE",
+      "numero_clausula_original": 64,
+      "titulo_original": "SITUAÇÃO EM CASO DE ESTADO DE CALAMIDADE PÚBLICA OU ESTADO DE EMERGÊNCIA",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "salario_base_adicional": 1,
+        "publico": "empregados desabrigados ou intensamente atingidos",
+        "avaliacao_social": true,
+        "prazo_pagamento": "5 dias úteis após requerimento"
+      },
+      "observacao": null,
+      "pagina_referencia": 23
+    },
+    {
+      "id_canonico": "FIN_REAJUSTE_SALARIAL",
+      "numero_clausula_original": 65,
+      "titulo_original": "REAJUSTE SALARIAL",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": 4.11,
+      "unidade": "%",
+      "detalhes": {
+        "valor_fixo": 260.00,
+        "teto_valor_fixo": 6326.03,
+        "data_base": "2025-01-01",
+        "retroatividade": false,
+        "incidencia": "todas as parcelas de natureza salarial"
+      },
+      "observacao": "No DC 2025/2026, o reajuste foi de 5,10% a partir de 01/08/2025, com retroativos pagos em abril/2026.",
+      "pagina_referencia": 23
+    },
+    {
+      "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+      "numero_clausula_original": 66,
+      "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "regra_compensacao": "não acumulação de acréscimos pecuniários sob o mesmo título"
+      },
+      "observacao": null,
+      "pagina_referencia": 24
+    },
+    {
+      "id_canonico": "FIN_TRABALHO_DIA_REPOUSO",
+      "numero_clausula_original": 67,
+      "titulo_original": "TRABALHO EM DIA DE REPOUSO",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": 200,
+      "unidade": "percentual",
+      "detalhes": {
+        "percentual": 200,
+        "vale_alimentacao": true,
+        "troca_por_folgas": "2 folgas compensatórias",
+        "antecedencia_convocacao": "48 horas"
+      },
+      "observacao": "No DC 2025/2026, o TST manteve os 200%. No DC 2026/2027, o STF (SS 5.731) suspendeu, e o adicional foi reduzido para 100%.",
+      "pagina_referencia": 24
+    },
+    {
+      "id_canonico": "PRO_CONCURSO_PUBLICO",
+      "numero_clausula_original": 68,
+      "titulo_original": "CONCURSO PÚBLICO",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "vedacao_discriminacao": ["racial", "religiosa", "orientação sexual"],
+        "cotas": ["pessoas com deficiência", "negros"],
+        "reposicao_efetivo": true,
+        "contratacoes_ate": "dezembro/2024"
+      },
+      "observacao": null,
+      "pagina_referencia": 24
+    },
+    {
+      "id_canonico": "PRO_CURSOS_REUNIOES",
+      "numero_clausula_original": 69,
+      "titulo_original": "CURSOS E REUNIÕES OBRIGATÓRIAS",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "comunicacao_antecedencia": "3 dias úteis",
+        "locais_adequados": true,
+        "horas_extras": "se fora do horário de serviço",
+        "excecao_EaD_assincrono": true,
+        "empregado_estudante": true,
+        "dirigentes_sindicais": "regras específicas"
+      },
+      "observacao": null,
+      "pagina_referencia": 24
+    },
+    {
+      "id_canonico": "PRO_AMPLA_DEFESA",
+      "numero_clausula_original": 70,
+      "titulo_original": "DIREITO À AMPLA DEFESA",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "obtencao_documentos": true,
+        "contraditorio": true,
+        "ampla_defesa": true,
+        "acompanhamento_sindical": true
+      },
+      "observacao": null,
+      "pagina_referencia": 25
+    },
+    {
+      "id_canonico": "FIN_PLR",
+      "numero_clausula_original": 71,
+      "titulo_original": "PARTICIPAÇÃO NOS LUCROS OU RESULTADOS – PLR",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "negociacao": "com participação das Federações signatárias",
+        "base_legal": "Lei 10.101/2000"
+      },
+      "observacao": null,
+      "pagina_referencia": 25
+    },
+    {
+      "id_canonico": "FIN_PENALIDADE",
+      "numero_clausula_original": 72,
+      "titulo_original": "PENALIDADE",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": 20,
+      "unidade": "percentual",
+      "detalhes": {
+        "percentual": 20,
+        "base_calculo": "dia de serviço do empregado prejudicado"
+      },
+      "observacao": null,
+      "pagina_referencia": 25
+    },
+    {
+      "id_canonico": "FIN_CONSIGNACOES",
+      "numero_clausula_original": 73,
+      "titulo_original": "PROCESSAMENTO DE CONSIGNAÇÕES EM FOLHA DE PAGAMENTO",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "consignacoes_obrigatorias": ["INSS", "pensão alimentícia judicial", "IR", "decisão judicial/administrativa", "mensalidade sindical", "plano de saúde", "previdência complementar"],
+        "consignacoes_voluntarias": ["financiamento habitacional", "cooperativas", "seguro de vida", "empréstimo consignado", "pensão alimentícia voluntária"],
+        "margem_consignavel": true
+      },
+      "observacao": null,
+      "pagina_referencia": 25
+    },
+    {
+      "id_canonico": "CON_REGISTRO_PONTO",
+      "numero_clausula_original": 74,
+      "titulo_original": "REGISTRO DE PONTO",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "registro_pelo_empregado": true,
+        "vedacao_interferencia_terceiros": true,
+        "sistemas_alternativos": true,
+        "regime_excecao": "distribuição/coleta",
+        "tolerancia": "5 minutos + 5 minutos adicionais (4x/mês)"
+      },
+      "observacao": null,
+      "pagina_referencia": 26
+    },
+    {
+      "id_canonico": "CON_RESPONSABILIDADE_CIVIL_TRANSITO",
+      "numero_clausula_original": 75,
+      "titulo_original": "RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "responsabilidade_ECT": "custos com recuperação de veículos da frota e danos a terceiros",
+        "excecao": "inexistência de dolo",
+        "comissao_paritaria": "3 ECT + 3 Sindicato"
+      },
+      "observacao": "No DC 2025/2026, a ECT tentou incluir 'negligência, imprudência ou imperícia'. O TST barrou, mantendo apenas 'dolo'.",
+      "pagina_referencia": 26
+    },
+    {
+      "id_canonico": "CON_MULTAS_TRANSITO",
+      "numero_clausula_original": 76,
+      "titulo_original": "MULTAS DE TRÂNSITO",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "responsabilidade_provisoria": "ECT arca provisoriamente com multas",
+        "casos": ["estacionamento não permitido", "linhas comboiadas"],
+        "desconto": "se não houver recurso",
+        "isencao_pontos_CNH": true,
+        "remanejamento": true,
+        "cursos_direcao_defensiva": true
+      },
+      "observacao": null,
+      "pagina_referencia": 26
+    },
+    {
+      "id_canonico": "PRO_ACOMPANHAMENTO_CUMPRIMENTO",
+      "numero_clausula_original": 77,
+      "titulo_original": "ACOMPANHAMENTO DO CUMPRIMENTO DE CLÁUSULAS DO ACORDO",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "fornecimento_informacoes": "às Federações",
+        "prazo": "cláusulas que preveem prazo para implementação"
+      },
+      "observacao": null,
+      "pagina_referencia": 27
+    },
+    {
+      "id_canonico": "PRO_CONCILIACAO_DIVERGENCIAS",
+      "numero_clausula_original": 78,
+      "titulo_original": "CONCILIAÇÃO DE DIVERGÊNCIAS",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "prazo": "15 dias",
+        "procedimento": "comunicação por escrito à ECT antes de recorrer à Justiça do Trabalho"
+      },
+      "observacao": null,
+      "pagina_referencia": 27
+    },
+    {
+      "id_canonico": "PRO_VIGENCIA",
+      "numero_clausula_original": 79,
+      "titulo_original": "VIGÊNCIA",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "data_inicio": "2024-08-01",
+        "data_fim": "2025-07-31",
+        "duracao_meses": 12
+      },
+      "observacao": null,
+      "pagina_referencia": 27
+    }
+  ],
+  "temas_nao_mapeados": [],
+  "notas_metodologicas": [
+    {
+      "tipo": "ESTRUTURA_DOCUMENTO",
+      "tema": "GERAL",
+      "descricao": "O ACT 2024/2025 FINDECT tem 79 cláusulas, organizadas em 6 títulos: I) Questões Sociais; II) Relações Sindicais; III) Saúde do Trabalhador; IV) Condições de Trabalho; V) Benefícios; VI) Questões Econômicas."
+    },
+    {
+      "tipo": "OBSERVACAO_GERAL",
+      "tema": "GERAL",
+      "descricao": "Este ACT foi assinado entre ECT e FINDECT (SINTECT/SP, SINTECT/RJ, SINTECT/MA, SINTECT/TO e SINDECTEB/BRU). Não inclui a FENTECT, que tem ACT próprio (não fornecido)."
+    },
+    {
+      "tipo": "DIVERGENCIA_ACT_DC",
+      "tema": "SIN_PESSOAS_DEFICIENCIA",
+      "descricao": "No ACT 2024/2025, a cláusula NÃO incluía os incisos I, II e III sobre redução de jornada para pais de filhos com deficiência/TEA. Estes foram adicionados no DC 2025/2026 (Tema 138 do TST)."
+    },
+    {
+      "tipo": "DIVERGENCIA_ACT_DC",
+      "tema": "CON_DISTRIBUICAO_DOMICILIARIA",
+      "descricao": "No ACT 2024/2025, a cláusula previa Comissão e GT para entrega matutina (5+5 representantes). No DC 2025/2026, os §§ 7º, 8º e 9º foram EXCLUÍDOS a pedido da ECT."
+    },
+    {
+      "tipo": "DIVERGENCIA_ACT_DC",
+      "tema": "CON_REDIMENSIONAMENTO_CARGA",
+      "descricao": "No ACT 2024/2025, a cláusula previa GT de supressão da DDA e suspensão do SD. No DC 2025/2026, estes parágrafos foram EXCLUÍDOS a pedido da ECT."
+    },
+    {
+      "tipo": "DIVERGENCIA_ACT_DC",
+      "tema": "SOC_PLANO_SAUDE",
+      "descricao": "No ACT 2024/2025, a ECT era mantenedora do plano. No DC 2026/2027, o STF (SS 5.731) suspendeu, e a ECT deixou de ser mantenedora."
+    },
+    {
+      "tipo": "DIVERGENCIA_ACT_DC",
+      "tema": "FIN_GRATIFICACAO_FERIAS",
+      "descricao": "No ACT 2024/2025, a gratificação de férias era de 70%. No DC 2026/2027, foi INDEFERIDA (SS 5.731 do STF)."
+    },
+    {
+      "tipo": "DIVERGENCIA_ACT_DC",
+      "tema": "FIN_TRABALHO_DIA_REPOUSO",
+      "descricao": "No ACT 2024/2025, o adicional era de 200%. No DC 2026/2027, foi reduzido para 100% (SS 5.731 do STF)."
+    },
+    {
+      "tipo": "DIVERGENCIA_ACT_DC",
+      "tema": "SIN_LIBERACAO_DIRIGENTES",
+      "descricao": "No ACT 2024/2025, a cláusula era de 15 + 6 por base. No DC 2025/2026, foi mantida. No DC 2026/2027, foi INDEFERIDA."
+    },
+    {
+      "tipo": "DIVERGENCIA_ACT_DC",
+      "tema": "SIN_LIBERACAO_CONSELHOS",
+      "descricao": "No ACT 2024/2025, a cláusula previa 5 dias por reunião. No DC 2025/2026, foi mantida. No DC 2026/2027, foi INDEFERIDA."
+    },
+    {
+      "tipo": "DIVERGENCIA_ACT_DC",
+      "tema": "PRO_REVISAO_PROCESSOS_DISCIPLINARES",
+      "descricao": "No ACT 2024/2025, a cláusula previa GT para revisão. No DC 2025/2026, foi mantida. No DC 2026/2027, foi INDEFERIDA."
+    },
+    {
+      "tipo": "DIVERGENCIA_ACT_DC",
+      "tema": "SIN_PROGRAMA_HABITACIONAL",
+      "descricao": "No ACT 2024/2025, a cláusula previa liberação de 2 dirigentes. No DC 2025/2026, foi mantida. No DC 2026/2027, foi INDEFERIDA."
+    },
+    {
+      "tipo": "VALORES_ACT_2024_2025",
+      "tema": "GERAL",
+      "descricao": "Valores do ACT 2024/2025: Reajuste R$ 260,00 (até R$ 6.326,03) + 4,11% (demais); VA R$ 50,93; VC R$ 319,79; Ticket Extra R$ 2.500,00; Auxílio Dependentes R$ 1.030,58; Reembolso Creche R$ 714,72; Quebra Caixa R$ 267,64; Vale Transporte R$ 870,18; Gratificação Férias 70%; Trabalho Dia Repouso 200%; Licença Paternidade 22 dias; Licença Adoção 14 anos; AADC gestantes 30%."
+    }
+  ]
+}

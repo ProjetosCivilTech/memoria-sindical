@@ -1,0 +1,393 @@
+[
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_MATERNIDADE",
+    "numero_clausula_original": 47,
+    "titulo_original": "PRORROGAÇÃO DA LICENÇA-MATERNIDADE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_prorrogacao": 60,
+      "base_legal": "Lei 11.770/2008",
+      "remuneracao_integral": true,
+      "vedacao_atividade_remunerada": true,
+      "aplicacao_adocao": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Lei 11.770/2008",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 15
+  },
+  {
+    "ano_inicio": 2011,
+    "ano_fim": 2012,
+    "tipo": "DCG",
+    "id_canonico": "SOC_LICENCA_MATERNIDADE",
+    "numero_clausula_original": 48,
+    "titulo_original": "PRORROGAÇÃO DA LICENÇA-MATERNIDADE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_prorrogacao": 60,
+      "base_legal": "Lei 11.770/2008",
+      "remuneracao_integral": true,
+      "vedacao_atividade_remunerada": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Lei 11.770/2008",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 60
+  },
+  {
+    "ano_inicio": 2012,
+    "ano_fim": 2013,
+    "tipo": "DCG",
+    "id_canonico": "SOC_LICENCA_MATERNIDADE",
+    "numero_clausula_original": 48,
+    "titulo_original": "PRORROGAÇÃO DA LICENÇA-MATERNIDADE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_prorrogacao": 60,
+      "base_legal": "Lei 11.770/2008",
+      "remuneracao_integral": true,
+      "vedacao_atividade_remunerada": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Lei 11.770/2008",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 60
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_MATERNIDADE",
+    "numero_clausula_original": 11,
+    "titulo_original": "LICENÇA MATERNIDADE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "inicio": "28 dias antes do parto",
+      "permanencia_2_meses": true,
+      "estabilidade_90_dias": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "7"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_MATERNIDADE",
+    "numero_clausula_original": 11,
+    "titulo_original": "LICENÇA MATERNIDADE",
+    "status": "DEFERIDO",
+    "valor_anterior": 120,
+    "valor_atual": 120,
+    "unidade": "dias",
+    "detalhes": {
+      "dias_licenca": 120,
+      "inicio_ate_28_dias_antes_parto": true,
+      "permanencia_2_meses_atividades_internas": true,
+      "estabilidade_90_dias": true,
+      "garantia_natimorto": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 8
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_MATERNIDADE",
+    "numero_clausula_original": 13,
+    "titulo_original": "PRORROGAÇÃO DA LICENÇA MATERNIDADE",
+    "status": "DEFERIDO",
+    "valor_anterior": 60,
+    "valor_atual": 60,
+    "unidade": "dias",
+    "detalhes": {
+      "dias_prorrogacao": 60,
+      "remuneracao_integral": true,
+      "vedacao_atividade_remunerada": true,
+      "perda_reembolso_creche_baba": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 8
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_MATERNIDADE",
+    "numero_clausula_original": 11,
+    "titulo_original": "LICENÇA MATERNIDADE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "inicio": "28 dias antes do parto",
+      "permanencia_2_meses": true,
+      "estabilidade_90_dias": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "9"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_MATERNIDADE",
+    "numero_clausula_original": 11,
+    "titulo_original": "LICENÇA MATERNIDADE",
+    "status": "DEFERIDO",
+    "valor_atual": 120,
+    "unidade": "dias",
+    "detalhes": {
+      "inicio_ate_28_dias_antes_parto": true,
+      "permanencia_2_meses_atividades_internas": true,
+      "estabilidade_90_dias": true,
+      "conciliacao_ferias": true
+    },
+    "pagina_referencia": "24-25"
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_MATERNIDADE",
+    "numero_clausula_original": 11,
+    "titulo_original": "LICENÇA MATERNIDADE",
+    "status": "DEFERIDO",
+    "valor_anterior": 120,
+    "valor_atual": 120,
+    "unidade": "dias",
+    "detalhes": {
+      "dias_licenca": 120,
+      "inicio_ate_28_dias_antes_parto": true,
+      "permanencia_2_meses_atividades_internas": true,
+      "estabilidade_90_dias": true,
+      "garantia_natimorto": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 7
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_MATERNIDADE",
+    "numero_clausula_original": 13,
+    "titulo_original": "PRORROGAÇÃO DA LICENÇA MATERNIDADE",
+    "status": "DEFERIDO",
+    "valor_anterior": 60,
+    "valor_atual": 60,
+    "unidade": "dias",
+    "detalhes": {
+      "dias_prorrogacao": 60,
+      "remuneracao_integral": true,
+      "vedacao_atividade_remunerada": true,
+      "perda_reembolso_creche_baba": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 7
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "SOC_LICENCA_MATERNIDADE",
+    "numero_clausula_original": 11,
+    "titulo_original": "LICENÇA MATERNIDADE",
+    "status": "MANTIDO",
+    "texto": "§1º Início da licença maternidade entre o 28º (vigésimo oitavo) dia antes do parto e a ocorrência deste, mediante apresentação de atestado médico. §2º Quando do término da licença maternidade de 120 (cento e vinte) dias, sua permanência por mais 2 (dois) meses em atividades internas, mantendo-se o estabelecido na Cláusula Adicional de Atividade Distribuição e Coleta – AADC. Após esse período, a empregada retornará à distribuição domiciliária. §3º Conciliar o início da fruição de suas férias com o final da licença maternidade, observado o seu período aquisitivo, devendo esse tempo ser deduzido dos 2 (dois) meses mencionados no §2º desta cláusula. §4º O pagamento do salário maternidade, observadas as normas da Previdência Social. §5º Estabilidade no emprego por 90 (noventa) dias, salvo por motivo de demissão por justa causa ou a pedido, a partir da data de término da licença maternidade. 15 --- PAGINA 16 --CLÁUSULA 12 Cláusula 12 – PERÍODO DE AMAMENTAÇÃO – Os Correios assegurarão à empregada, durante a jornada de trabalho de 8 (oito) horas, um descanso especial de 2 (duas) horas ou dois descansos de uma hora para amamentar o próprio filho até que este complete 1 (um) ano de idade, já incluídos os descansos previstos em lei. §1º Por solicitação da empregada, no caso de um descanso especial de 2 (duas) horas, a jornada de trabalho poderá ser de 6 (seis) horas corridas, observando-se a legislação vigente. §2° A empregada em período de amamentação, quando solicitar, terá prioridade para preenchimento de vaga caracterizada no cargo, em unidade próxima de sua residência, não podendo haver recusa por parte da chefia. §3° Em caso de jornada inferior à prevista no caput desta cláusula, serão garantidos 2 (dois) descansos especiais de 30 (trinta) minutos durante a jornada ou 1 (um) único descanso de 1 (uma) hora, até que o filho complete 1 (um) ano de idade. 16 --- PAGINA 17 --CLÁUSULA 13 Cláusula 13 – PRORROGAÇÃO DA LICENÇA MATERNIDADE – Os Correios concederão à empregada a prorrogação por 60 (sessenta) dias da licença maternidade conforme estabelece a Lei 11.770 de 9/9/2008 e este Acordo Coletivo de Trabalho. §1º A empregada deverá requerer a prorrogação, junto a sua unidade de lotação, até o prazo de 30 (trinta) dias antes do término da licença-maternidade de 120 (cento e vinte) dias. §2º Durante o período de prorrogação a empregada terá o direito a sua remuneração integral nos mesmos moldes do salário maternidade pago pela Previdência Social. §3° No período de pro",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "SOC_LICENCA_MATERNIDADE",
+    "numero_clausula_original": 11,
+    "titulo_original": "LICENÇA MATERNIDADE",
+    "status": "INDEFERIDO",
+    "detalhes": {
+      "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+    },
+    "memoria_negociacao": "SDC indeferiu",
+    "observacao": null,
+    "pagina_referencia": "113"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_MATERNIDADE",
+    "numero_clausula_original": 16,
+    "titulo_original": "LICENÇA MATERNIDADE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "inicio": "28 dias antes",
+      "permanencia_2_meses": true,
+      "estabilidade_90_dias": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "4"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_MATERNIDADE",
+    "numero_clausula_original": 16,
+    "titulo_original": "LICENÇA MATERNIDADE",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": 120,
+    "unidade": "dias",
+    "detalhes": {
+      "dias_licenca": 120,
+      "inicio_ate_28_dias_antes_parto": true,
+      "permanencia_2_meses_atividades_internas": true,
+      "estabilidade_120_dias": true
+    },
+    "observacao": null,
+    "pagina_referencia": 7
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_MATERNIDADE",
+    "numero_clausula_original": 17,
+    "titulo_original": "PRORROGAÇÃO DA LICENÇA MATERNIDADE",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": 60,
+    "unidade": "dias",
+    "detalhes": {
+      "dias_prorrogacao": 60,
+      "remuneracao_integral": true,
+      "perda_reembolso_creche_baba": true
+    },
+    "observacao": null,
+    "pagina_referencia": 7
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_MATERNIDADE",
+    "numero_clausula_original": 12,
+    "titulo_original": "LICENÇA MATERNIDADE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_licenca": 120,
+      "inicio_ate_28_dias_antes_parto": true,
+      "permanencia_2_meses_atividades_internas": true,
+      "estabilidade_120_dias": true,
+      "garantia_natimorto": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 7
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_MATERNIDADE",
+    "numero_clausula_original": 13,
+    "titulo_original": "PRORROGAÇÃO DA LICENÇA MATERNIDADE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_prorrogacao": 60,
+      "remuneracao_integral": true,
+      "vedacao_atividade_remunerada": true,
+      "perda_reembolso_creche_baba": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 7
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "SOC_LICENCA_MATERNIDADE",
+    "numero_clausula_original": 12,
+    "titulo_original": "LICENÇA MATERNIDADE",
+    "status": "DEFERIDO",
+    "valor_atual": 120,
+    "unidade": "dias",
+    "detalhes": {
+      "dias_licenca": 120,
+      "inicio_ate_28_dias_antes_parto": true,
+      "permanencia_2_meses_atividades_internas": true,
+      "estabilidade_120_dias": true,
+      "garantia_natimorto": true
+    },
+    "pagina_referencia": "29"
+  }
+]

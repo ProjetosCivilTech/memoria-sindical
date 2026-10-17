@@ -1,0 +1,37 @@
+[
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "SOC_AUXILIO_DEPENDENTES_DEFICIENCIA",
+    "numero_clausula_original": 13,
+    "titulo_original": "AUXÍLIO PARA DEPENDENTES COM DEFICIÊNCIA",
+    "status": "MANTIDO",
+    "texto": "Reembolso de despesas com recursos especializados para filhos, enteados e tutelados com deficiência. Limite mensal: R$ 691,82 por dependente. Gastos superiores podem ser reembolsados com base em parecer do Serviço Médico e Social.",
+    "observacao": "Idêntica ao DC 2013-2014.",
+    "pagina_referencia": 5
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "SOC_AUXILIO_DEPENDENTES_DEFICIENCIA",
+    "numero_clausula_original": 13,
+    "titulo_original": "AUXÍLIO PARA DEPENDENTES COM DEFICIÊNCIA",
+    "status": "ALTERADO",
+    "texto": "Reembolso de despesas com recursos especializados para filhos, enteados e tutelados com deficiência. Limite mensal: R$ 691,82 por dependente. Gastos superiores podem ser reembolsados com base em parecer do Serviço Médico e Social.",
+    "observacao": "Valor reajustado. Integra a lista de benefícios não salariais reajustados em 6,27%.",
+    "pagina_referencia": 79
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "SOC_AUXILIO_DEPENDENTES_DEFICIENCIA",
+    "numero_clausula_original": 48,
+    "titulo_original": "AUXÍLIO PARA DEPENDENTES COM DEFICIÊNCIA................................................................................",
+    "status": "MANTIDO",
+    "texto": "",
+    "novo_id": false
+  }
+]

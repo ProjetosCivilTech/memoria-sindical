@@ -1,0 +1,201 @@
+[
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "CON_FROTA_OPERACIONAL",
+    "numero_clausula_original": 42,
+    "titulo_original": "FROTA OPERACIONAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "ar_condicionado": true,
+      "direcao_hidraulica": true,
+      "motos_partida_eletrica": true,
+      "bicicletas_estudo": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "21"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "CON_FROTA_OPERACIONAL",
+    "numero_clausula_original": 42,
+    "titulo_original": "FROTA OPERACIONAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "veiculos_novos": "ar condicionado, direção hidráulica, vidro elétrico",
+      "motos": "partida elétrica",
+      "bicicletas": "estudos ergonômicos"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 26
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "CON_FROTA_OPERACIONAL",
+    "numero_clausula_original": 42,
+    "titulo_original": "FROTA OPERACIONAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "ar_condicionado": true,
+      "motos_partida_eletrica": true,
+      "bicicletas": "estudos"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "28"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "CON_FROTA_OPERACIONAL",
+    "numero_clausula_original": 42,
+    "titulo_original": "FROTA OPERACIONAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "veiculos_novos": "ar condicionado, direção hidráulica, vidro elétrico",
+      "motos": "partida elétrica",
+      "bicicletas": "estudos ergonômicos"
+    },
+    "pagina_referencia": 66
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "CON_FROTA_OPERACIONAL",
+    "numero_clausula_original": 42,
+    "titulo_original": "FROTA OPERACIONAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "veiculos_novos": "ar condicionado, direção hidráulica, vidro elétrico",
+      "motos": "partida elétrica",
+      "bicicletas": "estudos ergonômicos"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 26
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "CON_FROTA_OPERACIONAL",
+    "numero_clausula_original": 42,
+    "titulo_original": "FROTA OPERACIONAL",
+    "status": "MANTIDO",
+    "texto": "empregados(as), providenciarão, quando da aquisição e locação, novos veículos de carga contendo ar condicionado, direção hidráulica, vidro elétrico e trava para uso operacional. §1º Quando da aquisição de motos para uso operacional, os Correios priorizarão a introdução do item partida elétrica, desde que haja ampla oferta do item no mercado, garantindo-se o princípio da livre concorrência. §2º Os Correios continuarão promovendo estudos com o objetivo de especificar novo modelo de bicicleta, observando aspectos ergonômicos, funcionais, técnicos e de produtividade, adequada para utilização em terrenos mais irregulares, viabilizando a implantação das alternativas que se mostrarem viáveis técnica e economicamente e que proporcionem melhores condições de trabalho aos(às) empregados(as). §3º A implantação será realizada por meio de substituição, considerando o final da vida útil de cada item da Frota Operacional. 53 --- PAGINA 54 --CLÁUSULA 43",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "CON_FROTA_OPERACIONAL",
+    "numero_clausula_original": 42,
+    "titulo_original": "FROTA OPERACIONAL",
+    "status": "INDEFERIDO",
+    "detalhes": {
+      "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+    },
+    "memoria_negociacao": "SDC indeferiu",
+    "observacao": null,
+    "pagina_referencia": "113"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "CON_FROTA_OPERACIONAL",
+    "numero_clausula_original": 44,
+    "titulo_original": "FROTA OPERACIONAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "ar_condicionado": true,
+      "motos_partida_eletrica": true,
+      "bicicletas": "estudos"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "10"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "CON_FROTA_OPERACIONAL",
+    "numero_clausula_original": 46,
+    "titulo_original": "FROTA OPERACIONAL",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "veiculos_novos": "ar condicionado, direção hidráulica, vidro elétrico, trava",
+      "motos": "partida elétrica",
+      "bicicletas": "estudos ergonômicos"
+    },
+    "observacao": null,
+    "pagina_referencia": 18
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "CON_FROTA_OPERACIONAL",
+    "numero_clausula_original": 39,
+    "titulo_original": "FROTA OPERACIONAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "veiculos_novos": "ar condicionado, direção hidráulica, vidro elétrico",
+      "motos": "partida elétrica",
+      "bicicletas": "estudos ergonômicos"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 18
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "CON_FROTA_OPERACIONAL",
+    "numero_clausula_original": 39,
+    "titulo_original": "FROTA OPERACIONAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "veiculos_novos": "ar condicionado, direção hidráulica, vidro elétrico",
+      "motos": "partida elétrica",
+      "bicicletas": "estudos ergonômicos"
+    },
+    "pagina_referencia": "51-52"
+  }
+]

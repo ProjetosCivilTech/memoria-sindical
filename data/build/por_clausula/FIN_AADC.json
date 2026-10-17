@@ -1,0 +1,197 @@
+[
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AADC",
+    "numero_clausula_original": 9,
+    "titulo_original": "ADICIONAL DE ATIVIDADE DISTRIBUIÇÃO E COLETA – AADC",
+    "status": "DEFERIDO",
+    "valor_anterior": 30,
+    "valor_atual": 30,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 30,
+      "base_calculo": "salário-base",
+      "publico_alvo": [
+        "gestantes",
+        "lactantes em licença maternidade"
+      ],
+      "cargos": [
+        "Agente de Correios - Carteiro",
+        "Carteiro motorizado"
+      ],
+      "inicio": "5º mês de gestação ou antes por recomendação médica",
+      "manutencao_licenca_maternidade": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 7
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AADC",
+    "numero_clausula_original": 9,
+    "titulo_original": "ADICIONAL DE ATIVIDADE DISTRIBUIÇÃO E COLETA - AADC",
+    "status": "DEFERIDO",
+    "valor_atual": 30,
+    "unidade": "%",
+    "detalhes": {
+      "percentual": 30,
+      "base_calculo": "salário-base",
+      "publico_alvo": [
+        "gestantes",
+        "lactantes em licença maternidade"
+      ],
+      "cargos": [
+        "Agente de Correios - Carteiro",
+        "Carteiro motorizado"
+      ],
+      "inicio": "5º mês de gestação ou antes por recomendação médica",
+      "manutencao_licenca_maternidade": true
+    },
+    "pagina_referencia": "22-23"
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AADC",
+    "numero_clausula_original": 9,
+    "titulo_original": "ADICIONAL DE ATIVIDADE DISTRIBUIÇÃO E COLETA – AADC",
+    "status": "DEFERIDO",
+    "valor_anterior": 30,
+    "valor_atual": 30,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 30,
+      "base_calculo": "salário-base",
+      "publico_alvo": [
+        "gestantes",
+        "lactantes em licença maternidade"
+      ],
+      "cargos": [
+        "Agente de Correios - Carteiro",
+        "Carteiro motorizado"
+      ],
+      "inicio": "5º mês de gestação ou antes por recomendação médica",
+      "manutencao_licenca_maternidade": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 6
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "FIN_AADC",
+    "numero_clausula_original": 9,
+    "titulo_original": "ADICIONAL DE ATIVIDADE DISTRIBUIÇÃO E COLETA",
+    "status": "MANTIDO",
+    "texto": "",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AADC",
+    "numero_clausula_original": 14,
+    "titulo_original": "AADC DURANTE GESTAÇÃO",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": 30,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 30,
+      "base_calculo": "salário-base",
+      "publico_alvo": [
+        "gestantes",
+        "lactantes em licença maternidade"
+      ],
+      "cargos": [
+        "Agente de Correios - Carteiro",
+        "Carteiro motorizado"
+      ],
+      "inicio": "1º mês de gestação (por recomendação médica)"
+    },
+    "observacao": "Cláusula específica para gestantes. A cláusula geral de AADC para todos os carteiros está no PCCS/2008.",
+    "pagina_referencia": 6
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AADC",
+    "numero_clausula_original": 11,
+    "titulo_original": "AADC DURANTE GESTAÇÃO E LICENÇA MATERNIDADE",
+    "status": "MANTIDO",
+    "valor_anterior": 30,
+    "valor_atual": 30,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 30,
+      "base_calculo": "salário-base",
+      "publico_alvo": [
+        "gestantes",
+        "lactantes em licença maternidade"
+      ],
+      "cargos": [
+        "Agente de Correios - Carteiro",
+        "Carteiro motorizado"
+      ]
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 7
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "FIN_AADC",
+    "numero_clausula_original": 11,
+    "titulo_original": "ADICIONAL DE ATIVIDADE DISTRIBUIÇÃO E COLETA - AADC",
+    "status": "MANTIDO",
+    "valor_atual": 30,
+    "unidade": "%",
+    "detalhes": {
+      "percentual": 30,
+      "base_calculo": "salário-base",
+      "publico_alvo": [
+        "gestantes",
+        "lactantes em licença maternidade"
+      ],
+      "cargos": [
+        "Agente de Correios - Carteiro",
+        "Carteiro motorizado"
+      ],
+      "inicio": "1º mês de gestação (por recomendação médica)"
+    },
+    "pagina_referencia": "29"
+  }
+]

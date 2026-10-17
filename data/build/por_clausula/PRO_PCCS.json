@@ -1,0 +1,24 @@
+[
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "PRO_PCCS",
+    "numero_clausula_original": 44,
+    "titulo_original": "PARTICIPAÇÃO DOS EMPREGADOS NAS DISCUSSÕES DO PCCS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "dar continuidade ao processo de revisão do PCCS",
+      "participacao_fentect": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "14"
+  }
+]

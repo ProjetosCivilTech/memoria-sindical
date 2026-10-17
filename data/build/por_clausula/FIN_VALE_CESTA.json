@@ -1,0 +1,122 @@
+[
+  {
+    "ano_inicio": 1991,
+    "ano_fim": 1991,
+    "tipo": "DC",
+    "id_canonico": "FIN_VALE_CESTA",
+    "numero_clausula_original": 23,
+    "titulo_original": "CESTA BÁSICA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compartilhamento": {
+        "Nivel_Basico_B01_B34": 30,
+        "Nivel_Medio_M01_M17": 40,
+        "Nivel_Superior_S01_S24": 50
+      },
+      "regionalizacao": true,
+      "extensao_afastados": "45 dias (licença médica, acidente, gestante)"
+    },
+    "pagina_referencia": "4-5"
+  },
+  {
+    "ano_inicio": 1992,
+    "ano_fim": 1992,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_CESTA",
+    "numero_clausula_original": 17,
+    "titulo_original": "CESTA BÁSICA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compartilhamento": {
+        "Nivel_Basico_B01_B34": 30,
+        "Nivel_Medio_M01_M17": 40,
+        "Nivel_Superior_S01_S24": 50
+      },
+      "regionalizacao": true,
+      "extensao_afastados": "45 dias (licença médica, acidente, gestante e férias)"
+    },
+    "pagina_referencia": "5"
+  },
+  {
+    "ano_inicio": 1995,
+    "ano_fim": 1996,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_CESTA",
+    "numero_clausula_original": 13,
+    "titulo_original": "CESTA BÁSICA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compartilhamento": {
+        "Nivel Basico": 10,
+        "Nivel Medio": 20,
+        "Nivel Superior": 30
+      },
+      "regionalizacao": true
+    }
+  },
+  {
+    "ano_inicio": 1997,
+    "ano_fim": 1998,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_CESTA",
+    "numero_clausula_original": 13,
+    "titulo_original": "CESTA BÁSICA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compartilhamento": {
+        "Basico": 10,
+        "Medio": 20,
+        "Superior": 30
+      },
+      "regionalizacao": true
+    }
+  },
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_CESTA",
+    "numero_clausula_original": 13,
+    "titulo_original": "CESTA BÁSICA / VALE-CESTA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compartilhamento": {
+        "Basico": 10,
+        "Medio": 20,
+        "Superior": 30
+      },
+      "vale_cesta_provisorio": 40.0,
+      "prazo_restabelecimento": "180 dias"
+    }
+  },
+  {
+    "ano_inicio": 2000,
+    "ano_fim": 2001,
+    "tipo": "DC",
+    "id_canonico": "FIN_VALE_CESTA",
+    "numero_clausula_original": 45,
+    "titulo_original": "VALE CESTA",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": 42.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 42.0,
+      "participacao_empregado": {
+        "Nivel Basico": 10,
+        "Nivel Medio/Tecnico": 15,
+        "Nivel Superior": 20
+      },
+      "fornecimento_cesta": "até término dos contratos vigentes"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Vale-cesta de R$ 40,00",
+      "pedido_fentect": "Vale-cesta de R$ 42,00",
+      "decisao_tst": "DEFERE, acolhendo R$ 42,00",
+      "fundamento_juridico": "Negociação coletiva",
+      "votos_divergentes": null
+    },
+    "observacao": "Cláusula econômica parcialmente controvertida.",
+    "pagina_referencia": "13"
+  }
+]

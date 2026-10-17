@@ -1,0 +1,29 @@
+[
+  {
+    "ano_inicio": 2011,
+    "ano_fim": 2012,
+    "tipo": "DCG",
+    "id_canonico": "FIN_COMPENSACAO_DIAS_PARADOS",
+    "numero_clausula_original": null,
+    "titulo_original": "COMPENSAÇÃO DOS DIAS DE GREVE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_parados": null,
+      "compensacao": "21 dias de paralisação",
+      "devolucao": "6 dias já descontados",
+      "compensacao_forma": "sábados e domingos, conforme necessidade da ECT",
+      "prazo": "até o segundo domingo de maio de 2012",
+      "antecedencia_convocacao": "72 horas",
+      "base_legal": "Art. 7º da Lei 7.783/89"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Desconto integral ou compensação",
+      "pedido_fentect": "Não desconto",
+      "decisao_tst": "DEFERE a compensação dos dias parados",
+      "fundamento_juridico": "Suspensão do contrato de trabalho (art. 7º, Lei 7.783/89)",
+      "votos_divergentes": "Ministros Maurício Godinho Delgado, Kátia Arruda, João Oreste Dalazen, Walmir Oliveira da Costa, Fernando Eizo Ono e Dora Maria da Costa"
+    },
+    "observacao": null,
+    "pagina_referencia": 1
+  }
+]

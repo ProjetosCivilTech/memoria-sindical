@@ -1,0 +1,51 @@
+[
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PERICULOSIDADE_MOTOCICLISTA",
+    "numero_clausula_original": 78,
+    "titulo_original": "ADICIONAL DE PERICULOSIDADE PARA MOTOCICLISTAS",
+    "status": "MANTIDO",
+    "valor_anterior": 30,
+    "valor_atual": 30,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 30,
+      "base_legal": "art. 193, §4º, CLT",
+      "publico_alvo": "carteiro motorizado que faz uso de motocicleta",
+      "cumulacao_AADC": true,
+      "tese_vinculante": "IRR 15 / Tema Repetitivo 15 do TST"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Art. 193, §4º, CLT; IRR 15 / Tema Repetitivo 15 do TST",
+      "votos_divergentes": null
+    },
+    "observacao": "**CONQUISTA**. A cláusula é mantida com base na tese vinculante do TST que garante a cumulação do AADC com a periculosidade.",
+    "pagina_referencia": 31
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "FIN_PERICULOSIDADE_MOTOCICLISTA",
+    "numero_clausula_original": 78,
+    "titulo_original": "ADICIONAL DE PERICULOSIDADE PARA MOTOCICLISTAS",
+    "status": "DEFERIDO_PARCIALMENTE",
+    "valor_atual": 30,
+    "unidade": "%",
+    "detalhes": {
+      "percentual": 30,
+      "base_legal": "art. 193, §4º, CLT",
+      "publico_alvo": "carteiro motorizado que faz uso de motocicleta",
+      "cumulacao_AADC": true,
+      "tese_vinculante": "IRR 15 / Tema Repetitivo 15 do TST"
+    },
+    "observacao": "TST indeferiu pedido de adicional para ciclistas e retroativos; deferiu cumulação AADC + periculosidade",
+    "pagina_referencia": "99-100"
+  }
+]

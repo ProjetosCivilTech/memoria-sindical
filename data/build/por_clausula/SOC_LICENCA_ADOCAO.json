@@ -1,0 +1,591 @@
+[
+  {
+    "ano_inicio": 1990,
+    "ano_fim": 1991,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ADOCAO",
+    "numero_clausula_original": 18,
+    "titulo_original": "LICENÇA-ADOÇÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_licenca": 15,
+      "idade_crianca": "0 a 12 meses incompletos",
+      "inicio_contagem": "data efetiva da adoção"
+    },
+    "memoria_negociacao": null,
+    "observacao": "Reduzida de 60 dias (1988/89) para 15 dias em 1990.",
+    "pagina_referencia": "8"
+  },
+  {
+    "ano_inicio": 1991,
+    "ano_fim": 1991,
+    "tipo": "DC",
+    "id_canonico": "SOC_LICENCA_ADOCAO",
+    "numero_clausula_original": 38,
+    "titulo_original": "LICENÇA-ADOÇÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_licenca": 60,
+      "idade_crianca": "0 a 12 meses",
+      "inicio_contagem": "data da efetiva adoção"
+    },
+    "pagina_referencia": "5-6"
+  },
+  {
+    "ano_inicio": 1992,
+    "ano_fim": 1992,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ADOCAO",
+    "numero_clausula_original": 18,
+    "titulo_original": "LICENÇA-ADOÇÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_licenca": 60,
+      "idade_crianca": "0 a 12 meses",
+      "inicio_contagem": "data da efetiva adoção"
+    },
+    "pagina_referencia": "5"
+  },
+  {
+    "ano_inicio": 1993,
+    "ano_fim": 1994,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ADOCAO",
+    "numero_clausula_original": 18,
+    "titulo_original": "LICENÇA-ADOÇÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_licenca": 60,
+      "idade_crianca": "0 a 15 meses",
+      "inicio_contagem": "comprovação oficial da guarda"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "11-12"
+  },
+  {
+    "ano_inicio": 1994,
+    "ano_fim": 1995,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ADOCAO",
+    "numero_clausula_original": 28,
+    "titulo_original": "LICENÇA-ADOÇÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_licenca": 60,
+      "idade_crianca": "0 a 15 meses",
+      "inicio_contagem": "comprovação oficial da guarda"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "9"
+  },
+  {
+    "ano_inicio": 1995,
+    "ano_fim": 1996,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ADOCAO",
+    "numero_clausula_original": 30,
+    "titulo_original": "LICENÇA-ADOÇÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_licenca": 60,
+      "idade_crianca": "0 a 15 meses",
+      "inicio_contagem": "comprovação oficial da guarda"
+    }
+  },
+  {
+    "ano_inicio": 1997,
+    "ano_fim": 1998,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ADOCAO",
+    "numero_clausula_original": 30,
+    "titulo_original": "LICENÇA-ADOÇÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_licenca": 60,
+      "idade_crianca": "0 a 15 meses"
+    }
+  },
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ADOCAO",
+    "numero_clausula_original": 32,
+    "titulo_original": "LICENÇA-ADOÇÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_licenca": 60,
+      "idade_crianca": "0 a 18 meses"
+    }
+  },
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ADOCAO",
+    "numero_clausula_original": 33,
+    "titulo_original": "LICENÇA-ADOÇÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_licenca": 60,
+      "idade_crianca": "0 a 18 meses"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "12"
+  },
+  {
+    "ano_inicio": 2000,
+    "ano_fim": 2001,
+    "tipo": "DC",
+    "id_canonico": "SOC_LICENCA_ADOCAO",
+    "numero_clausula_original": 31,
+    "titulo_original": "LICENÇA-ADOÇÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_licenca": 60,
+      "idade_crianca": "zero a 18 meses",
+      "inicio_contagem": "comprovação oficial da guarda"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "Cláusula incontroversa.",
+    "pagina_referencia": "7"
+  },
+  {
+    "ano_inicio": 2001,
+    "ano_fim": 2002,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ADOCAO",
+    "numero_clausula_original": 27,
+    "titulo_original": "LICENÇA-ADOÇÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_licenca": 60,
+      "idade_crianca": "zero a 36 meses",
+      "inicio_contagem": "comprovação oficial da guarda"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "8"
+  },
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ADOCAO",
+    "numero_clausula_original": 37,
+    "titulo_original": "LICENÇA ADOÇÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_licenca": "120/60/30 (conforme idade)",
+      "idade_crianca": "até 8 anos",
+      "licenca_paternidade": 5,
+      "aplicacao_solteiro": true,
+      "aplicacao_homoafetivo": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "19"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ADOCAO",
+    "numero_clausula_original": 37,
+    "titulo_original": "LICENÇA ADOÇÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_licenca": "120/60/30 (conforme idade)",
+      "idade_crianca": "até 8 anos",
+      "licenca_paternidade": 5,
+      "aplicacao_solteiro": true,
+      "aplicacao_homoafetivo": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "17-18"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ADOCAO",
+    "numero_clausula_original": 37,
+    "titulo_original": "LICENÇA-ADOÇÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_licenca": "120/60/30 (conforme idade)",
+      "idade_crianca": "até 8 anos",
+      "licenca_paternidade": 5,
+      "aplicacao_solteiro": true,
+      "aplicacao_homoafetivo": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "13"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ADOCAO",
+    "numero_clausula_original": 37,
+    "titulo_original": "LICENÇA-ADOÇÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "legislacao": "conforme lei específica",
+      "licenca_paternidade": 5,
+      "solteiro": true
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ADOCAO",
+    "numero_clausula_original": 37,
+    "titulo_original": "LICENÇA-ADOÇÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_licenca": "120/60/30 (conforme idade)",
+      "idade_crianca": "até 8 anos",
+      "licenca_paternidade": 5,
+      "aplicacao_solteiro": true,
+      "aplicacao_homoafetivo": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "15"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ADOCAO",
+    "numero_clausula_original": 37,
+    "titulo_original": "LICENÇA-ADOÇÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_licenca": "120/60/30 (conforme idade)",
+      "idade_crianca": "até 8 anos",
+      "licenca_paternidade": 5,
+      "aplicacao_solteiro": true,
+      "aplicacao_homoafetivo": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 13
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ADOCAO",
+    "numero_clausula_original": 38,
+    "titulo_original": "LICENÇA-ADOÇÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_licenca": "120/60/30 (conforme idade)",
+      "idade_crianca": "até 8 anos",
+      "prorrogacao_60_dias": true,
+      "licenca_paternidade": 5,
+      "aplicacao_solteiro": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "12"
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ADOCAO",
+    "numero_clausula_original": 38,
+    "titulo_original": "LICENÇA-ADOÇÃO",
+    "status": "MANTIDO",
+    "texto": "Licença de 120 dias (criança até 1 ano), 60 dias (1-4 anos), 30 dias (4-8 anos). Prorrogável. Paragrafo 8: direito à licença-adoção para empregados(as) em união homoafetiva estável, desde que o companheiro(a) não utilize o mesmo benefício.",
+    "observacao": "Idêntica ao DC 2013-2014 (inclui paragrafo 8 da união homoafetiva).",
+    "pagina_referencia": 11
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "SOC_LICENCA_ADOCAO",
+    "numero_clausula_original": 38,
+    "titulo_original": "LICENÇA-ADOÇÃO",
+    "status": "ALTERADO",
+    "texto": "Licença de 120 dias (criança até 1 ano), 60 dias (1-4 anos), 30 dias (4-8 anos). Prorrogável. Incluído §8º: direito à licença-adoção para empregados(as) em união homoafetiva estável, desde que o companheiro(a) não utilize o mesmo benefício.",
+    "observacao": "Incluído §8º (união homoafetiva).",
+    "pagina_referencia": 62
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ADOCAO",
+    "numero_clausula_original": 7,
+    "titulo_original": "LICENÇA ADOÇÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_licenca": 120,
+      "idade_crianca": "até 12 anos",
+      "prorrogacao_60_dias": true,
+      "licenca_paternidade": 5,
+      "homoafetiva": true
+    },
+    "memoria_negociacao": null,
+    "observacao": "Licença ampliada para 120 dias para crianças até 12 anos.",
+    "pagina_referencia": "5"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ADOCAO",
+    "numero_clausula_original": 7,
+    "titulo_original": "LICENÇA ADOÇÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_licenca": 120,
+      "dias_prorrogacao": 60,
+      "idade_limite_crianca": 12,
+      "termo_guarda": true,
+      "aplicacao_casais_homoafetivos": true,
+      "licenca_paternidade_adotante": 5
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 6
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ADOCAO",
+    "numero_clausula_original": 7,
+    "titulo_original": "LICENÇA ADOÇÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_licenca": 120,
+      "idade_crianca": "até 12 anos",
+      "prorrogacao_60_dias": true,
+      "licenca_paternidade": 5,
+      "homoafetiva": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "6-7"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ADOCAO",
+    "numero_clausula_original": 7,
+    "titulo_original": "LICENÇA ADOÇÃO",
+    "status": "DEFERIDO",
+    "valor_atual": 12,
+    "unidade": "anos de idade",
+    "detalhes": {
+      "dias_licenca": 120,
+      "dias_prorrogacao": 60,
+      "idade_limite_crianca": 12,
+      "termo_guarda": true,
+      "licenca_paternidade_adotante": 5,
+      "solteiro": true,
+      "homoafetiva": true
+    },
+    "pagina_referencia": "20-21"
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ADOCAO",
+    "numero_clausula_original": 7,
+    "titulo_original": "LICENÇA ADOÇÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_licenca": 120,
+      "dias_prorrogacao": 60,
+      "idade_limite_crianca": 12,
+      "termo_guarda": true,
+      "aplicacao_casais_homoafetivos": true,
+      "licenca_paternidade_adotante": 5
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 5
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "SOC_LICENCA_ADOCAO",
+    "numero_clausula_original": 7,
+    "titulo_original": "LICENÇA ADOÇÃO",
+    "status": "MANTIDO",
+    "texto": "a licença adoção, conforme previsto na legislação vigente. §1º No caso de adoção ou guarda judicial de criança de até 12 (doze) anos, o período de licença será de 120 (cento e vinte) dias. §2° As empregadas abrangidas pelo disposto no parágrafo anterior poderão optar pela prorrogação de 60 (sessenta) dias da licença adoção. §3° A licença adoção só será concedida mediante apresentação do termo judicial de guarda à adotante ou à guardiã. §4° O empregado adotante fará jus a 5 (cinco) dias úteis a título de licença paternidade. §5º O(A) empregado(a) adotante sem relação estável e considerado(a) solteiro (a) no processo judicial de adoção, terá direito, após a concessão da adoção, à licença-adoção prevista em lei. §6° No caso de relação homoafetiva estável, o(a) empregado(a) adotante fará jus aos benefícios constantes nesta Cláusula, desde que seu(sua) companheiro(a) não utilize do mesmo benefício na instituição onde trabalha. 11 --- PAGINA 12 --CLÁUSULA 08",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "SOC_LICENCA_ADOCAO",
+    "numero_clausula_original": 7,
+    "titulo_original": "LICENÇA ADOÇÃO",
+    "status": "INDEFERIDO",
+    "detalhes": {
+      "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+    },
+    "memoria_negociacao": "SDC indeferiu",
+    "observacao": null,
+    "pagina_referencia": "113"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ADOCAO",
+    "numero_clausula_original": 10,
+    "titulo_original": "LICENÇA ADOÇÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_licenca": 120,
+      "idade_crianca": "até 12 anos",
+      "prorrogacao_60": true,
+      "homoafetiva": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "3"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ADOCAO",
+    "numero_clausula_original": 10,
+    "titulo_original": "LICENÇA ADOÇÃO",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": 14,
+    "unidade": "anos de idade",
+    "detalhes": {
+      "dias_licenca": 120,
+      "dias_prorrogacao": 60,
+      "idade_limite_crianca": 14,
+      "termo_guarda": true,
+      "aplicacao_casais_homoafetivos": true
+    },
+    "observacao": null,
+    "pagina_referencia": 5
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ADOCAO",
+    "numero_clausula_original": 9,
+    "titulo_original": "LICENÇA ADOÇÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_licenca": 120,
+      "dias_prorrogacao": 60,
+      "idade_limite_crianca": 14,
+      "termo_guarda": true,
+      "aplicacao_casais_homoafetivos": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 5
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "SOC_LICENCA_ADOCAO",
+    "numero_clausula_original": 9,
+    "titulo_original": "LICENÇA ADOÇÃO",
+    "status": "DEFERIDO",
+    "valor_atual": 14,
+    "unidade": "anos de idade",
+    "detalhes": {
+      "dias_licenca": 120,
+      "dias_prorrogacao": 60,
+      "idade_limite_crianca": 14,
+      "termo_guarda": true,
+      "aplicacao_casais_homoafetivos": true
+    },
+    "memoria_negociacao": "ECT tentou reduzir de 14 para 12 anos; TST barrou com base na Convenção sobre os Direitos da Criança",
+    "pagina_referencia": "26-28"
+  }
+]

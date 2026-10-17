@@ -1,0 +1,513 @@
+[
+  {
+    "ano_inicio": 1992,
+    "ano_fim": 1992,
+    "tipo": "ACT",
+    "id_canonico": "SIN_REPASSE_MENSALIDADES",
+    "numero_clausula_original": 24,
+    "titulo_original": "REPASSE DE MENSALIDADES EM FAVOR DAS REPRESENTAÇÕES SINDICAIS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "desconto_em_folha": true,
+      "comprovacao": "Atas de Assembleias"
+    },
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 1993,
+    "ano_fim": 1994,
+    "tipo": "ACT",
+    "id_canonico": "SIN_REPASSE_MENSALIDADES",
+    "numero_clausula_original": 25,
+    "titulo_original": "REPASSE DE MENSALIDADES",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo_repasse": "2º ao 5º dia útil do mês subsequente"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "14"
+  },
+  {
+    "ano_inicio": 1994,
+    "ano_fim": 1995,
+    "tipo": "ACT",
+    "id_canonico": "SIN_REPASSE_MENSALIDADES",
+    "numero_clausula_original": 41,
+    "titulo_original": "REPASSE DAS MENSALIDADES DO SINDICATO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo_repasse": "2º dia útil bancário do mês subsequente ao de referência"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "12"
+  },
+  {
+    "ano_inicio": 1995,
+    "ano_fim": 1996,
+    "tipo": "ACT",
+    "id_canonico": "SIN_REPASSE_MENSALIDADES",
+    "numero_clausula_original": 44,
+    "titulo_original": "REPASSE DAS MENSALIDADES DO SINDICATO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo_repasse": "3º dia útil após pagamento"
+    }
+  },
+  {
+    "ano_inicio": 1997,
+    "ano_fim": 1998,
+    "tipo": "ACT",
+    "id_canonico": "SIN_REPASSE_MENSALIDADES",
+    "numero_clausula_original": 44,
+    "titulo_original": "REPASSE DAS MENSALIDADES DO SINDICATO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo_repasse": "3º dia útil após pagamento"
+    }
+  },
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "SIN_REPASSE_MENSALIDADES",
+    "numero_clausula_original": 48,
+    "titulo_original": "REPASSE DAS MENSALIDADES DO SINDICATO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo_repasse": "3º dia útil após pagamento",
+      "restabelecimento_retorno": true
+    }
+  },
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "SIN_REPASSE_MENSALIDADES",
+    "numero_clausula_original": 49,
+    "titulo_original": "REPASSE DAS MENSALIDADES DO SINDICATO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo_repasse": "primeiro dia útil após o pagamento mensal",
+      "restabelecimento_afastados": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "15-16"
+  },
+  {
+    "ano_inicio": 2000,
+    "ano_fim": 2001,
+    "tipo": "DC",
+    "id_canonico": "SIN_REPASSE_MENSALIDADES",
+    "numero_clausula_original": 45,
+    "titulo_original": "REPASSE DAS MENSALIDADES DO SINDICATO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo_repasse": "primeiro dia útil após o pagamento mensal",
+      "comprovacao": "Atas de Assembleias",
+      "restabelecimento_afastados": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "Cláusula incontroversa.",
+    "pagina_referencia": "10"
+  },
+  {
+    "ano_inicio": 2001,
+    "ano_fim": 2002,
+    "tipo": "ACT",
+    "id_canonico": "SIN_REPASSE_MENSALIDADES",
+    "numero_clausula_original": 43,
+    "titulo_original": "REPASSE DAS MENSALIDADES DO SINDICATO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo_repasse": "primeiro dia útil após o pagamento mensal",
+      "comprovacao": "Atas de Assembleias",
+      "restabelecimento_afastados": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "11"
+  },
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "SIN_REPASSE_MENSALIDADES",
+    "numero_clausula_original": 54,
+    "titulo_original": "REPASSE DAS MENSALIDADES DO SINDICATO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo_repasse": "primeiro dia útil após o pagamento mensal",
+      "comprovacao": "Atas de Assembleias",
+      "desconto_filiados": true,
+      "restabelecimento_afastados": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "25"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "SIN_REPASSE_MENSALIDADES",
+    "numero_clausula_original": 55,
+    "titulo_original": "REPASSE DAS MENSALIDADES DO SINDICATO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo_repasse": "primeiro dia útil após o pagamento mensal",
+      "comprovacao": "Atas de Assembleias",
+      "prazo_comunicados": "dia 10 do mês"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "25-26"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "SIN_REPASSE_MENSALIDADES",
+    "numero_clausula_original": 55,
+    "titulo_original": "REPASSE DAS MENSALIDADES DO SINDICATO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo_repasse": "primeiro dia útil após o pagamento mensal",
+      "comprovacao": "Atas de Assembleias",
+      "prazo_comunicados": "dia 10 do mês"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "16-17"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "SIN_REPASSE_MENSALIDADES",
+    "numero_clausula_original": 55,
+    "titulo_original": "REPASSE DAS MENSALIDADES DO SINDICATO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo_repasse": "primeiro dia útil",
+      "prazo_comunicados": "dia 10"
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "SIN_REPASSE_MENSALIDADES",
+    "numero_clausula_original": 55,
+    "titulo_original": "REPASSE DAS MENSALIDADES DO SINDICATO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo_repasse": "primeiro dia útil após o pagamento mensal",
+      "comprovacao": "Atas de Assembleias",
+      "prazo_comunicados": "dia 10 do mês"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "22-23"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "SIN_REPASSE_MENSALIDADES",
+    "numero_clausula_original": 55,
+    "titulo_original": "REPASSE DAS MENSALIDADES DO SINDICATO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo_repasse": "primeiro dia útil após o pagamento mensal",
+      "comprovacao": "Atas de Assembleias",
+      "prazo_comunicados": "dia 10 do mês"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 17
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "SIN_REPASSE_MENSALIDADES",
+    "numero_clausula_original": 56,
+    "titulo_original": "REPASSE DAS MENSALIDADES DO SINDICATO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo_repasse": "primeiro dia útil",
+      "prazo_comunicados": "dia 10"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "16"
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "SIN_REPASSE_MENSALIDADES",
+    "numero_clausula_original": 56,
+    "titulo_original": "REPASSE DAS MENSALIDADES DO SINDICATO",
+    "status": "MANTIDO",
+    "texto": "Desconto em folha conforme Atas de Assembleias. Repasse no primeiro dia útil após o pagamento mensal. Restabelecimento após retorno de afastados. Comunicação de filiação/desfiliação até o dia 10.",
+    "observacao": "Idêntica ao DC 2013-2014.",
+    "pagina_referencia": 15
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "SIN_REPASSE_MENSALIDADES",
+    "numero_clausula_original": 56,
+    "titulo_original": "REPASSE DAS MENSALIDADES DO SINDICATO",
+    "status": "MANTIDO",
+    "texto": "Desconto em folha conforme Atas de Assembleias. Repasse no primeiro dia útil após o pagamento mensal. Restabelecimento após retorno de afastados. Comunicação de filiação/desfiliação até o dia 10.",
+    "observacao": "Idêntica ao DC 2012-2013.",
+    "pagina_referencia": 98
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "SIN_REPASSE_MENSALIDADES",
+    "numero_clausula_original": 25,
+    "titulo_original": "REPASSE DAS MENSALIDADES DO SINDICATO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo_repasse": "primeiro dia útil",
+      "prazo_comunicados": "dia 10"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "12"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "SIN_REPASSE_MENSALIDADES",
+    "numero_clausula_original": 25,
+    "titulo_original": "REPASSE DAS MENSALIDADES DO SINDICATO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo_repasse": "primeiro dia útil após o pagamento mensal dos salários",
+      "comprovacao": "Atas de Assembleias",
+      "prazo_comunicados": "dia 10 do mês corrente"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 15
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "SIN_REPASSE_MENSALIDADES",
+    "numero_clausula_original": 25,
+    "titulo_original": "REPASSE DAS MENSALIDADES DO SINDICATO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo_repasse": "primeiro dia útil",
+      "prazo_comunicados": "dia 10"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "15"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "SIN_REPASSE_MENSALIDADES",
+    "numero_clausula_original": 25,
+    "titulo_original": "REPASSE DAS MENSALIDADES DO SINDICATO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo_repasse": "primeiro dia útil após o pagamento mensal",
+      "comprovacao": "Atas de Assembleias",
+      "prazo_comunicados": "dia 10 do mês corrente"
+    },
+    "pagina_referencia": "38-39"
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "SIN_REPASSE_MENSALIDADES",
+    "numero_clausula_original": 25,
+    "titulo_original": "REPASSE DAS MENSALIDADES DO SINDICATO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo_repasse": "primeiro dia útil após o pagamento mensal dos salários",
+      "comprovacao": "Atas de Assembleias",
+      "prazo_comunicados": "dia 10 do mês corrente"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 14
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "SIN_REPASSE_MENSALIDADES",
+    "numero_clausula_original": 25,
+    "titulo_original": "REPASSE DAS MENSALIDADES DO SINDICATO ..................................................................................",
+    "status": "MANTIDO",
+    "texto": "",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "SIN_REPASSE_MENSALIDADES",
+    "numero_clausula_original": 25,
+    "titulo_original": "REPASSE DAS MENSALIDADES DOS SINDICATOS",
+    "status": "INDEFERIDO",
+    "detalhes": {
+      "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+    },
+    "memoria_negociacao": "SDC indeferiu",
+    "observacao": null,
+    "pagina_referencia": "113"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "SIN_REPASSE_MENSALIDADES",
+    "numero_clausula_original": 27,
+    "titulo_original": "REPASSE DAS MENSALIDADES DO SINDICATO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo": "primeiro dia útil",
+      "prazo_comunicados": "dia 10"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SIN_REPASSE_MENSALIDADES",
+    "numero_clausula_original": 28,
+    "titulo_original": "REPASSE DAS MENSALIDADES DO SINDICATO",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "prazo_repasse": "primeiro dia útil após o pagamento mensal dos salários",
+      "comprovacao": "Atas de Assembleias",
+      "prazo_comunicados": "dia 10 do mês corrente"
+    },
+    "observacao": "No DC 2025/2026, a ECT tentou alterar para o 5º dia útil, mas o TST manteve o 1º dia útil.",
+    "pagina_referencia": 11
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SIN_REPASSE_MENSALIDADES",
+    "numero_clausula_original": 24,
+    "titulo_original": "REPASSE DAS MENSALIDADES DO SINDICATO",
+    "status": "REDUZIDO",
+    "valor_anterior": "1º dia útil",
+    "valor_atual": "5º dia útil",
+    "unidade": "prazo",
+    "detalhes": {
+      "prazo_repasse": "quinto dia útil após o pagamento mensal dos salários",
+      "comprovacao": "Atas de Assembleias",
+      "prazo_comunicados": "dia 10 do mês corrente"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Alterar o §1º para repasse no quinto dia útil",
+      "pedido_fentect": "Manutenção do prazo no primeiro dia útil",
+      "pedido_findect": "Manutenção do prazo no primeiro dia útil",
+      "decisao_tst": "DEFERE a alteração proposta pela ECT",
+      "fundamento_juridico": "Cláusula sem expressão econômica",
+      "votos_divergentes": null
+    },
+    "observacao": "**PERDA**. A ECT já havia tentado essa alteração no DC 2025/2026, mas não foi acolhida. Agora, em 2026/2027, o TST deferiu a mudança do 1º para o 5º dia útil.",
+    "pagina_referencia": 12
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "SIN_REPASSE_MENSALIDADES",
+    "numero_clausula_original": 24,
+    "titulo_original": "REPASSE DAS MENSALIDADES DO SINDICATO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo_repasse": "primeiro dia útil após o pagamento mensal",
+      "comprovacao": "Atas de Assembleias",
+      "prazo_comunicados": "dia 10 do mês corrente"
+    },
+    "observacao": "ECT tentou alterar para o 5º dia útil; TST manteve o 1º",
+    "pagina_referencia": "38"
+  }
+]

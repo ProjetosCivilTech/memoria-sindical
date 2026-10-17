@@ -1,0 +1,26 @@
+[
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "PRO_DIREITO_AMPLA_DEFESA",
+    "numero_clausula_original": 21,
+    "titulo_original": "DIREITO À AMPLA DEFESA",
+    "status": "MANTIDO",
+    "texto": "Empregados em processo de falta grave têm direito a documentos e ampla defesa. A critério do empregado o sindicato poderá acompanhar o processo de apuração.",
+    "observacao": "Idêntica ao DC 2013-2014.",
+    "pagina_referencia": 6
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "PRO_DIREITO_AMPLA_DEFESA",
+    "numero_clausula_original": 21,
+    "titulo_original": "DIREITO À AMPLA DEFESA",
+    "status": "ALTERADO",
+    "texto": "Empregados em processo de falta grave têm direito a documentos e ampla defesa. Acrescido: 'A critério do empregado o sindicato poderá acompanhar o processo de apuração'.",
+    "observacao": "Acrescentada a expressão 'A critério do empregado'.",
+    "pagina_referencia": 61
+  }
+]

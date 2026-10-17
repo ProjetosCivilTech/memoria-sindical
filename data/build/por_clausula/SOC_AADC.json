@@ -1,0 +1,74 @@
+[
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "SOC_AADC",
+    "numero_clausula_original": 9,
+    "titulo_original": "ADICIONAL DE ATIVIDADE DISTRIBUIÇÃO E COLETA",
+    "status": "DEFERIDO",
+    "valor_atual": 30,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 30,
+      "publico": "gestantes e licença maternidade",
+      "a_partir_5_mes": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "SOC_AADC",
+    "numero_clausula_original": 9,
+    "titulo_original": "ADICIONAL DE ATIVIDADE DISTRIBUIÇÃO E COLETA – AADC",
+    "status": "DEFERIDO",
+    "valor_atual": 30,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 30,
+      "publico": "gestantes e licença maternidade (Carteiro e carteiro motorizado)",
+      "a_partir_5_mes": true
+    },
+    "memoria_negociacao": null,
+    "observacao": "Incluída atividade carteira motorizada.",
+    "pagina_referencia": "8"
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "SOC_AADC",
+    "numero_clausula_original": 9,
+    "titulo_original": "ADICIONAL DE ATIVIDADE DISTRIBUIÇÃO E COLETA - AADC",
+    "status": "INDEFERIDO",
+    "detalhes": {
+      "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+    },
+    "memoria_negociacao": "SDC indeferiu",
+    "observacao": null,
+    "pagina_referencia": "113"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "SOC_AADC",
+    "numero_clausula_original": 14,
+    "titulo_original": "ADICIONAL DE ATIVIDADE DISTRIBUIÇÃO E COLETA - AADC",
+    "status": "DEFERIDO",
+    "valor_atual": 30,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 30,
+      "gestantes": true,
+      "licenca_maternidade": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "3"
+  }
+]

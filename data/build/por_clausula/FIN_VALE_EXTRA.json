@@ -1,0 +1,28 @@
+[
+  {
+    "ano_inicio": 2011,
+    "ano_fim": 2012,
+    "tipo": "DCG",
+    "id_canonico": "FIN_VALE_EXTRA",
+    "numero_clausula_original": null,
+    "titulo_original": "VALE EXTRA",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": 575.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor": 575.0,
+      "pagamento": "dezembro de 2011",
+      "publico_alvo": "admitidos até 31/07/2011"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "R$ 575,00",
+      "pedido_fentect": "R$ 563,50",
+      "decisao_tst": "DEFERE R$ 575,00 (proposta da ECT)",
+      "fundamento_juridico": "Proposta da ECT aceita em audiência",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 84
+  }
+]

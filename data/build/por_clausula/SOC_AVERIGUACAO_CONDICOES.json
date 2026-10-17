@@ -1,0 +1,110 @@
+[
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "SOC_AVERIGUACAO_CONDICOES",
+    "numero_clausula_original": 30,
+    "titulo_original": "AVERIGUAÇÃO DAS CONDIÇÕES DE TRABALHO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "acesso_sindicato": true,
+      "prazo_agendamento": "10 dias úteis"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "14"
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "SOC_AVERIGUACAO_CONDICOES",
+    "numero_clausula_original": 30,
+    "titulo_original": "AVERIGUAÇÃO DAS CONDIÇÕES DE TRABALHO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "acesso_sindicato": true,
+      "prazo_agendamento": "10 dias úteis",
+      "emergenciais": "prazos não se aplicam"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "19"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "SOC_AVERIGUACAO_CONDICOES",
+    "numero_clausula_original": 30,
+    "titulo_original": "AVERIGUAÇÃO DAS CONDIÇÕES DE TRABALHO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "antecedencia_visita": "5 dias úteis",
+      "prazo_agendamento": "10 dias úteis",
+      "participantes": [
+        "representante sindical",
+        "médico",
+        "engenheiro/técnico segurança",
+        "representantes da Empresa"
+      ],
+      "climatizacao": true
+    },
+    "pagina_referencia": "46-47"
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "SOC_AVERIGUACAO_CONDICOES",
+    "numero_clausula_original": 14,
+    "titulo_original": "AVERIGUAÇÃO DAS CONDIÇÕES DE TRABALHO (30ª do DCG 2019/2020)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "redacao": "Os Correios garantirão o acesso aos locais de trabalho de representante do sindicato... acompanhado(a) por médico(a), engenheiro(a) do trabalho e/ou técnico de segurança do trabalho; e por representantes da Empresa, mediante agendamento prévio... §1° O Sindicato deverá solicitar o agendamento de visita com antecedência mínima de 5 dias úteis... §2º Os Correios continuarão o processo gradual de exame das condições técnicas para climatização..."
+    },
+    "memoria_negociacao": "Manutenção anuída pelas entidades sindicais",
+    "observacao": null,
+    "pagina_referencia": "63"
+  },
+  {
+    "ano_inicio": 2022,
+    "ano_fim": 2023,
+    "tipo": "ACT",
+    "id_canonico": "SOC_AVERIGUACAO_CONDICOES",
+    "numero_clausula_original": 15,
+    "titulo_original": "AVERIGUAÇÃO DAS CONDIÇÕES DE TRABALHO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "antecedencia_visita": "5 dias úteis",
+      "prazo_agendamento": "10 dias úteis",
+      "participantes": [
+        "representante sindical",
+        "médico",
+        "engenheiro/técnico segurança",
+        "representantes da Empresa"
+      ],
+      "climatizacao": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "4"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "SOC_AVERIGUACAO_CONDICOES",
+    "numero_clausula_original": 34,
+    "titulo_original": "AVERIGUAÇÃO DAS CONDIÇÕES DE TRABALHO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo_solicitacao": "2 dias úteis",
+      "prazo_agendamento": "5 dias úteis"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "7"
+  }
+]

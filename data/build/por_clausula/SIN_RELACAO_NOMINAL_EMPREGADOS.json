@@ -1,0 +1,26 @@
+[
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "SIN_RELACAO_NOMINAL_EMPREGADOS",
+    "numero_clausula_original": 55,
+    "titulo_original": "RELAÇÃO NOMINAL DE EMPREGADOS",
+    "status": "MANTIDO",
+    "texto": "ECT disponibilizará, quando solicitado, por meio magnético, em até 5 dias úteis, relação com nome, matrícula, cargo/atividade e lotação. Intervalo mínimo: 1 mês.",
+    "observacao": "Idêntica ao DC 2013-2014.",
+    "pagina_referencia": 15
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "SIN_RELACAO_NOMINAL_EMPREGADOS",
+    "numero_clausula_original": 55,
+    "titulo_original": "RELAÇÃO NOMINAL DE EMPREGADOS",
+    "status": "ALTERADO",
+    "texto": "ECT disponibilizará, quando solicitado, por meio magnético, em até 5 dias úteis, relação com nome, matrícula, cargo/atividade e lotação. Intervalo mínimo entre solicitações: 1 mês.",
+    "observacao": "Intervalo reduzido de 3 meses para 1 mês. Acrescentada a palavra atividade.",
+    "pagina_referencia": 63
+  }
+]

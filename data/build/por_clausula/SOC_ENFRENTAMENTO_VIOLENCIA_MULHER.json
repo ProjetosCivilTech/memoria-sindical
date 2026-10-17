@@ -1,0 +1,218 @@
+[
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ENFRENTAMENTO_VIOLENCIA_MULHER",
+    "numero_clausula_original": 10,
+    "titulo_original": "ENFRENTAMENTO À VIOLÊNCIA CONTRA A MULHER",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prioridade_transferencia": true,
+      "divulgacao_Ligue180": true,
+      "afastamento_6_meses": "Lei 11.340/2006"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ENFRENTAMENTO_VIOLENCIA_MULHER",
+    "numero_clausula_original": 10,
+    "titulo_original": "ENFRENTAMENTO À VIOLÊNCIA CONTRA A MULHER",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "transferencia_unidade": true,
+      "divulgacao_ligue_180": true,
+      "manutencao_vinculo_6_meses": true,
+      "campanha_tolerancia_zero": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 7
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ENFRENTAMENTO_VIOLENCIA_MULHER",
+    "numero_clausula_original": 10,
+    "titulo_original": "ENFRENTAMENTO À VIOLÊNCIA CONTRA A MULHER",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prioridade_transferencia": true,
+      "divulgacao_Ligue180": true,
+      "afastamento_6_meses": "Lei 11.340/2006"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "8"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ENFRENTAMENTO_VIOLENCIA_MULHER",
+    "numero_clausula_original": 10,
+    "titulo_original": "ENFRENTAMENTO À VIOLÊNCIA CONTRA A MULHER",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "transferencia_unidade": "prioridade independente do SNT",
+      "divulgacao_ligue_180": true,
+      "manutencao_vinculo_6_meses": "sem pagamento de remuneração",
+      "campanha_tolerancia_zero": true
+    },
+    "pagina_referencia": "23-24"
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ENFRENTAMENTO_VIOLENCIA_MULHER",
+    "numero_clausula_original": 10,
+    "titulo_original": "ENFRENTAMENTO À VIOLÊNCIA CONTRA A MULHER",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "transferencia_unidade": true,
+      "divulgacao_ligue_180": true,
+      "manutencao_vinculo_6_meses": true,
+      "campanha_tolerancia_zero": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 6
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "SOC_ENFRENTAMENTO_VIOLENCIA_MULHER",
+    "numero_clausula_original": 10,
+    "titulo_original": "ENFRENTAMENTO À VIOLÊNCIA CONTRA A MULHER ..............................................................................",
+    "status": "MANTIDO",
+    "texto": "Cláusula 11 – LICENÇA MATERNIDADE ............................................................................................................................................. 19",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "SOC_ENFRENTAMENTO_VIOLENCIA_MULHER",
+    "numero_clausula_original": 10,
+    "titulo_original": "ENFRENTAMENTO À VIOLÊNCIA CONTRA A MULHER",
+    "status": "INDEFERIDO",
+    "detalhes": {
+      "motivo": "Por maioria, vencidos os Ministros Luiz Philippe Vieira de Mello Filho, Mauricio Godinho Delgado, Kátia Magalhães Arruda e Delaíde Alves Miranda Arantes",
+      "fundamento": "Cláusula com custo econômico, não preexistente e não histórica"
+    },
+    "memoria_negociacao": "SDC indeferiu por maioria",
+    "observacao": "Consta do rol de cláusulas indeferidas no dispositivo final (pág. 113-114)",
+    "pagina_referencia": "113-114"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ENFRENTAMENTO_VIOLENCIA_MULHER",
+    "numero_clausula_original": 15,
+    "titulo_original": "ENFRENTAMENTO À VIOLÊNCIA CONTRA A MULHER",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prioridade_transferencia": true,
+      "Ligue180": true,
+      "afastamento_6_meses": true,
+      "licenca_remunerada_10_dias": true,
+      "relatorio_mensal_federacoes": true,
+      "orientacao_juridica_psicologica": true
+    },
+    "memoria_negociacao": null,
+    "observacao": "Incluída licença remunerada de 10 dias e relatórios mensais.",
+    "pagina_referencia": "3-4"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ENFRENTAMENTO_VIOLENCIA_MULHER",
+    "numero_clausula_original": 15,
+    "titulo_original": "ENFRENTAMENTO À VIOLÊNCIA CONTRA A MULHER",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "transferencia_unidade": true,
+      "divulgacao_ligue_180": true,
+      "manutencao_vinculo_6_meses": true,
+      "licenca_remunerada_20_dias": true,
+      "campanha_tolerancia_zero": true,
+      "ajuda_custo_salario_base": true
+    },
+    "observacao": null,
+    "pagina_referencia": 6
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ENFRENTAMENTO_VIOLENCIA_MULHER",
+    "numero_clausula_original": 14,
+    "titulo_original": "ENFRENTAMENTO À VIOLÊNCIA CONTRA A MULHER",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "transferencia_unidade": true,
+      "divulgacao_ligue_180": true,
+      "manutencao_vinculo_6_meses": true,
+      "licenca_remunerada_20_dias": true,
+      "campanha_tolerancia_zero": true,
+      "ajuda_custo_salario_base": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 8
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "SOC_ENFRENTAMENTO_VIOLENCIA_MULHER",
+    "numero_clausula_original": 14,
+    "titulo_original": "ENFRENTAMENTO À VIOLÊNCIA CONTRA A MULHER",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "transferencia_unidade": true,
+      "divulgacao_ligue_180": true,
+      "manutencao_vinculo_6_meses": true,
+      "licenca_remunerada_20_dias": true,
+      "campanha_tolerancia_zero": true,
+      "ajuda_custo_salario_base": true,
+      "envio_mensal_federacoes": true,
+      "orientacao_juridica_psicossocial": true
+    },
+    "pagina_referencia": "30"
+  }
+]

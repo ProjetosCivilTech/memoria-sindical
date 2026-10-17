@@ -1,0 +1,45 @@
+[
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SEGURANCA_EMPREGO",
+    "numero_clausula_original": 79,
+    "titulo_original": "SEGURANÇA NO EMPREGO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "validade_demissao": [
+        "a pedido",
+        "demissão motivada em ato formal (Tema 131 STF)"
+      ],
+      "vedacao_demissao_imotivada": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Tema 131 da Tabela de Repercussão Geral do STF",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 31
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "SOC_SEGURANCA_EMPREGO",
+    "numero_clausula_original": 79,
+    "titulo_original": "SEGURANÇA NO EMPREGO",
+    "status": "DEFERIDO_PARCIALMENTE",
+    "detalhes": {
+      "validade_rompimento": [
+        "a pedido",
+        "demissão motivada em ato formal (Tema 131 STF)"
+      ],
+      "vedacao_demissao_imotivada": true
+    },
+    "pagina_referencia": "100-101"
+  }
+]

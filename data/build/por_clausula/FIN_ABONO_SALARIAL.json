@@ -1,0 +1,64 @@
+[
+  {
+    "ano_inicio": 2011,
+    "ano_fim": 2012,
+    "tipo": "DCG",
+    "id_canonico": "FIN_ABONO_SALARIAL",
+    "numero_clausula_original": null,
+    "titulo_original": "ABONO",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": 800.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor": 800.0,
+      "pagamento": "50% em até 15 dias após assinatura + 50% em 01/01/2012",
+      "publico_alvo": "admitidos até 31/07/2011"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "R$ 500,00",
+      "pedido_fentect": "R$ 800,00",
+      "decisao_tst": "DEFERE R$ 800,00 (proposta da ECT em audiência)",
+      "fundamento_juridico": "Proposta da ECT aceita em audiência",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 84
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ABONO_SALARIAL",
+    "numero_clausula_original": 63,
+    "titulo_original": "ABONO INDENIZATÓRIO PERU",
+    "status": "DEFERIDO",
+    "valor_atual": 1000.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor": 1000.0,
+      "pagamento": "5 dias úteis"
+    },
+    "memoria_negociacao": null,
+    "observacao": "Referência ao acordo PERU.",
+    "pagina_referencia": "13"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ABONO_SALARIAL",
+    "numero_clausula_original": 64,
+    "titulo_original": "ABONO SALARIAL",
+    "status": "DEFERIDO",
+    "valor_atual": 1500.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor": 1500.0,
+      "pagamento": "janeiro/2024"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "13"
+  }
+]

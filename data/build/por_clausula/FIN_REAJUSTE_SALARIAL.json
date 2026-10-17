@@ -1,0 +1,801 @@
+[
+  {
+    "ano_inicio": 1988,
+    "ano_fim": 1989,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REAJUSTE_SALARIAL",
+    "numero_clausula_original": 2,
+    "titulo_original": "REMUNERAÇÃO - CORREÇÃO SALARIAL",
+    "status": "DEFERIDO",
+    "valor_atual": 94.9,
+    "unidade": "%",
+    "detalhes": {
+      "indice_aplicado": "94,90% em 01.01.89",
+      "discriminacao": {
+        "previsao_reajuste": 61.7,
+        "acrescimo_salarial": 19.6,
+        "produtividade": "a ser fixada pelo Poder Executivo para 1989",
+        "compensacao": "15% compensam reivindicações de 1987"
+      },
+      "base_legal": "Decreto-Lei 2.425/1988",
+      "ajuste_final": "após divulgação oficial do IPC de dezembro/1988 (estimado em 26,85%)"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "1-2"
+  },
+  {
+    "ano_inicio": 1990,
+    "ano_fim": 1991,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REAJUSTE_SALARIAL",
+    "numero_clausula_original": 2,
+    "titulo_original": "REAJUSTE SALARIAL",
+    "status": "DEFERIDO",
+    "valor_atual": 127.18,
+    "unidade": "%",
+    "detalhes": {
+      "indice_aplicado": "127,18% sobre salários de 31.12.89",
+      "aumento_real": "4% a título de produtividade",
+      "reposicao_plano_bresser": "9,62%",
+      "deducao_pagamento_duplicado": "9,91% (junho/1989)",
+      "ajuste_IPC": "substituição do IPC estimado (41%) pelo oficial"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "4-5"
+  },
+  {
+    "ano_inicio": 1992,
+    "ano_fim": 1992,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REAJUSTE_SALARIAL",
+    "numero_clausula_original": 2,
+    "titulo_original": "REAJUSTE SALARIAL",
+    "status": "DEFERIDO",
+    "valor_atual": 168.81,
+    "unidade": "%",
+    "detalhes": {
+      "indice": "168,81%",
+      "base_calculo": "salário-base de dezembro/1991",
+      "data_base": "1992-01-01",
+      "INPC_referencia": "80,93% do INPC/IBGE jan-dez/1991",
+      "estimativa_nov_dez": "22%",
+      "ajuste_se_diferente": true,
+      "antecipacoes_descontadas": [
+        "20% set/1991",
+        "até 16% set/1991 (Lei 8.222/91)",
+        "até 23% nov/1991 (Lei 8.222/91)"
+      ],
+      "compatibilizacao_referencias": true
+    },
+    "pagina_referencia": "1"
+  },
+  {
+    "ano_inicio": 1993,
+    "ano_fim": 1994,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REAJUSTE_SALARIAL",
+    "numero_clausula_original": 1,
+    "titulo_original": "REAJUSTE SALARIAL",
+    "status": "DEFERIDO",
+    "valor_atual": 3.0,
+    "unidade": "%",
+    "detalhes": {
+      "produtividade": "3% incorporados ao salário a partir de 01/01/93",
+      "antecipacao_marco": {
+        "ate_6_SM": 70,
+        "acima_6_SM": 60,
+        "base": "IRSM do bimestre anterior sobre salários de 01/01/93"
+      },
+      "antecipacao_julho_novembro": "60% do IRSM do bimestre anterior (se acumulado <= 50%)",
+      "antecipacao_acima_50": {
+        "ate_6_SM": 80,
+        "acima_6_SM": 60
+      },
+      "reajuste_maio_setembro": "conforme Lei 8.542/92"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "1-3"
+  },
+  {
+    "ano_inicio": 1994,
+    "ano_fim": 1995,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REAJUSTE_SALARIAL",
+    "numero_clausula_original": 39,
+    "titulo_original": "REAJUSTE SALARIAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "indice_aplicado": "conforme legislações salariais vigentes de 01/01/94 até a data de assinatura",
+      "compromisso": "voltar à mesa de negociação em caso de fatos que alterem a política salarial"
+    },
+    "memoria_negociacao": null,
+    "observacao": "Sem percentual fixo no texto; reajustes conforme legislação vigente.",
+    "pagina_referencia": "12"
+  },
+  {
+    "ano_inicio": 1995,
+    "ano_fim": 1996,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REAJUSTE_SALARIAL",
+    "numero_clausula_original": 41,
+    "titulo_original": "REAJUSTE SALARIAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "base": "TST-DC 232.576/95.6, decisão de 18/12/1995",
+      "data_base": "1995-12-01"
+    }
+  },
+  {
+    "ano_inicio": 1997,
+    "ano_fim": 1998,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REAJUSTE_SALARIAL",
+    "numero_clausula_original": 41,
+    "titulo_original": "REAJUSTE SALARIAL",
+    "status": "DEFERIDO",
+    "valor_atual": 5.0,
+    "unidade": "%",
+    "detalhes": {
+      "data_base": "1997-08-01",
+      "cargos_beneficiados": "Carteiro, Motorista, Atendente Comercial, OTT, etc.",
+      "abono_salarial": 200.0
+    }
+  },
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REAJUSTE_SALARIAL",
+    "numero_clausula_original": 44,
+    "titulo_original": "REAJUSTE SALARIAL",
+    "status": "DEFERIDO",
+    "valor_atual": 2.0,
+    "unidade": "%",
+    "detalhes": {
+      "data_base": "1998-08-01",
+      "abono": "60% do salário-base de julho/1998",
+      "limite_minimo_nivel_basico": 250.0,
+      "limite_maximo_nivel_medio_tecnico_superior": 160.0
+    }
+  },
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REAJUSTE_SALARIAL",
+    "numero_clausula_original": 45,
+    "titulo_original": "REAJUSTE SALARIAL",
+    "status": "DEFERIDO",
+    "valor_atual": 2.0,
+    "unidade": "%",
+    "detalhes": {
+      "indice_aplicado": "2% (linear) a partir de 01/08/1999",
+      "abono": "50% sobre salário-base de julho/1999",
+      "limite_minimo": 400.0,
+      "limite_maximo": 1000.0,
+      "data_base": "1999-08-01"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "15"
+  },
+  {
+    "ano_inicio": 2000,
+    "ano_fim": 2001,
+    "tipo": "DC",
+    "id_canonico": "FIN_REAJUSTE_SALARIAL",
+    "numero_clausula_original": 36,
+    "titulo_original": "REAJUSTE SALARIAL",
+    "status": "DEFERIDO PARCIALMENTE",
+    "valor_anterior": null,
+    "valor_atual": 3.0,
+    "unidade": "%",
+    "detalhes": {
+      "indice_aplicado": "3% (linear) a partir de 01/08/2000",
+      "abono": "50% sobre salário-base de julho/2000",
+      "limite_minimo": 525.0,
+      "limite_maximo": 1000.0
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Aumento linear de 2% + abono 50% (min R$ 400,00 / max R$ 1.000,00)",
+      "pedido_fentect": "Aumento linear de 3% + abono 50% (min R$ 525,00 / max R$ 1.000,00)",
+      "decisao_tst": "DEFERE parcialmente, acolhendo 3% e abono com mínimo de R$ 525,00",
+      "fundamento_juridico": "Resultado econômico-financeiro da ECT",
+      "votos_divergentes": null
+    },
+    "observacao": "Cláusula econômica parcialmente controvertida. TST acolheu parcialmente o pedido da FENTECT.",
+    "pagina_referencia": "12-13"
+  },
+  {
+    "ano_inicio": 2001,
+    "ano_fim": 2002,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REAJUSTE_SALARIAL",
+    "numero_clausula_original": 39,
+    "titulo_original": "REAJUSTE SALARIAL",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": 6.0,
+    "unidade": "%",
+    "detalhes": {
+      "indice_aplicado": "6% (linear) a partir de 01/08/2001",
+      "abono": "70% calculado sobre salário-base de julho/2001",
+      "limite_minimo": 800.0,
+      "limite_maximo": 1000.0,
+      "data_base": "2001-08-01"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Reajuste de 6% + abono de 70%",
+      "pedido_fentect": "Reajuste",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "11"
+  },
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REAJUSTE_SALARIAL",
+    "numero_clausula_original": 50,
+    "titulo_original": "REAJUSTE SALARIAL",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": 4.0,
+    "unidade": "%",
+    "detalhes": {
+      "indice_aplicado": "4% (linear) a partir de 01/08/2002",
+      "referencia_salarial": "1 referência para admitidos até 31/07/2002",
+      "abono": "R$ 1.000,00",
+      "data_base": "2002-08-01",
+      "incidencia": "tabela salarial"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Reajuste de 4% + 1 referência + abono R$ 1.000,00",
+      "pedido_fentect": "Reajuste",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "24"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REAJUSTE_SALARIAL",
+    "numero_clausula_original": 50,
+    "titulo_original": "REAJUSTE SALARIAL",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": 6.0,
+    "unidade": "%",
+    "detalhes": {
+      "indice_aplicado": "6% (linear) a partir de 01/08/2003",
+      "progressao_1": "2 referências para RS 09 a 27 e 1 referência para RS 28 em 01/08/2003",
+      "progressao_2": "1 referência para RS 09 a 29 em 01/01/2004",
+      "data_base": "2003-08-01",
+      "incidencia": "tabela salarial"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Reajuste de 6% + progressões",
+      "pedido_fentect": "Reajuste",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": "Não foi identificado abono no texto disponível do ACT 2003-2004.",
+    "pagina_referencia": "24"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REAJUSTE_SALARIAL",
+    "numero_clausula_original": 51,
+    "titulo_original": "REAJUSTE SALARIAL",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": 6.81,
+    "unidade": "%",
+    "detalhes": {
+      "indice_aplicado": "6,81% (linear) a partir de 01/08/2004",
+      "referencia_1": "1 referência salarial em 01/09/2004",
+      "referencia_2": "1 referência salarial em 01/03/2005",
+      "abono": "R$ 400,00",
+      "data_base": "2004-08-01",
+      "incidencia": "tabela salarial de julho/2004"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Reajuste de 6,81% + 2 referências + abono R$ 400,00",
+      "pedido_fentect": "Reajuste",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "15-16"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REAJUSTE_SALARIAL",
+    "numero_clausula_original": 51,
+    "titulo_original": "REAJUSTE SALARIAL",
+    "status": "DEFERIDO",
+    "valor_atual": 7.07,
+    "unidade": "%",
+    "detalhes": {
+      "reajuste": "7,07% em 01/08/2005",
+      "referencia_salarial": "5% em 01/02/2006 (antiguidade)",
+      "data_base": "2005-08-01"
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REAJUSTE_SALARIAL",
+    "numero_clausula_original": 51,
+    "titulo_original": "REAJUSTE SALARIAL",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": 3.74,
+    "unidade": "%",
+    "detalhes": {
+      "indice_aplicado": "3,74% (linear) a partir de 01/08/2007",
+      "aumento_linear": "R$ 60,00 a partir de 01/01/2008",
+      "data_base": "2007-08-01",
+      "incidencia": "tabela salarial de julho/2007"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Reajuste de 3,74% + R$ 60,00",
+      "pedido_fentect": "Reajuste linear e aumento real",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "21"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REAJUSTE_SALARIAL",
+    "numero_clausula_original": 51,
+    "titulo_original": "REAJUSTE SALARIAL",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": 7.37,
+    "unidade": "%",
+    "detalhes": {
+      "indice_aplicado": "7,37% (linear)",
+      "data_base": "2008-08-01",
+      "incidencia": "tabela salarial de julho/2008"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Reajuste de 7,37%",
+      "pedido_fentect": "Reajuste de 100% do INPC",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 16
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REAJUSTE_SALARIAL",
+    "numero_clausula_original": 52,
+    "titulo_original": "REAJUSTE SALARIAL",
+    "status": "DEFERIDO",
+    "valor_atual": 9.0,
+    "unidade": "%",
+    "detalhes": {
+      "reajuste": "9% a partir de 01/08/2009",
+      "aumento_linear": "R$ 100,00 a partir de 01/01/2010",
+      "clausula_IPCA": "se IPCA > 4,5%, diferença em agosto/2010"
+    },
+    "memoria_negociacao": null,
+    "observacao": "Acordo de 2 anos com reajuste parcelado.",
+    "pagina_referencia": "15"
+  },
+  {
+    "ano_inicio": 2011,
+    "ano_fim": 2012,
+    "tipo": "DCG",
+    "id_canonico": "FIN_REAJUSTE_SALARIAL",
+    "numero_clausula_original": 52,
+    "titulo_original": "REAJUSTE SALARIAL",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": 6.87,
+    "unidade": "%",
+    "detalhes": {
+      "indice_aplicado": "6,87% (linear)",
+      "data_base": "2011-08-01",
+      "incidencia": "tabela salarial",
+      "base_legal": "Sentença normativa"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Reajuste de 6,5%",
+      "pedido_fentect": "Reajuste de 7,13%",
+      "decisao_tst": "DEFERE reajuste de 6,87%",
+      "fundamento_juridico": "Art. 766 CLT",
+      "votos_divergentes": null
+    },
+    "observacao": "O TST fixou reajuste de 6,87%, superior aos 6,5% propostos pela ECT.",
+    "pagina_referencia": 84
+  },
+  {
+    "ano_inicio": 2011,
+    "ano_fim": 2012,
+    "tipo": "DCG",
+    "id_canonico": "FIN_REAJUSTE_SALARIAL",
+    "numero_clausula_original": null,
+    "titulo_original": "AUMENTO LINEAR",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": 60.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor": 60.0,
+      "data_inicio": "2012-01-02",
+      "publico_alvo": "todos os empregados"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "R$ 60,00",
+      "pedido_fentect": "R$ 200,00",
+      "decisao_tst": "DEFERE R$ 60,00",
+      "fundamento_juridico": "Proposta da ECT aceita em audiência",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 85
+  },
+  {
+    "ano_inicio": 2012,
+    "ano_fim": 2013,
+    "tipo": "DCG",
+    "id_canonico": "FIN_REAJUSTE_SALARIAL",
+    "numero_clausula_original": 52,
+    "titulo_original": "REAJUSTE SALARIAL",
+    "status": "DEFERIDO_PARCIALMENTE",
+    "valor_anterior": null,
+    "valor_atual": 6.5,
+    "unidade": "%",
+    "detalhes": {
+      "indice_aplicado": "6,5% (linear)",
+      "data_base": "2012-08-01",
+      "beneficios_reajustados": "8,84% (IPCA alimentos e bebidas) para VA/VC; 5,20% para Reembolso Creche e Auxílio Dependentes",
+      "beneficios": [
+        "Vale Refeição/Alimentação",
+        "Vale Cesta",
+        "Reembolso Creche/Babá",
+        "Auxílio Dependentes"
+      ]
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Reajuste de 5,2%",
+      "pedido_fentect": "Reajuste de 43,7% + aumento real de 10%",
+      "pedido_findect": "Reajuste de 7,13%",
+      "decisao_tst": "DEFERE reajuste de 6,5%, ligeiramente superior ao IPCA (5,20%)",
+      "fundamento_juridico": "Art. 766 CLT; Lei 10.192/2001",
+      "votos_divergentes": null
+    },
+    "observacao": "O TST fixou reajuste de 6,5%, superior aos 5,2% propostos pela ECT. Benefícios reajustados em 8,84% (IPCA alimentos) para VA/VC e 5,20% para os demais.",
+    "pagina_referencia": 40
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REAJUSTE_SALARIAL",
+    "numero_clausula_original": 52,
+    "titulo_original": "REAJUSTE SALARIAL",
+    "status": "DEFERIDO",
+    "texto": "Reajuste linear de 8% a partir de 01/08/2013.",
+    "valor_atual": 8.0,
+    "unidade": "%",
+    "detalhes": {
+      "reajuste_salario": 8.0,
+      "data_base": "2013-08-01"
+    },
+    "observacao": "Apenas o reajuste salarial. Os 6,27% sobre benefícios estão na Cláusula 01 do ACT Unificado.",
+    "pagina_referencia": 14
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REAJUSTE_SALARIAL",
+    "numero_clausula_original": 1,
+    "titulo_original": "REAJUSTE SALARIAL E BENEFÍCIOS",
+    "status": "DEFERIDO",
+    "texto": "Reajuste de 8% no salário e 6,27% nos benefícios concedidos aos empregados.",
+    "valor_atual": 8.0,
+    "unidade": "%",
+    "detalhes": {
+      "reajuste_salario": 8.0,
+      "reajuste_beneficios": 6.27,
+      "incidencia": [
+        "salário",
+        "benefícios"
+      ]
+    },
+    "pagina_referencia": 1
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "FIN_REAJUSTE_SALARIAL",
+    "numero_clausula_original": 52,
+    "titulo_original": "REAJUSTE SALARIAL",
+    "status": "DEFERIDO",
+    "texto": "Reajuste linear de 8% a partir de 01/08/2013. Reajuste de 6,27% (IPCA-IBGE) para benefícios não salariais: ajuda de custo na transferência, auxílio para dependentes com deficiência, reembolso-creche/babá, vale-refeição/alimentação (vale-cesta extra) e vale-transporte/in itinere.",
+    "valor_atual": 8.0,
+    "unidade": "%",
+    "detalhes": {
+      "reajuste_salario": 8.0,
+      "reajuste_beneficios": 6.27,
+      "data_base": "2013-08-01"
+    },
+    "observacao": "Ganho real de aproximadamente 1,73 p.p. acima do IPCA. Benefícios não salariais reajustados pelo IPCA (6,27%).",
+    "pagina_referencia": 48
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REAJUSTE_SALARIAL",
+    "numero_clausula_original": 63,
+    "titulo_original": "REAJUSTE SALARIAL - GIP",
+    "status": "DEFERIDO",
+    "valor_atual": 6.5,
+    "unidade": "%",
+    "detalhes": {
+      "GIP": "6,5% da referência salarial (mínimo R$ 200,00) a partir de 01/08/2014",
+      "incorporacao": {
+        "2015": 25,
+        "2016": 25,
+        "restante": "10% a cada R$ 100 milhões de lucro líquido"
+      },
+      "reflexos": [
+        "férias",
+        "13º",
+        "FGTS"
+      ]
+    },
+    "memoria_negociacao": null,
+    "observacao": "Criação da GIP (Gratificação de Incentivo à Produtividade) com incorporação gradual.",
+    "pagina_referencia": "26-27"
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REAJUSTE_SALARIAL",
+    "numero_clausula_original": 64,
+    "titulo_original": "REAJUSTE SALARIAL",
+    "status": "DEFERIDO",
+    "valor_atual": 9.0,
+    "unidade": "%",
+    "detalhes": {
+      "parcelas": {
+        "01/08/2016": 6,
+        "01/02/2017": 3
+      }
+    },
+    "memoria_negociacao": null,
+    "observacao": "Reajuste parcelado em 6% + 3%.",
+    "pagina_referencia": "37"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REAJUSTE_SALARIAL",
+    "numero_clausula_original": 63,
+    "titulo_original": "REAJUSTE SALARIAL",
+    "status": "DEFERIDO",
+    "valor_atual": 2.07,
+    "unidade": "%",
+    "detalhes": {
+      "indice_aplicado": "2,07%",
+      "data_base": "2017-08-01",
+      "incidencia": "tabela salarial vigente",
+      "retroativos": "agosto e setembro pagos em outubro e novembro/2017"
+    },
+    "pagina_referencia": 85
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REAJUSTE_SALARIAL",
+    "numero_clausula_original": 63,
+    "titulo_original": "REAJUSTE SALARIAL",
+    "status": "DEFERIDO",
+    "valor_anterior": 3.61,
+    "valor_atual": 3.61,
+    "unidade": "%",
+    "detalhes": {
+      "indice_aplicado": "3,61% (INPC)",
+      "data_base": "2018-08-01",
+      "incidencia": "tabela salarial vigente"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Reajuste de 3,61% (INPC)",
+      "pedido_fentect": "Reajuste de 100% do INPC",
+      "pedido_findect": "Reajuste de 100% do INPC",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 35
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "FIN_REAJUSTE_SALARIAL",
+    "numero_clausula_original": 63,
+    "titulo_original": "REAJUSTE SALARIAL",
+    "status": "MANTIDO",
+    "texto": "1º de agosto de 2019, às referências salariais vigentes. Observações: O TST não abarcou o teor da redação da Cláusula 63 – Reajuste Salarial. Discorreu sobre a decisão no item “II”, alínea “a” da Certidão de Julgamento, que também constou da página 138 do Acórdão do TST 2019/2021. 76 --- PAGINA 77 --CLÁUSULA 64",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2020,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "FIN_REAJUSTE_SALARIAL",
+    "numero_clausula_original": 1,
+    "titulo_original": "REAJUSTE SALARIAL",
+    "status": "MANTIDO",
+    "texto": "– ECT serão reajustados no percentual de 2,6% (dois vírgula seis por cento) sobre os valores referentes a 1º de agosto de 2020, repercutindo nas demais vantagens de natureza salarial. OPERACIONALIZAÇÃO DA CLÁUSULA Cadastramento do Reajuste: Após comunicação pela Diretoria de Gestão de Pessoas – DIGEP, referente ao percentual estabelecido entre os Correios e a representação dos empregados sobre o reajuste salarial no Acordo Coletivo de Trabalho, cabe a Gerência de Remuneração e Benefícios – GERB/DEGEP realizar a inserção dos valores definidos no ACT/Acórdão no Módulo de Cargos e Salários do Sistema Popweb e realizar as demais verificações necessárias para a efetivação do pagamento pela CEGEP/DIGEP. Pagamento: A Gerência de Administração de Pessoal – GAPE/CEGEP é responsável pela efetivação do reajuste, enquanto a gestão do processo de pagamento do reajuste salarial dos empregados dos Correios é de competência da Gerência de Pagamento e Recolhimento – GPAG/CEGEP. As solicitações de informações referentes a esta cláusula devem ser obtidas por meio do Help Desk http://helpdesk Após acessar o sistema do Help Desk, clique no botão \"Procurar\", irão carregar as opções, conforme imagem abaixo, onde você irá clicar na subcategoria \"08 – Gestão de Pessoas\" Agora selecione a subcategoria \"Pagamento\" e clique na opção \"08.21 - Folha de Pagamento\" 3 --- PAGINA 4 --4 --- PAGINA 5 --CLÁUSULA 02",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "FIN_REAJUSTE_SALARIAL",
+    "numero_clausula_original": 1,
+    "titulo_original": "REAJUSTE SALARIAL",
+    "status": "DEFERIDO",
+    "valor_atual": 9.75,
+    "unidade": "%",
+    "detalhes": {
+      "percentual": 9.75,
+      "data_base": "2021-08-01",
+      "reflexos": "demais parcelas de natureza salarial",
+      "INPC_referencia": "9,85%",
+      "precedente": "ROT-1002831-61.2019.5.02.0000"
+    },
+    "memoria_negociacao": "Empresa propôs inicialmente sem reajuste; durante audiências concordou com 100% do INPC; SDC fixou 9,75% (ligeiramente inferior ao INPC de 9,85%)",
+    "observacao": "Dispositivo final menciona 9,75%, mas conclusão (pág. 96) menciona 9,5% — prevalece 9,75% conforme fundamentação e dispositivo",
+    "pagina_referencia": "21, 96, 113"
+  },
+  {
+    "ano_inicio": 2022,
+    "ano_fim": 2023,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REAJUSTE_SALARIAL",
+    "numero_clausula_original": 1,
+    "titulo_original": "REAJUSTE SALARIAL",
+    "status": "DEFERIDO",
+    "valor_atual": 10.12,
+    "unidade": "%",
+    "detalhes": {
+      "indice": "10,12% (INPC acumulado de 08/21 a 07/22)",
+      "data_base": "2022-08-01",
+      "incidencia": "demais parcelas de natureza salarial, econômicas e benefícios"
+    },
+    "memoria_negociacao": "Mediado pelo TST (Min. Ives Gandra Martins Filho) via RPP 1000704-05.2022.5.00.0000",
+    "observacao": null,
+    "pagina_referencia": "1"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REAJUSTE_SALARIAL",
+    "numero_clausula_original": 62,
+    "titulo_original": "REAJUSTE SALARIAL",
+    "status": "DEFERIDO",
+    "valor_atual": 3.53,
+    "unidade": "%",
+    "detalhes": {
+      "aumento_fixo": "R$ 250,00 até 30/09/2023",
+      "CIP": "R$ 7.000,00",
+      "reajuste_linear": "3,53% a partir de 01/01/2024",
+      "incidencia": "parcelas de natureza salarial"
+    },
+    "memoria_negociacao": null,
+    "observacao": "Reajuste escalonado.",
+    "pagina_referencia": "13"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REAJUSTE_SALARIAL",
+    "numero_clausula_original": 65,
+    "titulo_original": "REAJUSTE SALARIAL",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": 4.11,
+    "unidade": "%",
+    "detalhes": {
+      "valor_fixo": 260.0,
+      "teto_valor_fixo": 6326.03,
+      "data_base": "2025-01-01",
+      "retroatividade": false,
+      "incidencia": "todas as parcelas de natureza salarial"
+    },
+    "observacao": "No DC 2025/2026, o reajuste foi de 5,10% a partir de 01/08/2025, com retroativos pagos em abril/2026.",
+    "pagina_referencia": 23
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "FIN_REAJUSTE_SALARIAL",
+    "numero_clausula_original": 55,
+    "titulo_original": "REAJUSTE SALARIAL",
+    "status": "DEFERIDO_PARCIALMENTE",
+    "valor_anterior": 5.1,
+    "valor_atual": 4.09,
+    "unidade": "%",
+    "variacao_percentual": "-19,8%",
+    "detalhes": {
+      "indice_aplicado": "4,09% (INPC acumulado de agosto/2025 a julho/2026)",
+      "data_base": "2026-08-01",
+      "incidencia": "todas as parcelas de natureza salarial",
+      "retroatividade": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Reajuste de 60% do INPC (aprox. 2,61%)",
+      "pedido_fentect": "Reajuste de 100% do INPC para o 1º ano e 100% para o 2º ano; vigência de 2 anos",
+      "pedido_findect": "Reajuste de 100% do INPC; vigência de 1 ano",
+      "decisao_tst": "DEFERE reajuste de 4,09% (INPC acumulado)",
+      "fundamento_juridico": "Art. 766 da CLT; art. 13 da Lei 10.192/2001",
+      "votos_divergentes": null
+    },
+    "observacao": "Reajuste de 4,09% (INPC), aplicável a partir de 01/08/2026. A ECT propôs 2,61%. As federações pediram 100% do INPC. O TST fixou 1 ano de vigência e aplicou o INPC integral.",
+    "pagina_referencia": 23
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "FIN_REAJUSTE_SALARIAL",
+    "numero_clausula_original": 55,
+    "titulo_original": "REAJUSTE SALARIAL",
+    "status": "DEFERIDO_PARCIALMENTE",
+    "valor_atual": 5.1,
+    "unidade": "%",
+    "detalhes": {
+      "indice_aplicado": "5,10%",
+      "INPC_referencia": "5,12798%",
+      "data_base": "2025-08-01",
+      "retroatividade": true,
+      "pagamento_retroativos": "abril de 2026"
+    },
+    "memoria_negociacao": "ECT propôs reajuste zero; FENTECT pediu R$ 350 + 14%; FINDECT pediu 100% INPC + 5% + R$ 300. TST fixou 5,10% (ligeiramente inferior ao INPC)",
+    "pagina_referencia": "65-68"
+  }
+]

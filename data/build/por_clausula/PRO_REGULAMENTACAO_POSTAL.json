@@ -1,0 +1,25 @@
+[
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "PRO_REGULAMENTACAO_POSTAL",
+    "numero_clausula_original": 53,
+    "titulo_original": "REGULAMENTAÇÃO POSTAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "gestão junto ao Poder Executivo",
+      "retirada_PL_1491": true,
+      "regulamentacao_lei_postal": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "25"
+  }
+]

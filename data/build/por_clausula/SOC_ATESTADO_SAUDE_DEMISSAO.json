@@ -1,0 +1,393 @@
+[
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ATESTADO_SAUDE_DEMISSAO",
+    "numero_clausula_original": 12,
+    "titulo_original": "ATESTADO DE SAÚDE NA DEMISSÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "envio_copias_rescisoes": true,
+      "envio_aso": true,
+      "exames_complementares": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "7-8"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ATESTADO_SAUDE_DEMISSAO",
+    "numero_clausula_original": 12,
+    "titulo_original": "ATESTADO DE SAÚDE NA DEMISSÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "envio_copias_rescisoes": true,
+      "envio_aso": true,
+      "exames_complementares": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "7"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ATESTADO_SAUDE_DEMISSAO",
+    "numero_clausula_original": 12,
+    "titulo_original": "ATESTADO DE SAÚDE NA DEMISSÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "envio_copias_rescisoes": true,
+      "envio_aso": true,
+      "exames_complementares": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "5"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ATESTADO_SAUDE_DEMISSAO",
+    "numero_clausula_original": 12,
+    "titulo_original": "ATESTADO DE SAÚDE NA DEMISSÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "envio_copias": true,
+      "exames_complementares": true
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ATESTADO_SAUDE_DEMISSAO",
+    "numero_clausula_original": 12,
+    "titulo_original": "ATESTADO DE SAÚDE NA DEMISSÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "envio_copias_rescisoes": true,
+      "envio_aso": true,
+      "exames_complementares": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "7"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ATESTADO_SAUDE_DEMISSAO",
+    "numero_clausula_original": 12,
+    "titulo_original": "ATESTADO DE SAÚDE NA DEMISSÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "envio_copias_rescisoes": true,
+      "envio_aso": true,
+      "exames_complementares": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 6
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ATESTADO_SAUDE_DEMISSAO",
+    "numero_clausula_original": 12,
+    "titulo_original": "ATESTADO DE SAÚDE NA DEMISSÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "envio_copias_rescisoes": true,
+      "envio_aso": true,
+      "exames_complementares": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "5"
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ATESTADO_SAUDE_DEMISSAO",
+    "numero_clausula_original": 12,
+    "titulo_original": "ATESTADO DE SAÚDE NA DEMISSÃO",
+    "status": "MANTIDO",
+    "texto": "Quando solicitado pelo sindicato, a Empresa encaminhará cópia das rescisões com ASO dos empregados demitidos nas unidades do interior (homologação em DRT) e dos demitidos antes de 1 ano (homologação na Empresa).",
+    "observacao": "Idêntica ao DC 2013-2014.",
+    "pagina_referencia": 4
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "SOC_ATESTADO_SAUDE_DEMISSAO",
+    "numero_clausula_original": 12,
+    "titulo_original": "ATESTADO DE SAÚDE NA DEMISSÃO",
+    "status": "MANTIDO",
+    "texto": "Quando solicitado pelo sindicato, a Empresa encaminhará cópia de todas as rescisões com ASO dos empregados demitidos nas unidades do interior (homologação em DRT) e dos demitidos antes de 1 ano (homologação na Empresa).",
+    "observacao": "Idêntica ao DC 2012-2013.",
+    "pagina_referencia": 78
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ATESTADO_SAUDE_DEMISSAO",
+    "numero_clausula_original": 29,
+    "titulo_original": "ATESTADO DE SAÚDE NA DEMISSÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "envio_copias": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "14"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ATESTADO_SAUDE_DEMISSAO",
+    "numero_clausula_original": 29,
+    "titulo_original": "ATESTADO DE SAÚDE NA DEMISSÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "envio_copias_rescisoes": true,
+      "envio_aso": true,
+      "envio_ppp": true,
+      "exames_complementares": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 18
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ATESTADO_SAUDE_DEMISSAO",
+    "numero_clausula_original": 29,
+    "titulo_original": "ATESTADO DE SAÚDE NA DEMISSÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "envio_copias": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "18-19"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ATESTADO_SAUDE_DEMISSAO",
+    "numero_clausula_original": 29,
+    "titulo_original": "ATESTADO DE SAÚDE NA DEMISSÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "envio_copias": true,
+      "exames_complementares": true
+    },
+    "pagina_referencia": 46
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ATESTADO_SAUDE_DEMISSAO",
+    "numero_clausula_original": 29,
+    "titulo_original": "ATESTADO DE SAÚDE NA DEMISSÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "envio_copias_rescisoes": true,
+      "envio_aso": true,
+      "envio_ppp": true,
+      "exames_complementares": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 17
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "SOC_ATESTADO_SAUDE_DEMISSAO",
+    "numero_clausula_original": 29,
+    "titulo_original": "ATESTADO DE SAÚDE NA DEMISSÃO",
+    "status": "MANTIDO",
+    "texto": "todas as rescisões, acompanhadas do Atestado de Saúde Ocupacional – ASO, dos(as) empregados(as) demitidos(as) nas unidades do interior, cujas homologações foram realizadas nas DRTs, bem como daqueles demitidos antes de completarem 1 (um) ano de serviço e que fizerem a homologação na própria Empresa. Parágrafo Único: Os Correios autorizarão a realização de exames complementares, sempre que solicitado pelo médico responsável pela emissão do ASO. 37 --- PAGINA 38 --CLÁUSULA 30 Cláusula 30 – AVERIGUAÇÃO DAS CONDIÇÕES DE TRABALHO – Os Correios garantirão o acesso aos locais de trabalho de representante da entidade sindical, acompanhado(a) por médico(a), engenheiro(a) do trabalho e/ou técnico de segurança do trabalho; e por representantes da Empresa, mediante agendamento prévio, sempre que solicitado pelos(as) empregados(as), para averiguação das condições de trabalho a que estão submetidos. §1º O Sindicato deverá solicitar o agendamento de visita com antecedência mínima de 5 (cinco) dias úteis, à Área de Gestão das Relações Sindicais e do Trabalho da respectiva Superintendência Regional. I – Os Correios agendarão a reunião no prazo máximo de 10 (dez) dias úteis após o recebimento da solicitação. II – Os prazos estabelecidos neste parágrafo não se aplicam quando da ocorrência de situações emergenciais ou extraordinárias. §2º Os Correios continuarão o processo gradual de exame das condições técnicas para climatização e melhoria das condições de conforto ambiental das unidades de trabalho que estiverem em desacordo com as normas regulamentadoras, observadas as disponibilidades de orçamento. Observações: As alterações ocorridas foram objeto de pleitos da Empresa, sendo acatadas pelo TST em julgamento de Dissídio Coletivo de Greve. 38 --- PAGINA 39 --CLÁUSULA 31 Cláusula 31 – COMISSÃO INTERNA DE PREVENÇÃO DE ACIDENTES – CIPA – Os Correios realizarão eleições para composição da CIPA em todos os seus estabelecimentos cujo efetivo seja superior a 30 (trinta) empregados (as). §1º A eleição para a CIPA será convocada em até 60 (sessenta) dias antes do término do mandato e realizada com antecedência de 30 (trinta) dias do seu término, facultando ao sindicato o acompanhamento. §2º A partir de 31 (trinta e um) empregados(as) observar-se-á o que estabelece a NR- 05. §3º Nos estabelecimentos com efetivo de até 30 (trinta) empregados(as) os Correios designarão um responsável pelo cumprimento dos objetivos da CIPA. §4º Para o desenvolvimento de suas atividades (verificação das ",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2020,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "SOC_ATESTADO_SAUDE_DEMISSAO",
+    "numero_clausula_original": 10,
+    "titulo_original": "ATESTADO DE SAÚDE NA DEMISSÃO",
+    "status": "MANTIDO",
+    "texto": "encaminharão cópia de todas as rescisões, acompanhadas do Atestado de Saúde Ocupacional – ASO, dos (as) empregados(as) demitidos(as) nas unidades do interior, cujas homologações foram realizadas nas DRTs, bem como daqueles demitidos antes de completarem 1 (um) ano de serviço e que fizerem a homologação na própria Empresa. Parágrafo Único: Os Correios autorizarão a realização de exames complementares, sempre que solicitado pelo médico responsável pela emissão do ASO. OPERACIONALIZAÇÃO DA CLÁUSULA A Área de Saúde da Superintendência Estadual - SE verificará a necessidade de realização de exames para emissão do ASO demissional e posterior envio à CPES/GECSC/CSC. A CPES/GECSC/CSC da SE nos casos de demissão motivada ou imotivada e homologada na Superintendência Regional do Trabalho ou na própria Empresa deverá fornecer cópia da ASO ao Sindicato, quando solicitada. Os exames complementares solicitados pelo médico examinador, nos casos de exame médico demissional, devem ser autorizados pelo médico coordenador do PCMSO do Órgão Local de Saúde ou do Órgão Central de Saúde. As solicitações de informações referentes a esta cláusula devem ser encaminhadas ao Departamento de Gestão de Pessoas – DEGEP/DIGEP - degep-digep@correios.com.br 18 --- PAGINA 19 --CLÁUSULA 11 Cláusula 11 – AVERIGUAÇÃO DAS CONDIÇÕES DE TRABALHO – Os Correios garantirão o acesso aos locais de trabalho de representante do sindicato (entidade sindical), acompanhado(a) por médico(a), engenheiro(a) do trabalho e/ou técnico de segurança do trabalho; e por representantes da Empresa, mediante agendamento prévio, sempre que solicitado pelos(as) empregados(as), para averiguação das condições de trabalho a que estão submetidos. §1° O Sindicato deverá solicitar o agendamento de visita com antecedência mínima de 5 (cinco) dias úteis, à Área de Gestão das Relações Sindicais e do Trabalho da respectiva Diretoria Regional (Superintendência Regional). I - Os Correios agendarão a reunião no prazo máximo de 10 (dez) dias úteis após o recebimento da solicitação. II - Os prazos estabelecidos neste parágrafo não se aplicam quando da ocorrência de situações emergenciais ou extraordinárias. §2º Os Correios continuarão o processo gradual de exame das condições técnicas para climatização e melhoria das condições de conforto ambiental das unidades de trabalho que estiverem em desacordo com as normas regulamentadoras, observadas as disponibilidades de orçamento. OPERACIONALIZAÇÃO DA CLÁUSULA O sindicato deverá solicitar of",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "SOC_ATESTADO_SAUDE_DEMISSAO",
+    "numero_clausula_original": 13,
+    "titulo_original": "ATESTADO DE SAÚDE NA DEMISSÃO (29ª do DCG 2019/2020)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "redacao": "Quando solicitado pelo Sindicato, os Correios encaminharão cópia de todas as rescisões, acompanhadas do Atestado de Saúde Ocupacional – ASO, dos (as) empregados(as) demitidos(as) nas unidades do interior, cujas homologações foram realizadas nas DRTs, bem como daqueles demitidos antes de completarem 1 ano de serviço e que fizerem a homologação na própria Empresa. Parágrafo Único: Os Correios autorizarão a realização de exames complementares, sempre que solicitado pelo médico responsável pela emissão do ASO"
+    },
+    "memoria_negociacao": "Manutenção anuída pelas entidades sindicais",
+    "observacao": null,
+    "pagina_referencia": "63"
+  },
+  {
+    "ano_inicio": 2022,
+    "ano_fim": 2023,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ATESTADO_SAUDE_DEMISSAO",
+    "numero_clausula_original": 14,
+    "titulo_original": "ATESTADO DE SAÚDE NA DEMISSÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "envio_copias": true,
+      "exames_complementares": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "3-4"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ATESTADO_SAUDE_DEMISSAO",
+    "numero_clausula_original": 33,
+    "titulo_original": "ATESTADO DE SAÚDE NA DEMISSÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "envio_copias": true,
+      "exames_complementares": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "7"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ATESTADO_SAUDE_DEMISSAO",
+    "numero_clausula_original": 35,
+    "titulo_original": "ATESTADO DE SAÚDE NA DEMISSÃO",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "envio_copias_rescisoes": true,
+      "envio_aso": true,
+      "envio_ppp": true
+    },
+    "observacao": null,
+    "pagina_referencia": 13
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ATESTADO_SAUDE_DEMISSAO",
+    "numero_clausula_original": 28,
+    "titulo_original": "ATESTADO DE SAÚDE NA DEMISSÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "envio_copias_rescisoes": true,
+      "envio_aso": true,
+      "envio_ppp": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção com alteração do §1º",
+      "pedido_fentect": "Manutenção da redação anterior",
+      "pedido_findect": "Manutenção da redação anterior",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula sem expressão econômica",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 13
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "SOC_ATESTADO_SAUDE_DEMISSAO",
+    "numero_clausula_original": 28,
+    "titulo_original": "ATESTADO DE SAÚDE NA DEMISSÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "envio_copias_rescisoes": true,
+      "envio_aso": true,
+      "envio_ppp": true,
+      "autorizacao_exames_complementares": true
+    },
+    "pagina_referencia": "40-41"
+  }
+]

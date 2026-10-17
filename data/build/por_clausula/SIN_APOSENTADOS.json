@@ -1,0 +1,88 @@
+[
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "SIN_APOSENTADOS",
+    "numero_clausula_original": 2,
+    "titulo_original": "APOSENTADOS(AS)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dia_aposentado": "24 de janeiro",
+      "cracha_especifico": true,
+      "programa_preparacao": true,
+      "relacionamento_entidades": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 2
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "SIN_APOSENTADOS",
+    "numero_clausula_original": 2,
+    "titulo_original": "APOSENTADOS(AS)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dia_aposentado": "24 de janeiro",
+      "cracha_especifico": true,
+      "programa_preparacao": true,
+      "relacionamento_entidades": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 2
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "SIN_APOSENTADOS",
+    "numero_clausula_original": 2,
+    "titulo_original": "APOSENTADOS(AS)",
+    "status": "MANTIDO",
+    "texto": "reconhecimento à contribuição de empregados(as), que se encontram aposentados(as), de forma a: §1º Incluir o dia 24 de janeiro – Dia do(a) Aposentado(a) – no calendário dos Correios – desenvolvendo atividades alusivas à data no âmbito da Administração Central e Regionais. §2º Garantir a participação dos(as) aposentados(as) nas ações propostas na Cláusula 05, §2º, Valorização da Diversidade Humana e Respeito às Diferenças, no que diz respeito à Pessoa Idosa. §3º Oportunizar ao(à) empregado(a) aposentando(a) a participação em programa de preparação para aposentadoria desenvolvido pelos Correios. §4º Fornecer crachá específico para os(as) aposentados(as), visando facilitar o acesso às dependências dos Correios, desde que apresentem os documentos básicos para a confecção dos crachás, observando os prazos internos dos Correios. 6 --- PAGINA 7 --CLÁUSULA 03",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SIN_APOSENTADOS",
+    "numero_clausula_original": 2,
+    "titulo_original": "APOSENTADOS(AS)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dia_aposentado": "24 de janeiro",
+      "cracha_especifico": true,
+      "programa_preparacao": true,
+      "relacionamento_entidades": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 2
+  }
+]

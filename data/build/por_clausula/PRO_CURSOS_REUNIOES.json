@@ -1,0 +1,500 @@
+[
+  {
+    "ano_inicio": 1992,
+    "ano_fim": 1992,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CURSOS_REUNIOES",
+    "numero_clausula_original": 22,
+    "titulo_original": "CURSOS E REUNIÕES OBRIGATÓRIOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "horas_extras_se_fora_horario": true,
+      "compensacao": "limite 10h/dia (a critério da ECT)"
+    },
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 1993,
+    "ano_fim": 1994,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CURSOS_REUNIOES",
+    "numero_clausula_original": 23,
+    "titulo_original": "CURSOS E REUNIÕES OBRIGATÓRIOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "horas_extras": "se fora do horário",
+      "compensacao": "limite 10h/dia"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "13"
+  },
+  {
+    "ano_inicio": 1994,
+    "ano_fim": 1995,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CURSOS_REUNIOES",
+    "numero_clausula_original": 16,
+    "titulo_original": "CURSOS E REUNIÕES OBRIGATÓRIOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "horas_extras": "se fora do horário de serviço",
+      "compensacao": "interesse do empregado, limite de 10 horas diárias"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 1995,
+    "ano_fim": 1996,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CURSOS_REUNIOES",
+    "numero_clausula_original": 16,
+    "titulo_original": "CURSOS E REUNIÕES OBRIGATÓRIOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "horas_extras_se_fora_horario": true,
+      "compensacao": "limite 10h/dia"
+    }
+  },
+  {
+    "ano_inicio": 1997,
+    "ano_fim": 1998,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CURSOS_REUNIOES",
+    "numero_clausula_original": 16,
+    "titulo_original": "CURSOS E REUNIÕES OBRIGATÓRIOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "horas_extras_se_fora_horario": true,
+      "compensacao": "limite 10h/dia"
+    }
+  },
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CURSOS_REUNIOES",
+    "numero_clausula_original": 16,
+    "titulo_original": "CURSOS E REUNIÕES OBRIGATÓRIOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "horas_extras": true,
+      "compensacao": true,
+      "antecedencia": "48 horas"
+    }
+  },
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CURSOS_REUNIOES",
+    "numero_clausula_original": 16,
+    "titulo_original": "CURSOS E REUNIÕES OBRIGATÓRIOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "horas_extras": "se fora do horário de serviço",
+      "compensacao": "interesse do empregado",
+      "comunicacao_antecedencia": "48 horas"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "6-7"
+  },
+  {
+    "ano_inicio": 2000,
+    "ano_fim": 2001,
+    "tipo": "DC",
+    "id_canonico": "PRO_CURSOS_REUNIOES",
+    "numero_clausula_original": 12,
+    "titulo_original": "CURSOS E REUNIÕES OBRIGATÓRIOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "comunicacao_antecedencia": "2 dias úteis",
+      "horas_extras": "se fora do horário de serviço",
+      "compensacao": "acordo entre ECT e empregado"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "Cláusula incontroversa.",
+    "pagina_referencia": "5"
+  },
+  {
+    "ano_inicio": 2001,
+    "ano_fim": 2002,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CURSOS_REUNIOES",
+    "numero_clausula_original": 12,
+    "titulo_original": "CURSOS E REUNIÕES OBRIGATÓRIOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "comunicacao_antecedencia": "2 dias úteis",
+      "horas_extras": "se fora do horário de serviço",
+      "compensacao": "acordo entre ECT e empregado"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "Cláusula identificada pelo contexto; OCR incompleto na página 5.",
+    "pagina_referencia": "5"
+  },
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CURSOS_REUNIOES",
+    "numero_clausula_original": 18,
+    "titulo_original": "CURSOS E REUNIÕES OBRIGATÓRIOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "comunicacao_antecedencia": "2 dias úteis",
+      "horas_extras": "se fora do horário de serviço",
+      "compensacao": "acordo entre ECT e empregado",
+      "treinamento_novos_empregados": true,
+      "locais_adequados": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "10-11"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CURSOS_REUNIOES",
+    "numero_clausula_original": 18,
+    "titulo_original": "CURSOS E REUNIÕES OBRIGATÓRIOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "comunicacao_antecedencia": "2 dias úteis",
+      "horas_extras": "se fora do horário de serviço",
+      "compensacao": "acordo entre ECT e empregado",
+      "treinamento_novos_empregados": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "10"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CURSOS_REUNIOES",
+    "numero_clausula_original": 18,
+    "titulo_original": "CURSOS E REUNIÕES OBRIGATÓRIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "comunicacao_antecedencia": "2 dias úteis",
+      "horas_extras": "se fora do horário de serviço",
+      "compensacao": "acordo entre ECT e empregado",
+      "treinamento_novos_empregados": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "7"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CURSOS_REUNIOES",
+    "numero_clausula_original": 18,
+    "titulo_original": "CURSOS E REUNIÕES OBRIGATÓRIOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compensacao": true,
+      "antecedencia": "2 dias úteis",
+      "treinamento_valores": true
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CURSOS_REUNIOES",
+    "numero_clausula_original": 18,
+    "titulo_original": "CURSOS E REUNIÕES OBRIGATÓRIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "comunicacao_antecedencia": "2 dias úteis",
+      "horas_extras": "se fora do horário de serviço",
+      "compensacao_em_dobro": true,
+      "treinamento_novos_empregados": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "8"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CURSOS_REUNIOES",
+    "numero_clausula_original": 18,
+    "titulo_original": "CURSOS E REUNIÕES OBRIGATÓRIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "comunicacao_antecedencia": "2 dias úteis",
+      "horas_extras": "se fora do horário de serviço",
+      "compensacao_em_dobro": true,
+      "treinamento_novos_empregados": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 7
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CURSOS_REUNIOES",
+    "numero_clausula_original": 18,
+    "titulo_original": "CURSOS E REUNIÕES OBRIGATÓRIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "comunicacao_antecedencia": "2 dias úteis",
+      "compensacao_em_dobro": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "7"
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CURSOS_REUNIOES",
+    "numero_clausula_original": 68,
+    "titulo_original": "CURSOS E REUNIÕES OBRIGATÓRIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "antecedencia": "3 dias úteis",
+      "compensacao_em_dobro": true,
+      "EAD": "não conta como hora extra se fora do horário"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "28-29"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CURSOS_REUNIOES",
+    "numero_clausula_original": 69,
+    "titulo_original": "CURSOS E REUNIÕES OBRIGATÓRIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "comunicacao_antecedencia": "3 dias úteis",
+      "horas_extras": "se fora do horário de serviço",
+      "excecao_EaD_assincrono": true,
+      "treinamento_novos_empregados": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 37
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CURSOS_REUNIOES",
+    "numero_clausula_original": 70,
+    "titulo_original": "CURSOS E REUNIÕES OBRIGATÓRIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "antecedencia": "3 dias úteis",
+      "compensacao_em_dobro": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "39-40"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CURSOS_REUNIOES",
+    "numero_clausula_original": 68,
+    "titulo_original": "CURSOS E REUNIÕES OBRIGATÓRIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "comunicacao_antecedencia": "3 dias úteis",
+      "horas_extras": "se fora do horário de serviço",
+      "compensacao_dobro": true,
+      "excecao_EaD_assincrono": true,
+      "treinamento_valores": true,
+      "treinamento_dirigentes": true
+    },
+    "pagina_referencia": "89-91"
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CURSOS_REUNIOES",
+    "numero_clausula_original": 68,
+    "titulo_original": "CURSOS E REUNIÕES OBRIGATÓRIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "comunicacao_antecedencia": "3 dias úteis",
+      "horas_extras": "se fora do horário de serviço",
+      "excecao_EaD_assincrono": true,
+      "treinamento_novos_empregados": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 36
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "PRO_CURSOS_REUNIOES",
+    "numero_clausula_original": 68,
+    "titulo_original": "CURSOS E REUNIÕES OBRIGATÓRIAS",
+    "status": "INDEFERIDO",
+    "detalhes": {
+      "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+    },
+    "memoria_negociacao": "SDC indeferiu",
+    "observacao": null,
+    "pagina_referencia": "113"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CURSOS_REUNIOES",
+    "numero_clausula_original": 68,
+    "titulo_original": "CURSOS E REUNIÕES OBRIGATÓRIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "antecedencia": "3 dias úteis",
+      "compensacao_em_dobro": true,
+      "EAD_ao_vivo": true,
+      "teletrabalho": "exceção"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "13-14"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CURSOS_REUNIOES",
+    "numero_clausula_original": 69,
+    "titulo_original": "CURSOS E REUNIÕES OBRIGATÓRIAS",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "comunicacao_antecedencia": "3 dias úteis",
+      "locais_adequados": true,
+      "horas_extras": "se fora do horário de serviço",
+      "excecao_EaD_assincrono": true,
+      "empregado_estudante": true,
+      "dirigentes_sindicais": "regras específicas"
+    },
+    "observacao": null,
+    "pagina_referencia": 24
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CURSOS_REUNIOES",
+    "numero_clausula_original": 59,
+    "titulo_original": "CURSOS E REUNIÕES OBRIGATÓRIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "comunicacao_antecedencia": "3 dias úteis",
+      "horas_extras": "se fora do horário de serviço",
+      "excecao_EaD_assincrono": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 25
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "PRO_CURSOS_REUNIOES",
+    "numero_clausula_original": 59,
+    "titulo_original": "CURSOS E REUNIÕES OBRIGATÓRIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "comunicacao_antecedencia": "3 dias úteis",
+      "horas_extras": "se fora do horário de serviço",
+      "compensacao_horas": true,
+      "excecao_EaD_assincrono": true,
+      "excecao_teletrabalho": true,
+      "treinamento_dirigentes": true
+    },
+    "pagina_referencia": "71-72"
+  }
+]

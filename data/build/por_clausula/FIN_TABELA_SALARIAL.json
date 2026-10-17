@@ -1,0 +1,17 @@
+[
+  {
+    "ano_inicio": 1988,
+    "ano_fim": 1989,
+    "tipo": "ACT",
+    "id_canonico": "FIN_TABELA_SALARIAL",
+    "numero_clausula_original": 3,
+    "titulo_original": "TABELA SALARIAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "regra": "utilização das tabelas para admitidos após a data-base, desconsiderando proporcionalidade"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "2"
+  }
+]

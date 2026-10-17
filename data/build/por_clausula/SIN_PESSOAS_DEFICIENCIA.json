@@ -1,0 +1,73 @@
+[
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SIN_PESSOAS_DEFICIENCIA",
+    "numero_clausula_original": 7,
+    "titulo_original": "DOS DIREITOS DAS PESSOAS COM DEFICIÊNCIA",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "campanhas_comunicacao": true,
+      "deficiencias_ocultas": true,
+      "seminarios_foruns": true,
+      "LIBRAS": true,
+      "neurodivergentes": true
+    },
+    "observacao": "No ACT 2024/2025, a cláusula NÃO incluía os incisos I, II e III sobre redução de jornada para pais de filhos com deficiência/TEA. Estes foram adicionados no DC 2025/2026.",
+    "pagina_referencia": 4
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SIN_PESSOAS_DEFICIENCIA",
+    "numero_clausula_original": 6,
+    "titulo_original": "DOS DIREITOS DAS PESSOAS COM DEFICIÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "reducao_jornada_filho_deficiencia": true,
+      "reducao_jornada_tea": true,
+      "sem_reducao_salarial": true,
+      "sem_compensacao_horario": true,
+      "base_legal": "art. 98, §§ 2º e 3º, Lei 8.112/1990 (aplicação analógica)",
+      "extensao_pais": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Estender a garantia aos empregados (pais)",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE com ajuste: estende o direito a empregados e empregadas",
+      "fundamento_juridico": "Tema 138 da Tabela de IRR do TST; Tema 1097 do STF; art. 98, §§ 2º e 3º, Lei 8.112/1990",
+      "votos_divergentes": null
+    },
+    "observacao": "Avanço em relação ao DC 2025/2026: a garantia foi estendida a empregados (pais), não apenas empregadas (mães).",
+    "pagina_referencia": 4
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "SIN_PESSOAS_DEFICIENCIA",
+    "numero_clausula_original": 6,
+    "titulo_original": "DOS DIREITOS DAS PESSOAS COM DEFICIÊNCIA",
+    "status": "AMPLIADO",
+    "detalhes": {
+      "reducao_jornada_filho_deficiencia": true,
+      "reducao_jornada_tea": true,
+      "sem_reducao_salarial": true,
+      "sem_compensacao_horario": true,
+      "base_legal": "art. 98, §§ 2º e 3º, Lei 8.112/1990 (aplicação analógica)",
+      "tema_138_TST": true,
+      "tema_1097_STF": true,
+      "campanhas_comunicacao": true,
+      "LIBRAS": true,
+      "neurodivergentes": true
+    },
+    "observacao": "Avanço: TST estendeu o direito a empregados (pais), não só empregadas (mães), com base no princípio da isonomia",
+    "pagina_referencia": "20-25"
+  }
+]

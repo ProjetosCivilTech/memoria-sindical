@@ -1,0 +1,1994 @@
+{
+  "metadados_documento": {
+    "tipo": "ACT",
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "processo": "RPP – 1000704-05.2022.5.00.0000 (mediação TST)",
+    "tribunal": "TST",
+    "orgao": "SDC",
+    "relator": "Ministro Vice-Presidente do TST (mediação)",
+    "data_julgamento": "2024-09-13",
+    "data_publicacao": null,
+    "entidade_patronal": "ECT",
+    "entidades_profissionais": [
+      "FINDECT",
+      "FENTECT"
+    ],
+    "arquivo_origem": "ACT-2024-2025-FINDECT.pdf",
+    "greve": {
+      "deflagracao": null,
+      "intensificacao": null,
+      "abusividade": null,
+      "retorno_trabalho": null
+    },
+    "grupo": "2024-2025",
+    "papel": "FINDECT"
+  },
+  "clausulas": [
+    {
+      "id_canonico": "SIN_ANISTIA",
+      "numero_clausula_original": 1,
+      "titulo_original": "ANISTIA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "leis_aplicaveis": [
+          "8.632/93",
+          "8.878/94",
+          "10.559/2002",
+          "11.282/2006"
+        ],
+        "grupo_trabalho": true,
+        "composicao_gt": "6 representantes dos Correios + 5 membros indicados pelas Federações",
+        "prazo_gt": "30 dias após assinatura do ACT"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção com acréscimos",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 1
+    },
+    {
+      "id_canonico": "SIN_APOSENTADOS",
+      "numero_clausula_original": 2,
+      "titulo_original": "APOSENTADOS(AS)",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "dia_aposentado": "24 de janeiro",
+        "cracha_especifico": true,
+        "programa_preparacao": true,
+        "relacionamento_entidades": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 2
+    },
+    {
+      "id_canonico": "SIN_ENFRENTAMENTO_ASSEDIOS",
+      "numero_clausula_original": 3,
+      "titulo_original": "ENFRENTAMENTO AOS ASSÉDIOS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "canais_denuncia": "Ouvidoria",
+        "grupo_trabalho": true,
+        "prazo_gt": "30 dias após assinatura do ACT",
+        "composicao_gt": "7 representantes dos Correios + 7 representantes das Federações",
+        "paridade_genero": true,
+        "capacitacao_gestores": true,
+        "link_app_sou_correios": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção com acréscimos",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 2
+    },
+    {
+      "id_canonico": "SIN_EQUIDADE_RACIAL",
+      "numero_clausula_original": 4,
+      "titulo_original": "PROMOÇÃO DA EQUIDADE RACIAL E ENFRENTAMENTO AO RACISMO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "painel_radar_pessoas": true,
+        "grupo_trabalho": true,
+        "prazo_gt": "30 dias após assinatura do ACT",
+        "composicao_gt": "7 representantes dos Correios + 7 representantes das Federações",
+        "cotas_capacitacao": {
+          "mulheres": 40,
+          "negros": 30,
+          "operacionais": 20
+        },
+        "letramento_racial": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção com acréscimos",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 3
+    },
+    {
+      "id_canonico": "SIN_LGBTQIAPN",
+      "numero_clausula_original": 5,
+      "titulo_original": "DOS DIREITOS DAS PESSOAS LGBTQIAPN+",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "campanhas_comunicacao": true,
+        "seminarios_foruns": true,
+        "comissoes_regionais": true,
+        "acolhimento_psicossocial": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção com acréscimos",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 3
+    },
+    {
+      "id_canonico": "SIN_PESSOAS_DEFICIENCIA",
+      "numero_clausula_original": 6,
+      "titulo_original": "DOS DIREITOS DAS PESSOAS COM DEFICIÊNCIA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "reducao_jornada_filho_deficiencia": true,
+        "reducao_jornada_tea": true,
+        "sem_reducao_salarial": true,
+        "sem_compensacao_horario": true,
+        "base_legal": "art. 98, §§ 2º e 3º, Lei 8.112/1990 (aplicação analógica)",
+        "extensao_pais": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Estender a garantia aos empregados (pais)",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE com ajuste: estende o direito a empregados e empregadas",
+        "fundamento_juridico": "Tema 138 da Tabela de IRR do TST; Tema 1097 do STF; art. 98, §§ 2º e 3º, Lei 8.112/1990",
+        "votos_divergentes": null
+      },
+      "observacao": "Avanço em relação ao DC 2025/2026: a garantia foi estendida a empregados (pais), não apenas empregadas (mães).",
+      "pagina_referencia": 4
+    },
+    {
+      "id_canonico": "SIN_DIREITOS_GERACIONAIS",
+      "numero_clausula_original": 7,
+      "titulo_original": "DOS DIREITOS GERACIONAIS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "estudos_pluralidade": true,
+        "programa_mentoria": true,
+        "acoes_comunicacao": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 4
+    },
+    {
+      "id_canonico": "SIN_EMPREGADO_ESTUDANTE",
+      "numero_clausula_original": 8,
+      "titulo_original": "GARANTIAS AO(À) EMPREGADO(A) ESTUDANTE",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "abono_enem_vestibular": true,
+        "nao_alteracao_jornada": true,
+        "estagio_curricular": true,
+        "parcerias_instituicoes": true,
+        "flexibilizacao_provas": true,
+        "flexibilizacao_teletrabalho": true,
+        "dias_defesa_tcc": 2
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção com acréscimos",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 5
+    },
+    {
+      "id_canonico": "SOC_LICENCA_ADOCAO",
+      "numero_clausula_original": 9,
+      "titulo_original": "LICENÇA ADOÇÃO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "dias_licenca": 120,
+        "dias_prorrogacao": 60,
+        "idade_limite_crianca": 14,
+        "termo_guarda": true,
+        "aplicacao_casais_homoafetivos": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 5
+    },
+    {
+      "id_canonico": "SOC_LICENCA_PATERNIDADE",
+      "numero_clausula_original": 10,
+      "titulo_original": "LICENÇA PATERNIDADE",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "dias_licenca": 20,
+        "base_legal": "Lei 15.371/2026",
+        "extensao_adocao": true,
+        "ampliacao_filho_deficiencia": 30,
+        "garantia_natimorto": true,
+        "conciliacao_ferias": true,
+        "novo_paragrafo_3": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Reduzir de 22 para 20 dias, com base na Lei 15.371/2026",
+        "pedido_fentect": "Manutenção dos 22 dias",
+        "pedido_findect": "Manutenção dos 22 dias; concorda com o §3º",
+        "decisao_tst": "DEFERE a redução para 20 dias, por estar alinhada à Lei 15.371/2026",
+        "fundamento_juridico": "Lei 15.371/2026",
+        "votos_divergentes": null
+      },
+      "observacao": "**PERDA HISTÓRICA**. A licença-paternidade foi reduzida de 22 para 20 dias. Incluído §3º que garante a fruição integral mesmo quando o nascimento ocorrer durante as férias.",
+      "pagina_referencia": 6
+    },
+    {
+      "id_canonico": "FIN_AADC",
+      "numero_clausula_original": 11,
+      "titulo_original": "AADC DURANTE GESTAÇÃO E LICENÇA MATERNIDADE",
+      "status": "MANTIDO",
+      "valor_anterior": 30,
+      "valor_atual": 30,
+      "unidade": "percentual",
+      "detalhes": {
+        "percentual": 30,
+        "base_calculo": "salário-base",
+        "publico_alvo": [
+          "gestantes",
+          "lactantes em licença maternidade"
+        ],
+        "cargos": [
+          "Agente de Correios - Carteiro",
+          "Carteiro motorizado"
+        ]
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 7
+    },
+    {
+      "id_canonico": "SOC_LICENCA_MATERNIDADE",
+      "numero_clausula_original": 12,
+      "titulo_original": "LICENÇA MATERNIDADE",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "dias_licenca": 120,
+        "inicio_ate_28_dias_antes_parto": true,
+        "permanencia_2_meses_atividades_internas": true,
+        "estabilidade_120_dias": true,
+        "garantia_natimorto": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção com acréscimos",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 7
+    },
+    {
+      "id_canonico": "SOC_LICENCA_MATERNIDADE",
+      "numero_clausula_original": 13,
+      "titulo_original": "PRORROGAÇÃO DA LICENÇA MATERNIDADE",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "dias_prorrogacao": 60,
+        "remuneracao_integral": true,
+        "vedacao_atividade_remunerada": true,
+        "perda_reembolso_creche_baba": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção com acréscimos",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 7
+    },
+    {
+      "id_canonico": "SOC_ENFRENTAMENTO_VIOLENCIA_MULHER",
+      "numero_clausula_original": 14,
+      "titulo_original": "ENFRENTAMENTO À VIOLÊNCIA CONTRA A MULHER",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "transferencia_unidade": true,
+        "divulgacao_ligue_180": true,
+        "manutencao_vinculo_6_meses": true,
+        "licenca_remunerada_20_dias": true,
+        "campanha_tolerancia_zero": true,
+        "ajuda_custo_salario_base": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção com acréscimos",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 8
+    },
+    {
+      "id_canonico": "SOC_AFASTAMENTO_ALTA_HOSPITALAR",
+      "numero_clausula_original": 15,
+      "titulo_original": "AFASTAMENTO ESPECIAL ATÉ ALTA HOSPITALAR DO RECÉM-NASCIDO E/OU DA MÃE",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "duracao_mae": "equivalente ao número de dias de internação",
+        "duracao_pai": "limitado a 15 dias",
+        "internacao_minima": "superior a uma semana"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção com acréscimos",
+        "pedido_findect": "Não se manifestou",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 8
+    },
+    {
+      "id_canonico": "SOC_PERIODO_AMAMENTACAO",
+      "numero_clausula_original": 16,
+      "titulo_original": "PERÍODO DE AMAMENTAÇÃO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "intervalo_especial": "3 horas ou dois intervalos de 1h30",
+        "idade_limite_filho": 18,
+        "jornada_reduzida": "5 horas corridas",
+        "prioridade_vaga_proxima_residencia": true,
+        "salas_amamentacao": "efetivo de mulheres maior que 50"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção com acréscimos",
+        "pedido_findect": "Não se manifestou",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 8
+    },
+    {
+      "id_canonico": "SOC_SAUDE_MULHER",
+      "numero_clausula_original": 17,
+      "titulo_original": "SAÚDE DA MULHER",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "acoes_marco_outubro": true,
+        "mudanca_provisoria_tarefa": true,
+        "licenca_menstrual_dias": 2,
+        "prescricao_medica": "válida por 12 meses",
+        "base_legal": "art. 9º da Resolução CFM 2.323/2022"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção com alteração do §6º",
+        "pedido_fentect": "Manutenção da redação anterior",
+        "pedido_findect": "Manutenção da redação da sentença normativa 2025/2026",
+        "decisao_tst": "DEFERE nos termos propostos pela ECT",
+        "fundamento_juridico": "Cláusula preexistente; Resolução CFM 2.323/2022",
+        "votos_divergentes": null
+      },
+      "observacao": "A alteração do §6º objetiva melhorar a operacionalização do benefício, com prescrição válida por 12 meses.",
+      "pagina_referencia": 9
+    },
+    {
+      "id_canonico": "SIN_EQUIDADE_GENERO",
+      "numero_clausula_original": 18,
+      "titulo_original": "PROMOÇÃO DA EQUIDADE DE GÊNERO E ENFRENTAMENTO AO SEXISMO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "principios_empoderamento": true,
+        "programas_lideranca": true,
+        "grupo_trabalho": true,
+        "prazo_gt": "30 dias após assinatura do ACT",
+        "composicao_gt": "7 representantes dos Correios + 7 representantes das Federações",
+        "cotas_capacitacao": {
+          "mulheres": 40,
+          "negros": 30,
+          "operacionais": 20
+        }
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção com acréscimos",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 9
+    },
+    {
+      "id_canonico": "SIN_EQUIDADE_GENERO",
+      "numero_clausula_original": 19,
+      "titulo_original": "INCENTIVO E PARTICIPAÇÃO DAS MULHERES NA LIDERANÇA DA EMPRESA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "percentual_mulheres_gestao": 40,
+        "percentual_negros_gestao": 30,
+        "percentual_vagas_ri_mulheres": 30,
+        "percentual_bolsas_mulheres": 30
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção com acréscimos",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 9
+    },
+    {
+      "id_canonico": "PRO_NEGOCIACAO_COLETIVA",
+      "numero_clausula_original": 20,
+      "titulo_original": "NEGOCIAÇÃO COLETIVA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "gatilho": "fatos que alterem substancialmente a regulamentação salarial vigente"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Não se opôs",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 10
+    },
+    {
+      "id_canonico": "PRO_PROCESSO_PERMANENTE",
+      "numero_clausula_original": 21,
+      "titulo_original": "PROCESSO PERMANENTE DE NEGOCIAÇÃO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "sistema": "SNNP-Correios",
+        "mesas": [
+          "MNNP-Correios",
+          "MRNP-Correios"
+        ],
+        "periodicidade_reunioes": "intervalos máximos de 30 dias"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Não se opôs",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 10
+    },
+    {
+      "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+      "numero_clausula_original": 22,
+      "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+      "status": "INDEFERIDO",
+      "valor_anterior": 21,
+      "valor_atual": null,
+      "unidade": "quantidade",
+      "detalhes": {
+        "quantidade_por_federacao": 15,
+        "quantidade_por_sindicato": 6,
+        "onus_misto": true,
+        "limite_total_por_federacao": 20
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Excluir a cláusula",
+        "pedido_fentect": "Manutenção com acréscimos",
+        "pedido_findect": "Manutenção da cláusula preexistente",
+        "decisao_tst": "INDEFERE a cláusula",
+        "fundamento_juridico": "Ausência de norma preexistente; encargo financeiro sem previsão orçamentária",
+        "votos_divergentes": "Relatora votou por deferir; Ministra Maria Cristina Irigoyen Peduzzi divergiu"
+      },
+      "observacao": "**PERDA HISTÓRICA**. Cláusula que era prevista no ACT 2024/2025 e mantida no DC 2025/2026 foi INDEFERIDA no DC 2026/2027. Justificativa da ECT: custo de R$ 35 milhões/ano.",
+      "pagina_referencia": 11
+    },
+    {
+      "id_canonico": "SIN_REPRESENTANTES_EMPREGADOS",
+      "numero_clausula_original": 23,
+      "titulo_original": "REPRESENTANTES DOS EMPREGADOS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "estabilidade_dirigentes_sindicais": true,
+        "estabilidade_cipeiros": "6 meses após término da estabilidade legal",
+        "estabilidade_delegados_sindicais": "1 ano após término do mandato",
+        "vedacao_transferencia_sem_anuencia": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção com acréscimos",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Art. 522 da CLT",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 11
+    },
+    {
+      "id_canonico": "SIN_REPASSE_MENSALIDADES",
+      "numero_clausula_original": 24,
+      "titulo_original": "REPASSE DAS MENSALIDADES DO SINDICATO",
+      "status": "REDUZIDO",
+      "valor_anterior": "1º dia útil",
+      "valor_atual": "5º dia útil",
+      "unidade": "prazo",
+      "detalhes": {
+        "prazo_repasse": "quinto dia útil após o pagamento mensal dos salários",
+        "comprovacao": "Atas de Assembleias",
+        "prazo_comunicados": "dia 10 do mês corrente"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Alterar o §1º para repasse no quinto dia útil",
+        "pedido_fentect": "Manutenção do prazo no primeiro dia útil",
+        "pedido_findect": "Manutenção do prazo no primeiro dia útil",
+        "decisao_tst": "DEFERE a alteração proposta pela ECT",
+        "fundamento_juridico": "Cláusula sem expressão econômica",
+        "votos_divergentes": null
+      },
+      "observacao": "**PERDA**. A ECT já havia tentado essa alteração no DC 2025/2026, mas não foi acolhida. Agora, em 2026/2027, o TST deferiu a mudança do 1º para o 5º dia útil.",
+      "pagina_referencia": 12
+    },
+    {
+      "id_canonico": "SIN_ACESSO_DEPENDENCIAS",
+      "numero_clausula_original": 25,
+      "titulo_original": "ACESSO ÀS DEPENDÊNCIAS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "dirigentes_por_reuniao": 6,
+        "duracao_maxima_reuniao": 60,
+        "antecedencia_solicitacao": "3 dias úteis",
+        "locais_permitidos": [
+          "salas de aula/reunião",
+          "áreas de lazer",
+          "refeitórios",
+          "local de trabalho"
+        ],
+        "acesso_sistema_ect_normas": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Alterar o §2º: reduzir de 6 para 2 dirigentes e de 60 para 30 minutos",
+        "pedido_fentect": "Manutenção da disciplina preexistente",
+        "pedido_findect": "Manutenção da disciplina preexistente",
+        "decisao_tst": "DEFERE nos termos do ACT 2024/2025, mantendo 6 dirigentes e 60 minutos",
+        "fundamento_juridico": "Cláusula sem expressão econômica",
+        "votos_divergentes": null
+      },
+      "observacao": "A ECT tentou reduzir novamente, mas o TST manteve a redação original.",
+      "pagina_referencia": 12
+    },
+    {
+      "id_canonico": "SIN_FORNECIMENTO_DOCUMENTOS",
+      "numero_clausula_original": 26,
+      "titulo_original": "FORNECIMENTO DE DOCUMENTOS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "prazo_fornecimento": "5 dias",
+        "respeito_lai_lgpd": true,
+        "envio_informativos": [
+          "Primeira Hora",
+          "Correios Informa"
+        ],
+        "relacao_empregados": "nome, matrícula, cargo/atividade, lotação, função, status"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção com acréscimo",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 12
+    },
+    {
+      "id_canonico": "SIN_QUADRO_AVISOS",
+      "numero_clausula_original": 27,
+      "titulo_original": "QUADRO DE AVISOS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "instalacao_sindicato": true,
+        "local_apropriado": true,
+        "responsabilidade_comunicacoes": "Sindicatos"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 13
+    },
+    {
+      "id_canonico": "SOC_ATESTADO_SAUDE_DEMISSAO",
+      "numero_clausula_original": 28,
+      "titulo_original": "ATESTADO DE SAÚDE NA DEMISSÃO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "envio_copias_rescisoes": true,
+        "envio_aso": true,
+        "envio_ppp": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção com alteração do §1º",
+        "pedido_fentect": "Manutenção da redação anterior",
+        "pedido_findect": "Manutenção da redação anterior",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula sem expressão econômica",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 13
+    },
+    {
+      "id_canonico": "CON_AVERIGUACAO_CONDICOES",
+      "numero_clausula_original": 29,
+      "titulo_original": "AVERIGUAÇÃO DAS CONDIÇÕES DE TRABALHO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "limite_pessoas": 3,
+        "agendamento_antecedencia": "2 dias úteis",
+        "prazo_agendamento": "3 dias úteis",
+        "climatizacao_gradual": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 13
+    },
+    {
+      "id_canonico": "CON_CIPA_CIPAA",
+      "numero_clausula_original": 30,
+      "titulo_original": "COMISSÃO INTERNA DE PREVENÇÃO DE ACIDENTES E ASSÉDIOS – CIPA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "base_legal": "NR-05, Portaria MTP nº 4.219/2022",
+        "dimensionamento": "Quadro I da NR-05",
+        "designacao_responsavel": "até 50 empregados",
+        "liberacao_cipeiros": {
+          "menos_400_empregados": "4 horas/mês",
+          "400_a_1000_empregados": "6 horas/mês",
+          "mais_1000_empregados": "8 horas/mês"
+        },
+        "reunioes_semestrais": "presidentes de CIPA com mais de 1.000 empregados"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção com divergência pontual",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "NR-05; Portaria MTP 4.219/2022",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 14
+    },
+    {
+      "id_canonico": "SOC_EMPREGADO_VIVENDO_HIV",
+      "numero_clausula_original": 31,
+      "titulo_original": "EMPREGADO VIVENDO COM HIV",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "remanejamento": true,
+        "vedacao_dispensa": true,
+        "liberacao_mensal_medicamentos": true,
+        "transferencia_somente_a_pedido": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção com ajuste no §3º",
+        "pedido_fentect": "Manutenção com acréscimos",
+        "pedido_findect": "Manutenção com acréscimos",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Ajuste redacional negociado entre as partes.",
+      "pagina_referencia": 14
+    },
+    {
+      "id_canonico": "CON_ERGONOMIA",
+      "numero_clausula_original": 32,
+      "titulo_original": "ERGONOMIA NA EMPRESA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "base_legal": "NR-17",
+        "avaliacao_permanente": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção com acréscimos",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 15
+    },
+    {
+      "id_canonico": "SOC_FORNECIMENTO_CAT",
+      "numero_clausula_original": 33,
+      "titulo_original": "FORNECIMENTO DE CAT",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "atendimento_medico": "próprio ou rede credenciada",
+        "envio_federacoes": "cópia integral da CAT via eSocial",
+        "emissao_para_dirigente_sindical": true,
+        "emissao_para_assaltos": true,
+        "treinamento_gestores_cipeiros": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Alterar o §2º: substituir o envio da CAT pelo envio de relação de números",
+        "pedido_fentect": "Manutenção do envio de uma via da CAT",
+        "pedido_findect": "Manutenção do envio de cópia integral",
+        "decisao_tst": "DEFERE nos termos da sentença normativa 2025/2026, com ajuste para CAT integral via eSocial",
+        "fundamento_juridico": "Cláusula sem expressão econômica",
+        "votos_divergentes": null
+      },
+      "observacao": "A ECT tentou substituir o envio da CAT por relação de números. O TST manteve o envio da cópia integral, adaptado ao eSocial.",
+      "pagina_referencia": 15
+    },
+    {
+      "id_canonico": "CON_ITENS_USO_PROTECAO",
+      "numero_clausula_original": 34,
+      "titulo_original": "ITENS DE USO E PROTEÇÃO AO(À) EMPREGADO(A)",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "uniformes": "modelos masculino e feminino",
+        "calcados": "tênis com amortecedor, botina para OTTs",
+        "EPIs": "conforme NR-06",
+        "protetor_solar": "conforme recomendações da área de saúde",
+        "motorizado_M": "luvas, jaquetas de couro, botas, calça de motociclista",
+        "carteiro_ciclista": "luvas e capacetes",
+        "PGR": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção com alteração do §6º",
+        "pedido_fentect": "Manutenção da redação preexistente",
+        "pedido_findect": "Manutenção da redação preexistente",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula sem expressão econômica",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 15
+    },
+    {
+      "id_canonico": "SOC_REABILITACAO_PROFISSIONAL",
+      "numero_clausula_original": 35,
+      "titulo_original": "REABILITAÇÃO PROFISSIONAL",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "estabilidade_reabilitado": "24 meses",
+        "estabilidade_ampliada": "36 meses se próximo da aposentadoria",
+        "CRRP": "substituída pelo SESMT regional",
+        "atualizacao_cadastral_PCD": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção com alteração do §5º e inclusão do §6º",
+        "pedido_fentect": "Manutenção das garantias preexistentes",
+        "pedido_findect": "Manutenção das garantias preexistentes",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "A CRRP foi substituída pelo SESMT regional.",
+      "pagina_referencia": 16
+    },
+    {
+      "id_canonico": "SOC_SAUDE_EMPREGADO",
+      "numero_clausula_original": 36,
+      "titulo_original": "SAÚDE DO(A) EMPREGADO(A)",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "campanhas_prevencao": true,
+        "campanha_janeiro_branco": true,
+        "base_legal": "Lei 14.556/2023",
+        "prazo_atestado": "4 dias úteis",
+        "saude_mental": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção com alteração do §10",
+        "pedido_fentect": "Manutenção das garantias relacionadas à saúde",
+        "pedido_findect": "Manutenção das garantias relacionadas à saúde",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula social; Lei 14.556/2023",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 16
+    },
+    {
+      "id_canonico": "SOC_EMPREGADO_INAPTO",
+      "numero_clausula_original": 37,
+      "titulo_original": "EMPREGADO(A) INAPTO(A) PARA RETORNO AO TRABALHO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "retorno_imediato_apos_alta_INSS": true,
+        "manutencao_remuneracao": "90 dias",
+        "devolucao_valores": "8 parcelas",
+        "prorrogacao_prazo": "mais 90 dias"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção com adaptação",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 17
+    },
+    {
+      "id_canonico": "CON_DISTRIBUICAO_DOMICILIARIA",
+      "numero_clausula_original": 38,
+      "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "limite_peso_homem": 10,
+        "limite_peso_mulher": 8,
+        "processo_seletivo_motorizado": true,
+        "entrega_matutina": "priorização em âmbito nacional",
+        "GT_entrega_matutina": "EXCLUÍDO"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção com exclusão dos §§ 7º, 8º e 9º",
+        "pedido_fentect": "Manutenção com ampliações",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Mantida a priorização das entregas matutinas. Excluídos os grupos de trabalho.",
+      "pagina_referencia": 17
+    },
+    {
+      "id_canonico": "CON_FROTA_OPERACIONAL",
+      "numero_clausula_original": 39,
+      "titulo_original": "FROTA OPERACIONAL",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "veiculos_novos": "ar condicionado, direção hidráulica, vidro elétrico",
+        "motos": "partida elétrica",
+        "bicicletas": "estudos ergonômicos"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção com acréscimos",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 18
+    },
+    {
+      "id_canonico": "TEC_INOVACOES",
+      "numero_clausula_original": 40,
+      "titulo_original": "INOVAÇÕES TECNOLÓGICAS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "realocacao": "para atividade compatível",
+        "qualificacao": "para nova atividade",
+        "sem_prejuizo_vantagens": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 18
+    },
+    {
+      "id_canonico": "TEC_JORNADA_TERMINAIS",
+      "numero_clausula_original": 41,
+      "titulo_original": "JORNADA DE TRABALHO PARA TRABALHADORES(AS) EM TERMINAIS COMPUTADORIZADOS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "intervalo": "10 minutos a cada 50 minutos trabalhados"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 18
+    },
+    {
+      "id_canonico": "CON_REDIMENSIONAMENTO_CARGA",
+      "numero_clausula_original": 42,
+      "titulo_original": "REDIMENSIONAMENTO DE CARGA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "cronograma_regional": "30 dias de antecedência",
+        "representante_sindical": "1 por levantamento",
+        "implantacao": "120 dias após liberação de recursos",
+        "retorno_questionamentos": "20 dias"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 19
+    },
+    {
+      "id_canonico": "CON_JORNADA_AGENCIAS",
+      "numero_clausula_original": 43,
+      "titulo_original": "JORNADA DE TRABALHO NAS AGÊNCIAS DOS CORREIOS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "escalonamento": "para abertura e fechamento"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 19
+    },
+    {
+      "id_canonico": "CON_SEGURANCA_EMPRESA",
+      "numero_clausula_original": 44,
+      "titulo_original": "SEGURANÇA NA EMPRESA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "base_legal": "Manual de Segurança – MANSEG, Módulo 6",
+        "transporte_numerarios": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 19
+    },
+    {
+      "id_canonico": "SOC_LICENCA_ACOMPANHANTE",
+      "numero_clausula_original": 45,
+      "titulo_original": "ACOMPANHANTE",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "dias_ausencia": 6,
+        "turnos": 12,
+        "publico_alvo": [
+          "dependentes menores de 18 anos",
+          "deficientes",
+          "gestantes",
+          "cônjuge com dificuldade de locomoção",
+          "pais com mais de 60 anos"
+        ],
+        "acrescimo_filho_deficiencia": "4 dias úteis (8 turnos)",
+        "neoplasias": "até 8 dias úteis (16 turnos)"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 20
+    },
+    {
+      "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+      "numero_clausula_original": 46,
+      "titulo_original": "AUXÍLIO PARA EMPREGADOS E DEPENDENTES COM DEFICIÊNCIA",
+      "status": "DEFERIDO",
+      "valor_anterior": 1030.58,
+      "valor_atual": 1125.32,
+      "unidade": "BRL",
+      "variacao_percentual": "9,18",
+      "detalhes": {
+        "valor_mensal": 1125.32,
+        "reajuste_aplicado": "4,09%",
+        "publico_alvo": [
+          "filhos",
+          "enteados",
+          "tutelados",
+          "curatelados"
+        ],
+        "vigencia": "a partir de 1º de agosto de 2026"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Reajuste de 2,61%",
+        "pedido_fentect": "Concorda com a proposta da ECT",
+        "pedido_findect": "Reajuste de 100% do INPC",
+        "decisao_tst": "DEFERE reajuste de 4,09%",
+        "fundamento_juridico": "Jurisprudência da SDC/TST",
+        "votos_divergentes": null
+      },
+      "observacao": "**CONQUISTA PARCIAL**. A ECT queria reajuste de 2,61%, mas o TST aplicou o INPC de 4,09%. O valor passou de R$ 1.083,14 para R$ 1.125,32. Também foi ampliado o público-alvo (empregados, não apenas dependentes).",
+      "pagina_referencia": 20
+    },
+    {
+      "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+      "numero_clausula_original": 47,
+      "titulo_original": "REEMBOLSO CRECHE E REEMBOLSO BABÁ",
+      "status": "DEFERIDO",
+      "valor_anterior": 751.17,
+      "valor_atual": 780.42,
+      "unidade": "BRL",
+      "variacao_percentual": "3,89",
+      "detalhes": {
+        "valor_mensal": 780.42,
+        "reajuste_aplicado": "4,09%",
+        "idade_limite": "até 7 anos",
+        "participacao_empregada": "5%",
+        "participacao_empresa": "95%",
+        "reembolso_integral": "6 primeiros meses"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Reajuste de 2,61%",
+        "pedido_fentect": "Concorda com a proposta da ECT",
+        "pedido_findect": "Reajuste de 100% do INPC",
+        "decisao_tst": "DEFERE reajuste de 4,09%",
+        "fundamento_juridico": "Jurisprudência da SDC/TST",
+        "votos_divergentes": null
+      },
+      "observacao": "Reajuste de 4,09% sobre R$ 751,17 → R$ 780,42.",
+      "pagina_referencia": 20
+    },
+    {
+      "id_canonico": "FIN_VALE_ALIMENTACAO",
+      "numero_clausula_original": 48,
+      "titulo_original": "VALE REFEIÇÃO/ALIMENTAÇÃO",
+      "status": "DEFERIDO_PARCIALMENTE",
+      "valor_anterior": 53.53,
+      "valor_atual": 55.61,
+      "unidade": "BRL",
+      "variacao_percentual": "3,89",
+      "detalhes": {
+        "valor_facial": 55.61,
+        "quantidade": "22 ou 26 vales",
+        "vale_cesta": 349.18,
+        "reajuste_aplicado": "4,09%",
+        "ticket_extra": "não previsto",
+        "compartilhamento": {
+          "NM-01 a NM-63": 5,
+          "NM-64 a NM-90": 10,
+          "NS-01 a NS-60": 15
+        }
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção com exclusão dos §§ 2º e 9º",
+        "pedido_fentect": "Manutenção com reajuste",
+        "pedido_findect": "Manutenção com reajuste",
+        "decisao_tst": "DEFERE reajuste de 4,09%",
+        "fundamento_juridico": "Jurisprudência da SDC/TST",
+        "votos_divergentes": null
+      },
+      "observacao": "**PERDA**. O ticket extra de R$ 2.500,00, que existia no ACT 2024/2025 e foi mantido no DC 2025/2026, NÃO consta do DC 2026/2027. Os valores foram reajustados em 4,09%: VA R$ 53,53 → R$ 55,61; VC R$ 336,10 → R$ 349,18.",
+      "pagina_referencia": 21
+    },
+    {
+      "id_canonico": "FIN_ADIANTAMENTO_FERIAS",
+      "numero_clausula_original": 49,
+      "titulo_original": "ADIANTAMENTO DE FÉRIAS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "valor": "um salário-base + anuênios/quinquênios + IGQP + gratificação de função",
+        "restituicao": "até 5 parcelas mensais",
+        "inicio_restituicao": "segundo mês subsequente ao início das férias",
+        "opcao_escrita": "até 40 dias antes"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção com alteração do §1º",
+        "pedido_fentect": "Manutenção com ajustes",
+        "pedido_findect": "Concorda com a ECT",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "A alteração do §1º é favorável ao empregado, que terá mais prazo para reorganização financeira após as férias.",
+      "pagina_referencia": 21
+    },
+    {
+      "id_canonico": "FIN_VALE_TRANSPORTE",
+      "numero_clausula_original": 50,
+      "titulo_original": "VALE-TRANSPORTE",
+      "status": "DEFERIDO",
+      "valor_anterior": 914.55,
+      "valor_atual": 950.17,
+      "unidade": "BRL",
+      "variacao_percentual": "3,89",
+      "detalhes": {
+        "valor_mensal": 950.17,
+        "reajuste_aplicado": "4,09%",
+        "compartilhamento": "conforme lei",
+        "pecunia": "permitido em caso de indisponibilidade"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção com reajuste de 2,61%",
+        "pedido_fentect": "Manutenção com reajuste",
+        "pedido_findect": "Manutenção com reajuste",
+        "decisao_tst": "DEFERE reajuste de 4,09%",
+        "fundamento_juridico": "Jurisprudência da SDC/TST",
+        "votos_divergentes": null
+      },
+      "observacao": "Reajuste de 4,09% sobre R$ 914,55 → R$ 950,17.",
+      "pagina_referencia": 21
+    },
+    {
+      "id_canonico": "FIN_ANTECIPACAO_13",
+      "numero_clausula_original": 51,
+      "titulo_original": "ANTECIPAÇÃO DE 50% DA GRATIFICAÇÃO NATALINA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "percentual": 50,
+        "parcelas": "2 (25% março + 25% junho) ou 1 (50% junho)",
+        "opcao_ferias": "janeiro a novembro",
+        "diferenca_paga_ate": "20 de dezembro"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 22
+    },
+    {
+      "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+      "numero_clausula_original": 52,
+      "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+      "status": "DEFERIDO",
+      "valor_anterior": 281.29,
+      "valor_atual": 292.24,
+      "unidade": "BRL",
+      "variacao_percentual": "3,89",
+      "detalhes": {
+        "valor": 292.24,
+        "reajuste_aplicado": "4,09%",
+        "publico_alvo": "guichês de agências",
+        "participacao_parcial": "25% para cobertura de almoço"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção com reajuste de 2,61%",
+        "pedido_fentect": "Substituir valor fixo por 30% do salário-base",
+        "pedido_findect": "Reajuste de 100% do INPC",
+        "decisao_tst": "DEFERE reajuste de 4,09%",
+        "fundamento_juridico": "Jurisprudência da SDC/TST",
+        "votos_divergentes": null
+      },
+      "observacao": "Reajuste de 4,09% sobre R$ 281,29 → R$ 292,24.",
+      "pagina_referencia": 22
+    },
+    {
+      "id_canonico": "FIN_PAGAMENTO_SALARIO",
+      "numero_clausula_original": 53,
+      "titulo_original": "PAGAMENTO DE SALÁRIO",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "pretensao_ect": "Pagamento até o 5º dia útil do mês subsequente (art. 459, §1º, CLT)"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Alterar para pagamento até o 5º dia útil do mês subsequente",
+        "pedido_fentect": "Manutenção do pagamento no último dia útil bancário",
+        "pedido_findect": "Manutenção do pagamento no último dia útil bancário",
+        "decisao_tst": "INDEFERE a cláusula",
+        "fundamento_juridico": "Art. 114, §2º, CF",
+        "votos_divergentes": null
+      },
+      "observacao": "**PERDA**. A cláusula foi indeferida. Mantém-se o pagamento no último dia útil bancário do mês trabalhado (cláusula preexistente).",
+      "pagina_referencia": 22
+    },
+    {
+      "id_canonico": "SOC_PLANO_SAUDE",
+      "numero_clausula_original": 54,
+      "titulo_original": "PLANO DE SAÚDE DOS EMPREGADOS DOS CORREIOS",
+      "status": "REDUZIDO",
+      "valor_anterior": "ECT mantenedora",
+      "valor_atual": "Novo modelo sem ECT como mantenedora",
+      "unidade": null,
+      "detalhes": {
+        "modelo": "novo modelo a ser implementado",
+        "subsidio_empresarial": "assegurado",
+        "adesao": "facultativa",
+        "mantencao_correios_saude_II": "até implementação de novo modelo",
+        "base_legal": "SS 5.731 do STF"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Alterar o caput: retirar a expressão 'na condição de mantenedora do plano'",
+        "pedido_fentect": "Manutenção da assistência médica/hospitalar e odontológica diretamente pela empresa",
+        "pedido_findect": "Manutenção da cláusula preexistente",
+        "decisao_tst": "DEFERE nos termos propostos pela ECT",
+        "fundamento_juridico": "SS 5.731 do STF",
+        "votos_divergentes": null
+      },
+      "observacao": "**PERDA HISTÓRICA**. A cláusula foi suspensa pelo STF em 26/01/2026 (SS 5.731). A ECT deixou de ser mantenedora do plano.",
+      "pagina_referencia": 22
+    },
+    {
+      "id_canonico": "FIN_REAJUSTE_SALARIAL",
+      "numero_clausula_original": 55,
+      "titulo_original": "REAJUSTE SALARIAL",
+      "status": "DEFERIDO_PARCIALMENTE",
+      "valor_anterior": 5.1,
+      "valor_atual": 4.09,
+      "unidade": "%",
+      "variacao_percentual": "-19,8%",
+      "detalhes": {
+        "indice_aplicado": "4,09% (INPC acumulado de agosto/2025 a julho/2026)",
+        "data_base": "2026-08-01",
+        "incidencia": "todas as parcelas de natureza salarial",
+        "retroatividade": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Reajuste de 60% do INPC (aprox. 2,61%)",
+        "pedido_fentect": "Reajuste de 100% do INPC para o 1º ano e 100% para o 2º ano; vigência de 2 anos",
+        "pedido_findect": "Reajuste de 100% do INPC; vigência de 1 ano",
+        "decisao_tst": "DEFERE reajuste de 4,09% (INPC acumulado)",
+        "fundamento_juridico": "Art. 766 da CLT; art. 13 da Lei 10.192/2001",
+        "votos_divergentes": null
+      },
+      "observacao": "Reajuste de 4,09% (INPC), aplicável a partir de 01/08/2026. A ECT propôs 2,61%. As federações pediram 100% do INPC. O TST fixou 1 ano de vigência e aplicou o INPC integral.",
+      "pagina_referencia": 23
+    },
+    {
+      "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+      "numero_clausula_original": 56,
+      "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "regra_compensacao": "não acumulação de acréscimos pecuniários sob o mesmo título"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 23
+    },
+    {
+      "id_canonico": "FIN_TRABALHO_DIA_REPOUSO",
+      "numero_clausula_original": 57,
+      "titulo_original": "TRABALHO EM DIA DE REPOUSO",
+      "status": "REDUZIDO",
+      "valor_anterior": 200,
+      "valor_atual": 100,
+      "unidade": "percentual",
+      "variacao_percentual": "-50%",
+      "detalhes": {
+        "percentual": 100,
+        "vale_alimentacao": true,
+        "troca_por_folgas": "1 folga compensatória",
+        "antecedencia_convocacao": "48 horas",
+        "base_legal": "SS 5.731 do STF"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Reduzir de 200% para 100% e substituir duas folgas por uma",
+        "pedido_fentect": "Manutenção da redação anterior",
+        "pedido_findect": "Manutenção da redação anterior",
+        "decisao_tst": "DEFERE nos termos propostos pela ECT",
+        "fundamento_juridico": "SS 5.731 do STF; Súmula 190 do TST",
+        "votos_divergentes": null
+      },
+      "observacao": "**PERDA HISTÓRICA**. O adicional foi reduzido de 200% para 100%, e as duas folgas compensatórias foram reduzidas para uma.",
+      "pagina_referencia": 24
+    },
+    {
+      "id_canonico": "PRO_CONCURSO_PUBLICO",
+      "numero_clausula_original": 58,
+      "titulo_original": "CONCURSO PÚBLICO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "vedacao_discriminacao": [
+          "racial",
+          "religiosa",
+          "orientação sexual"
+        ],
+        "cotas": [
+          "pessoas com deficiência",
+          "negros"
+        ],
+        "reposicao_efetivo": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção com exclusão do §1º",
+        "pedido_fentect": "Manutenção com acréscimo",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 24
+    },
+    {
+      "id_canonico": "PRO_CURSOS_REUNIOES",
+      "numero_clausula_original": 59,
+      "titulo_original": "CURSOS E REUNIÕES OBRIGATÓRIAS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "comunicacao_antecedencia": "3 dias úteis",
+        "horas_extras": "se fora do horário de serviço",
+        "excecao_EaD_assincrono": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 25
+    },
+    {
+      "id_canonico": "PRO_AMPLA_DEFESA",
+      "numero_clausula_original": 60,
+      "titulo_original": "DIREITO AO CONTRADITÓRIO E À AMPLA DEFESA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "obtencao_documentos": true,
+        "contraditorio": true,
+        "ampla_defesa": true,
+        "acompanhamento_sindical": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 25
+    },
+    {
+      "id_canonico": "FIN_PLR",
+      "numero_clausula_original": 61,
+      "titulo_original": "PARTICIPAÇÃO NOS LUCROS OU RESULTADOS – PLR",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "negociacao": "com participação das Federações signatárias",
+        "base_legal": "Lei 10.101/2000"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 25
+    },
+    {
+      "id_canonico": "FIN_PENALIDADE",
+      "numero_clausula_original": 62,
+      "titulo_original": "PENALIDADE",
+      "status": "DEFERIDO",
+      "valor_anterior": 20,
+      "valor_atual": 20,
+      "unidade": "percentual",
+      "detalhes": {
+        "percentual": 20,
+        "base_calculo": "dia de serviço do empregado prejudicado",
+        "precedente_normativo": "PN 73/TST"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Multa diária correspondente à remuneração de um dia",
+        "pedido_findect": "Manutenção da cláusula",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "PN 73/TST",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 25
+    },
+    {
+      "id_canonico": "FIN_CONSIGNACOES",
+      "numero_clausula_original": 63,
+      "titulo_original": "PROCESSAMENTO DE CONSIGNAÇÕES EM FOLHA DE PAGAMENTO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "consignacoes_obrigatorias": [
+          "INSS",
+          "pensão alimentícia judicial",
+          "IR",
+          "decisão judicial/administrativa",
+          "mensalidade sindical",
+          "plano de saúde",
+          "previdência complementar"
+        ],
+        "consignacoes_voluntarias": [
+          "financiamento habitacional",
+          "cooperativas",
+          "seguro de vida",
+          "empréstimo consignado",
+          "pensão alimentícia voluntária"
+        ],
+        "margem_consignavel": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 26
+    },
+    {
+      "id_canonico": "CON_REGISTRO_PONTO",
+      "numero_clausula_original": 64,
+      "titulo_original": "REGISTRO DE PONTO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "registro_pelo_empregado": true,
+        "vedacao_interferencia_terceiros": true,
+        "sistemas_alternativos": true,
+        "regime_excecao": "distribuição/coleta",
+        "tolerancia": "5 minutos + 5 minutos adicionais (4x/mês)"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Excluir o inciso I do §2º",
+        "pedido_fentect": "Manutenção com acréscimos",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Art. 74, §4º, CLT",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 26
+    },
+    {
+      "id_canonico": "CON_RESPONSABILIDADE_CIVIL_TRANSITO",
+      "numero_clausula_original": 65,
+      "titulo_original": "RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "responsabilidade_ECT": "custos com recuperação de veículos da frota e danos a terceiros",
+        "excecao": "inexistência de dolo",
+        "comissao_paritaria": "3 ECT + 3 Sindicato",
+        "voto_desempate": "Coordenador de Administração da Frota"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção com alteração do caput e do §2º",
+        "pedido_fentect": "Manutenção da cláusula",
+        "pedido_findect": "Manutenção da cláusula",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Art. 462, §1º, CLT",
+        "votos_divergentes": null
+      },
+      "observacao": "A ECT tentou ampliar as hipóteses de isenção de responsabilidade. O TST barrou, mantendo apenas 'dolo'.",
+      "pagina_referencia": 27
+    },
+    {
+      "id_canonico": "CON_MULTAS_TRANSITO",
+      "numero_clausula_original": 66,
+      "titulo_original": "MULTAS DE TRÂNSITO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "responsabilidade_provisoria": "ECT arca provisoriamente com multas",
+        "casos": [
+          "estacionamento não permitido",
+          "linhas comboiadas"
+        ],
+        "desconto": "se não houver recurso",
+        "isencao_pontos_CNH": true,
+        "remanejamento": true,
+        "cursos_direcao_defensiva": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção com alteração do caput e do §5º",
+        "pedido_fentect": "Manutenção da cláusula anterior",
+        "pedido_findect": "Manutenção da cláusula anterior",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula sem expressão econômica",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 27
+    },
+    {
+      "id_canonico": "PRO_ACOMPANHAMENTO_CUMPRIMENTO",
+      "numero_clausula_original": 67,
+      "titulo_original": "ACOMPANHAMENTO DO CUMPRIMENTO DE CLÁUSULAS DA SENTENÇA NORMATIVA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "fornecimento_informacoes": "às Federações",
+        "prazo": "cláusulas que preveem prazo para implementação"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 28
+    },
+    {
+      "id_canonico": "PRO_CONCILIACAO_DIVERGENCIAS",
+      "numero_clausula_original": 68,
+      "titulo_original": "CONCILIAÇÃO DE DIVERGÊNCIAS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "prazo": "15 dias",
+        "procedimento": "comunicação por escrito à ECT antes de recorrer à Justiça do Trabalho"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 28
+    },
+    {
+      "id_canonico": "PRO_REVISAO_PROCESSOS_DISCIPLINARES",
+      "numero_clausula_original": 69,
+      "titulo_original": "GRUPO DE TRABALHO PARA REVISÃO DE PROCESSOS ADMINISTRATIVOS DISCIPLINARES",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "grupo_trabalho": true,
+        "publico_alvo": [
+          "dirigentes",
+          "delegados",
+          "ativistas sindicais"
+        ],
+        "retroacao": 2015
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Excluir a cláusula",
+        "pedido_fentect": "Manutenção da cláusula preexistente",
+        "pedido_findect": "Manutenção da cláusula preexistente",
+        "decisao_tst": "INDEFERE a cláusula",
+        "fundamento_juridico": "Art. 114, §2º, CF; ausência de norma preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "**PERDA**. No DC 2025/2026, a cláusula foi mantida. No DC 2026/2027, foi INDEFERIDA.",
+      "pagina_referencia": 28
+    },
+    {
+      "id_canonico": "SIN_PROGRAMA_HABITACIONAL",
+      "numero_clausula_original": 70,
+      "titulo_original": "PROGRAMA HABITACIONAL",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "programa": "Minha Casa, Minha Vida",
+        "liberacao_dirigentes": 2
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Excluir a cláusula",
+        "pedido_fentect": "Manutenção da cláusula preexistente",
+        "pedido_findect": "Manutenção da cláusula preexistente",
+        "decisao_tst": "INDEFERE a cláusula",
+        "fundamento_juridico": "Art. 114, §2º, CF; ausência de norma preexistente",
+        "votos_divergentes": "Ministra Maria Cristina Irigoyen Peduzzi divergiu"
+      },
+      "observacao": "**PERDA**. No DC 2025/2026, a cláusula foi mantida. No DC 2026/2027, foi INDEFERIDA.",
+      "pagina_referencia": 29
+    },
+    {
+      "id_canonico": "SIN_PARCERIA_ASSOCIACOES_RECREATIVAS",
+      "numero_clausula_original": 71,
+      "titulo_original": "PARCERIA COM AS ASSOCIAÇÕES RECREATIVAS DOS(AS) EMPREGADOS(AS)",
+      "status": "DEFERIDO_PARCIALMENTE",
+      "detalhes": {
+        "liberacao_mensal": 1,
+        "onus": "ECT",
+        "desconto_mensalidades": true,
+        "repasse": "segundo dia útil após pagamento",
+        "visita_unidades": "2 pessoas"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Excluir a cláusula",
+        "pedido_fentect": "Manutenção da cláusula preexistente",
+        "pedido_findect": "Manutenção da cláusula preexistente",
+        "decisao_tst": "DEFERE a cláusula com a redação da sentença normativa 2025/2026, com EXCLUSÃO do caput",
+        "fundamento_juridico": "Cláusula sem impacto financeiro extraordinário",
+        "votos_divergentes": "Ministra Maria Cristina Irigoyen Peduzzi divergiu parcialmente"
+      },
+      "observacao": "O caput (liberação mensal de 1 dirigente com ônus para a ECT) foi excluído. Os demais parágrafos foram mantidos.",
+      "pagina_referencia": 29
+    },
+    {
+      "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+      "numero_clausula_original": 72,
+      "titulo_original": "TAXA NEGOCIAL",
+      "status": "DEFERIDO",
+      "valor_anterior": 2,
+      "valor_atual": 2,
+      "unidade": "percentual",
+      "detalhes": {
+        "percentual": 2,
+        "base_calculo": "remuneração",
+        "mes_desconto": "mês da aplicação do reajuste",
+        "direito_oposicao": true,
+        "vedacao_ECT": "não pode incentivar oposição"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Excluir a cláusula",
+        "pedido_fentect": "Manutenção da cláusula preexistente",
+        "pedido_findect": "Manutenção da cláusula preexistente",
+        "decisao_tst": "DEFERE, com base no Tema 935 do STF",
+        "fundamento_juridico": "Art. 513, 'e', CLT; Tema 935 do STF",
+        "votos_divergentes": "Ministro Mauricio Godinho Delgado (parcialmente vencido)"
+      },
+      "observacao": null,
+      "pagina_referencia": 30
+    },
+    {
+      "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+      "numero_clausula_original": 73,
+      "titulo_original": "DESCONTO ASSISTENCIAL",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "desconto": "conforme aprovado em assembleia geral",
+        "publico": "filiados e não filiados",
+        "oposicao": "manifestação ao sindicato"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Excluir a cláusula",
+        "pedido_fentect": "Manutenção da cláusula preexistente",
+        "pedido_findect": "Manutenção da cláusula preexistente",
+        "decisao_tst": "DEFERE, com base no Tema 935 do STF",
+        "fundamento_juridico": "Art. 513, 'e', CLT; Tema 935 do STF",
+        "votos_divergentes": "Ministro Mauricio Godinho Delgado (parcialmente vencido)"
+      },
+      "observacao": null,
+      "pagina_referencia": 30
+    },
+    {
+      "id_canonico": "SIN_LIBERACAO_CONSELHO",
+      "numero_clausula_original": 74,
+      "titulo_original": "LIBERAÇÃO DE EMPREGADO ELEITO PARA CONSELHOS",
+      "status": "INDEFERIDO",
+      "valor_anterior": 5,
+      "valor_atual": null,
+      "unidade": "dias",
+      "detalhes": {
+        "dias_liberacao": 5,
+        "publico": "empregado eleito para Conselho de Administração da ECT, Conselhos Deliberativo e Fiscal da Postal Saúde e Postalis"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Excluir a cláusula",
+        "pedido_fentect": "Manutenção da cláusula preexistente",
+        "pedido_findect": "Manutenção da cláusula preexistente",
+        "decisao_tst": "INDEFERE a cláusula",
+        "fundamento_juridico": "Art. 114, §2º, CF; ausência de norma preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "**PERDA**. No DC 2025/2026, a cláusula foi mantida. No DC 2026/2027, foi INDEFERIDA.",
+      "pagina_referencia": 30
+    },
+    {
+      "id_canonico": "FIN_GRATIFICACAO_FERIAS",
+      "numero_clausula_original": 75,
+      "titulo_original": "GRATIFICAÇÃO DE FÉRIAS",
+      "status": "INDEFERIDO",
+      "valor_anterior": 70,
+      "valor_atual": null,
+      "unidade": "percentual",
+      "detalhes": {
+        "percentual": 70,
+        "base_legal": "SS 5.731 do STF"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Excluir a cláusula",
+        "pedido_fentect": "Manutenção da cláusula com acréscimo",
+        "pedido_findect": "Manutenção da cláusula com patamar superior ao mínimo constitucional",
+        "decisao_tst": "INDEFERE a cláusula",
+        "fundamento_juridico": "SS 5.731 do STF",
+        "votos_divergentes": null
+      },
+      "observacao": "**PERDA HISTÓRICA**. Cláusula suspensa pelo STF em 26/01/2026 (SS 5.731). O TST indeferiu.",
+      "pagina_referencia": 30
+    },
+    {
+      "id_canonico": "FIN_TRABALHO_FINS_SEMANA",
+      "numero_clausula_original": 76,
+      "titulo_original": "TRABALHO NOS FINS DE SEMANA",
+      "status": "DEFERIDO",
+      "valor_anterior": 15,
+      "valor_atual": 15,
+      "unidade": "percentual",
+      "detalhes": {
+        "percentual": 15,
+        "publico": "Área Operacional com jornada de 44 horas semanais",
+        "vale_alimentacao": true,
+        "antecedencia": "48 horas"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 31
+    },
+    {
+      "id_canonico": "SOC_ESTADO_CALAMIDADE",
+      "numero_clausula_original": 77,
+      "titulo_original": "SITUAÇÃO EM CASO DE ESTADO DE CALAMIDADE PÚBLICA OU ESTADO DE EMERGÊNCIA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "salario_base_adicional": 1,
+        "publico": "empregados desabrigados ou intensamente atingidos",
+        "avaliacao_social": true,
+        "prazo_pagamento": "5 dias úteis após requerimento"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 31
+    },
+    {
+      "id_canonico": "FIN_PERICULOSIDADE_MOTOCICLISTA",
+      "numero_clausula_original": 78,
+      "titulo_original": "ADICIONAL DE PERICULOSIDADE PARA MOTOCICLISTAS",
+      "status": "MANTIDO",
+      "valor_anterior": 30,
+      "valor_atual": 30,
+      "unidade": "percentual",
+      "detalhes": {
+        "percentual": 30,
+        "base_legal": "art. 193, §4º, CLT",
+        "publico_alvo": "carteiro motorizado que faz uso de motocicleta",
+        "cumulacao_AADC": true,
+        "tese_vinculante": "IRR 15 / Tema Repetitivo 15 do TST"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Art. 193, §4º, CLT; IRR 15 / Tema Repetitivo 15 do TST",
+        "votos_divergentes": null
+      },
+      "observacao": "**CONQUISTA**. A cláusula é mantida com base na tese vinculante do TST que garante a cumulação do AADC com a periculosidade.",
+      "pagina_referencia": 31
+    },
+    {
+      "id_canonico": "SOC_SEGURANCA_EMPREGO",
+      "numero_clausula_original": 79,
+      "titulo_original": "SEGURANÇA NO EMPREGO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "validade_demissao": [
+          "a pedido",
+          "demissão motivada em ato formal (Tema 131 STF)"
+        ],
+        "vedacao_demissao_imotivada": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "pedido_findect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Tema 131 da Tabela de Repercussão Geral do STF",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 31
+    },
+    {
+      "id_canonico": "PRO_VIGENCIA",
+      "numero_clausula_original": 80,
+      "titulo_original": "VIGÊNCIA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "data_inicio": "2026-08-01",
+        "data_fim": "2027-07-31",
+        "duracao_meses": 12
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Vigência de 2 anos (01/08/2026 a 31/07/2028)",
+        "pedido_fentect": "Vigência de 1 ano (01/08/2026 a 31/07/2027)",
+        "pedido_findect": "Vigência de 1 ano (01/08/2026 a 31/07/2027)",
+        "decisao_tst": "DEFERE nos termos propostos pelas Federações (1 ano)",
+        "fundamento_juridico": "Cláusula sem conteúdo econômico; prestígio à negociação direta",
+        "votos_divergentes": null
+      },
+      "observacao": "**CONQUISTA**. A ECT propôs vigência de 2 anos, mas o TST fixou 1 ano, prestigiando a negociação direta para o próximo período.",
+      "pagina_referencia": 31
+    }
+  ],
+  "temas_nao_mapeados": [
+    {
+      "titulo_original": "VALE CULTURA",
+      "pagina_referencia": 32,
+      "motivo": "Indeferido por ausência de preexistência"
+    },
+    {
+      "titulo_original": "ADICIONAL DE COMPLEXIDADE E CONDIÇÕES DE TRABALHO DOS EMPREGADOS DO ATENDIMENTO",
+      "pagina_referencia": 32,
+      "motivo": "Indeferido por ausência de preexistência"
+    },
+    {
+      "titulo_original": "LICENÇA NOJO",
+      "pagina_referencia": 32,
+      "motivo": "Indeferido por ausência de preexistência"
+    },
+    {
+      "titulo_original": "JORNADA DE TRABALHO DE 40 HORAS",
+      "pagina_referencia": 32,
+      "motivo": "Indeferido por ausência de preexistência"
+    }
+  ],
+  "retorno_ao_trabalho": {
+    "determinacao": "imediato retorno ao trabalho",
+    "data_limite": "2026-09-25"
+  },
+  "dispositivo_final": {
+    "abusividade_greve": "NÃO ABUSIVA por maioria, vencidos Ministra Maria Cristina Irigoyen Peduzzi, Ministro Ives Gandra da Silva Martins Filho e Ministro Guilherme Augusto Caputo Bastos",
+    "data_base": "MANUTENÇÃO declarada por unanimidade (1º de agosto de 2026)",
+    "dias_parados": "COMPENSAÇÃO INTEGRAL autorizada por unanimidade, por meio de mutirões de trabalho em finais de semana, em razão das peculiaridades do serviço postal (backlog e período eleitoral)",
+    "extensao_decisao": "Aplicação a todos os empregados dos Correios, independentemente de serem grevistas, por unanimidade",
+    "clausulas_deferidas": "Deferidas total ou parcialmente, conforme fundamentação do voto da relatora",
+    "clausulas_indeferidas": "22-LIBERAÇÃO DE DIRIGENTES SINDICAIS; 53-PAGAMENTO DE SALÁRIO; 69-GRUPO DE TRABALHO PARA REVISÃO DE PROCESSOS; 70-PROGRAMA HABITACIONAL; 74-LIBERAÇÃO DE EMPREGADO ELEITO PARA CONSELHOS; 75-GRATIFICAÇÃO DE FÉRIAS",
+    "reivindicacoes_fentect_indeferidas": "VALE CULTURA; ADICIONAL DE COMPLEXIDADE; LICENÇA NOJO; JORNADA DE TRABALHO",
+    "votos_vencidos": {
+      "ministra_maria_cristina_irigoyen_peduzzi": "Vencida parcialmente",
+      "ministro_ives_gandra_martins_filho": "Vencido parcialmente",
+      "ministro_guilherme_augusto_caputo_bastos": "Vencido parcialmente"
+    },
+    "data_sessao": "24 de setembro de 2026"
+  },
+  "notas_metodologicas": [
+    {
+      "tipo": "DIVERGENCIA_ACT_DC",
+      "tema": "GERAL",
+      "descricao": "Este DC 2026/2027 aplicou a SS 5.731 do STF, que suspendeu cláusulas específicas (Plano de Saúde, Gratificação de Férias, Trabalho em Dia de Repouso). Também indeferiu cláusulas que existiam no ACT 2024/2025 (Liberação de Dirigentes, Liberação de Conselhos, Grupo de Revisão de Processos, Programa Habitacional)."
+    },
+    {
+      "tipo": "PERDAS_HISTORICAS",
+      "tema": "GERAL",
+      "descricao": "Grandes perdas do DC 2026/2027: (1) Licença-Paternidade de 22 → 20 dias; (2) Plano de Saúde sem ECT como mantenedora; (3) Gratificação de Férias (70%) indeferida; (4) Trabalho em Dia de Repouso 200% → 100%; (5) Liberação de Dirigentes indeferida; (6) Liberação de Conselhos indeferida; (7) Grupo de Revisão de Processos indeferido; (8) Programa Habitacional indeferido; (9) Ticket Extra não previsto; (10) Repasse de Mensalidades 1º → 5º dia útil."
+    },
+    {
+      "tipo": "CONQUISTAS",
+      "tema": "GERAL",
+      "descricao": "Conquistas do DC 2026/2027: (1) Reajuste de 4,09% (INPC), superior aos 2,61% propostos pela ECT; (2) Auxílio a Dependentes com Deficiência ampliado para empregados (não apenas dependentes); (3) Segurança no Emprego (Tema 131 STF); (4) Cumulação AADC + Periculosidade mantida; (5) Vigência de 1 ano (não 2, como queria a ECT); (6) Taxa Negocial e Desconto Assistencial mantidos (Tema 935 STF)."
+    },
+    {
+      "tipo": "VALORES_DC_2026_2027",
+      "tema": "GERAL",
+      "descricao": "Valores do DC 2026/2027: Reajuste 4,09%; VA R$ 55,61; VC R$ 349,18; Auxílio Dependentes R$ 1.125,32; Reembolso Creche R$ 780,42; Quebra Caixa R$ 292,24; Vale Transporte R$ 950,17; Licença Paternidade 20 dias; Trabalho Dia Repouso 100%; Gratificação de Férias INDEFERIDA; Plano de Saúde NOVO MODELO."
+    },
+    {
+      "tipo": "COMPENSACAO_DIAS_PARADOS",
+      "tema": "GERAL",
+      "descricao": "Diferentemente do DC 2025/2026 (desconto em 3 parcelas), o DC 2026/2027 autorizou a COMPENSAÇÃO INTEGRAL dos dias parados, por meio de mutirões de trabalho em finais de semana. Fundamento: peculiaridades do serviço postal (backlog de 3,4 milhões de objetos) e período eleitoral."
+    },
+    {
+      "tipo": "VIGENCIA",
+      "tema": "GERAL",
+      "descricao": "A ECT propôs vigência de 2 anos. O TST fixou 1 ano (01/08/2026 a 31/07/2027), prestigiando a negociação direta para o próximo período."
+    }
+  ]
+}

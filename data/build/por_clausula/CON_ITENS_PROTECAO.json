@@ -1,0 +1,58 @@
+[
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "CON_ITENS_PROTECAO",
+    "numero_clausula_original": 36,
+    "titulo_original": "ITENS DE PROTEÇÃO NO CASO DE BAIXA UMIDADE RELATIVA DO AR",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "umidade_baixa": "≤ 20% (média 5 dias) ou ≤ 15% (dia anterior)",
+      "itens": [
+        "squeezes",
+        "soro fisiológico",
+        "protetor labial FPS 30"
+      ],
+      "suplementar": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 20
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "CON_ITENS_PROTECAO",
+    "numero_clausula_original": 36,
+    "titulo_original": "ITENS DE PROTEÇÃO NO CASO DE BAIXA UMIDADE RELATIVA DO AR",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "umidade_baixa": "≤ 20% (média 5 dias) ou ≤ 15% (dia anterior)",
+      "itens": [
+        "squeezes",
+        "soro fisiológico",
+        "protetor labial FPS 30"
+      ],
+      "suplementar": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 20
+  }
+]

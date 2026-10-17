@@ -1,0 +1,26 @@
+[
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "SIN_FORNECIMENTO_MANUAL",
+    "numero_clausula_original": 26,
+    "titulo_original": "FORNECIMENTO DE MANUAL",
+    "status": "ALTERADO",
+    "texto": "ECT, quando solicitada, fornecerá ao Sindicato dos Empregados dos Correios, desde que respeitada a Lei de Acesso à Informação, cópia dos Manuais da Empresa em até 5 dias. Quando o manual for considerado estratégico, haverá necessidade de assinatura de termo de confidencialidade pela entidade sindical.",
+    "observacao": "Modificado: inclui Lei de Acesso à Informação + termo de confidencialidade para manuais estratégicos.",
+    "pagina_referencia": 8
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "SIN_FORNECIMENTO_MANUAL",
+    "numero_clausula_original": 26,
+    "titulo_original": "FORNECIMENTO DE MANUAL",
+    "status": "MANTIDO",
+    "texto": "ECT fornecerá à FENTECT e sindicatos cópia do Manual de Pessoal em até 5 dias da solicitação.",
+    "observacao": "Idêntica ao DC 2012-2013.",
+    "pagina_referencia": 85
+  }
+]

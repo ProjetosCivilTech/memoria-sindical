@@ -1,0 +1,596 @@
+[
+  {
+    "ano_inicio": 1994,
+    "ano_fim": 1995,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ACOMPANHANTE",
+    "numero_clausula_original": 2,
+    "titulo_original": "ACOMPANHANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_ausencia": "1 dia por semestre",
+      "publico_alvo": [
+        "filho menor de até 6 anos",
+        "filho excepcional com até 21 anos"
+      ],
+      "prazo_atestado": "48 horas"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "2"
+  },
+  {
+    "ano_inicio": 1997,
+    "ano_fim": 1998,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ACOMPANHANTE",
+    "numero_clausula_original": 2,
+    "titulo_original": "ACOMPANHANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_ausencia": 2,
+      "publico_alvo": [
+        "filho até 6 anos",
+        "filho excepcional"
+      ],
+      "prazo_atestado": "48 horas"
+    }
+  },
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ACOMPANHANTE",
+    "numero_clausula_original": 2,
+    "titulo_original": "ACOMPANHANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_ausencia": 2,
+      "publico_alvo": [
+        "filho até 6 anos",
+        "filho excepcional"
+      ],
+      "prazo_atestado": "48 horas"
+    }
+  },
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ACOMPANHANTE",
+    "numero_clausula_original": 2,
+    "titulo_original": "ACOMPANHANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_ausencia": 2,
+      "publico_alvo": [
+        "filho até 6 anos",
+        "filho excepcional de qualquer idade"
+      ],
+      "prazo_atestado": "48 horas"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "2"
+  },
+  {
+    "ano_inicio": 2000,
+    "ano_fim": 2001,
+    "tipo": "DC",
+    "id_canonico": "SOC_LICENCA_ACOMPANHANTE",
+    "numero_clausula_original": 2,
+    "titulo_original": "ACOMPANHANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_ausencia": 2,
+      "publico_alvo": [
+        "filho de até 6 anos de idade",
+        "filho excepcional de qualquer idade"
+      ],
+      "prazo_atestado": "48 horas"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "Cláusula incontroversa.",
+    "pagina_referencia": "3"
+  },
+  {
+    "ano_inicio": 2001,
+    "ano_fim": 2002,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ACOMPANHANTE",
+    "numero_clausula_original": 2,
+    "titulo_original": "ACOMPANHANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_ausencia": 4,
+      "publico_alvo": [
+        "filho de até 12 anos de idade",
+        "filho excepcional de qualquer idade"
+      ],
+      "prazo_atestado": "48 horas"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "Redução de 5 para 4 dias em relação ao ACT anterior.",
+    "pagina_referencia": "2"
+  },
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ACOMPANHANTE",
+    "numero_clausula_original": 2,
+    "titulo_original": "ACOMPANHANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_ausencia": 5,
+      "publico_alvo": [
+        "filho de até 12 anos de idade",
+        "filho excepcional de qualquer idade"
+      ],
+      "prazo_atestado": "48 horas"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "2"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ACOMPANHANTE",
+    "numero_clausula_original": 2,
+    "titulo_original": "ACOMPANHANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_ausencia": 5,
+      "publico_alvo": [
+        "filho de até 12 anos de idade",
+        "filho excepcional de qualquer idade"
+      ],
+      "prazo_atestado": "48 horas"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "2"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ACOMPANHANTE",
+    "numero_clausula_original": 2,
+    "titulo_original": "ACOMPANHANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_ausencia": 5,
+      "publico_alvo": [
+        "filhos até 18 anos completos",
+        "filhos e cônjuge portadores de necessidades especiais",
+        "esposa gestante",
+        "pais com mais de 65 anos"
+      ],
+      "prazo_atestado": "2 dias úteis"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "2"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ACOMPANHANTE",
+    "numero_clausula_original": 2,
+    "titulo_original": "ACOMPANHANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_ausencia": 5,
+      "publico_alvo": [
+        "filhos até 18 anos",
+        "filhos/cônjuge com deficiência",
+        "gestante",
+        "pais >65 anos"
+      ],
+      "prazo_atestado": "2 dias úteis"
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ACOMPANHANTE",
+    "numero_clausula_original": 2,
+    "titulo_original": "ACOMPANHANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_ausencia": 5,
+      "publico_alvo": [
+        "dependentes menores de 18 anos",
+        "dependentes com deficiência (física, visual, auditiva e mental)",
+        "esposa ou companheira gestante",
+        "pais com mais de 65 anos"
+      ],
+      "prazo_atestado": "2 dias úteis",
+      "condicao": "dependentes cadastrados na Assistência Médica da ECT"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Esclarecimento para evitar retrocesso",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "3"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ACOMPANHANTE",
+    "numero_clausula_original": 2,
+    "titulo_original": "ACOMPANHANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_ausencia": 5,
+      "turnos": 10,
+      "publico_alvo": [
+        "dependentes menores de 18 anos",
+        "deficientes",
+        "gestantes",
+        "cônjuge com dificuldade de locomoção",
+        "pais com mais de 65 anos"
+      ],
+      "prazo_atestado": "2 dias úteis"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 2
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ACOMPANHANTE",
+    "numero_clausula_original": 2,
+    "titulo_original": "ACOMPANHANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_ausencia": 5,
+      "turnos": 10,
+      "publico_alvo": [
+        "dependentes menores de 18 anos",
+        "deficientes",
+        "gestantes",
+        "cônjuges com dificuldade de locomoção",
+        "pais acima de 65 anos"
+      ],
+      "prazo_atestado": "2 dias úteis"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "2"
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ACOMPANHANTE",
+    "numero_clausula_original": 2,
+    "titulo_original": "ACOMPANHANTE",
+    "status": "MANTIDO",
+    "texto": "Ausência remunerada de até 6 dias (12 turnos) para levar ao médico: dependentes <18 anos, dependentes com deficiência, esposa/companheira gestante, cônjuge com impossibilidade de locomoção, pais >60 anos. Atestado em 2 dias úteis.",
+    "observacao": "Idêntica ao DC 2013-2014.",
+    "pagina_referencia": 1
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "SOC_LICENCA_ACOMPANHANTE",
+    "numero_clausula_original": 2,
+    "titulo_original": "ACOMPANHANTE",
+    "status": "ALTERADO",
+    "texto": "Ausência remunerada de até 6 dias (12 turnos) para levar ao médico: dependentes menores de 18 anos, dependentes com deficiência, esposa/companheira gestante, cônjuge com impossibilidade de locomoção, pais com mais de 60 anos. Exige atestado médico em até 2 dias úteis.",
+    "observacao": "Ampliado de 5 dias/10 turnos para 6 dias/12 turnos.",
+    "pagina_referencia": 58
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ACOMPANHANTE",
+    "numero_clausula_original": 27,
+    "titulo_original": "ACOMPANHANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_ausencia": 6,
+      "turnos": 12,
+      "publico_alvo": [
+        "dependentes menores de 18 anos",
+        "deficientes",
+        "gestantes",
+        "cônjuges com dificuldade de locomoção",
+        "pais acima de 60 anos"
+      ],
+      "prazo_atestado": "4 dias úteis",
+      "adicional_filho_deficiente": "+4 dias",
+      "neoplasias": "até 8 dias"
+    },
+    "memoria_negociacao": null,
+    "observacao": "Ampliado de 5 para 6 dias. Incluída hipótese de neoplasias malignas com até 8 dias.",
+    "pagina_referencia": "12-13"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ACOMPANHANTE",
+    "numero_clausula_original": 27,
+    "titulo_original": "ACOMPANHANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_ausencia": 6,
+      "turnos": 12,
+      "publico_alvo": [
+        "dependentes menores de 18 anos",
+        "deficientes",
+        "gestantes",
+        "cônjuge com dificuldade de locomoção",
+        "pais com mais de 60 anos"
+      ],
+      "acrescimo_filho_deficiencia": "4 dias úteis (8 turnos)",
+      "neoplasias": "até 8 dias úteis (16 turnos)"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 16
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ACOMPANHANTE",
+    "numero_clausula_original": 27,
+    "titulo_original": "ACOMPANHANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_ausencia": 6,
+      "turnos": 12,
+      "prazo_atestado": "4 dias úteis",
+      "adicional_filho_deficiente": "+4 dias",
+      "neoplasias": "até 8 dias",
+      "publico_alvo": [
+        "menores de 18 anos",
+        "deficientes",
+        "gestantes",
+        "cônjuges com dificuldade de locomoção",
+        "pais acima de 60 anos"
+      ]
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "16-17"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ACOMPANHANTE",
+    "numero_clausula_original": 27,
+    "titulo_original": "ACOMPANHANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_ausencia": 6,
+      "turnos": 12,
+      "publico_alvo": [
+        "dependentes menores de 18 anos",
+        "deficientes",
+        "gestantes",
+        "cônjuge com dificuldade de locomoção",
+        "pais com mais de 60 anos"
+      ],
+      "prazo_atestado": "4 dias úteis",
+      "acrescimo_filho_deficiencia": "4 dias úteis (8 turnos)",
+      "neoplasias": "até 8 dias úteis (16 turnos)"
+    },
+    "pagina_referencia": "42-43"
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ACOMPANHANTE",
+    "numero_clausula_original": 27,
+    "titulo_original": "ACOMPANHANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_ausencia": 6,
+      "turnos": 12,
+      "publico_alvo": [
+        "dependentes menores de 18 anos",
+        "deficientes",
+        "gestantes",
+        "cônjuge com dificuldade de locomoção",
+        "pais com mais de 60 anos"
+      ],
+      "acrescimo_filho_deficiencia": "4 dias úteis (8 turnos)",
+      "neoplasias": "até 8 dias úteis (16 turnos)"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 15
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "SOC_LICENCA_ACOMPANHANTE",
+    "numero_clausula_original": 27,
+    "titulo_original": "ACOMPANHANTE",
+    "status": "INDEFERIDO",
+    "detalhes": {
+      "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+    },
+    "memoria_negociacao": "SDC indeferiu",
+    "observacao": null,
+    "pagina_referencia": "113"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ACOMPANHANTE",
+    "numero_clausula_original": 50,
+    "titulo_original": "ACOMPANHANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias": 6,
+      "turnos": 12,
+      "publico_alvo": [
+        "dependentes menores de 18 anos",
+        "deficientes",
+        "gestantes",
+        "cônjuges com dificuldade de locomoção",
+        "pais acima de 60 anos"
+      ],
+      "prazo_atestado": "4 dias úteis",
+      "neoplasias": "até 8 dias"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "11"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ACOMPANHANTE",
+    "numero_clausula_original": 52,
+    "titulo_original": "ACOMPANHANTE",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "dias_ausencia": 6,
+      "turnos": 12,
+      "publico_alvo": [
+        "dependentes menores de 18 anos",
+        "deficientes",
+        "gestantes",
+        "cônjuge com dificuldade de locomoção",
+        "pais com mais de 60 anos"
+      ],
+      "acrescimo_filho_deficiencia": "4 dias úteis (8 turnos)",
+      "neoplasias": "até 8 dias úteis (16 turnos)"
+    },
+    "observacao": null,
+    "pagina_referencia": 19
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_ACOMPANHANTE",
+    "numero_clausula_original": 45,
+    "titulo_original": "ACOMPANHANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_ausencia": 6,
+      "turnos": 12,
+      "publico_alvo": [
+        "dependentes menores de 18 anos",
+        "deficientes",
+        "gestantes",
+        "cônjuge com dificuldade de locomoção",
+        "pais com mais de 60 anos"
+      ],
+      "acrescimo_filho_deficiencia": "4 dias úteis (8 turnos)",
+      "neoplasias": "até 8 dias úteis (16 turnos)"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 20
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "SOC_LICENCA_ACOMPANHANTE",
+    "numero_clausula_original": 45,
+    "titulo_original": "ACOMPANHANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_ausencia": 6,
+      "turnos": 12,
+      "publico_alvo": [
+        "dependentes menores de 18 anos",
+        "deficientes",
+        "gestantes",
+        "cônjuge com dificuldade de locomoção",
+        "pais com mais de 60 anos"
+      ],
+      "acrescimo_filho_deficiencia": "4 dias úteis (8 turnos)",
+      "neoplasias": "até 8 dias úteis (16 turnos)"
+    },
+    "pagina_referencia": "55-56"
+  }
+]

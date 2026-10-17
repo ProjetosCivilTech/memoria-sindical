@@ -1,0 +1,72 @@
+{
+  "datas_br": {
+    "total": 6,
+    "amostra": [
+      "13/10/2008",
+      "13/10/2008",
+      "31/7/2008",
+      "13/10/2008",
+      "19/7/2008",
+      "19/7/2008"
+    ]
+  },
+  "datas_ext": {
+    "total": 0,
+    "amostra": []
+  },
+  "valores_brl": {
+    "total": 14,
+    "amostra": [
+      "R$ 100,00",
+      "R$17,00",
+      "R$18,50",
+      "R$20,00",
+      "R$100,00",
+      "R$110,00",
+      "R$335,07",
+      "R$531,85",
+      "R$127,64",
+      "R$170,19",
+      "R$18,50",
+      "R$425,50",
+      "R$420,00",
+      "R$500,00"
+    ]
+  },
+  "percentuais": {
+    "total": 7,
+    "amostra": [
+      "7,37%",
+      "30%",
+      "70%",
+      "30%",
+      "7\n%",
+      "30%",
+      "30%"
+    ]
+  },
+  "clausulas": {
+    "total": 0,
+    "amostra": []
+  },
+  "processos_tst": {
+    "total": 0,
+    "amostra": []
+  },
+  "cnpj": {
+    "total": 0,
+    "amostra": []
+  },
+  "artigos": {
+    "total": 0,
+    "amostra": []
+  },
+  "incisos": {
+    "total": 0,
+    "amostra": []
+  },
+  "paragrafos": {
+    "total": 0,
+    "amostra": []
+  }
+}

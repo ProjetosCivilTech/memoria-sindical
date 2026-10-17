@@ -1,0 +1,72 @@
+{
+  "datas_br": {
+    "total": 0,
+    "amostra": []
+  },
+  "datas_ext": {
+    "total": 2,
+    "amostra": [
+      "31 de março de 1989",
+      "20 de dezembro de 1988"
+    ]
+  },
+  "valores_brl": {
+    "total": 0,
+    "amostra": []
+  },
+  "percentuais": {
+    "total": 10,
+    "amostra": [
+      "94,90%",
+      "61,70%",
+      "26,85%",
+      "19,60%",
+      "15,00%",
+      "26,85%",
+      "60,00%",
+      "50,00%",
+      "6%",
+      "50,00%"
+    ]
+  },
+  "clausulas": {
+    "total": 1,
+    "amostra": [
+      "1"
+    ]
+  },
+  "processos_tst": {
+    "total": 0,
+    "amostra": []
+  },
+  "cnpj": {
+    "total": 0,
+    "amostra": []
+  },
+  "artigos": {
+    "total": 1,
+    "amostra": [
+      "Art. 614"
+    ]
+  },
+  "incisos": {
+    "total": 11,
+    "amostra": [
+      "I",
+      "II",
+      "III",
+      "LD",
+      "XVII",
+      "MIL",
+      "XXIII",
+      "IV",
+      "V",
+      "VI",
+      "VII"
+    ]
+  },
+  "paragrafos": {
+    "total": 0,
+    "amostra": []
+  }
+}

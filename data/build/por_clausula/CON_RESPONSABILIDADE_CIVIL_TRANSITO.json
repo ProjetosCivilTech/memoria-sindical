@@ -1,0 +1,133 @@
+[
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "CON_RESPONSABILIDADE_CIVIL_TRANSITO",
+    "numero_clausula_original": 76,
+    "titulo_original": "RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "responsabilidade_ECT": "custos com recuperação de veículos da frota e danos a terceiros",
+      "excecao": "inexistência de dolo",
+      "comissao_paritaria": "3 ECT + 3 Sindicato"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 40
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "CON_RESPONSABILIDADE_CIVIL_TRANSITO",
+    "numero_clausula_original": 75,
+    "titulo_original": "RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "responsabilidade_ECT": "custos com recuperação de veículos da frota e danos a terceiros",
+      "excecao": "inexistência de dolo",
+      "comissao_paritaria": "3 Correios + 3 Sindicato",
+      "conduta_dolosa": "somente com decisão da comissão",
+      "campanhas_prevencao": true
+    },
+    "pagina_referencia": "96-97"
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "CON_RESPONSABILIDADE_CIVIL_TRANSITO",
+    "numero_clausula_original": 75,
+    "titulo_original": "RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "responsabilidade_ECT": "custos com recuperação de veículos da frota e danos a terceiros",
+      "excecao": "inexistência de dolo",
+      "comissao_paritaria": "3 ECT + 3 Sindicato"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 40
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "CON_RESPONSABILIDADE_CIVIL_TRANSITO",
+    "numero_clausula_original": 75,
+    "titulo_original": "RESPONSABILIDADE CIVIL EM ACIDENTE DE TRANSITO .........................................................................",
+    "status": "MANTIDO",
+    "texto": "",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2020,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "CON_RESPONSABILIDADE_CIVIL_TRANSITO",
+    "numero_clausula_original": 21,
+    "titulo_original": "RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO .........................................................................",
+    "status": "MANTIDO",
+    "texto": "Cláusula 22 – QUADRO DE AVISOS ....................................................................................................................................................32 Cláusula 23 – CONCILIAÇÃO DE DIVERGÊNCIAS ................................................................................................................................33",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "CON_RESPONSABILIDADE_CIVIL_TRANSITO",
+    "numero_clausula_original": 75,
+    "titulo_original": "RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "responsabilidade_ECT": "custos com recuperação de veículos da frota e danos a terceiros",
+      "excecao": "inexistência de dolo",
+      "comissao_paritaria": "3 ECT + 3 Sindicato"
+    },
+    "observacao": "No DC 2025/2026, a ECT tentou incluir 'negligência, imprudência ou imperícia'. O TST barrou, mantendo apenas 'dolo'.",
+    "pagina_referencia": 26
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "CON_RESPONSABILIDADE_CIVIL_TRANSITO",
+    "numero_clausula_original": 65,
+    "titulo_original": "RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "responsabilidade_ECT": "custos com recuperação de veículos da frota e danos a terceiros",
+      "excecao": "inexistência de dolo",
+      "comissao_paritaria": "3 ECT + 3 Sindicato",
+      "voto_desempate": "Coordenador de Administração da Frota"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção com alteração do caput e do §2º",
+      "pedido_fentect": "Manutenção da cláusula",
+      "pedido_findect": "Manutenção da cláusula",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Art. 462, §1º, CLT",
+      "votos_divergentes": null
+    },
+    "observacao": "A ECT tentou ampliar as hipóteses de isenção de responsabilidade. O TST barrou, mantendo apenas 'dolo'.",
+    "pagina_referencia": 27
+  }
+]

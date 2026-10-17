@@ -1,0 +1,116 @@
+{
+  "metadados_documento": {
+    "tipo": "ACT",
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "processo": null,
+    "tribunal": null,
+    "orgao": null,
+    "relator": null,
+    "data_julgamento": null,
+    "data_publicacao": null,
+    "data_assinatura": "2013-09-16",
+    "entidade_patronal": "ECT",
+    "entidades_profissionais": [
+      "SINDECTEB",
+      "SINTECT/RJ",
+      "SINTECT/RO",
+      "SINTECT/SP"
+    ],
+    "arquivo_origem": "Acordo-Coletivo-2013-2014-Sindicatos-Unificados.pdf",
+    "grupo": "2013-2014",
+    "papel": "Unificado",
+    "processo_revisado": "TST-DC-8981-76.2012.5.00.0000",
+    "greve": {
+      "ocorreu": true,
+      "deflagracao": "2013-09-11 às 22h",
+      "retorno_trabalho": "2013-09-13 às 22h",
+      "duracao_aproximada": "2 dias",
+      "compensacao_dias_parados": "14 e 15/09/2013 ou em até 90 dias por convocação regional"
+    },
+    "observacao": "Protocolo de retorno ao trabalho pós-greve. Formaliza reajuste e incorpora as cláusulas da sentença normativa do DC 8981-76.2012 + conquistas da reunião de 12/09/2013."
+  },
+  "clausulas": [
+    {
+      "id_canonico": "FIN_REAJUSTE_SALARIAL",
+      "numero_clausula_original": 1,
+      "titulo_original": "REAJUSTE SALARIAL E BENEFÍCIOS",
+      "status": "DEFERIDO",
+      "texto": "Reajuste de 8% no salário e 6,27% nos benefícios concedidos aos empregados.",
+      "valor_atual": 8.0,
+      "unidade": "%",
+      "detalhes": {
+        "reajuste_salario": 8.0,
+        "reajuste_beneficios": 6.27,
+        "incidencia": ["salário", "benefícios"]
+      },
+      "pagina_referencia": 1
+    },
+    {
+      "id_canonico": "PRO_INCORPORACAO_SENTENCA_NORMATIVA",
+      "numero_clausula_original": 2,
+      "titulo_original": "INCORPORAÇÃO DA SENTENÇA NORMATIVA E CONQUISTAS",
+      "status": "DEFERIDO",
+      "texto": "Cláusulas previstas na sentença normativa (Processo nº TST-DC-8981-76.2012.5.00.0000) até então vigentes, bem como as cláusulas que representam avanços e conquistas acordados durante a presente negociação coletiva (conforme Ata em anexo - reunião de 12/09/2013), passam a integrar o presente ACT.",
+      "detalhes": {
+        "processo_referencia": "TST-DC-8981-76.2012.5.00.0000",
+        "clausulas_incorporadas": "todas as cláusulas da sentença normativa até então vigentes",
+        "conquistas_novas": "cláusulas acordadas na reunião de 12/09/2013 (conforme Ata em anexo)"
+      },
+      "observacao": "Cláusula de incorporação por referência. O texto integral consta do DC 2013-2014.",
+      "pagina_referencia": 1
+    },
+    {
+      "id_canonico": "PRO_CONDICAO_EFICACIA_RETORNO",
+      "numero_clausula_original": 3,
+      "titulo_original": "CONDIÇÃO DE EFICÁCIA - RETORNO AO TRABALHO",
+      "status": "DEFERIDO",
+      "texto": "A eficácia do presente Acordo está condicionada à finalização do movimento de greve e ao retorno da categoria ao trabalho a partir das 22h do dia 13 de setembro de 2013.",
+      "detalhes": {
+        "condicao": "retorno da categoria ao trabalho",
+        "data_limite": "2013-09-13 às 22h",
+        "consequencia_descumprimento": "perda de eficácia do ACT"
+      },
+      "pagina_referencia": 1
+    },
+    {
+      "id_canonico": "FIN_COMPENSACAO_GREVE",
+      "numero_clausula_original": 4,
+      "titulo_original": "COMPENSAÇÃO DOS DIAS PARADOS",
+      "status": "DEFERIDO",
+      "texto": "Os dias parados em razão da greve deflagrada desde as 22h do dia 11 de setembro de 2013 deverão ser compensados nos dias 14 e 15/09/2013 ou por convocação de cada Diretoria Regional, no prazo de até 90 dias.",
+      "detalhes": {
+        "periodo_greve": "a partir de 2013-09-11 às 22h",
+        "compensacao_imediata": "dias 14 e 15/09/2013",
+        "compensacao_alternativa": "por convocação de cada Diretoria Regional, no prazo de até 90 dias"
+      },
+      "pagina_referencia": 1
+    },
+    {
+      "id_canonico": "PRO_VIGENCIA",
+      "numero_clausula_original": 5,
+      "titulo_original": "VIGÊNCIA",
+      "status": "DEFERIDO",
+      "texto": "O presente Acordo Coletivo terá vigência de 1º de agosto de 2013 e vigorará até 31 de julho de 2014.",
+      "detalhes": {
+        "data_inicio": "2013-08-01",
+        "data_fim": "2014-07-31",
+        "duracao_meses": 12
+      },
+      "pagina_referencia": 1
+    }
+  ],
+  "temas_nao_mapeados": [],
+  "notas_metodologicas": [
+    {
+      "tipo": "PROTOCOLO_FIM_GREVE",
+      "tema": "GERAL",
+      "descricao": "Documento é o protocolo de retorno ao trabalho após a greve de 11-13/09/2013. Não é o ACT completo — as cláusulas substantivas estão no 'DC 2013-2014.json'. Formaliza: (1) reajuste de 8% salário + 6,27% benefícios; (2) incorporação das cláusulas da sentença normativa do DC 8981-76.2012; (3) condição de eficácia vinculada ao retorno ao trabalho; (4) compensação dos dias parados; (5) vigência de 01/08/2013 a 31/07/2014."
+    },
+    {
+      "tipo": "RELACAO_COM_DC_2012_2013",
+      "tema": "GERAL",
+      "descricao": "A sentença normativa referida (TST-DC-8981-76.2012.5.00.0000) corresponde ao arquivo 'DC 2012-2013.json' na base."
+    }
+  ]
+}

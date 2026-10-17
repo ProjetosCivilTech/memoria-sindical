@@ -1,0 +1,109 @@
+{
+  "arquivo_origem": "Acordo-Coletivo-2007-2008_redp2.pdf",
+  "metadados_pdf": {
+    "titulo": "Documento1",
+    "autor": null,
+    "assunto": null,
+    "criador": "PDF reDirect v2",
+    "produtor": "EXP Systems LLC (www.exp-systems.com)",
+    "criado_em": "D:20070924165741Z",
+    "modificado_em": "D:20160616100204-03'00'"
+  },
+  "paginas_info": [
+    {
+      "pagina": 1,
+      "metodo": "OCR",
+      "chars": 2302,
+      "conf_ocr": 92.5
+    },
+    {
+      "pagina": 2,
+      "metodo": "OCR",
+      "chars": 2335,
+      "conf_ocr": 92.0
+    },
+    {
+      "pagina": 3,
+      "metodo": "OCR",
+      "chars": 2340,
+      "conf_ocr": 92.6
+    },
+    {
+      "pagina": 4,
+      "metodo": "OCR",
+      "chars": 2114,
+      "conf_ocr": 91.2
+    },
+    {
+      "pagina": 5,
+      "metodo": "OCR",
+      "chars": 2538,
+      "conf_ocr": 92.0
+    },
+    {
+      "pagina": 6,
+      "metodo": "OCR",
+      "chars": 2335,
+      "conf_ocr": 92.0
+    },
+    {
+      "pagina": 7,
+      "metodo": "OCR",
+      "chars": 2067,
+      "conf_ocr": 93.0
+    },
+    {
+      "pagina": 8,
+      "metodo": "OCR",
+      "chars": 1733,
+      "conf_ocr": 92.5
+    },
+    {
+      "pagina": 9,
+      "metodo": "OCR",
+      "chars": 2361,
+      "conf_ocr": 90.9
+    },
+    {
+      "pagina": 10,
+      "metodo": "OCR",
+      "chars": 2395,
+      "conf_ocr": 91.2
+    },
+    {
+      "pagina": 11,
+      "metodo": "OCR",
+      "chars": 2862,
+      "conf_ocr": 92.4
+    },
+    {
+      "pagina": 12,
+      "metodo": "OCR",
+      "chars": 2474,
+      "conf_ocr": 92.9
+    },
+    {
+      "pagina": 13,
+      "metodo": "OCR",
+      "chars": 2789,
+      "conf_ocr": 92.1
+    },
+    {
+      "pagina": 14,
+      "metodo": "OCR",
+      "chars": 2013,
+      "conf_ocr": 89.8
+    },
+    {
+      "pagina": 15,
+      "metodo": "OCR",
+      "chars": 364,
+      "conf_ocr": 66.9
+    }
+  ],
+  "paginas_total": 15,
+  "paginas_ocr": 15,
+  "conf_ocr_media": 90.3,
+  "metodo": "ocr",
+  "tempo_s": 38.94
+}

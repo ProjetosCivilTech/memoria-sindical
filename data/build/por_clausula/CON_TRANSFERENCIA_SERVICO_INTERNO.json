@@ -1,0 +1,66 @@
+[
+  {
+    "ano_inicio": 1991,
+    "ano_fim": 1991,
+    "tipo": "DC",
+    "id_canonico": "CON_TRANSFERENCIA_SERVICO_INTERNO",
+    "numero_clausula_original": 43,
+    "titulo_original": "TRANSFERÊNCIA PARA SERVIÇOS INTERNOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "condicao": "mais de 20 anos de distribuição externa",
+      "requisitos": [
+        "existência de vaga para o cargo pleiteado",
+        "reclassificação sem alteração salarial",
+        "parecer favorável da Área de Treinamento ou recomendação do Serviço Médico da ECT"
+      ]
+    },
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 1992,
+    "ano_fim": 1992,
+    "tipo": "ACT",
+    "id_canonico": "CON_TRANSFERENCIA_SERVICO_INTERNO",
+    "numero_clausula_original": 28,
+    "titulo_original": "TRANSFERÊNCIA PARA SERVIÇOS INTERNOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "condicao": "mais de 20 anos de distribuição externa",
+      "requisito": "recomendação médica homologada pelo Serviço Médico da ECT"
+    },
+    "pagina_referencia": "7"
+  },
+  {
+    "ano_inicio": 1993,
+    "ano_fim": 1994,
+    "tipo": "ACT",
+    "id_canonico": "CON_TRANSFERENCIA_SERVICO_INTERNO",
+    "numero_clausula_original": 29,
+    "titulo_original": "TRANSFERÊNCIA PARA SERVIÇOS INTERNOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "condicao": "mais de 18 anos de distribuição externa",
+      "requisito": "recomendação médica homologada pelo Serviço Médico"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "16"
+  },
+  {
+    "ano_inicio": 1994,
+    "ano_fim": 1995,
+    "tipo": "ACT",
+    "id_canonico": "CON_TRANSFERENCIA_SERVICO_INTERNO",
+    "numero_clausula_original": 42,
+    "titulo_original": "TRANSFERÊNCIA PARA O SERVIÇO INTERNO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "condicao": "mais de 18 anos de distribuição externa",
+      "requisito": "recomendação médica homologada pelo Serviço Médico da ECT"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "12-13"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DIREITOS_LGBTQIA",
+    "numero_clausula_original": 6,
+    "titulo_original": "DIREITOS DAS PESSOAS LGBTQIA+",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "campanhas": true,
+      "seminarios": true,
+      "enfrentamento_LGBTfobia": true,
+      "comissoes_regionais": true
+    },
+    "memoria_negociacao": null,
+    "observacao": "Nova cláusula.",
+    "pagina_referencia": "2"
+  }
+]

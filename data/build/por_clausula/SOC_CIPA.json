@@ -1,0 +1,26 @@
+[
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "SOC_CIPA",
+    "numero_clausula_original": 14,
+    "titulo_original": "COMISSÃO INTERNA DE PREVENÇÃO DE ACIDENTES - CIPA",
+    "status": "MANTIDO",
+    "texto": "Eleições em todos os estabelecimentos com mais de 30 empregados. Convocação em até 60 dias antes do término do mandato. Liberação mensal: 4h (menos de 400), 6h (400-1000), 8h (mais de 1000). Ata de reunião em até 5 dias úteis.",
+    "observacao": "Idêntica ao DC 2013-2014.",
+    "pagina_referencia": 5
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "SOC_CIPA",
+    "numero_clausula_original": 14,
+    "titulo_original": "COMISSÃO INTERNA DE PREVENÇÃO DE ACIDENTES - CIPA",
+    "status": "ALTERADO",
+    "texto": "Eleições em todos os estabelecimentos com mais de 30 empregados. Convocação em até 60 dias antes do término do mandato. Liberação mensal dos cipeiros: 4h (menos de 400 empregados), 6h (400-1000), 8h (mais de 1000). Ata de reunião fornecida em até 5 dias úteis.",
+    "observacao": "Prazo de convocação das eleições reduzido de 90 para 60 dias.",
+    "pagina_referencia": 79
+  }
+]

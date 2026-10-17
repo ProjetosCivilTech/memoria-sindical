@@ -1,0 +1,494 @@
+{
+  "metadados_documento": {
+    "tipo": "ACT",
+    "ano_inicio": 1992,
+    "ano_fim": 1992,
+    "processo": null,
+    "tribunal": null,
+    "orgao": null,
+    "relator": null,
+    "data_julgamento": null,
+    "data_publicacao": null,
+    "entidade_patronal": "ECT",
+    "entidades_profissionais": ["FENTECT"],
+    "arquivo_origem": "Acordo-Coletivo-1992_red.pdf",
+    "greve": null
+  },
+  "clausulas": [
+    {
+      "id_canonico": "PRO_ABRANGENCIA",
+      "numero_clausula_original": 1,
+      "titulo_original": "ABRANGÊNCIA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "publico_alvo": "empregados do quadro da ECT na Administração Central e Diretorias Regionais",
+        "extensao_novos": "admitidos durante a vigência"
+      },
+      "pagina_referencia": "1"
+    },
+    {
+      "id_canonico": "FIN_REAJUSTE_SALARIAL",
+      "numero_clausula_original": 2,
+      "titulo_original": "REAJUSTE SALARIAL",
+      "status": "DEFERIDO",
+      "valor_atual": 168.81,
+      "unidade": "%",
+      "detalhes": {
+        "indice": "168,81%",
+        "base_calculo": "salário-base de dezembro/1991",
+        "data_base": "1992-01-01",
+        "INPC_referencia": "80,93% do INPC/IBGE jan-dez/1991",
+        "estimativa_nov_dez": "22%",
+        "ajuste_se_diferente": true,
+        "antecipacoes_descontadas": ["20% set/1991", "até 16% set/1991 (Lei 8.222/91)", "até 23% nov/1991 (Lei 8.222/91)"],
+        "compatibilizacao_referencias": true
+      },
+      "pagina_referencia": "1"
+    },
+    {
+      "id_canonico": "PRO_REVISAO_PCCS",
+      "numero_clausula_original": 3,
+      "titulo_original": "REVISÃO DO PLANO DE CARGOS E SALÁRIOS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "compromisso": "rever o PCCS preservando a relação de janeiro/1992 entre os níveis salariais",
+        "vigencia": "a partir de maio de 1992"
+      },
+      "pagina_referencia": "2"
+    },
+    {
+      "id_canonico": "FIN_ANUENIOS",
+      "numero_clausula_original": 4,
+      "titulo_original": "ANUÊNIOS",
+      "status": "DEFERIDO",
+      "valor_atual": 1,
+      "unidade": "%",
+      "detalhes": {
+        "percentual": 1,
+        "base_calculo": "salário-base",
+        "retroacao": "20/03/1969",
+        "vedacao_cumulacao_quinquenio": true,
+        "pagamento": "no mês em que completar mais um ano de serviço",
+        "nao_gera_direitos_pretéritos": true
+      },
+      "pagina_referencia": "2"
+    },
+    {
+      "id_canonico": "FIN_GRATIFICACAO_PRODUTIVIDADE",
+      "numero_clausula_original": 5,
+      "titulo_original": "GRATIFICAÇÃO DE PRODUTIVIDADE",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "criterio": "semestral",
+        "condicoes": [
+          "sem punição (exceto advertência verbal)",
+          "sem processo de apuração (salvo ausência de culpa)",
+          "máximo 15 dias de ausência"
+        ],
+        "excecoes": ["férias regulamentares", "acidente de trabalho", "folga aniversário", "convocação judicial", "treinamento", "missões exterior", "transferência", "atividade esportiva/social/cultural", "afastamento remunerado de Diretoria de Sindicatos ou Federações"],
+        "pagamento_excepcional_2S1991": "1992-01-20"
+      },
+      "pagina_referencia": "2"
+    },
+    {
+      "id_canonico": "FIN_PAGAMENTO_SALARIO",
+      "numero_clausula_original": 6,
+      "titulo_original": "PAGAMENTO DE SALÁRIOS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "data_pagamento": "2º dia útil bancário do mês subsequente ao vencido",
+        "locais": "Administração Central e Diretorias Regionais"
+      },
+      "pagina_referencia": "3"
+    },
+    {
+      "id_canonico": "FIN_HORAS_EXTRAS",
+      "numero_clausula_original": 7,
+      "titulo_original": "HORAS EXTRAS",
+      "status": "DEFERIDO",
+      "valor_atual": 60,
+      "unidade": "%",
+      "detalhes": {
+        "percentual": 60,
+        "base_calculo": "hora normal sobre salário-base",
+        "pagamento": "até o 10º dia útil do mês subsequente",
+        "repouso_trabalhado": "mais um dia, sem prejuízo do repouso remunerado",
+        "vedacao_RAI": true
+      },
+      "pagina_referencia": "3"
+    },
+    {
+      "id_canonico": "FIN_GRATIFICACAO_FERIAS",
+      "numero_clausula_original": 8,
+      "titulo_original": "GRATIFICAÇÃO DE FÉRIAS",
+      "status": "DEFERIDO",
+      "valor_atual": 70,
+      "unidade": "%",
+      "detalhes": {
+        "percentual": 70,
+        "base_calculo": "remuneração vigente à data do início das férias",
+        "inclui_terco_constitucional": true,
+        "indice_terco": "33,33%"
+      },
+      "pagina_referencia": "3"
+    },
+    {
+      "id_canonico": "FIN_ADIANTAMENTO_FERIAS",
+      "numero_clausula_original": 9,
+      "titulo_original": "ADIANTAMENTO DE FÉRIAS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "valor": "um salário-base + anuênios + gratificação de função",
+        "parcelas": "2 a 5",
+        "inicio_restituicao": "primeiro pagamento imediatamente após o término do descanso",
+        "sem_reajuste": true
+      },
+      "pagina_referencia": "3"
+    },
+    {
+      "id_canonico": "FIN_ANTECIPACAO_13",
+      "numero_clausula_original": 10,
+      "titulo_original": "ADIANTAMENTO DA 1ª PARCELA DO 13º SALÁRIO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "percentual": 50,
+        "pagamento": "julho de 1992",
+        "condicao": "empregados que não gozaram férias até julho de 1992",
+        "segunda_parcela": "até 20/12/1992",
+        "opcao_nao_recebimento": true
+      },
+      "pagina_referencia": "3"
+    },
+    {
+      "id_canonico": "FIN_AJUDA_CUSTO",
+      "numero_clausula_original": 11,
+      "titulo_original": "AJUDA DE CUSTO NA TRANSFERÊNCIA DE EMPREGADO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "calculo": "salário-base + anuênio + gratificação de função",
+        "gratificação_no_transito": true
+      },
+      "pagina_referencia": "3"
+    },
+    {
+      "id_canonico": "FIN_VALE_REFEICAO",
+      "numero_clausula_original": 12,
+      "titulo_original": "VALE-REFEIÇÃO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "distribuicao": "1º dia útil da 2ª quinzena de cada mês",
+        "reajuste": "INPC/IBGE automaticamente",
+        "extensao_ferias_licenca": "45 dias em licença gestante, acidente de trabalho e licença médica"
+      },
+      "pagina_referencia": "4"
+    },
+    {
+      "id_canonico": "FIN_VALE_TRANSPORTE",
+      "numero_clausula_original": 13,
+      "titulo_original": "VALE-TRANSPORTE",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "regra": "assegurado na forma da lei"
+      },
+      "pagina_referencia": "4"
+    },
+    {
+      "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+      "numero_clausula_original": 14,
+      "titulo_original": "ASSISTÊNCIA MÉDICA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "sistema_compartilhado": true,
+        "percentuais": "praticados em dezembro/1991",
+        "exames_periodicos": "sem ônus"
+      },
+      "pagina_referencia": "4"
+    },
+    {
+      "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+      "numero_clausula_original": 15,
+      "titulo_original": "AUXÍLIO-CRECHE E PRÉ-ESCOLAR",
+      "status": "DEFERIDO",
+      "valor_atual": 60000.00,
+      "unidade": "CRUZEIROS",
+      "detalhes": {
+        "valor": "Cr$ 60.000,00 (jan/1992)",
+        "correcao": "trimestral INPC/IBGE",
+        "idade_limite": "até 7 anos",
+        "extensao_pai_solteiro_viuvo": true,
+        "extensao_licenca_gestante": true
+      },
+      "pagina_referencia": "4"
+    },
+    {
+      "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+      "numero_clausula_original": 16,
+      "titulo_original": "AUXÍLIO ESCOLAR PARA FILHOS EXCEPCIONAIS",
+      "status": "DEFERIDO",
+      "valor_atual": 80000.00,
+      "unidade": "CRUZEIROS",
+      "detalhes": {
+        "valor": "Cr$ 80.000,00 (jan/1992)",
+        "correcao": "trimestral INPC/IBGE",
+        "publico_alvo": "filhos menores de 21 anos",
+        "extensao_licenca_gestante": true
+      },
+      "pagina_referencia": "4"
+    },
+    {
+      "id_canonico": "FIN_VALE_CESTA",
+      "numero_clausula_original": 17,
+      "titulo_original": "CESTA BÁSICA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "compartilhamento": {
+          "Nivel_Basico_B01_B34": 30,
+          "Nivel_Medio_M01_M17": 40,
+          "Nivel_Superior_S01_S24": 50
+        },
+        "regionalizacao": true,
+        "extensao_afastados": "45 dias (licença médica, acidente, gestante e férias)"
+      },
+      "pagina_referencia": "5"
+    },
+    {
+      "id_canonico": "SOC_LICENCA_ADOCAO",
+      "numero_clausula_original": 18,
+      "titulo_original": "LICENÇA-ADOÇÃO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "dias_licenca": 60,
+        "idade_crianca": "0 a 12 meses",
+        "inicio_contagem": "data da efetiva adoção"
+      },
+      "pagina_referencia": "5"
+    },
+    {
+      "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+      "numero_clausula_original": 19,
+      "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+      "status": "DEFERIDO",
+      "valor_atual": 6,
+      "unidade": "%",
+      "detalhes": {
+        "percentual": "6% da referência B-24",
+        "publico_alvo": "Agências Categoria I, II, III, IV",
+        "vedacao_acumulacao": true
+      },
+      "pagina_referencia": "5"
+    },
+    {
+      "id_canonico": "FIN_ADICIONAL_NOTURNO",
+      "numero_clausula_original": 20,
+      "titulo_original": "ADICIONAL NOTURNO",
+      "status": "DEFERIDO",
+      "valor_atual": 45,
+      "unidade": "%",
+      "detalhes": {
+        "percentual": 45,
+        "base_calculo": "hora diurna sobre salário-base",
+        "horario": "22h às 05h"
+      },
+      "pagina_referencia": "6"
+    },
+    {
+      "id_canonico": "TEC_INOVACOES",
+      "numero_clausula_original": 21,
+      "titulo_original": "INOVAÇÕES TECNOLÓGICAS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "compromisso": "reaproveitar prioritariamente pessoal afetado"
+      },
+      "pagina_referencia": "6"
+    },
+    {
+      "id_canonico": "PRO_CURSOS_REUNIOES",
+      "numero_clausula_original": 22,
+      "titulo_original": "CURSOS E REUNIÕES OBRIGATÓRIOS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "horas_extras_se_fora_horario": true,
+        "compensacao": "limite 10h/dia (a critério da ECT)"
+      },
+      "pagina_referencia": "6"
+    },
+    {
+      "id_canonico": "SIN_QUADRO_AVISOS",
+      "numero_clausula_original": 23,
+      "titulo_original": "QUADRO DE AVISOS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "instalacao_quadro": true,
+        "dimensoes": "1,00m x 1,20m",
+        "fundo_verde": true,
+        "chaves_exclusivas": true,
+        "vedacao_fixacao_estranhos": true,
+        "vedacao_politico_partidario": true
+      },
+      "pagina_referencia": "6"
+    },
+    {
+      "id_canonico": "SIN_REPASSE_MENSALIDADES",
+      "numero_clausula_original": 24,
+      "titulo_original": "REPASSE DE MENSALIDADES EM FAVOR DAS REPRESENTAÇÕES SINDICAIS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "desconto_em_folha": true,
+        "comprovacao": "Atas de Assembleias"
+      },
+      "pagina_referencia": "6"
+    },
+    {
+      "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+      "numero_clausula_original": 25,
+      "titulo_original": "DESCONTO ASSISTENCIAL",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "oposicao": "até 20 dias antes do pagamento de janeiro/1992",
+        "envio_atas": "até 25 dias antes"
+      },
+      "pagina_referencia": "7"
+    },
+    {
+      "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+      "numero_clausula_original": 26,
+      "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "quantidade": "2 membros por Diretoria de Sindicato e Federação",
+        "validade": "até 31/12/1992",
+        "abono_1_dia": "5 membros da Diretoria",
+        "solicitacao": "72 horas"
+      },
+      "pagina_referencia": "7"
+    },
+    {
+      "id_canonico": "SIN_ACESSO_DEPENDENCIAS",
+      "numero_clausula_original": 27,
+      "titulo_original": "ACESSO ÀS DEPENDÊNCIAS DA ECT",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "acesso": "dirigentes sindicais empregados da ECT",
+        "horarios": "acordados com a ECT",
+        "vedacao_pessoa_estranha": true
+      },
+      "pagina_referencia": "7"
+    },
+    {
+      "id_canonico": "CON_TRANSFERENCIA_SERVICO_INTERNO",
+      "numero_clausula_original": 28,
+      "titulo_original": "TRANSFERÊNCIA PARA SERVIÇOS INTERNOS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "condicao": "mais de 20 anos de distribuição externa",
+        "requisito": "recomendação médica homologada pelo Serviço Médico da ECT"
+      },
+      "pagina_referencia": "7"
+    },
+    {
+      "id_canonico": "FIN_QUITACAO_DIFERENCAS",
+      "numero_clausula_original": 29,
+      "titulo_original": "QUITAÇÃO DE DIFERENÇAS DE PAGAMENTO (HORAS EXTRAS E ADICIONAL NOTURNO)",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "base_legal": "TST-DC-055/89.7",
+        "percentuais": {
+          "horas_extras": "10% sobre as horas extras (total 60%)",
+          "adicional_noturno": "25% (total 45%)"
+        },
+        "pagamento": "março de 1992",
+        "renuncia_recursos": true
+      },
+      "pagina_referencia": "7-8"
+    },
+    {
+      "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+      "numero_clausula_original": 30,
+      "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "regra": "compensação para evitar duplicidade"
+      },
+      "pagina_referencia": "8"
+    },
+    {
+      "id_canonico": "PRO_DIREITOS_DEVERES",
+      "numero_clausula_original": 31,
+      "titulo_original": "DIREITOS E DEVERES",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "base_legal": ["Constituição Federal", "CLT", "Legislação complementar", "Documentos normativos da ECT", "Regulamento de Pessoal"]
+      },
+      "pagina_referencia": "8"
+    },
+    {
+      "id_canonico": "PRO_CONCILIACAO_DIVERGENCIAS",
+      "numero_clausula_original": 32,
+      "titulo_original": "CONCILIAÇÃO DE DIVERGÊNCIAS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "prazo": "antes de recorrer à Justiça do Trabalho",
+        "reuniao_debate": "a critério da ECT"
+      },
+      "pagina_referencia": "8"
+    },
+    {
+      "id_canonico": "FIN_PENALIDADE",
+      "numero_clausula_original": 33,
+      "titulo_original": "PENALIDADES",
+      "status": "DEFERIDO",
+      "valor_atual": 20,
+      "unidade": "%",
+      "detalhes": {
+        "percentual": 20,
+        "base_calculo": "dia de serviço do empregado prejudicado"
+      },
+      "pagina_referencia": "8"
+    },
+    {
+      "id_canonico": "PRO_PRORROGACAO_REVISAO",
+      "numero_clausula_original": 34,
+      "titulo_original": "PRORROGAÇÃO, REVISÃO, RENÚNCIA OU REVOGAÇÃO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "base_legal": "Art. 615 da CLT"
+      },
+      "pagina_referencia": "8"
+    },
+    {
+      "id_canonico": "PRO_VIGENCIA",
+      "numero_clausula_original": 35,
+      "titulo_original": "VIGÊNCIA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "data_inicio": "1992-01-12",
+        "duracao_meses": 12,
+        "data_fim": "1993-01-11"
+      },
+      "pagina_referencia": "8"
+    }
+  ],
+  "temas_nao_mapeados": [],
+  "retorno_ao_trabalho": null,
+  "dispositivo_final": {
+    "data_base": "1992-01-12",
+    "vigencia": "1992-01-12 a 1993-01-11",
+    "data_assinatura": "1991-12-16",
+    "local": "Brasília/DF",
+    "reajuste": "168,81%",
+    "auxilio_creche": "Cr$ 60.000,00",
+    "auxilio_dependentes": "Cr$ 80.000,00",
+    "quebra_caixa": "6% da B-24",
+    "adicional_noturno": "45%",
+    "horas_extras": "60%",
+    "gratificacao_ferias": "70%",
+    "observacoes": "ACT 1992 negociado diretamente ECT/FENTECT. Vigência de 12 meses a contar de 12/01/1992. Reajuste de 168,81% (INPC/IBGE jan-dez/1991)."
+  },
+  "notas_metodologicas": [
+    {
+      "tipo": "ACT_NEGOCIADO",
+      "tema": "GERAL",
+      "descricao": "ACT 1992 negociado diretamente ECT/FENTECT. Assinado em 16/12/1991, com 35 cláusulas. Vigência de 12 meses a contar de 12/01/1992. Substitui o Acordo Parcial de 1991 (homologado no TST-DC-20.281/91)."
+    }
+  ]
+}

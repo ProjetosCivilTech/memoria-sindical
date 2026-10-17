@@ -1,0 +1,164 @@
+[
+  {
+    "ano_inicio": 1994,
+    "ano_fim": 1995,
+    "tipo": "ACT",
+    "id_canonico": "PRO_PROCESSO_LICITATORIO",
+    "numero_clausula_original": 34,
+    "titulo_original": "PROCESSO LICITATÓRIO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "observador_sindical": true,
+      "base_legal": "Lei 8.666/93",
+      "sigilo_propostas": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "10-11"
+  },
+  {
+    "ano_inicio": 1995,
+    "ano_fim": 1996,
+    "tipo": "ACT",
+    "id_canonico": "PRO_PROCESSO_LICITATORIO",
+    "numero_clausula_original": 36,
+    "titulo_original": "PROCESSO LICITATÓRIO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "observador_sindical": true,
+      "acesso_reunioes_CPL": true
+    }
+  },
+  {
+    "ano_inicio": 1997,
+    "ano_fim": 1998,
+    "tipo": "ACT",
+    "id_canonico": "PRO_PROCESSO_LICITATORIO",
+    "numero_clausula_original": 36,
+    "titulo_original": "PROCESSO LICITATÓRIO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "observador_sindical": true
+    }
+  },
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "PRO_PROCESSO_LICITATORIO",
+    "numero_clausula_original": 39,
+    "titulo_original": "PROCESSO LICITATÓRIO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "observador_sindical": true
+    }
+  },
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "PRO_PROCESSO_LICITATORIO",
+    "numero_clausula_original": 40,
+    "titulo_original": "PROCESSO LICITATÓRIO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "observador_sindical": true,
+      "sigilo_propostas": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "13"
+  },
+  {
+    "ano_inicio": 2000,
+    "ano_fim": 2001,
+    "tipo": "DC",
+    "id_canonico": "PRO_PROCESSO_LICITATORIO",
+    "numero_clausula_original": 38,
+    "titulo_original": "PROCESSO LICITATÓRIO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "observador_sindical": true,
+      "acesso_reunioes_CPL": true,
+      "sigilo_propostas": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "Cláusula incontroversa.",
+    "pagina_referencia": "8"
+  },
+  {
+    "ano_inicio": 2001,
+    "ano_fim": 2002,
+    "tipo": "ACT",
+    "id_canonico": "PRO_PROCESSO_LICITATORIO",
+    "numero_clausula_original": 35,
+    "titulo_original": "PROCESSO LICITATÓRIO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "observador_sindical": true,
+      "acesso_reunioes_CPL": true,
+      "sigilo_propostas": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "10"
+  },
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "PRO_PROCESSO_LICITATORIO",
+    "numero_clausula_original": 47,
+    "titulo_original": "PROCESSO LICITATÓRIO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "observador_sindical": true,
+      "acesso_reunioes_CPL": true,
+      "sigilo_propostas": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "22"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "PRO_PROCESSO_LICITATORIO",
+    "numero_clausula_original": 47,
+    "titulo_original": "PROCESSO LICITATÓRIO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "observador_sindical": true,
+      "acesso_reunioes_CPL": true,
+      "sigilo_propostas": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "23"
+  }
+]

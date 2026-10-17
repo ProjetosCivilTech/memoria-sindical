@@ -1,0 +1,64 @@
+[
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SIN_LIBERACAO_CONSELHOS",
+    "numero_clausula_original": 34,
+    "titulo_original": "LIBERAÇÃO DE EMPREGADO ELEITO PARA CONSELHOS",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": 5,
+    "unidade": "dias",
+    "detalhes": {
+      "dias_liberacao": 5,
+      "publico": "empregado eleito para Conselho de Administração da ECT, Conselhos Deliberativo e Fiscal da Postal Saúde e Postalis",
+      "inclui_transito": true
+    },
+    "observacao": null,
+    "pagina_referencia": 12
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SIN_LIBERACAO_CONSELHOS",
+    "numero_clausula_original": 74,
+    "titulo_original": "LIBERAÇÃO DE EMPREGADO ELEITO PARA CONSELHOS",
+    "status": "INDEFERIDO",
+    "valor_anterior": 5,
+    "valor_atual": null,
+    "unidade": "dias",
+    "detalhes": {
+      "dias_liberacao": 5,
+      "publico": "empregado eleito para Conselho de Administração da ECT, Conselhos Deliberativo e Fiscal da Postal Saúde e Postalis"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Excluir a cláusula",
+      "pedido_fentect": "Manutenção da cláusula preexistente",
+      "pedido_findect": "Manutenção da cláusula preexistente",
+      "decisao_tst": "INDEFERE a cláusula",
+      "fundamento_juridico": "Art. 114, §2º, CF; ausência de norma preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "**PERDA**. No DC 2025/2026, a cláusula foi mantida. No DC 2026/2027, foi INDEFERIDA.",
+    "pagina_referencia": 30
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "SIN_LIBERACAO_CONSELHOS",
+    "numero_clausula_original": 74,
+    "titulo_original": "LIBERAÇÃO DE EMPREGADO ELEITO PARA CONSELHOS",
+    "status": "DEFERIDO",
+    "valor_atual": 5,
+    "unidade": "dias",
+    "detalhes": {
+      "dias_liberacao": 5,
+      "publico": "empregado eleito para CA dos Correios, Conselhos Deliberativo e Fiscal da Postal Saúde e Postalis"
+    },
+    "observacao": "No DC 2026/2027 esta cláusula foi INDEFERIDA",
+    "pagina_referencia": "85"
+  }
+]

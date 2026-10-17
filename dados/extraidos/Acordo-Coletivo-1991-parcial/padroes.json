@@ -1,0 +1,63 @@
+{
+  "datas_br": {
+    "total": 0,
+    "amostra": []
+  },
+  "datas_ext": {
+    "total": 1,
+    "amostra": [
+      "26 de dezembro de 1994"
+    ]
+  },
+  "valores_brl": {
+    "total": 0,
+    "amostra": []
+  },
+  "percentuais": {
+    "total": 4,
+    "amostra": [
+      "4%",
+      "49%",
+      "56%",
+      "13%"
+    ]
+  },
+  "clausulas": {
+    "total": 0,
+    "amostra": []
+  },
+  "processos_tst": {
+    "total": 0,
+    "amostra": []
+  },
+  "cnpj": {
+    "total": 0,
+    "amostra": []
+  },
+  "artigos": {
+    "total": 2,
+    "amostra": [
+      "art. 78",
+      "art. 1"
+    ]
+  },
+  "incisos": {
+    "total": 10,
+    "amostra": [
+      "DC",
+      "XVII",
+      "I",
+      "II",
+      "III",
+      "M",
+      "M",
+      "XXIII",
+      "I",
+      "V"
+    ]
+  },
+  "paragrafos": {
+    "total": 0,
+    "amostra": []
+  }
+}

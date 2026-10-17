@@ -1,0 +1,26 @@
+[
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "SOC_INDENIZACAO_MORTE_INVALIDEZ",
+    "numero_clausula_original": 78,
+    "titulo_original": "INDENIZAÇÃO POR MORTE OU INVALIDEZ PERMANENTE",
+    "status": "DEFERIDO",
+    "valor_atual": 137755.81,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor": 137755.81,
+      "causas": [
+        "acidente de trabalho",
+        "assalto",
+        "roubo"
+      ],
+      "complementacao_INSS": true,
+      "seguro_substituto": true
+    },
+    "memoria_negociacao": null,
+    "observacao": "Nova cláusula com indenização por morte/invalidez.",
+    "pagina_referencia": "43"
+  }
+]

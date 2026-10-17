@@ -1,0 +1,533 @@
+[
+  {
+    "ano_inicio": 1991,
+    "ano_fim": 1991,
+    "tipo": "DC",
+    "id_canonico": "SIN_QUADRO_AVISOS",
+    "numero_clausula_original": 57,
+    "titulo_original": "ATIVIDADES SINDICAIS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "instalacao_quadro": true,
+      "dimensoes": "1,00m x 1,20m",
+      "fundo_verde": true,
+      "chaves_exclusivas": true,
+      "acesso_dirigentes": "horários acordados",
+      "vedacao_politico_partidario": true
+    },
+    "pagina_referencia": "7-8"
+  },
+  {
+    "ano_inicio": 1992,
+    "ano_fim": 1992,
+    "tipo": "ACT",
+    "id_canonico": "SIN_QUADRO_AVISOS",
+    "numero_clausula_original": 23,
+    "titulo_original": "QUADRO DE AVISOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "instalacao_quadro": true,
+      "dimensoes": "1,00m x 1,20m",
+      "fundo_verde": true,
+      "chaves_exclusivas": true,
+      "vedacao_fixacao_estranhos": true,
+      "vedacao_politico_partidario": true
+    },
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 1993,
+    "ano_fim": 1994,
+    "tipo": "ACT",
+    "id_canonico": "SIN_QUADRO_AVISOS",
+    "numero_clausula_original": 24,
+    "titulo_original": "QUADRO DE AVISOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dimensoes": "1,00m x 1,20m",
+      "fundo_verde": true,
+      "chaves_exclusivas": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "13-14"
+  },
+  {
+    "ano_inicio": 1994,
+    "ano_fim": 1995,
+    "tipo": "ACT",
+    "id_canonico": "SIN_QUADRO_AVISOS",
+    "numero_clausula_original": 37,
+    "titulo_original": "QUADRO DE AVISOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "instalacao_sindicato": true,
+      "dimensoes": "1,00m x 1,20m",
+      "fundo_verde": true,
+      "chaves_exclusivas": true,
+      "vedacao_manifestacoes_politico_partidarias": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "11"
+  },
+  {
+    "ano_inicio": 1995,
+    "ano_fim": 1996,
+    "tipo": "ACT",
+    "id_canonico": "SIN_QUADRO_AVISOS",
+    "numero_clausula_original": 39,
+    "titulo_original": "QUADRO DE AVISOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dimensoes": "1,00m x 1,20m",
+      "fundo_verde": true,
+      "chaves_exclusivas": true
+    }
+  },
+  {
+    "ano_inicio": 1997,
+    "ano_fim": 1998,
+    "tipo": "ACT",
+    "id_canonico": "SIN_QUADRO_AVISOS",
+    "numero_clausula_original": 39,
+    "titulo_original": "QUADRO DE AVISOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dimensoes": "1,00m x 1,20m",
+      "fundo_verde": true
+    }
+  },
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "SIN_QUADRO_AVISOS",
+    "numero_clausula_original": 42,
+    "titulo_original": "QUADRO DE AVISOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dimensoes": "1,00m x 1,20m",
+      "fundo_verde": true
+    }
+  },
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "SIN_QUADRO_AVISOS",
+    "numero_clausula_original": 43,
+    "titulo_original": "QUADRO DE AVISOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "instalacao_sindicato": true,
+      "dimensoes": "1,00m x 1,20m",
+      "fundo_verde": true,
+      "chaves_exclusivas": true,
+      "vedacao_manifestacoes_politico_partidarias": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "14"
+  },
+  {
+    "ano_inicio": 2000,
+    "ano_fim": 2001,
+    "tipo": "DC",
+    "id_canonico": "SIN_QUADRO_AVISOS",
+    "numero_clausula_original": 40,
+    "titulo_original": "QUADRO DE AVISOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "instalacao_sindicato": true,
+      "dimensoes": "1,00m x 1,20m",
+      "fundo_verde": true,
+      "chaves_exclusivas": true,
+      "vedacao_manifestacoes_politico_partidarias": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "Cláusula incontroversa.",
+    "pagina_referencia": "9"
+  },
+  {
+    "ano_inicio": 2001,
+    "ano_fim": 2002,
+    "tipo": "ACT",
+    "id_canonico": "SIN_QUADRO_AVISOS",
+    "numero_clausula_original": 37,
+    "titulo_original": "QUADRO DE AVISOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "instalacao_sindicato": true,
+      "dimensoes": "1,00m x 1,20m",
+      "fundo_verde": true,
+      "chaves_exclusivas": true,
+      "vedacao_manifestacoes_politico_partidarias": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "10"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "SIN_QUADRO_AVISOS",
+    "numero_clausula_original": 49,
+    "titulo_original": "QUADRO DE AVISOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "instalacao_sindicato": true,
+      "dimensoes": "1,00m x 1,20m",
+      "fundo_verde": true,
+      "chaves_exclusivas": true,
+      "vedacao_manifestacoes_politico_partidarias": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "15"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "SIN_QUADRO_AVISOS",
+    "numero_clausula_original": 49,
+    "titulo_original": "QUADRO DE AVISOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dimensoes": "1,00m x 1,20m",
+      "fundo_verde": true,
+      "chaves_exclusivas": true
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "SIN_QUADRO_AVISOS",
+    "numero_clausula_original": 49,
+    "titulo_original": "QUADRO DE AVISOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "instalacao_sindicato": true,
+      "dimensoes": "1,00m x 1,20m",
+      "fundo_verde": true,
+      "chaves_exclusivas": true,
+      "vedacao_manifestacoes_politico_partidarias": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "20-21"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "SIN_QUADRO_AVISOS",
+    "numero_clausula_original": 49,
+    "titulo_original": "QUADRO DE AVISOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "instalacao_sindicato": true,
+      "dimensoes": "1,00m x 1,20m",
+      "fundo_verde": true,
+      "chaves_exclusivas": true,
+      "vedacao_manifestacoes_politico_partidarias": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 16
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "SIN_QUADRO_AVISOS",
+    "numero_clausula_original": 50,
+    "titulo_original": "QUADRO DE AVISOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dimensoes": "1,00m x 1,20m",
+      "fundo_verde": true,
+      "chaves_exclusivas": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "14-15"
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "SIN_QUADRO_AVISOS",
+    "numero_clausula_original": 50,
+    "titulo_original": "QUADRO DE AVISOS",
+    "status": "ALTERADO",
+    "texto": "ECT assegurará ao Sindicato dos Empregados dos Correios a instalação de quadro para avisos e comunicações. Quadro 1,00m x 1,20m, fundo verde, proteção de vidro com fechadura, chaves sob controle exclusivo do sindicato. Vedadas manifestações político-partidárias ou ofensivas.",
+    "observacao": "Substituição 'entidades vinculadas à FENTECT' por 'Sindicato dos Empregados dos Correios'.",
+    "pagina_referencia": 14
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "SIN_QUADRO_AVISOS",
+    "numero_clausula_original": 50,
+    "titulo_original": "QUADRO DE AVISOS",
+    "status": "MANTIDO",
+    "texto": "Quadro de avisos de propriedade do sindicato, 1,00m x 1,20m, fundo verde, proteção de vidro com fechadura, chaves sob controle exclusivo do sindicato. Vedadas manifestações político-partidárias ou ofensivas.",
+    "observacao": "Idêntica ao DC 2012-2013.",
+    "pagina_referencia": 70
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "SIN_QUADRO_AVISOS",
+    "numero_clausula_original": 24,
+    "titulo_original": "QUADRO DE AVISOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "instalacao_sindicato": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "12"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "SIN_QUADRO_AVISOS",
+    "numero_clausula_original": 24,
+    "titulo_original": "QUADRO DE AVISOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "instalacao_sindicato": true,
+      "local_apropriado": true,
+      "responsabilidade_comunicacoes": "Sindicatos",
+      "vedacao_manifestacoes_politico_partidarias": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 15
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "SIN_QUADRO_AVISOS",
+    "numero_clausula_original": 24,
+    "titulo_original": "QUADRO DE AVISOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "instalacao_sindicato": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "15"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "SIN_QUADRO_AVISOS",
+    "numero_clausula_original": 24,
+    "titulo_original": "QUADRO DE AVISOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "instalacao_sindicato": true,
+      "responsabilidade_comunicacoes": "Sindicatos",
+      "vedacao_politico_partidario": true
+    },
+    "pagina_referencia": 38
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "SIN_QUADRO_AVISOS",
+    "numero_clausula_original": 24,
+    "titulo_original": "QUADRO DE AVISOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "instalacao_sindicato": true,
+      "local_apropriado": true,
+      "responsabilidade_comunicacoes": "Sindicatos",
+      "vedacao_manifestacoes_politico_partidarias": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 13
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "SIN_QUADRO_AVISOS",
+    "numero_clausula_original": 24,
+    "titulo_original": "QUADRO DE AVISOS",
+    "status": "MANTIDO",
+    "texto": "respectiva base territorial, instale quadro para a fixação de avisos e comunicações de interesse da categoria profissional, em local apropriado e de comum acordo entre as partes. Parágrafo Único: As comunicações escritas serão de inteira responsabilidade dos Sindicatos, ficando vedadas as manifestações de conteúdo ou objetivos político-partidários e de ofensas a quem quer que seja. 29 --- PAGINA 30 --CLÁUSULA 25 Cláusula 25 – REPASSE DAS MENSALIDADES DO SINDICATO – Os Correios se comprometem a descontar dos empregados(as) filiados(as), na forma da legislação vigente, a mensalidade em favor das representações sindicais, mediante comprovação do respectivo valor ou percentual, por meio das Atas de Assembleias que as autorizarem. §1º O repasse desses descontos para as entidades sindicais será feito no primeiro dia útil após o pagamento mensal dos salários dos(as) empregados(as) dos Correios. §2° Os Correios se comprometem a restabelecer o desconto mensal em favor do sindicato, a partir da data em que os(as) empregados(as) filiados(as), afastados(as) do trabalho, retornarem ao serviço. §3° Os pedidos de filiação e desfiliação deverão ser encaminhados pelos(as) empregados(as) aos respectivos sindicatos. §4° Os comunicados de filiação e desfiliação deverão ser encaminhados pelos sindicatos à Empresa até o dia 10 (dez), para possibilitar o processamento na folha de pagamento no mesmo mês. 30 --- PAGINA 31 --CLÁUSULA 26 Cláusula 26 – REPRESENTANTES DOS(AS) EMPREGADOS(AS) – Os Representantes dos(as) Empregados(as) dirigentes sindicais, delegados/representantes sindicais e cipeiros(as) eleitos exclusivamente pelos empregados(as) dos Correios, mediante ato formal, não serão punidos, nem demitidos sem que os fatos motivadores da respectiva falta sejam inteiramente apurados, mediante procedimento próprio, ficando resguardado amplo direito de defesa, com a assistência da entidade sindical de sua base territorial, que será notificada com a devida antecedência, por decisão do Diretor Regional, cuja instância recursal será a Vice-presidência de Gestão Estratégica de Pessoas – VIGEP. §1º Os Correios garantirão estabilidade no emprego aos(as) dirigentes sindicais, conforme estabelece o Art. 522 da CLT, e cipeiros, por mais 6 (seis) meses após o término da estabilidade concedida por lei. §2º Na vigência deste Acordo Coletivo de Trabalho, os(as) delegados(as) sindicais terão estabilidade de 1 (um) ano após o término do seu mandato. §3º O número de delegados(as) por sindicato ob",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2020,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "SIN_QUADRO_AVISOS",
+    "numero_clausula_original": 22,
+    "titulo_original": "QUADRO DE AVISOS",
+    "status": "MANTIDO",
+    "texto": "Correios da respectiva base territorial instale quadro para a fixação de avisos e comunicações de interesse da categoria profissional, em local apropriado e de comum acordo entre as partes. OPERACIONALIZAÇÃO DA CLÁUSULA A fixação de informativos do sindicato no quadro de avisos deverá ser realizado pelo representante sindical lotado na unidade. Não havendo representante sindical na unidade, um representante da entidade poderá acessar a unidade para efetuar a fixação de avisos e comunicações de interesse da categoria profissional. Nesse sentido, para acessar as dependências dos Correios, visando exclusivamente a fixação de avisos e comunicações de interesse da categoria profissional em quadro instalado na unidade, o sindicato deverá solicitar autorização à área de relacionamento organizacional, com 02 (dois) dias úteis de antecedência. É vedada a utilização do tempo em que o representante sindical estiver na unidade para realizar reunião com os empregados. As comunicações escritas serão de inteira responsabilidade dos Sindicatos, ficando vedadas as manifestações de conteúdo ou objetivos político - partidários e de ofensas a quem quer que seja. As solicitações de informações referentes a esta cláusula devem ser encaminhadas ao Departamento de Relacionamento Organizacional – DEREO/DIGEP – dereo-sugep-digep@correios.com.br. 32 --- PAGINA 33 --CLÁUSULA 23",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "SIN_QUADRO_AVISOS",
+    "numero_clausula_original": 28,
+    "titulo_original": "QUADRO DE AVISOS (24ª do DCG 2019/2020)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "redacao": "Os Correios assegurarão que o Sindicato dos (as) Empregados(as) dos Correios da respectiva base territorial instale quadro para a fixação de avisos e comunicações de interesse da categoria profissional, em local apropriado e de comum acordo entre as partes"
+    },
+    "memoria_negociacao": "Manutenção anuída pelas entidades sindicais",
+    "observacao": null,
+    "pagina_referencia": "66"
+  },
+  {
+    "ano_inicio": 2022,
+    "ano_fim": 2023,
+    "tipo": "ACT",
+    "id_canonico": "SIN_QUADRO_AVISOS",
+    "numero_clausula_original": 29,
+    "titulo_original": "QUADRO DE AVISOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "instalacao_sindicato": true,
+      "local_apropriado": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "SIN_QUADRO_AVISOS",
+    "numero_clausula_original": 30,
+    "titulo_original": "QUADRO DE AVISOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "instalacao_sindicato": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SIN_QUADRO_AVISOS",
+    "numero_clausula_original": 31,
+    "titulo_original": "QUADRO DE AVISOS",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "instalacao_sindicato": true,
+      "local_apropriado": true,
+      "responsabilidade_comunicacoes": "Sindicatos"
+    },
+    "observacao": null,
+    "pagina_referencia": 12
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SIN_QUADRO_AVISOS",
+    "numero_clausula_original": 27,
+    "titulo_original": "QUADRO DE AVISOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "instalacao_sindicato": true,
+      "local_apropriado": true,
+      "responsabilidade_comunicacoes": "Sindicatos"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 13
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "SIN_QUADRO_AVISOS",
+    "numero_clausula_original": 27,
+    "titulo_original": "QUADRO DE AVISOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "instalacao_sindicato": true,
+      "responsabilidade_comunicacoes": "Sindicatos"
+    },
+    "pagina_referencia": "40"
+  }
+]

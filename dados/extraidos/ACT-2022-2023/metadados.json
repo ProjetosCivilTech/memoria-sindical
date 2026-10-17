@@ -1,0 +1,61 @@
+{
+  "arquivo_origem": "ACT-2022-2023.pdf",
+  "metadados_pdf": {
+    "titulo": null,
+    "autor": null,
+    "assunto": null,
+    "criador": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36",
+    "produtor": "Skia/PDF m100",
+    "criado_em": "D:20220906183345+00'00'",
+    "modificado_em": "D:20220906183345+00'00'"
+  },
+  "paginas_info": [
+    {
+      "pagina": 1,
+      "metodo": "OCR",
+      "chars": 5881,
+      "conf_ocr": 94.4
+    },
+    {
+      "pagina": 2,
+      "metodo": "OCR",
+      "chars": 7632,
+      "conf_ocr": 94.6
+    },
+    {
+      "pagina": 3,
+      "metodo": "OCR",
+      "chars": 8296,
+      "conf_ocr": 94.4
+    },
+    {
+      "pagina": 4,
+      "metodo": "OCR",
+      "chars": 7267,
+      "conf_ocr": 94.7
+    },
+    {
+      "pagina": 5,
+      "metodo": "OCR",
+      "chars": 7438,
+      "conf_ocr": 94.8
+    },
+    {
+      "pagina": 6,
+      "metodo": "OCR",
+      "chars": 6183,
+      "conf_ocr": 94.9
+    },
+    {
+      "pagina": 7,
+      "metodo": "OCR",
+      "chars": 2799,
+      "conf_ocr": 87.5
+    }
+  ],
+  "paginas_total": 7,
+  "paginas_ocr": 7,
+  "conf_ocr_media": 93.6,
+  "metodo": "ocr",
+  "tempo_s": 31.23
+}

@@ -1,0 +1,577 @@
+{
+  "arquivo_origem": "Acordao-2019-2021.pdf",
+  "metadados_pdf": {
+    "titulo": null,
+    "autor": "c014697",
+    "assunto": null,
+    "criador": "Microsoft® Word 2013",
+    "produtor": "Microsoft® Word 2013",
+    "criado_em": "D:20200221110156-03'00'",
+    "modificado_em": "D:20200221110156-03'00'"
+  },
+  "paginas_info": [
+    {
+      "pagina": 1,
+      "metodo": "OCR",
+      "chars": 138,
+      "conf_ocr": 64.4
+    },
+    {
+      "pagina": 2,
+      "metodo": "OCR",
+      "chars": 4403,
+      "conf_ocr": 65.9
+    },
+    {
+      "pagina": 3,
+      "metodo": "OCR",
+      "chars": 4846,
+      "conf_ocr": 61.4
+    },
+    {
+      "pagina": 4,
+      "metodo": "OCR",
+      "chars": 102,
+      "conf_ocr": 34.7
+    },
+    {
+      "pagina": 5,
+      "metodo": "OCR",
+      "chars": 1679,
+      "conf_ocr": 94.1
+    },
+    {
+      "pagina": 6,
+      "metodo": "OCR",
+      "chars": 940,
+      "conf_ocr": 94.1
+    },
+    {
+      "pagina": 7,
+      "metodo": "OCR",
+      "chars": 1981,
+      "conf_ocr": 94.9
+    },
+    {
+      "pagina": 8,
+      "metodo": "OCR",
+      "chars": 2448,
+      "conf_ocr": 94.7
+    },
+    {
+      "pagina": 9,
+      "metodo": "OCR",
+      "chars": 1330,
+      "conf_ocr": 95.1
+    },
+    {
+      "pagina": 10,
+      "metodo": "OCR",
+      "chars": 2851,
+      "conf_ocr": 94.6
+    },
+    {
+      "pagina": 11,
+      "metodo": "OCR",
+      "chars": 1047,
+      "conf_ocr": 94.8
+    },
+    {
+      "pagina": 12,
+      "metodo": "OCR",
+      "chars": 1899,
+      "conf_ocr": 94.6
+    },
+    {
+      "pagina": 13,
+      "metodo": "OCR",
+      "chars": 1377,
+      "conf_ocr": 95.2
+    },
+    {
+      "pagina": 14,
+      "metodo": "OCR",
+      "chars": 1082,
+      "conf_ocr": 94.9
+    },
+    {
+      "pagina": 15,
+      "metodo": "OCR",
+      "chars": 971,
+      "conf_ocr": 95.1
+    },
+    {
+      "pagina": 16,
+      "metodo": "OCR",
+      "chars": 949,
+      "conf_ocr": 95.0
+    },
+    {
+      "pagina": 17,
+      "metodo": "OCR",
+      "chars": 976,
+      "conf_ocr": 95.0
+    },
+    {
+      "pagina": 18,
+      "metodo": "OCR",
+      "chars": 1323,
+      "conf_ocr": 95.2
+    },
+    {
+      "pagina": 19,
+      "metodo": "OCR",
+      "chars": 1858,
+      "conf_ocr": 94.7
+    },
+    {
+      "pagina": 20,
+      "metodo": "OCR",
+      "chars": 0,
+      "conf_ocr": 0.0
+    },
+    {
+      "pagina": 21,
+      "metodo": "OCR",
+      "chars": 3099,
+      "conf_ocr": 94.8
+    },
+    {
+      "pagina": 22,
+      "metodo": "OCR",
+      "chars": 2532,
+      "conf_ocr": 95.1
+    },
+    {
+      "pagina": 23,
+      "metodo": "OCR",
+      "chars": 1022,
+      "conf_ocr": 94.6
+    },
+    {
+      "pagina": 24,
+      "metodo": "OCR",
+      "chars": 639,
+      "conf_ocr": 94.8
+    },
+    {
+      "pagina": 25,
+      "metodo": "OCR",
+      "chars": 4088,
+      "conf_ocr": 95.4
+    },
+    {
+      "pagina": 26,
+      "metodo": "OCR",
+      "chars": 308,
+      "conf_ocr": 94.7
+    },
+    {
+      "pagina": 27,
+      "metodo": "OCR",
+      "chars": 1063,
+      "conf_ocr": 93.0
+    },
+    {
+      "pagina": 28,
+      "metodo": "OCR",
+      "chars": 330,
+      "conf_ocr": 94.0
+    },
+    {
+      "pagina": 29,
+      "metodo": "OCR",
+      "chars": 496,
+      "conf_ocr": 95.0
+    },
+    {
+      "pagina": 30,
+      "metodo": "OCR",
+      "chars": 987,
+      "conf_ocr": 94.9
+    },
+    {
+      "pagina": 31,
+      "metodo": "OCR",
+      "chars": 1254,
+      "conf_ocr": 94.9
+    },
+    {
+      "pagina": 32,
+      "metodo": "OCR",
+      "chars": 16,
+      "conf_ocr": 34.4
+    },
+    {
+      "pagina": 33,
+      "metodo": "OCR",
+      "chars": 1964,
+      "conf_ocr": 95.0
+    },
+    {
+      "pagina": 34,
+      "metodo": "OCR",
+      "chars": 2634,
+      "conf_ocr": 92.1
+    },
+    {
+      "pagina": 35,
+      "metodo": "OCR",
+      "chars": 2900,
+      "conf_ocr": 94.4
+    },
+    {
+      "pagina": 36,
+      "metodo": "OCR",
+      "chars": 1003,
+      "conf_ocr": 94.7
+    },
+    {
+      "pagina": 37,
+      "metodo": "OCR",
+      "chars": 564,
+      "conf_ocr": 94.5
+    },
+    {
+      "pagina": 38,
+      "metodo": "OCR",
+      "chars": 1271,
+      "conf_ocr": 94.0
+    },
+    {
+      "pagina": 39,
+      "metodo": "OCR",
+      "chars": 2900,
+      "conf_ocr": 94.7
+    },
+    {
+      "pagina": 40,
+      "metodo": "OCR",
+      "chars": 655,
+      "conf_ocr": 94.7
+    },
+    {
+      "pagina": 41,
+      "metodo": "OCR",
+      "chars": 2780,
+      "conf_ocr": 94.7
+    },
+    {
+      "pagina": 42,
+      "metodo": "OCR",
+      "chars": 664,
+      "conf_ocr": 94.9
+    },
+    {
+      "pagina": 43,
+      "metodo": "OCR",
+      "chars": 942,
+      "conf_ocr": 93.8
+    },
+    {
+      "pagina": 44,
+      "metodo": "OCR",
+      "chars": 1183,
+      "conf_ocr": 93.6
+    },
+    {
+      "pagina": 45,
+      "metodo": "OCR",
+      "chars": 3846,
+      "conf_ocr": 94.2
+    },
+    {
+      "pagina": 46,
+      "metodo": "OCR",
+      "chars": 771,
+      "conf_ocr": 94.2
+    },
+    {
+      "pagina": 47,
+      "metodo": "OCR",
+      "chars": 880,
+      "conf_ocr": 94.9
+    },
+    {
+      "pagina": 48,
+      "metodo": "OCR",
+      "chars": 1321,
+      "conf_ocr": 94.9
+    },
+    {
+      "pagina": 49,
+      "metodo": "OCR",
+      "chars": 3076,
+      "conf_ocr": 95.0
+    },
+    {
+      "pagina": 50,
+      "metodo": "OCR",
+      "chars": 25,
+      "conf_ocr": 89.2
+    },
+    {
+      "pagina": 51,
+      "metodo": "OCR",
+      "chars": 3658,
+      "conf_ocr": 94.5
+    },
+    {
+      "pagina": 52,
+      "metodo": "OCR",
+      "chars": 669,
+      "conf_ocr": 95.7
+    },
+    {
+      "pagina": 53,
+      "metodo": "OCR",
+      "chars": 1024,
+      "conf_ocr": 94.6
+    },
+    {
+      "pagina": 54,
+      "metodo": "OCR",
+      "chars": 349,
+      "conf_ocr": 94.8
+    },
+    {
+      "pagina": 55,
+      "metodo": "OCR",
+      "chars": 393,
+      "conf_ocr": 94.7
+    },
+    {
+      "pagina": 56,
+      "metodo": "OCR",
+      "chars": 378,
+      "conf_ocr": 93.2
+    },
+    {
+      "pagina": 57,
+      "metodo": "OCR",
+      "chars": 724,
+      "conf_ocr": 94.2
+    },
+    {
+      "pagina": 58,
+      "metodo": "OCR",
+      "chars": 1460,
+      "conf_ocr": 95.2
+    },
+    {
+      "pagina": 59,
+      "metodo": "OCR",
+      "chars": 14,
+      "conf_ocr": 48.5
+    },
+    {
+      "pagina": 60,
+      "metodo": "OCR",
+      "chars": 1530,
+      "conf_ocr": 95.0
+    },
+    {
+      "pagina": 61,
+      "metodo": "OCR",
+      "chars": 2711,
+      "conf_ocr": 95.0
+    },
+    {
+      "pagina": 62,
+      "metodo": "OCR",
+      "chars": 401,
+      "conf_ocr": 93.6
+    },
+    {
+      "pagina": 63,
+      "metodo": "OCR",
+      "chars": 4114,
+      "conf_ocr": 93.9
+    },
+    {
+      "pagina": 64,
+      "metodo": "OCR",
+      "chars": 1364,
+      "conf_ocr": 93.7
+    },
+    {
+      "pagina": 65,
+      "metodo": "OCR",
+      "chars": 950,
+      "conf_ocr": 92.0
+    },
+    {
+      "pagina": 66,
+      "metodo": "OCR",
+      "chars": 5,
+      "conf_ocr": 51.3
+    },
+    {
+      "pagina": 67,
+      "metodo": "OCR",
+      "chars": 1651,
+      "conf_ocr": 94.8
+    },
+    {
+      "pagina": 68,
+      "metodo": "OCR",
+      "chars": 942,
+      "conf_ocr": 95.1
+    },
+    {
+      "pagina": 69,
+      "metodo": "OCR",
+      "chars": 991,
+      "conf_ocr": 94.8
+    },
+    {
+      "pagina": 70,
+      "metodo": "OCR",
+      "chars": 980,
+      "conf_ocr": 94.8
+    },
+    {
+      "pagina": 71,
+      "metodo": "OCR",
+      "chars": 714,
+      "conf_ocr": 94.5
+    },
+    {
+      "pagina": 72,
+      "metodo": "OCR",
+      "chars": 576,
+      "conf_ocr": 94.5
+    },
+    {
+      "pagina": 73,
+      "metodo": "OCR",
+      "chars": 1217,
+      "conf_ocr": 93.8
+    },
+    {
+      "pagina": 74,
+      "metodo": "OCR",
+      "chars": 405,
+      "conf_ocr": 95.2
+    },
+    {
+      "pagina": 75,
+      "metodo": "OCR",
+      "chars": 107,
+      "conf_ocr": 93.8
+    },
+    {
+      "pagina": 76,
+      "metodo": "OCR",
+      "chars": 402,
+      "conf_ocr": 93.9
+    },
+    {
+      "pagina": 77,
+      "metodo": "OCR",
+      "chars": 1157,
+      "conf_ocr": 94.6
+    },
+    {
+      "pagina": 78,
+      "metodo": "OCR",
+      "chars": 1372,
+      "conf_ocr": 95.0
+    },
+    {
+      "pagina": 79,
+      "metodo": "OCR",
+      "chars": 22,
+      "conf_ocr": 33.7
+    },
+    {
+      "pagina": 80,
+      "metodo": "OCR",
+      "chars": 440,
+      "conf_ocr": 94.2
+    },
+    {
+      "pagina": 81,
+      "metodo": "OCR",
+      "chars": 611,
+      "conf_ocr": 95.4
+    },
+    {
+      "pagina": 82,
+      "metodo": "OCR",
+      "chars": 2404,
+      "conf_ocr": 93.8
+    },
+    {
+      "pagina": 83,
+      "metodo": "OCR",
+      "chars": 449,
+      "conf_ocr": 94.6
+    },
+    {
+      "pagina": 84,
+      "metodo": "OCR",
+      "chars": 1629,
+      "conf_ocr": 95.0
+    },
+    {
+      "pagina": 85,
+      "metodo": "OCR",
+      "chars": 253,
+      "conf_ocr": 93.7
+    },
+    {
+      "pagina": 86,
+      "metodo": "OCR",
+      "chars": 282,
+      "conf_ocr": 94.3
+    },
+    {
+      "pagina": 87,
+      "metodo": "OCR",
+      "chars": 3138,
+      "conf_ocr": 93.4
+    },
+    {
+      "pagina": 88,
+      "metodo": "OCR",
+      "chars": 468,
+      "conf_ocr": 94.4
+    },
+    {
+      "pagina": 89,
+      "metodo": "OCR",
+      "chars": 1338,
+      "conf_ocr": 94.5
+    },
+    {
+      "pagina": 90,
+      "metodo": "OCR",
+      "chars": 1636,
+      "conf_ocr": 95.2
+    },
+    {
+      "pagina": 91,
+      "metodo": "OCR",
+      "chars": 258,
+      "conf_ocr": 93.9
+    },
+    {
+      "pagina": 92,
+      "metodo": "OCR",
+      "chars": 304,
+      "conf_ocr": 95.4
+    },
+    {
+      "pagina": 93,
+      "metodo": "OCR",
+      "chars": 182,
+      "conf_ocr": 80.3
+    }
+  ],
+  "paginas_total": 93,
+  "paginas_ocr": 93,
+  "conf_ocr_media": 89.4,
+  "metodo": "ocr",
+  "tempo_s": 130.37
+}

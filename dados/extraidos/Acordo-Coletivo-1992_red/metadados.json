@@ -1,0 +1,73 @@
+{
+  "arquivo_origem": "Acordo-Coletivo-1992_red.pdf",
+  "metadados_pdf": {
+    "titulo": "Documento1",
+    "autor": null,
+    "assunto": null,
+    "criador": "PDF reDirect v2",
+    "produtor": "EXP Systems LLC (www.exp-systems.com)",
+    "criado_em": "D:20070328151720Z",
+    "modificado_em": "D:20160615172526-03'00'"
+  },
+  "paginas_info": [
+    {
+      "pagina": 1,
+      "metodo": "OCR",
+      "chars": 2214,
+      "conf_ocr": 82.0
+    },
+    {
+      "pagina": 2,
+      "metodo": "OCR",
+      "chars": 2699,
+      "conf_ocr": 84.8
+    },
+    {
+      "pagina": 3,
+      "metodo": "OCR",
+      "chars": 2800,
+      "conf_ocr": 82.6
+    },
+    {
+      "pagina": 4,
+      "metodo": "OCR",
+      "chars": 2792,
+      "conf_ocr": 82.3
+    },
+    {
+      "pagina": 5,
+      "metodo": "OCR",
+      "chars": 2695,
+      "conf_ocr": 79.0
+    },
+    {
+      "pagina": 6,
+      "metodo": "OCR",
+      "chars": 2623,
+      "conf_ocr": 82.1
+    },
+    {
+      "pagina": 7,
+      "metodo": "OCR",
+      "chars": 2764,
+      "conf_ocr": 84.5
+    },
+    {
+      "pagina": 8,
+      "metodo": "OCR",
+      "chars": 2502,
+      "conf_ocr": 79.7
+    },
+    {
+      "pagina": 9,
+      "metodo": "OCR",
+      "chars": 573,
+      "conf_ocr": 56.7
+    }
+  ],
+  "paginas_total": 9,
+  "paginas_ocr": 9,
+  "conf_ocr_media": 79.3,
+  "metodo": "ocr",
+  "tempo_s": 25.28
+}

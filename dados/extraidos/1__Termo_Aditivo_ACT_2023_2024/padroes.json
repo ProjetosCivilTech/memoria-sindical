@@ -1,0 +1,97 @@
+{
+  "datas_br": {
+    "total": 10,
+    "amostra": [
+      "12/01/2024",
+      "12/01/2024",
+      "11/12/2023",
+      "11/12/2023",
+      "11/12/2023",
+      "11/12/2023",
+      "11/12/2023",
+      "12/01/2024",
+      "11/12/2023",
+      "12/12/2023"
+    ]
+  },
+  "datas_ext": {
+    "total": 10,
+    "amostra": [
+      "15 de dezembro de 2023",
+      "2 de janeiro de 2024",
+      "08 de dezembro de 2023",
+      "8 de outubro de 2015",
+      "8 de outubro de 2015",
+      "8 de outubro de 2015",
+      "8 de outubro de 2015",
+      "8 de outubro de 2015",
+      "8 de outubro de 2015",
+      "8 de outubro de 2015"
+    ]
+  },
+  "valores_brl": {
+    "total": 7,
+    "amostra": [
+      "R$ 306,21",
+      "R$250,00",
+      "R$250,00",
+      "R$7.000,00",
+      "R$7.000,00",
+      "R$1.500,00",
+      "R$1.500,00"
+    ]
+  },
+  "percentuais": {
+    "total": 13,
+    "amostra": [
+      "3,53%",
+      "50%",
+      "50%",
+      "50%",
+      "25%",
+      "25%",
+      "50%",
+      "50%",
+      "15%",
+      "15%",
+      "3,53%",
+      "3,53%",
+      "0,5%"
+    ]
+  },
+  "clausulas": {
+    "total": 3,
+    "amostra": [
+      "1",
+      "53",
+      "64"
+    ]
+  },
+  "processos_tst": {
+    "total": 0,
+    "amostra": []
+  },
+  "cnpj": {
+    "total": 2,
+    "amostra": [
+      "34.028.316/0001-03",
+      "59.995.498/0001-12"
+    ]
+  },
+  "artigos": {
+    "total": 1,
+    "amostra": [
+      "Art. 163"
+    ]
+  },
+  "incisos": {
+    "total": 1,
+    "amostra": [
+      "M"
+    ]
+  },
+  "paragrafos": {
+    "total": 0,
+    "amostra": []
+  }
+}

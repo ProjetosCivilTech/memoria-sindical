@@ -1,0 +1,18 @@
+[
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SEGURO_VIDA",
+    "numero_clausula_original": 76,
+    "titulo_original": "SEGURO DE VIDA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "publico": "Carteiros e Atendentes Comerciais",
+      "vigencia": "próximo exercício"
+    },
+    "memoria_negociacao": null,
+    "observacao": "Nova cláusula.",
+    "pagina_referencia": "32"
+  }
+]

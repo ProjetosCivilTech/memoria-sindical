@@ -1,0 +1,472 @@
+{
+  "grupo": "2024-2025",
+  "A": {
+    "papel": "FENTECT",
+    "n_clausulas": 79
+  },
+  "B": {
+    "papel": "FINDECT",
+    "n_clausulas": 80
+  },
+  "comuns": 73,
+  "iguais": 52,
+  "divergencias": [
+    {
+      "id": "FIN_AADC",
+      "tipo": "divergente",
+      "A": {
+        "status": "DEFERIDO",
+        "valor": 30,
+        "unidade": "percentual"
+      },
+      "B": {
+        "status": "MANTIDO",
+        "valor": 30,
+        "unidade": "percentual"
+      }
+    },
+    {
+      "id": "FIN_ANTECIPACAO_13",
+      "tipo": "divergente",
+      "A": {
+        "status": "DEFERIDO",
+        "valor": 50,
+        "unidade": "percentual"
+      },
+      "B": {
+        "status": "DEFERIDO",
+        "valor": null,
+        "unidade": null
+      }
+    },
+    {
+      "id": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+      "tipo": "divergente",
+      "A": {
+        "status": "DEFERIDO",
+        "valor": 1030.58,
+        "unidade": "BRL"
+      },
+      "B": {
+        "status": "DEFERIDO",
+        "valor": 1125.32,
+        "unidade": "BRL"
+      }
+    },
+    {
+      "id": "FIN_GRATIFICACAO_FERIAS",
+      "tipo": "divergente",
+      "A": {
+        "status": "DEFERIDO",
+        "valor": 70,
+        "unidade": "percentual"
+      },
+      "B": {
+        "status": "INDEFERIDO",
+        "valor": null,
+        "unidade": "percentual"
+      }
+    },
+    {
+      "id": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+      "tipo": "divergente",
+      "A": {
+        "status": "DEFERIDO",
+        "valor": 267.64,
+        "unidade": "BRL"
+      },
+      "B": {
+        "status": "DEFERIDO",
+        "valor": 292.24,
+        "unidade": "BRL"
+      }
+    },
+    {
+      "id": "FIN_PAGAMENTO_SALARIO",
+      "tipo": "divergente",
+      "A": {
+        "status": "DEFERIDO",
+        "valor": null,
+        "unidade": null
+      },
+      "B": {
+        "status": "INDEFERIDO",
+        "valor": null,
+        "unidade": null
+      }
+    },
+    {
+      "id": "FIN_PERICULOSIDADE_MOTOCICLISTA",
+      "tipo": "só em B",
+      "B": {
+        "id_canonico": "FIN_PERICULOSIDADE_MOTOCICLISTA",
+        "numero_clausula_original": 78,
+        "titulo_original": "ADICIONAL DE PERICULOSIDADE PARA MOTOCICLISTAS",
+        "status": "MANTIDO",
+        "valor_anterior": 30,
+        "valor_atual": 30,
+        "unidade": "percentual",
+        "detalhes": {
+          "percentual": 30,
+          "base_legal": "art. 193, §4º, CLT",
+          "publico_alvo": "carteiro motorizado que faz uso de motocicleta",
+          "cumulacao_AADC": true,
+          "tese_vinculante": "IRR 15 / Tema Repetitivo 15 do TST"
+        },
+        "memoria_negociacao": {
+          "proposta_ect": "Manutenção da cláusula",
+          "pedido_fentect": "Manutenção",
+          "pedido_findect": "Manutenção",
+          "decisao_tst": "DEFERE nos termos propostos",
+          "fundamento_juridico": "Art. 193, §4º, CLT; IRR 15 / Tema Repetitivo 15 do TST",
+          "votos_divergentes": null
+        },
+        "observacao": "**CONQUISTA**. A cláusula é mantida com base na tese vinculante do TST que garante a cumulação do AADC com a periculosidade.",
+        "pagina_referencia": 31
+      }
+    },
+    {
+      "id": "FIN_REAJUSTE_SALARIAL",
+      "tipo": "divergente",
+      "A": {
+        "status": "DEFERIDO",
+        "valor": 4.11,
+        "unidade": "%"
+      },
+      "B": {
+        "status": "DEFERIDO_PARCIALMENTE",
+        "valor": 4.09,
+        "unidade": "%"
+      }
+    },
+    {
+      "id": "FIN_REEMBOLSO_CRECHE_BABA",
+      "tipo": "divergente",
+      "A": {
+        "status": "DEFERIDO",
+        "valor": 714.72,
+        "unidade": "BRL"
+      },
+      "B": {
+        "status": "DEFERIDO",
+        "valor": 780.42,
+        "unidade": "BRL"
+      }
+    },
+    {
+      "id": "FIN_TRABALHO_DIA_REPOUSO",
+      "tipo": "divergente",
+      "A": {
+        "status": "DEFERIDO",
+        "valor": 200,
+        "unidade": "percentual"
+      },
+      "B": {
+        "status": "REDUZIDO",
+        "valor": 100,
+        "unidade": "percentual"
+      }
+    },
+    {
+      "id": "FIN_VALE_ALIMENTACAO",
+      "tipo": "divergente",
+      "A": {
+        "status": "DEFERIDO",
+        "valor": 50.93,
+        "unidade": "BRL"
+      },
+      "B": {
+        "status": "DEFERIDO_PARCIALMENTE",
+        "valor": 55.61,
+        "unidade": "BRL"
+      }
+    },
+    {
+      "id": "FIN_VALE_TRANSPORTE",
+      "tipo": "divergente",
+      "A": {
+        "status": "DEFERIDO",
+        "valor": 870.18,
+        "unidade": "BRL"
+      },
+      "B": {
+        "status": "DEFERIDO",
+        "valor": 950.17,
+        "unidade": "BRL"
+      }
+    },
+    {
+      "id": "PRO_ANISTIA",
+      "tipo": "só em A",
+      "A": {
+        "id_canonico": "PRO_ANISTIA",
+        "numero_clausula_original": 1,
+        "titulo_original": "ANISTIA",
+        "status": "DEFERIDO",
+        "valor_anterior": null,
+        "valor_atual": null,
+        "unidade": null,
+        "detalhes": {
+          "leis_aplicaveis": [
+            "8.632/93",
+            "8.878/94",
+            "10.559/2002",
+            "11.282/2006"
+          ],
+          "grupo_trabalho": true,
+          "prazo_gt": "30 dias após assinatura do ACT",
+          "composicao_gt": "5 representantes dos Correios + 5 membros indicados pelas Federações",
+          "paridade_genero": true
+        },
+        "observacao": null,
+        "pagina_referencia": 1
+      }
+    },
+    {
+      "id": "PRO_REVISAO_PROCESSOS_DISCIPLINARES",
+      "tipo": "divergente",
+      "A": {
+        "status": "DEFERIDO",
+        "valor": null,
+        "unidade": null
+      },
+      "B": {
+        "status": "INDEFERIDO",
+        "valor": null,
+        "unidade": null
+      }
+    },
+    {
+      "id": "SIN_ANISTIA",
+      "tipo": "só em B",
+      "B": {
+        "id_canonico": "SIN_ANISTIA",
+        "numero_clausula_original": 1,
+        "titulo_original": "ANISTIA",
+        "status": "DEFERIDO",
+        "detalhes": {
+          "leis_aplicaveis": [
+            "8.632/93",
+            "8.878/94",
+            "10.559/2002",
+            "11.282/2006"
+          ],
+          "grupo_trabalho": true,
+          "composicao_gt": "6 representantes dos Correios + 5 membros indicados pelas Federações",
+          "prazo_gt": "30 dias após assinatura do ACT"
+        },
+        "memoria_negociacao": {
+          "proposta_ect": "Manutenção da cláusula",
+          "pedido_fentect": "Manutenção com acréscimos",
+          "pedido_findect": "Manutenção",
+          "decisao_tst": "DEFERE nos termos propostos",
+          "fundamento_juridico": "Cláusula preexistente",
+          "votos_divergentes": null
+        },
+        "observacao": null,
+        "pagina_referencia": 1
+      }
+    },
+    {
+      "id": "SIN_APOSENTADOS",
+      "tipo": "só em B",
+      "B": {
+        "id_canonico": "SIN_APOSENTADOS",
+        "numero_clausula_original": 2,
+        "titulo_original": "APOSENTADOS(AS)",
+        "status": "DEFERIDO",
+        "detalhes": {
+          "dia_aposentado": "24 de janeiro",
+          "cracha_especifico": true,
+          "programa_preparacao": true,
+          "relacionamento_entidades": true
+        },
+        "memoria_negociacao": {
+          "proposta_ect": "Manutenção da cláusula",
+          "pedido_fentect": "Manutenção",
+          "pedido_findect": "Manutenção",
+          "decisao_tst": "DEFERE nos termos propostos",
+          "fundamento_juridico": "Cláusula preexistente",
+          "votos_divergentes": null
+        },
+        "observacao": null,
+        "pagina_referencia": 2
+      }
+    },
+    {
+      "id": "SIN_LIBERACAO_CONSELHOS",
+      "tipo": "divergente",
+      "A": {
+        "status": "DEFERIDO",
+        "valor": 5,
+        "unidade": "dias"
+      },
+      "B": {
+        "status": "INDEFERIDO",
+        "valor": null,
+        "unidade": "dias"
+      }
+    },
+    {
+      "id": "SIN_LIBERACAO_DIRIGENTES",
+      "tipo": "divergente",
+      "A": {
+        "status": "DEFERIDO",
+        "valor": 21,
+        "unidade": "quantidade"
+      },
+      "B": {
+        "status": "INDEFERIDO",
+        "valor": null,
+        "unidade": "quantidade"
+      }
+    },
+    {
+      "id": "SIN_PARCERIA_ASSOCIACOES_RECREATIVAS",
+      "tipo": "divergente",
+      "A": {
+        "status": "DEFERIDO",
+        "valor": null,
+        "unidade": null
+      },
+      "B": {
+        "status": "DEFERIDO_PARCIALMENTE",
+        "valor": null,
+        "unidade": null
+      }
+    },
+    {
+      "id": "SIN_PROGRAMA_HABITACIONAL",
+      "tipo": "divergente",
+      "A": {
+        "status": "DEFERIDO",
+        "valor": null,
+        "unidade": null
+      },
+      "B": {
+        "status": "INDEFERIDO",
+        "valor": null,
+        "unidade": null
+      }
+    },
+    {
+      "id": "SIN_REPASSE_MENSALIDADES",
+      "tipo": "divergente",
+      "A": {
+        "status": "DEFERIDO",
+        "valor": null,
+        "unidade": null
+      },
+      "B": {
+        "status": "REDUZIDO",
+        "valor": "5º dia útil",
+        "unidade": "prazo"
+      }
+    },
+    {
+      "id": "SOC_APOSENTADOS",
+      "tipo": "só em A",
+      "A": {
+        "id_canonico": "SOC_APOSENTADOS",
+        "numero_clausula_original": 3,
+        "titulo_original": "APOSENTADOS(AS)",
+        "status": "DEFERIDO",
+        "valor_anterior": null,
+        "valor_atual": null,
+        "unidade": null,
+        "detalhes": {
+          "dia_aposentado": "24 de janeiro",
+          "cracha_especifico": true,
+          "programa_preparacao": true,
+          "relacionamento_entidades": true,
+          "participacao_acoes_diversidade": true
+        },
+        "observacao": null,
+        "pagina_referencia": 2
+      }
+    },
+    {
+      "id": "SOC_LICENCA_ADOCAO",
+      "tipo": "divergente",
+      "A": {
+        "status": "DEFERIDO",
+        "valor": 14,
+        "unidade": "anos de idade"
+      },
+      "B": {
+        "status": "DEFERIDO",
+        "valor": null,
+        "unidade": null
+      }
+    },
+    {
+      "id": "SOC_LICENCA_MATERNIDADE",
+      "tipo": "divergente",
+      "A": {
+        "status": "DEFERIDO",
+        "valor": 60,
+        "unidade": "dias"
+      },
+      "B": {
+        "status": "DEFERIDO",
+        "valor": null,
+        "unidade": null
+      }
+    },
+    {
+      "id": "SOC_LICENCA_PATERNIDADE",
+      "tipo": "divergente",
+      "A": {
+        "status": "DEFERIDO",
+        "valor": 22,
+        "unidade": "dias"
+      },
+      "B": {
+        "status": "DEFERIDO",
+        "valor": null,
+        "unidade": null
+      }
+    },
+    {
+      "id": "SOC_PLANO_SAUDE",
+      "tipo": "divergente",
+      "A": {
+        "status": "DEFERIDO",
+        "valor": null,
+        "unidade": null
+      },
+      "B": {
+        "status": "REDUZIDO",
+        "valor": "Novo modelo sem ECT como mantenedora",
+        "unidade": null
+      }
+    },
+    {
+      "id": "SOC_SEGURANCA_EMPREGO",
+      "tipo": "só em B",
+      "B": {
+        "id_canonico": "SOC_SEGURANCA_EMPREGO",
+        "numero_clausula_original": 79,
+        "titulo_original": "SEGURANÇA NO EMPREGO",
+        "status": "DEFERIDO",
+        "detalhes": {
+          "validade_demissao": [
+            "a pedido",
+            "demissão motivada em ato formal (Tema 131 STF)"
+          ],
+          "vedacao_demissao_imotivada": true
+        },
+        "memoria_negociacao": {
+          "proposta_ect": "Manutenção da cláusula",
+          "pedido_fentect": "Manutenção",
+          "pedido_findect": "Manutenção",
+          "decisao_tst": "DEFERE nos termos propostos",
+          "fundamento_juridico": "Tema 131 da Tabela de Repercussão Geral do STF",
+          "votos_divergentes": null
+        },
+        "observacao": null,
+        "pagina_referencia": 31
+      }
+    }
+  ]
+}

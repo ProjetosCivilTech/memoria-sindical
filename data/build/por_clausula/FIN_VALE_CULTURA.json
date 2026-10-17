@@ -1,0 +1,169 @@
+[
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_CULTURA",
+    "numero_clausula_original": 53,
+    "titulo_original": "VALE CULTURA",
+    "status": "DEFERIDO",
+    "valor_atual": 50.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor": 50.0,
+      "base_legal": "Lei 12.761/2012",
+      "limite_salarial": "5 salários mínimos",
+      "compartilhamento": {
+        "até 1 SM": 2,
+        "1 a 2 SM": 4,
+        "2 a 3 SM": 6,
+        "3 a 4 SM": 8,
+        "4 a 5 SM": 10
+      }
+    },
+    "memoria_negociacao": null,
+    "observacao": "Nova cláusula.",
+    "pagina_referencia": "24-25"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_CULTURA",
+    "numero_clausula_original": 53,
+    "titulo_original": "VALE CULTURA",
+    "status": "DEFERIDO",
+    "valor_anterior": 50.0,
+    "valor_atual": 50.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 50.0,
+      "publico_alvo": "remuneração até 5 salários mínimos",
+      "compartilhamento": {
+        "até 1 SM": 2,
+        "1 a 2 SM": 4,
+        "2 a 3 SM": 6,
+        "3 a 4 SM": 8,
+        "4 a 5 SM": 10
+      }
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 31
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_CULTURA",
+    "numero_clausula_original": 53,
+    "titulo_original": "VALE CULTURA",
+    "status": "DEFERIDO",
+    "valor_atual": 50.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor": 50.0,
+      "limite_salarial": "5 salários mínimos",
+      "compartilhamento": {
+        "até 1 SM": 2,
+        "1 a 2 SM": 4,
+        "2 a 3 SM": 6,
+        "3 a 4 SM": 8,
+        "4 a 5 SM": 10
+      }
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "33-34"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_CULTURA",
+    "numero_clausula_original": 53,
+    "titulo_original": "VALE CULTURA",
+    "status": "DEFERIDO",
+    "valor_atual": 50.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 50.0,
+      "publico_alvo": "remuneração até 5 salários mínimos",
+      "compartilhamento": {
+        "até 1 SM": 2,
+        "1 a 2 SM": 4,
+        "2 a 3 SM": 6,
+        "3 a 4 SM": 8,
+        "4 a 5 SM": 10
+      },
+      "base_legal": "Lei 12.761/2012"
+    },
+    "pagina_referencia": "78-79"
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_CULTURA",
+    "numero_clausula_original": 53,
+    "titulo_original": "VALE CULTURA",
+    "status": "DEFERIDO",
+    "valor_anterior": 50.0,
+    "valor_atual": 50.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 50.0,
+      "publico_alvo": "remuneração até 5 salários mínimos",
+      "compartilhamento": {
+        "até 1 SM": 2,
+        "1 a 2 SM": 4,
+        "2 a 3 SM": 6,
+        "3 a 4 SM": 8,
+        "4 a 5 SM": 10
+      }
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 31
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "FIN_VALE_CULTURA",
+    "numero_clausula_original": 53,
+    "titulo_original": "VALE CULTURA",
+    "status": "MANTIDO",
+    "texto": "até o limite de 5 (cinco) salários mínimos, o Vale Cultura instituído pela Lei 12.761, de 27/12/2012, regulamentado pelo Decreto nº. 8.084 de 26 de agosto de 2013, no valor único mensal de R$ 50,00 (cinquenta reais), respeitado o compartilhamento e a opção do(a) empregado(a), não tendo natureza remuneratória. §1º O percentual de compartilhamento do Vale Cultura, ocorrerá na forma descrita abaixo: I – até um salário mínimo – dois por cento. II – acima de um salário mínimo e até dois salários mínimos – quatro por cento. III – acima de dois salários mínimos e até três salários mínimos – seis por cento. IV – acima de três salários mínimos e até quatro salários mínimos – oito por cento. V – acima de quatro salários mínimos e até cinco salários mínimos – dez por cento. §2º O valor do Vale Cultura será reajustado na forma da Lei. 65 --- PAGINA 66 --DAS QUESTÕES ECONÔMICAS 66 --- PAGINA 67 --CLÁUSULA 54 TÍTULO VI DAS QUESTÕES ECONÔMICAS",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "FIN_VALE_CULTURA",
+    "numero_clausula_original": 53,
+    "titulo_original": "VALE-CULTURA",
+    "status": "INDEFERIDO",
+    "detalhes": {
+      "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+    },
+    "memoria_negociacao": "SDC indeferiu",
+    "observacao": null,
+    "pagina_referencia": "113"
+  }
+]

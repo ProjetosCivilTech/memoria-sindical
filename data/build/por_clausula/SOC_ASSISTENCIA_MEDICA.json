@@ -1,0 +1,738 @@
+[
+  {
+    "ano_inicio": 1988,
+    "ano_fim": 1989,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+    "numero_clausula_original": 14,
+    "titulo_original": "ASSISTÊNCIA MÉDICA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "rever sistema com base em pesquisa de opinião",
+      "regionalizacao": true,
+      "implantacao": "com anuência do CISE se houver custo"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "4"
+  },
+  {
+    "ano_inicio": 1990,
+    "ano_fim": 1991,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+    "numero_clausula_original": 14,
+    "titulo_original": "ASSISTÊNCIA MÉDICA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "estudos de reformulação, com opção por sistema compartilhado"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "7"
+  },
+  {
+    "ano_inicio": 1992,
+    "ano_fim": 1992,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+    "numero_clausula_original": 14,
+    "titulo_original": "ASSISTÊNCIA MÉDICA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "sistema_compartilhado": true,
+      "percentuais": "praticados em dezembro/1991",
+      "exames_periodicos": "sem ônus"
+    },
+    "pagina_referencia": "4"
+  },
+  {
+    "ano_inicio": 1993,
+    "ano_fim": 1994,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+    "numero_clausula_original": 12,
+    "titulo_original": "ASSISTÊNCIA MÉDICA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "sistema_compartilhado": true,
+      "percentuais": "praticados em dezembro/1992",
+      "extensao_falecimento": "3 meses",
+      "exames_periodicos": "sem ônus",
+      "acidente_trabalho": "atendimento gratuito"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "7-8"
+  },
+  {
+    "ano_inicio": 1994,
+    "ano_fim": 1995,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+    "numero_clausula_original": 9,
+    "titulo_original": "ASSISTÊNCIA MÉDICA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "participacao_empregado": {
+        "B-01 a B-34": 10,
+        "M-01 a M-17": 15,
+        "S-01 a S-24": 20
+      },
+      "teto_compartilhamento": "2x salário-base",
+      "exames_periodicos": "sem ônus",
+      "acidente_trabalho": "atendimento gratuito",
+      "falecimento": "benefício mantido por 3 meses"
+    },
+    "memoria_negociacao": null,
+    "observacao": "Faixas salariais B, M e S (nomenclatura anterior a RS).",
+    "pagina_referencia": "3-4"
+  },
+  {
+    "ano_inicio": 1995,
+    "ano_fim": 1996,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+    "numero_clausula_original": 10,
+    "titulo_original": "ASSISTÊNCIA MÉDICA/HOSPITALAR/ODONTOLÓGICA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "participacao_empregado": {
+        "RS-01 a RS-16": 10,
+        "RS-17 a RS-32": 15,
+        "RS-33 a RS-65": 20
+      },
+      "teto_compartilhamento": "2x salário-base",
+      "extensao_conjuge": true,
+      "falecimento": "3 meses"
+    }
+  },
+  {
+    "ano_inicio": 1997,
+    "ano_fim": 1998,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+    "numero_clausula_original": 10,
+    "titulo_original": "ASSISTÊNCIA MÉDICA/HOSPITALAR/ODONTOLÓGICA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "participacao_empregado": {
+        "RS-01 a RS-16": 10,
+        "RS-17 a RS-32": 15,
+        "RS-33 a RS-65": 20
+      },
+      "teto_compartilhamento": "2x salário-base"
+    }
+  },
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+    "numero_clausula_original": 10,
+    "titulo_original": "ASSISTÊNCIA MÉDICA/HOSPITALAR/ODONTOLÓGICA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "participacao_empregado": {
+        "RS-01 a RS-16": 10,
+        "RS-17 a RS-32": 15,
+        "RS-33 a RS-65": 20
+      },
+      "teto_compartilhamento": "2x salário-base",
+      "falecimento": "3 meses"
+    }
+  },
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+    "numero_clausula_original": 9,
+    "titulo_original": "ASSISTÊNCIA MÉDICA / HOSPITALAR E ODONTOLÓGICA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "participacao_empregado": {
+        "RS-01 a RS-16": 10,
+        "RS-17 a RS-32": 15,
+        "RS-33 a RS-65": 20
+      },
+      "teto_compartilhamento": "2x salário-base",
+      "exames_periodicos": "sem ônus",
+      "acidente_trabalho": "atendimento gratuito",
+      "falecimento": "benefício mantido por 3 meses",
+      "extensao_conjuges": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "3-4"
+  },
+  {
+    "ano_inicio": 2000,
+    "ano_fim": 2001,
+    "tipo": "DC",
+    "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+    "numero_clausula_original": 9,
+    "titulo_original": "ASSISTÊNCIA MÉDICO HOSPITALAR ODONTOLÓGICA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "participacao_empregado": {
+        "RS-01 a RS-16": 10,
+        "RS-17 a RS-32": 15,
+        "RS-33 a RS-65": 20
+      },
+      "teto_compartilhamento": "2x salário-base",
+      "exames_periodicos": "sem ônus",
+      "acidente_trabalho": "atendimento gratuito",
+      "falecimento": "benefício mantido por 3 meses",
+      "exclusao": "internação opcional em quarto simples"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "Cláusula incontroversa.",
+    "pagina_referencia": "3-4"
+  },
+  {
+    "ano_inicio": 2001,
+    "ano_fim": 2002,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+    "numero_clausula_original": 9,
+    "titulo_original": "ASSISTÊNCIA MÉDICA / HOSPITALAR E ODONTOLÓGICA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "participacao_empregado": {
+        "RS-01 a RS-16": 10,
+        "RS-17 a RS-32": 15,
+        "RS-33 a RS-65": 20
+      },
+      "teto_compartilhamento": {
+        "ativos": "2x salário-base",
+        "aposentados": "3x soma INSS + POSTALIS"
+      },
+      "exames_periodicos": "sem ônus",
+      "acidente_trabalho": "atendimento gratuito",
+      "auxilio_doenca": "compartilhado",
+      "falecimento": "benefício mantido por 3 meses"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "3-4"
+  },
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+    "numero_clausula_original": 11,
+    "titulo_original": "ASSISTÊNCIA MÉDICA - HOSPITALAR E ODONTOLÓGICA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "participacao_empregado": {
+        "RS-01 a RS-16": 10,
+        "RS-17 a RS-32": 15,
+        "RS-33 a RS-65": 20
+      },
+      "teto_compartilhamento": {
+        "ativos": "2x salário-base",
+        "aposentados": "3x soma INSS + POSTALIS"
+      },
+      "exames_periodicos": "sem ônus",
+      "acidente_trabalho": "atendimento gratuito",
+      "auxilio_doenca": "compartilhado",
+      "transporte_emergencial": true,
+      "falecimento": "benefício mantido por 180 dias",
+      "inclusao_pais": {
+        "idade_minima": 55,
+        "renda_maxima": "1,2 salários mínimos"
+      },
+      "programa_gerenciamento_doencas": "estudo em 4 meses"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "6-7"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+    "numero_clausula_original": 11,
+    "titulo_original": "ASSISTÊNCIA MÉDICA / HOSPITALAR E ODONTOLÓGICA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "participacao_empregado": {
+        "RS-01 a RS-16": 10,
+        "RS-17 a RS-32": 15,
+        "RS-33 a RS-65": 20
+      },
+      "teto_compartilhamento": {
+        "ativos": "2x salário-base",
+        "aposentados": "3x soma INSS + POSTALIS"
+      },
+      "exames_periodicos": "sem ônus",
+      "acidente_trabalho": "atendimento gratuito",
+      "auxilio_doenca": "compartilhado",
+      "transporte_emergencial": true,
+      "aposentados": "mínimo 10 anos de serviço",
+      "inclusao_ex_empregados": "aposentados a partir de 01/01/1986",
+      "inclusao_pais": {
+        "idade_minima": 55,
+        "renda_maxima": "1,2 salários mínimos"
+      },
+      "falecimento": "benefício mantido por 180 dias para dependentes"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "A Ata de 17/09/2004 corrigiu a redação do caput para incluir 'desligados sem justa causa ou a pedido'.",
+    "pagina_referencia": "5-7"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+    "numero_clausula_original": 11,
+    "titulo_original": "ASSISTÊNCIA MÉDICA / HOSPITALAR E ODONTOLÓGICA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "participacao_empregado": {
+        "RS-01 a RS-16": 10,
+        "RS-17 a RS-32": 15,
+        "RS-33 a RS-65": 20
+      },
+      "teto_compartilhamento": {
+        "ativos": "2x salário-base",
+        "aposentados": "3x soma INSS + POSTALIS"
+      },
+      "exames_periodicos": "sem ônus",
+      "acidente_trabalho": "atendimento gratuito",
+      "auxilio_doenca": "compartilhado",
+      "transporte_emergencial": true,
+      "aposentados": "mínimo 10 anos de serviço",
+      "inclusao_ex_empregados": "aposentados a partir de 01/01/1986"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "A Ata de 17/09/2004 corrigiu a redação do caput para incluir 'desligados sem justa causa ou a pedido'.",
+    "pagina_referencia": "4-5"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+    "numero_clausula_original": 11,
+    "titulo_original": "ASSISTÊNCIA MÉDICA/HOSPITALAR E ODONTOLÓGICA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "participacao_empregado": {
+        "RS-01 a RS-16": 10,
+        "RS-17 a RS-32": 15,
+        "RS-33 a RS-65": 20
+      },
+      "teto_ativos": "2x salário-base",
+      "teto_aposentados": "3x INSS + POSTALIS",
+      "exames_periodicos": "sem ônus",
+      "acidente_trabalho": "gratuito",
+      "auxilio_doenca": "compartilhado",
+      "transporte_emergencial": true,
+      "aposentados": "mínimo 10 anos",
+      "inclusao_pais": {
+        "idade_minima": 55,
+        "renda_maxima": "1,2 SM"
+      }
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+    "numero_clausula_original": 11,
+    "titulo_original": "ASSISTÊNCIA MÉDICA / HOSPITALAR E ODONTOLÓGICA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "modelo": "Correios Saúde",
+      "participacao_empregado": {
+        "RS-01 a RS-16": 10,
+        "RS-17 a RS-32": 15,
+        "RS-33 a RS-65": 20
+      },
+      "teto_compartilhamento": {
+        "ativos": "2x salário-base",
+        "aposentados": "3x soma INSS + POSTALIS"
+      },
+      "exames_periodicos": "sem ônus",
+      "acidente_trabalho": "atendimento gratuito",
+      "auxilio_doenca": "compartilhado",
+      "transporte_emergencial": true,
+      "aposentados": "mínimo 10 anos de serviço",
+      "inclusao_pais": {
+        "idade_minima": 55,
+        "renda_maxima": "1,2 salários mínimos"
+      },
+      "internacao_apartamento": {
+        "casos": [
+          "politraumatizados",
+          "queimaduras 2º e 3º graus >5 UT",
+          "deficiência grave de fala/locomoção"
+        ],
+        "co_participacao": "padrão enfermaria"
+      },
+      "grupo_trabalho": "discussão da Assistência Médica na vigência do acordo"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção com inclusão do MANPES Módulo 16",
+      "pedido_fentect": "Retirada da menção ao MANPES; garantia dos procedimentos do Plano; inclusão dos pais",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": "Incluído §8º sobre internação em apartamento. Garantida a permanência dos dependentes já inscritos.",
+    "pagina_referencia": "6-7"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+    "numero_clausula_original": 11,
+    "titulo_original": "ASSISTÊNCIA MÉDICA/HOSPITALAR E ODONTOLÓGICA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "modelo": "Correios Saúde",
+      "participacao_empregado": {
+        "RS-01 a RS-16": 10,
+        "RS-17 a RS-32": 15,
+        "RS-33 a RS-65": 20
+      },
+      "teto_compartilhamento": {
+        "ativos": "2x salário-base",
+        "aposentados": "3x soma INSS + POSTALIS"
+      },
+      "exames_periodicos": "sem ônus",
+      "acidente_trabalho": "atendimento gratuito",
+      "auxilio_doenca": "compartilhado",
+      "transporte_emergencial": true,
+      "aposentados": "mínimo 10 anos de serviço"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "Cláusula 11 sem o §8º (reuniões para aprimoramento do Correios Saúde) que existia no ACT 2007/2008.",
+    "pagina_referencia": 5
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+    "numero_clausula_original": 11,
+    "titulo_original": "ASSISTÊNCIA MÉDICA / HOSPITALAR E ODONTOLÓGICA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "modelo": "Correios Saúde",
+      "participacao_empregado": {
+        "NM-01 a NM-16": 10,
+        "NM-17 a NM-48": 15,
+        "NM-49 a NM-90": 20,
+        "NS-01 a NS-60": 20
+      },
+      "teto_compartilhamento": {
+        "ativos": "2x salário-base",
+        "aposentados": "3x soma INSS + POSTALIS"
+      },
+      "exames_periodicos": "sem ônus",
+      "falecimento": "mantido"
+    },
+    "memoria_negociacao": null,
+    "observacao": "Faixas salariais atualizadas para NM/NS (novo PCCS 2008).",
+    "pagina_referencia": "5"
+  },
+  {
+    "ano_inicio": 2011,
+    "ano_fim": 2012,
+    "tipo": "DCG",
+    "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+    "numero_clausula_original": 11,
+    "titulo_original": "ASSISTÊNCIA MÉDICA/HOSPITALAR E ODONTOLÓGICA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "modelo": "Correios Saúde",
+      "participacao_empregado": {
+        "NM-01 a NM-16": 10,
+        "NM-17 a NM-48": 15,
+        "NM-49 a NM-90": 20,
+        "NS-01 a NS-60": 20
+      },
+      "teto_compartilhamento": {
+        "ativos": "2x salário-base",
+        "aposentados": "3x soma INSS + POSTALIS"
+      }
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Ampliação da cobertura",
+      "decisao_tst": "DEFERE a manutenção da cláusula 11 do acórdão normativo anterior",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 46
+  },
+  {
+    "ano_inicio": 2012,
+    "ano_fim": 2013,
+    "tipo": "DCG",
+    "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+    "numero_clausula_original": 11,
+    "titulo_original": "ASSISTÊNCIA MÉDICA/HOSPITALAR E ODONTOLÓGICA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "modelo": "Correios Saúde",
+      "participacao_empregado": {
+        "NM-01 a NM-16": 10,
+        "NM-17 a NM-48": 15,
+        "NM-49 a NM-90": 20,
+        "NS-01 a NS-60": 20
+      },
+      "teto_compartilhamento": {
+        "ativos": "2x salário-base",
+        "aposentados": "3x soma INSS + POSTALIS"
+      },
+      "comissao_paritaria": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula 11",
+      "pedido_fentect": "Ampliação da cobertura sem ônus",
+      "decisao_tst": "DEFERE a manutenção da cláusula 11 do acórdão normativo anterior, com acréscimo de estudo atuarial por comissão paritária",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 48
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+    "numero_clausula_original": 11,
+    "titulo_original": "ASSISTÊNCIA MÉDICA/HOSPITALAR E ODONTOLÓGICA",
+    "status": "MANTIDO",
+    "texto": "ECT como gestora. Atende ativos, aposentados na ativa, aposentados desligados e por invalidez, e dependentes. Compartilhamento por faixa salarial: NM-01 a NM-16 = 10%; NM-17 a NM-48 = 15%; NM-49 a NM-90 = 20%; NS-01 a NS-60 = 20%. Teto: 2x salário-base (ativos) ou 3x soma INSS+POSTALIS (aposentados). Ressarcimento medicamentos até R$ 28/mês.",
+    "observacao": "Idêntica ao DC 2013-2014.",
+    "pagina_referencia": 4
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+    "numero_clausula_original": 11,
+    "titulo_original": "ASSISTÊNCIA MÉDICA/HOSPITALAR E ODONTOLÓGICA",
+    "status": "MANTIDO",
+    "texto": "ECT como gestora. Atende ativos, aposentados na ativa, aposentados desligados e por invalidez, e dependentes. Compartilhamento por faixa salarial: NM-01 a NM-16 = 10%; NM-17 a NM-48 = 15%; NM-49 a NM-90 = 20%; NS-01 a NS-60 = 20%. Teto: 2x salário-base (ativos) ou 3x soma INSS+POSTALIS (aposentados). Ressarcimento de medicamentos até R$ 28,00/mês.",
+    "observacao": "Idêntica ao DC 2012-2013.",
+    "pagina_referencia": 77
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+    "numero_clausula_original": 28,
+    "titulo_original": "ASSISTÊNCIA MÉDICA/HOSPITALAR E ODONTOLÓGICA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "participacao_empregado": {
+        "NM-01 a NM-16": 10,
+        "NM-17 a NM-48": 15,
+        "NM-49 a NM-90": 20,
+        "NS-01 a NS-60": 20
+      },
+      "comissao_paritaria": "14 representantes",
+      "PBM": "Postal Benefício Medicamento",
+      "prazo_propostas": "30/01/2017"
+    },
+    "memoria_negociacao": null,
+    "observacao": "Criação de comissão paritária e PBM.",
+    "pagina_referencia": "13-14"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+    "numero_clausula_original": 28,
+    "titulo_original": "ASSISTÊNCIA MÉDICA/HOSPITALAR E ODONTOLÓGICA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "modelo": "Correios Saúde",
+      "participacao_empregado": {
+        "NM-01 a NM-16": 10,
+        "NM-17 a NM-48": 15,
+        "NM-49 a NM-90": 20,
+        "NS-01 a NS-60": 20
+      },
+      "teto_compartilhamento": {
+        "ativos": "2x salário-base",
+        "aposentados": "3x soma INSS + POSTALIS"
+      },
+      "comissao_paritaria": true,
+      "pbm": true,
+      "manutencao_dependentes": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 16
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+    "numero_clausula_original": 28,
+    "titulo_original": "ASSISTÊNCIA MÉDICA/HOSPITALAR E ODONTOLÓGICA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "participacao_empregado": {
+        "NM-01 a NM-16": 10,
+        "NM-17 a NM-48": 15,
+        "NM-49 a NM-90": 20,
+        "NS-01 a NS-60": 20
+      },
+      "comissao_paritaria": "14 representantes",
+      "PBM": true,
+      "prazo_propostas": "30/01/2017"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "17-18"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+    "numero_clausula_original": 28,
+    "titulo_original": "ASSISTÊNCIA MÉDICA/HOSPITALAR E ODONTOLÓGICA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "participacao_empregado": {
+        "NM-01 a NM-16": 10,
+        "NM-17 a NM-48": 15,
+        "NM-49 a NM-90": 20,
+        "NS-01 a NS-60": 20
+      },
+      "teto_compartilhamento": {
+        "ativos": "2x salário-base",
+        "aposentados": "3x soma INSS + POSTALIS"
+      },
+      "exames_periodicos": "sem ônus",
+      "acidente_trabalho": "gratuito",
+      "auxilio_doenca": "compartilhado",
+      "transporte_emergencial": true,
+      "aposentados": "mínimo 10 anos, último período mínimo 5 anos",
+      "PBM": true,
+      "comissao_paritaria": "14 trabalhadores (7 FENTECT + 7 FINDECT) + 14 empresa"
+    },
+    "pagina_referencia": "43-46"
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+    "numero_clausula_original": 28,
+    "titulo_original": "ASSISTÊNCIA MÉDICA/HOSPITALAR E ODONTOLÓGICA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "modelo": "Correios Saúde",
+      "participacao_empregado": {
+        "NM-01 a NM-16": 10,
+        "NM-17 a NM-48": 15,
+        "NM-49 a NM-90": 20,
+        "NS-01 a NS-60": 20
+      },
+      "teto_compartilhamento": {
+        "ativos": "2x salário-base",
+        "aposentados": "3x soma INSS + POSTALIS"
+      },
+      "comissao_paritaria": true,
+      "pbm": true,
+      "manutencao_dependentes": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 15
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+    "numero_clausula_original": 28,
+    "titulo_original": "ASSISTÊNCIA MÉDICA/HOSPITALAR E ODONTOLÓGICA ...........................................................................",
+    "status": "MANTIDO",
+    "texto": "Cláusula 29 – ATESTADO DE SAÚDE NA DEMISSÃO ......................................................................................................................... 48",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2020,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+    "numero_clausula_original": 3,
+    "titulo_original": "PLANO DE SAÚDE DOS EMPREGADOS DOS CORREIOS .............................................................................",
+    "status": "MANTIDO",
+    "texto": "Cláusula 04 – ACUMULAÇÃO DE VANTAGENS ...................................................................................................................................09 Cláusula 05 – REGISTRO DE PONTO ..................................................................................................................................................10 Cláusula 06 – ANISTIA .......................................................................................................................................................................12 Cláusula 07 – ASSÉDIO SEXUAL E MORAL ..........................................................................................................................................13 Cláusula 08 – SAÚDE DA MULHER .....................................................................................................................................................16 Cláusula 09 – FORNECIMENTO DE DOCUMENTOS ............................................................................................................................17 Cláusula 10 – ATESTADO DE SAÚDE NA DEMISSÃO ..........................................................................................................................18",
+    "novo_id": false,
+    "observacao": "[Transformação do modelo Correios Saúde → Postal Saúde. O TST considerou esta cláusula como MANTIDA, com nova redação.]"
+  }
+]

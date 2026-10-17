@@ -1,0 +1,17 @@
+[
+  {
+    "ano_inicio": 1988,
+    "ano_fim": 1989,
+    "tipo": "ACT",
+    "id_canonico": "PRO_RETROATIVIDADE",
+    "numero_clausula_original": 26,
+    "titulo_original": "RETROATIVIDADE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "regra": "pagamento retroativo à data de apresentação do requerimento"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "8"
+  }
+]

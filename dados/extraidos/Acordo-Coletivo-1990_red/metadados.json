@@ -1,0 +1,109 @@
+{
+  "arquivo_origem": "Acordo-Coletivo-1990_red.pdf",
+  "metadados_pdf": {
+    "titulo": null,
+    "autor": null,
+    "assunto": null,
+    "criador": "HP PDF Formatter version 1.0.0.446",
+    "produtor": "Adobe PDF Library 5.0",
+    "criado_em": "D:20101129101232-01'00'",
+    "modificado_em": "D:20160615172255-03'00'"
+  },
+  "paginas_info": [
+    {
+      "pagina": 1,
+      "metodo": "OCR",
+      "chars": 68,
+      "conf_ocr": 73.8
+    },
+    {
+      "pagina": 2,
+      "metodo": "OCR",
+      "chars": 1402,
+      "conf_ocr": 48.3
+    },
+    {
+      "pagina": 3,
+      "metodo": "OCR",
+      "chars": 299,
+      "conf_ocr": 43.8
+    },
+    {
+      "pagina": 4,
+      "metodo": "OCR",
+      "chars": 1950,
+      "conf_ocr": 89.0
+    },
+    {
+      "pagina": 5,
+      "metodo": "OCR",
+      "chars": 1689,
+      "conf_ocr": 89.0
+    },
+    {
+      "pagina": 6,
+      "metodo": "OCR",
+      "chars": 1822,
+      "conf_ocr": 88.5
+    },
+    {
+      "pagina": 7,
+      "metodo": "OCR",
+      "chars": 1596,
+      "conf_ocr": 85.7
+    },
+    {
+      "pagina": 8,
+      "metodo": "OCR",
+      "chars": 1618,
+      "conf_ocr": 88.6
+    },
+    {
+      "pagina": 9,
+      "metodo": "OCR",
+      "chars": 1819,
+      "conf_ocr": 90.1
+    },
+    {
+      "pagina": 10,
+      "metodo": "OCR",
+      "chars": 1702,
+      "conf_ocr": 87.0
+    },
+    {
+      "pagina": 11,
+      "metodo": "OCR",
+      "chars": 792,
+      "conf_ocr": 69.8
+    },
+    {
+      "pagina": 12,
+      "metodo": "OCR",
+      "chars": 438,
+      "conf_ocr": 68.9
+    },
+    {
+      "pagina": 13,
+      "metodo": "OCR",
+      "chars": 1477,
+      "conf_ocr": 89.0
+    },
+    {
+      "pagina": 14,
+      "metodo": "OCR",
+      "chars": 1721,
+      "conf_ocr": 89.4
+    },
+    {
+      "pagina": 15,
+      "metodo": "OCR",
+      "chars": 467,
+      "conf_ocr": 90.1
+    }
+  ],
+  "paginas_total": 15,
+  "paginas_ocr": 15,
+  "conf_ocr_media": 79.4,
+  "metodo": "ocr",
+  "tempo_s": 29.62
+}

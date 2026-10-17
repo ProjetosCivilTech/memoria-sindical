@@ -1,0 +1,139 @@
+{
+  "arquivo_origem": "Acordo-Coletivo-1993_red.pdf",
+  "metadados_pdf": {
+    "titulo": null,
+    "autor": null,
+    "assunto": null,
+    "criador": "HP PDF Formatter version 1.0.0.446",
+    "produtor": "Adobe PDF Library 5.0",
+    "criado_em": "D:20101129104413-01'00'",
+    "modificado_em": "D:20160615172144-03'00'"
+  },
+  "paginas_info": [
+    {
+      "pagina": 1,
+      "metodo": "OCR",
+      "chars": 1399,
+      "conf_ocr": 84.4
+    },
+    {
+      "pagina": 2,
+      "metodo": "OCR",
+      "chars": 1244,
+      "conf_ocr": 79.7
+    },
+    {
+      "pagina": 3,
+      "metodo": "OCR",
+      "chars": 1201,
+      "conf_ocr": 83.8
+    },
+    {
+      "pagina": 4,
+      "metodo": "OCR",
+      "chars": 1391,
+      "conf_ocr": 86.5
+    },
+    {
+      "pagina": 5,
+      "metodo": "OCR",
+      "chars": 1198,
+      "conf_ocr": 84.1
+    },
+    {
+      "pagina": 6,
+      "metodo": "OCR",
+      "chars": 1141,
+      "conf_ocr": 80.4
+    },
+    {
+      "pagina": 7,
+      "metodo": "OCR",
+      "chars": 1180,
+      "conf_ocr": 87.4
+    },
+    {
+      "pagina": 8,
+      "metodo": "OCR",
+      "chars": 1087,
+      "conf_ocr": 81.6
+    },
+    {
+      "pagina": 9,
+      "metodo": "OCR",
+      "chars": 1295,
+      "conf_ocr": 84.1
+    },
+    {
+      "pagina": 10,
+      "metodo": "OCR",
+      "chars": 1189,
+      "conf_ocr": 83.0
+    },
+    {
+      "pagina": 11,
+      "metodo": "OCR",
+      "chars": 1375,
+      "conf_ocr": 84.0
+    },
+    {
+      "pagina": 12,
+      "metodo": "OCR",
+      "chars": 1226,
+      "conf_ocr": 83.8
+    },
+    {
+      "pagina": 13,
+      "metodo": "OCR",
+      "chars": 1181,
+      "conf_ocr": 80.4
+    },
+    {
+      "pagina": 14,
+      "metodo": "OCR",
+      "chars": 1044,
+      "conf_ocr": 83.8
+    },
+    {
+      "pagina": 15,
+      "metodo": "OCR",
+      "chars": 1405,
+      "conf_ocr": 84.3
+    },
+    {
+      "pagina": 16,
+      "metodo": "OCR",
+      "chars": 1262,
+      "conf_ocr": 86.4
+    },
+    {
+      "pagina": 17,
+      "metodo": "OCR",
+      "chars": 1220,
+      "conf_ocr": 84.2
+    },
+    {
+      "pagina": 18,
+      "metodo": "OCR",
+      "chars": 1210,
+      "conf_ocr": 83.4
+    },
+    {
+      "pagina": 19,
+      "metodo": "OCR",
+      "chars": 1045,
+      "conf_ocr": 84.8
+    },
+    {
+      "pagina": 20,
+      "metodo": "OCR",
+      "chars": 997,
+      "conf_ocr": 61.4
+    }
+  ],
+  "paginas_total": 20,
+  "paginas_ocr": 20,
+  "conf_ocr_media": 82.6,
+  "metodo": "ocr",
+  "tempo_s": 40.03
+}

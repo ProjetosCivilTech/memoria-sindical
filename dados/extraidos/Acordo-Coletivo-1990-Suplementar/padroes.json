@@ -1,0 +1,62 @@
+{
+  "datas_br": {
+    "total": 0,
+    "amostra": []
+  },
+  "datas_ext": {
+    "total": 1,
+    "amostra": [
+      "91 de dezembro de 1990"
+    ]
+  },
+  "valores_brl": {
+    "total": 1,
+    "amostra": [
+      "R$ 280,00"
+    ]
+  },
+  "percentuais": {
+    "total": 11,
+    "amostra": [
+      "50%",
+      "30%",
+      "70%",
+      "50%",
+      "50%",
+      "10,25%",
+      "5%",
+      "5%",
+      "50%",
+      "50%",
+      "50%"
+    ]
+  },
+  "clausulas": {
+    "total": 0,
+    "amostra": []
+  },
+  "processos_tst": {
+    "total": 0,
+    "amostra": []
+  },
+  "cnpj": {
+    "total": 0,
+    "amostra": []
+  },
+  "artigos": {
+    "total": 0,
+    "amostra": []
+  },
+  "incisos": {
+    "total": 3,
+    "amostra": [
+      "DC",
+      "M",
+      "M"
+    ]
+  },
+  "paragrafos": {
+    "total": 0,
+    "amostra": []
+  }
+}

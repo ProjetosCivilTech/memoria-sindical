@@ -1,0 +1,31 @@
+[
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DCG",
+    "id_canonico": "FIN_DESCONTO_ASSISTENCIAL",
+    "numero_clausula_original": 17,
+    "titulo_original": "DESCONTO ASSISTENCIAL",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": 50,
+    "unidade": "% de um salário-dia",
+    "detalhes": {
+      "percentual": 50,
+      "base_calculo": "um salário-dia",
+      "mes_desconto": "2º mês após a sentença normativa",
+      "direito_oposicao": true,
+      "vedacao_ECT": "não pode incentivar oposição"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Excluir a cláusula",
+      "pedido_fentect": "Manutenção da cláusula preexistente",
+      "pedido_findect": "Manutenção da cláusula preexistente",
+      "decisao_tst": "DEFERE a cláusula com base no Termo Aditivo nº 1 do ACT 2018/2019",
+      "fundamento_juridico": "Art. 513, 'e', CLT",
+      "votos_divergentes": "Ministros Ives Gandra, Aloysio Corrêa e Dora Maria"
+    },
+    "observacao": "Contribuição (cota negocial) de 50% de um salário-dia. Direito de oposição individual.",
+    "pagina_referencia": 82
+  }
+]

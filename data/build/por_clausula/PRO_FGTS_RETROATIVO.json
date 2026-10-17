@@ -1,0 +1,18 @@
+[
+  {
+    "ano_inicio": 1990,
+    "ano_fim": 1991,
+    "tipo": "ACT",
+    "id_canonico": "PRO_FGTS_RETROATIVO",
+    "numero_clausula_original": 20,
+    "titulo_original": "OPÇÃO RETROATIVA PELO FGTS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "retroacao": "15/07/1975",
+      "prazo": "até 30/04/1990"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "8"
+  }
+]

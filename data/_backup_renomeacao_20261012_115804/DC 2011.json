@@ -1,0 +1,447 @@
+{
+  "metadados_documento": {
+    "tipo": "DCG",
+    "ano_inicio": 2011,
+    "ano_fim": 2012,
+    "processo": "TST-DC-6535-37.2011.5.00.0000",
+    "tribunal": "TST",
+    "orgao": "SDC",
+    "relator": "Ministro Mauricio Godinho Delgado",
+    "data_julgamento": "2011-10-11",
+    "data_publicacao": "2011-10-14",
+    "entidade_patronal": "ECT",
+    "entidades_profissionais": ["FENTECT"],
+    "arquivo_origem": "acordao-tst--dissidio-2011--julgamento.pdf",
+    "greve": {
+      "deflagracao": null,
+      "intensificacao": null,
+      "abusividade": "NÃO ABUSIVA",
+      "retorno_trabalho": "2011-10-13"
+    }
+  },
+  "clausulas": [
+    {
+      "id_canonico": "FIN_REAJUSTE_SALARIAL",
+      "numero_clausula_original": 52,
+      "titulo_original": "REAJUSTE SALARIAL",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": 6.87,
+      "unidade": "%",
+      "detalhes": {
+        "indice_aplicado": "6,87% (linear)",
+        "data_base": "2011-08-01",
+        "incidencia": "tabela salarial",
+        "base_legal": "Sentença normativa"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Reajuste de 6,5%",
+        "pedido_fentect": "Reajuste de 7,13%",
+        "decisao_tst": "DEFERE reajuste de 6,87%",
+        "fundamento_juridico": "Art. 766 CLT",
+        "votos_divergentes": null
+      },
+      "observacao": "O TST fixou reajuste de 6,87%, superior aos 6,5% propostos pela ECT.",
+      "pagina_referencia": 84
+    },
+    {
+      "id_canonico": "FIN_AUMENTO_LINEAR",
+      "numero_clausula_original": null,
+      "titulo_original": "AUMENTO LINEAR",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": 60.00,
+      "unidade": "BRL",
+      "detalhes": {
+        "valor": 60.00,
+        "data_inicio": "2012-01-02",
+        "publico_alvo": "todos os empregados"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "R$ 60,00",
+        "pedido_fentect": "R$ 200,00",
+        "decisao_tst": "DEFERE R$ 60,00",
+        "fundamento_juridico": "Proposta da ECT aceita em audiência",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 85
+    },
+    {
+      "id_canonico": "FIN_ABONO",
+      "numero_clausula_original": null,
+      "titulo_original": "ABONO",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": 800.00,
+      "unidade": "BRL",
+      "detalhes": {
+        "valor": 800.00,
+        "pagamento": "50% em até 15 dias após assinatura + 50% em 01/01/2012",
+        "publico_alvo": "admitidos até 31/07/2011"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "R$ 500,00",
+        "pedido_fentect": "R$ 800,00",
+        "decisao_tst": "DEFERE R$ 800,00 (proposta da ECT em audiência)",
+        "fundamento_juridico": "Proposta da ECT aceita em audiência",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 84
+    },
+    {
+      "id_canonico": "FIN_VALE_EXTRA",
+      "numero_clausula_original": null,
+      "titulo_original": "VALE EXTRA",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": 575.00,
+      "unidade": "BRL",
+      "detalhes": {
+        "valor": 575.00,
+        "pagamento": "dezembro de 2011",
+        "publico_alvo": "admitidos até 31/07/2011"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "R$ 575,00",
+        "pedido_fentect": "R$ 563,50",
+        "decisao_tst": "DEFERE R$ 575,00 (proposta da ECT)",
+        "fundamento_juridico": "Proposta da ECT aceita em audiência",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 84
+    },
+    {
+      "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+      "numero_clausula_original": 11,
+      "titulo_original": "ASSISTÊNCIA MÉDICA/HOSPITALAR E ODONTOLÓGICA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "modelo": "Correios Saúde",
+        "participacao_empregado": {
+          "NM-01 a NM-16": 10,
+          "NM-17 a NM-48": 15,
+          "NM-49 a NM-90": 20,
+          "NS-01 a NS-60": 20
+        },
+        "teto_compartilhamento": {
+          "ativos": "2x salário-base",
+          "aposentados": "3x soma INSS + POSTALIS"
+        }
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Ampliação da cobertura",
+        "decisao_tst": "DEFERE a manutenção da cláusula 11 do acórdão normativo anterior",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 46
+    },
+    {
+      "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+      "numero_clausula_original": 13,
+      "titulo_original": "AUXÍLIO PARA FILHOS DEPENDENTES, PORTADORES DE NECESSIDADES ESPECIAIS",
+      "status": "DEFERIDO",
+      "valor_anterior": 611.00,
+      "valor_atual": 611.00,
+      "unidade": "BRL",
+      "detalhes": {
+        "valor_mensal": 611.00,
+        "publico_alvo": ["filhos", "enteados", "tutelados"],
+        "reembolso_licenca_medica": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção",
+        "pedido_fentect": "Reajuste",
+        "decisao_tst": "DEFERE a manutenção com reajuste de 6,87%",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 47
+    },
+    {
+      "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+      "numero_clausula_original": 53,
+      "titulo_original": "REEMBOLSO-CRECHE E REEMBOLSO-BABÁ",
+      "status": "DEFERIDO",
+      "valor_anterior": 384.95,
+      "valor_atual": 384.95,
+      "unidade": "BRL",
+      "detalhes": {
+        "valor_mensal": 384.95,
+        "idade_limite": "até 7 anos",
+        "participacao_empregada": "5%",
+        "participacao_empresa": "95%"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção",
+        "pedido_fentect": "Reajuste",
+        "decisao_tst": "DEFERE a manutenção com reajuste de 6,87%",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 65
+    },
+    {
+      "id_canonico": "FIN_VALE_ALIMENTACAO",
+      "numero_clausula_original": 61,
+      "titulo_original": "VALE REFEIÇÃO/ALIMENTAÇÃO",
+      "status": "DEFERIDO",
+      "valor_anterior": 25.00,
+      "valor_atual": 25.00,
+      "unidade": "BRL",
+      "detalhes": {
+        "valor_facial": 25.00,
+        "quantidade": "23 ou 27 vales",
+        "vale_cesta": 140.00,
+        "compartilhamento": {
+          "NM-01 a NM-18": 5,
+          "NM-19 a NM-38": 10,
+          "NM-39 a NM-90": 15,
+          "NS-01 a NS-60": 15
+        },
+        "vale_extra": 563.50
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção",
+        "pedido_fentect": "Reajuste",
+        "decisao_tst": "DEFERE a manutenção com reajuste de 6,87%",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 61
+    },
+    {
+      "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+      "numero_clausula_original": 30,
+      "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+      "status": "DEFERIDO",
+      "valor_anterior": 150.09,
+      "valor_atual": 150.09,
+      "unidade": "BRL",
+      "detalhes": {
+        "valor_sem_banco_postal": 150.09,
+        "valor_com_banco_postal": 200.11,
+        "publico_alvo": "guichês de agências"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção",
+        "pedido_fentect": "Reajuste",
+        "decisao_tst": "DEFERE a manutenção com reajuste de 6,87%",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 56
+    },
+    {
+      "id_canonico": "FIN_VALE_TRANSPORTE",
+      "numero_clausula_original": 62,
+      "titulo_original": "VALE TRANSPORTE E JORNADA DE TRABALHO IN ITINERE",
+      "status": "DEFERIDO",
+      "valor_anterior": 558.39,
+      "valor_atual": 558.39,
+      "unidade": "BRL",
+      "detalhes": {
+        "valor_mensal": 558.39,
+        "compartilhamento": "conforme lei"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção",
+        "pedido_fentect": "Reajuste",
+        "decisao_tst": "DEFERE a manutenção com reajuste de 6,87%",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 71
+    },
+    {
+      "id_canonico": "SOC_LICENCA_MATERNIDADE",
+      "numero_clausula_original": 48,
+      "titulo_original": "PRORROGAÇÃO DA LICENÇA-MATERNIDADE",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "dias_prorrogacao": 60,
+        "base_legal": "Lei 11.770/2008",
+        "remuneracao_integral": true,
+        "vedacao_atividade_remunerada": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Lei 11.770/2008",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 60
+    },
+    {
+      "id_canonico": "CON_DISTRIBUICAO_DOMICILIARIA",
+      "numero_clausula_original": 23,
+      "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "limite_peso_homem": 10,
+        "limite_peso_mulher": 8,
+        "processo_seletivo_motorizado": true,
+        "entrega_matutina": "projeto piloto em 3 unidades"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção com criação de projeto piloto de entrega matutina",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos pela ECT",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 51
+    },
+    {
+      "id_canonico": "FIN_PENALIDADE",
+      "numero_clausula_original": 44,
+      "titulo_original": "PENALIDADE",
+      "status": "DEFERIDO",
+      "valor_anterior": 20,
+      "valor_atual": 20,
+      "unidade": "percentual",
+      "detalhes": {
+        "percentual": 20,
+        "base_calculo": "dia de serviço do empregado prejudicado"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 61
+    },
+    {
+      "id_canonico": "CON_REGISTRO_PONTO",
+      "numero_clausula_original": 54,
+      "titulo_original": "REGISTRO DE PONTO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "registro_pelo_empregado": true,
+        "vedacao_interferencia_terceiros": true,
+        "tolerancia": "5 minutos + 5 minutos adicionais (4x/mês)"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 66
+    },
+    {
+      "id_canonico": "FIN_COMPENSACAO_DIAS_PARADOS",
+      "numero_clausula_original": null,
+      "titulo_original": "COMPENSAÇÃO DOS DIAS DE GREVE",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "dias_parados": null,
+        "compensacao": "21 dias de paralisação",
+        "devolucao": "6 dias já descontados",
+        "compensacao_forma": "sábados e domingos, conforme necessidade da ECT",
+        "prazo": "até o segundo domingo de maio de 2012",
+        "antecedencia_convocacao": "72 horas",
+        "base_legal": "Art. 7º da Lei 7.783/89"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Desconto integral ou compensação",
+        "pedido_fentect": "Não desconto",
+        "decisao_tst": "DEFERE a compensação dos dias parados",
+        "fundamento_juridico": "Suspensão do contrato de trabalho (art. 7º, Lei 7.783/89)",
+        "votos_divergentes": "Ministros Maurício Godinho Delgado, Kátia Arruda, João Oreste Dalazen, Walmir Oliveira da Costa, Fernando Eizo Ono e Dora Maria da Costa"
+      },
+      "observacao": null,
+      "pagina_referencia": 1
+    },
+    {
+      "id_canonico": "PRO_VIGENCIA",
+      "numero_clausula_original": 63,
+      "titulo_original": "VIGÊNCIA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "data_inicio": "2011-08-01",
+        "data_fim": "2015-07-31 (máximo legal de 4 anos)",
+        "duracao_meses": 48
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Vigência de 1 ano",
+        "pedido_fentect": "Vigência de 4 anos",
+        "decisao_tst": "DEFERE vigência até que sentença normativa superveniente produza revogação, respeitado o prazo máximo de 4 anos",
+        "fundamento_juridico": "PN 120/SDC/TST; art. 868 CLT",
+        "votos_divergentes": null
+      },
+      "observacao": null,
+      "pagina_referencia": 104
+    }
+  ],
+  "temas_nao_mapeados": [],
+  "retorno_ao_trabalho": {
+    "determinacao": "retorno ao trabalho a partir de 13/10/2011",
+    "multa": "R$ 50.000,00/dia em caso de descumprimento"
+  },
+  "dispositivo_final": {
+    "abusividade_greve": "NÃO ABUSIVA",
+    "data_base": "MANUTENÇÃO (1º de agosto de 2011)",
+    "dias_parados": "COMPENSAÇÃO DOS 21 DIAS DE PARALISAÇÃO",
+    "extensao_decisao": "Aplicação a todos os empregados dos Correios",
+    "clausulas_indeferidas": "VÁRIAS CLÁUSULAS DA PAUTA DA FENTECT",
+    "votos_vencidos": {
+      "ministro_mauricio_godinho_delgado": "Vencido parcialmente (não estabelecia multa)",
+      "ministro_joao_oreste_dalazen": "Vencido parcialmente (desconto integral)",
+      "ministro_walmir_oliveira_da_costa": "Vencido parcialmente (desconto integral)",
+      "ministro_fernando_eizo_ono": "Vencido parcialmente (desconto integral)",
+      "ministra_dora_maria_da_costa": "Vencida parcialmente (desconto integral)"
+    },
+    "data_sessao": "11 de outubro de 2011"
+  },
+  "notas_metodologicas": [
+    {
+      "tipo": "DISSIDIO_GREVE",
+      "tema": "GERAL",
+      "descricao": "Dissídio Coletivo de Greve instaurado pela ECT em face da FENTECT. A greve foi declarada NÃO ABUSIVA. O TST determinou a compensação dos 21 dias de paralisação, com devolução dos 6 dias já descontados. Reajuste de 6,87%, aumento linear de R$ 60,00, abono de R$ 800,00 e vale extra de R$ 575,00."
+    },
+    {
+      "tipo": "PERDAS_HISTORICAS",
+      "tema": "GERAL",
+      "descricao": "Perdas do DC 2011/2012: (1) Reajuste de 6,87% (não os 7,13% pedidos); (2) Vários pedidos da FENTECT indeferidos; (3) Compensação dos dias de greve autorizada."
+    },
+    {
+      "tipo": "CONQUISTAS",
+      "tema": "GERAL",
+      "descricao": "Conquistas do DC 2011/2012: (1) Reajuste de 6,87% (superior aos 6,5% da ECT); (2) Aumento linear de R$ 60,00; (3) Abono de R$ 800,00; (4) Vale extra de R$ 575,00; (5) Compensação dos dias de greve (não desconto integral)."
+    },
+    {
+      "tipo": "VALORES_DC_2011_2012",
+      "tema": "GERAL",
+      "descricao": "Valores do DC 2011/2012: Reajuste 6,87%; Aumento linear R$ 60,00; Abono R$ 800,00; Vale extra R$ 575,00; VA R$ 25,00; VC R$ 140,00; Auxílio Dependentes R$ 611,00; Reembolso Creche R$ 384,95; Quebra Caixa R$ 150,09 (sem banco postal) / R$ 200,11 (com banco postal); Vale Transporte R$ 558,39."
+    },
+    {
+      "tipo": "VIGENCIA",
+      "tema": "GERAL",
+      "descricao": "Vigência de 4 anos (01/08/2011 a 31/07/2015), conforme PN 120/SDC/TST."
+    },
+    {
+      "tipo": "OBSERVACAO_ADICIONAL",
+      "tema": "GERAL",
+      "descricao": "O documento PDF está com conteúdo parcialmente truncado em algumas páginas, mas as informações essenciais foram extraídas. O valor do abono de R$ 800,00 foi uma proposta da ECT aceita em audiência, e o vale extra de R$ 575,00 também. A compensação dos dias de greve foi autorizada, com devolução dos 6 dias já descontados."
+    }
+  ]
+}

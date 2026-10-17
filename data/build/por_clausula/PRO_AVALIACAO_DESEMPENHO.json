@@ -1,0 +1,24 @@
+[
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "PRO_AVALIACAO_DESEMPENHO",
+    "numero_clausula_original": 57,
+    "titulo_original": "SISTEMA DE AVALIAÇÃO DE DESEMPENHO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "aperfeiçoar o sistema de avaliação",
+      "revisao": "recurso ao gestor hierarquicamente superior"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "27"
+  }
+]

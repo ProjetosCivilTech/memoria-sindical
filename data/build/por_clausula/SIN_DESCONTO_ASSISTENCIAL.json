@@ -1,0 +1,622 @@
+[
+  {
+    "ano_inicio": 1988,
+    "ano_fim": 1989,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+    "numero_clausula_original": 18,
+    "titulo_original": "DESCONTO ASSISTENCIAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "mensalidade": "desconto do salário-base conforme Assembleia Geral",
+      "descontos_especiais": "autorização individualizada",
+      "contribuicao_assistencial": "desconto conforme Assembleia, com direito de oposição em até 20 dias",
+      "envio_atas": "imediato após realização"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "5-6"
+  },
+  {
+    "ano_inicio": 1990,
+    "ano_fim": 1991,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+    "numero_clausula_original": 24,
+    "titulo_original": "CONTRIBUIÇÃO ASSISTENCIAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "base_legal": "Art. 8º, IV, CF",
+      "oposicao": "até 20 dias antes do pagamento do primeiro salário reajustado",
+      "envio_atas": "até 20 dias antes"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "9"
+  },
+  {
+    "ano_inicio": 1992,
+    "ano_fim": 1992,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+    "numero_clausula_original": 25,
+    "titulo_original": "DESCONTO ASSISTENCIAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "oposicao": "até 20 dias antes do pagamento de janeiro/1992",
+      "envio_atas": "até 25 dias antes"
+    },
+    "pagina_referencia": "7"
+  },
+  {
+    "ano_inicio": 1993,
+    "ano_fim": 1994,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+    "numero_clausula_original": 26,
+    "titulo_original": "DESCONTO ASSISTENCIAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "oposicao": "até 20 dias antes do pagamento de janeiro/1993",
+      "envio_atas": "até 25 dias antes"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "15"
+  },
+  {
+    "ano_inicio": 1994,
+    "ano_fim": 1995,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+    "numero_clausula_original": 18,
+    "titulo_original": "DESCONTO ASSISTENCIAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "desconto": "conforme legislação vigente",
+      "envio_atas": "até 20 dias antes do pagamento",
+      "oposicao": "até 20 dias antes do primeiro pagamento reajustado"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "7"
+  },
+  {
+    "ano_inicio": 1995,
+    "ano_fim": 1996,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+    "numero_clausula_original": 17,
+    "titulo_original": "DESCONTO ASSISTENCIAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "envio_atas": "20 dias antes",
+      "oposicao": "20 dias antes"
+    }
+  },
+  {
+    "ano_inicio": 1997,
+    "ano_fim": 1998,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+    "numero_clausula_original": 17,
+    "titulo_original": "DESCONTO ASSISTENCIAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "envio_atas": "20 dias antes",
+      "oposicao": "20 dias antes"
+    }
+  },
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+    "numero_clausula_original": 17,
+    "titulo_original": "DESCONTO ASSISTENCIAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "sindicalizado_oposicao": true,
+      "nao_sindicalizado_autorizacao": "01 a 10 do mês",
+      "envio_atas": "20 dias antes"
+    }
+  },
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+    "numero_clausula_original": 18,
+    "titulo_original": "DESCONTO ASSISTENCIAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "desconto": "conforme aprovado em assembleia geral",
+      "oposicao": "manifestação ao sindicato",
+      "envio_atas": "até 20 dias antes do pagamento",
+      "empregado_nao_sindicalizado": "só com autorização"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "7"
+  },
+  {
+    "ano_inicio": 2000,
+    "ano_fim": 2001,
+    "tipo": "DC",
+    "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+    "numero_clausula_original": 13,
+    "titulo_original": "DESCONTO ASSISTENCIAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "desconto": "conforme aprovado em assembleia geral",
+      "oposicao": "manifestação ao sindicato até dia 10",
+      "envio_atas": "até 20 dias antes do desconto",
+      "empregado_nao_sindicalizado": "só com autorização"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "Cláusula incontroversa.",
+    "pagina_referencia": "5"
+  },
+  {
+    "ano_inicio": 2001,
+    "ano_fim": 2002,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+    "numero_clausula_original": 13,
+    "titulo_original": "DESCONTO ASSISTENCIAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "desconto": "conforme aprovado em assembleia geral",
+      "oposicao": "manifestação ao sindicato até dia 10",
+      "envio_atas": "até 20 dias antes do desconto",
+      "empregado_nao_sindicalizado": "só com autorização"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "5"
+  },
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+    "numero_clausula_original": 20,
+    "titulo_original": "DESCONTO ASSISTENCIAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "desconto": "conforme aprovado em assembleia geral",
+      "oposicao": "manifestação ao sindicato até dia 10",
+      "envio_atas": "até 20 dias antes do desconto"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "11"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+    "numero_clausula_original": 20,
+    "titulo_original": "DESCONTO ASSISTENCIAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "desconto": "conforme aprovado em assembleia geral",
+      "oposicao": "manifestação ao sindicato até dia 12",
+      "relacao_desautorizacao": "até dia 15 do mês de incidência",
+      "envio_atas": "até 2º dia útil"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "11"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+    "numero_clausula_original": 20,
+    "titulo_original": "DESCONTO ASSISTENCIAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "desconto": "conforme aprovado em assembleia geral",
+      "oposicao": "manifestação ao sindicato até dia 12",
+      "relacao_desautorizacao": "até dia 15 do mês de incidência",
+      "envio_atas": "até 2º dia útil"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "7"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+    "numero_clausula_original": 20,
+    "titulo_original": "DESCONTO ASSISTENCIAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "oposicao": "até dia 12",
+      "envio_atas": "2º dia útil",
+      "relacao_desautorizacao": "até dia 15",
+      "vedacao_inducao": true
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+    "numero_clausula_original": 20,
+    "titulo_original": "DESCONTO ASSISTENCIAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "desconto": "conforme aprovado em assembleia geral",
+      "oposicao": "manifestação ao sindicato até dia 12",
+      "relacao_desautorizacao": "até dia 15 do mês de incidência",
+      "envio_atas": "até 2º dia útil"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "9"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+    "numero_clausula_original": 20,
+    "titulo_original": "DESCONTO ASSISTENCIAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "desconto": "conforme aprovado em assembleia geral",
+      "oposicao": "manifestação ao sindicato até dia 12",
+      "relacao_desautorizacao": "até dia 15 do mês de incidência"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 8
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+    "numero_clausula_original": 20,
+    "titulo_original": "DESCONTO ASSISTENCIAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "oposicao": "até dia 12 do mês",
+      "relacao_desautorizacao": "até dia 15",
+      "envio_atas": "até 2º dia útil"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "7"
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+    "numero_clausula_original": 20,
+    "titulo_original": "DESCONTO ASSISTENCIAL",
+    "status": "MANTIDO",
+    "texto": "Desconto em folha conforme assembleia. Oposição até o dia 12 do mês, por escrito ao Sindicato. Atas das assembleias em até 2 dias úteis, relação dos opositores até o dia 15. Paragrafo 4: empregado não sindicalizado pode optar pelo desconto assistencial.",
+    "observacao": "Idêntica ao DC 2013-2014.",
+    "pagina_referencia": 6
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+    "numero_clausula_original": 20,
+    "titulo_original": "DESCONTO ASSISTENCIAL",
+    "status": "ALTERADO",
+    "texto": "Desconto em folha conforme aprovado em assembleia. Oposição até o dia 12 do mês, por escrito ao Sindicato. Atas das assembleias enviadas em até 2 dias úteis, relação dos opositores até o dia 15. Incluído §4º: empregado não sindicalizado pode optar pelo desconto assistencial.",
+    "observacao": "Incluído §4º em relação ao DC 2012-2013.",
+    "pagina_referencia": 60
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+    "numero_clausula_original": 17,
+    "titulo_original": "DESCONTO ASSISTENCIAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "oposicao": "até dia 12",
+      "relacao_desautorizacao": "até dia 15",
+      "envio_atas": "até 2º dia útil"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "9"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+    "numero_clausula_original": 17,
+    "titulo_original": "DESCONTO ASSISTENCIAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "desconto": "conforme aprovado em assembleia geral",
+      "publico": "filiados e não filiados",
+      "oposicao": "manifestação ao sindicato até dia 12",
+      "relacao_desautorizacao": "até dia 15 do mês de incidência"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 11
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+    "numero_clausula_original": 17,
+    "titulo_original": "DESCONTO ASSISTENCIAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "oposicao": "até dia 12",
+      "relacao_desautorizacao": "até dia 15",
+      "envio_atas": "até 2º dia útil"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "12"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+    "numero_clausula_original": 17,
+    "titulo_original": "DESCONTO ASSISTENCIAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "oposicao": "até dia 12 do mês",
+      "envio_atas": "até 2º dia útil",
+      "relacao_desautorizacao": "até dia 15 do mês",
+      "vedacao_inducao_ECT": true
+    },
+    "pagina_referencia": "32-33"
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+    "numero_clausula_original": 17,
+    "titulo_original": "DESCONTO ASSISTENCIAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "desconto": "conforme aprovado em assembleia geral",
+      "publico": "filiados e não filiados",
+      "oposicao": "manifestação ao sindicato até dia 12",
+      "relacao_desautorizacao": "até dia 15 do mês de incidência"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 10
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+    "numero_clausula_original": 17,
+    "titulo_original": "DESCONTO ASSISTENCIAL",
+    "status": "MANTIDO",
+    "texto": "art. 513, alínea “e”, da CLT, expressamente fixada neste Aditivo, para custeio dos Sindicatos Profissionais, a ser descontada pelos Correios no contracheque dos trabalhadores, no 2º (segundo) mês imediatamente subsequente à data de prolação da sentença normativa (02/10/2019), ressalvado o direito de oposição individual escrita do trabalhador não filiado ao sindicato profissional, na forma do parágrafo seguinte. Parágrafo Primeiro – Trabalhador não filiado à Sindicato Profissional deverá ser informado pelos Correios acerca da realização do desconto da contribuição mencionada no caput dessa cláusula, podendo apresentar ao Sindicato Profissional, pessoalmente, por escrito e com identificação de assinatura legível, sua expressa oposição, devendo no prazo de 20 (vinte) dias, a contar da ciência da informação supra, apresentar à Empresa o comprovante de oposição apresentada ao Sindicato, sob sua pena de aceitação do desconto. Parágrafo Segundo – Caberá aos Correios a entrega ao empregado do comprovante de recebimento do comprovante de oposição apresentado ao Sindicato no momento de sua entrega. Parágrafo Terceiro – Fica vedado aos Correios a realização de quaisquer manifestações, atos, campanhas ou condutas similares no sentido de incentivar ao instigar os trabalhadores não filiados à Sindicatos apresentarem o seu direito de oposição por escrito. Parágrafo Quarto – Fica vedado aos Sindicatos Profissionais e seus dirigentes a realização de quaisquer manifestações, atos ou condutas similares no sentido de constranger os trabalhadores não filiados à Sindicato profissional apresentarem o seu direito de oposição por escrito. Parágrafo Quinto – O trabalhador que não exercer o direito de oposição na forma e no prazo previstos no Parágrafo Primeiro não terá direito ao respectivo reembolso da presente contribuição (cota negocial). Parágrafo Sexto – O valor da contribuição prevista no caput corresponde a 50% (cinquenta por cento) de um único salário-dia vigente do trabalhador. Parágrafo Sétimo – Os Sindicatos Profissionais declaram que, mediante o presente ajuste, se abstém de, no período de vigência da sentença normativa, pleitear judicialmente a cobrança da contribuição prevista no art. 578 e seguintes da CLT, ressalvados as ações já ajuizadas sendo que tal compromisso passa a integrar a presente sentença normativa. Observações: Trata-se de cláusula com alteração em todo o seu teor. 22 --- PAGINA 23 --CLÁUSULA 18",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+    "numero_clausula_original": 17,
+    "titulo_original": "DESCONTO ASSISTENCIAL",
+    "status": "INDEFERIDO",
+    "detalhes": {
+      "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+    },
+    "memoria_negociacao": "SDC indeferiu",
+    "observacao": null,
+    "pagina_referencia": "113"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+    "numero_clausula_original": 31,
+    "titulo_original": "DESCONTO ASSISTENCIAL",
+    "status": "DEFERIDO",
+    "valor_atual": 2,
+    "unidade": "%",
+    "detalhes": {
+      "base_legal": "Art. 513, alínea 'e', CLT",
+      "percentual": 2,
+      "oposicao": "10 dias"
+    },
+    "memoria_negociacao": null,
+    "observacao": "Cota negocial de 2%.",
+    "pagina_referencia": "6-7"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+    "numero_clausula_original": 32,
+    "titulo_original": "TAXA NEGOCIAL",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": 2,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 2,
+      "base_calculo": "remuneração",
+      "mes_desconto": "mês da aplicação do reajuste",
+      "direito_oposicao": true,
+      "prazo_oposicao": "10 dias",
+      "vedacao_ECT": "não pode incentivar oposição",
+      "vedacao_sindicatos": "não podem pleitear judicialmente a cobrança no período de vigência do ACT"
+    },
+    "observacao": "No DC 2025/2026, a ECT tentou excluir, mas o TST deferiu com base no Tema 935 do STF.",
+    "pagina_referencia": 12
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+    "numero_clausula_original": 33,
+    "titulo_original": "DESCONTO ASSISTENCIAL",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "desconto": "conforme aprovado em assembleia geral",
+      "publico": "filiados e não filiados",
+      "informacao": "pelos sindicatos",
+      "oposicao": "manifestação ao sindicato até o dia 10"
+    },
+    "observacao": null,
+    "pagina_referencia": 12
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+    "numero_clausula_original": 72,
+    "titulo_original": "TAXA NEGOCIAL",
+    "status": "DEFERIDO",
+    "valor_anterior": 2,
+    "valor_atual": 2,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 2,
+      "base_calculo": "remuneração",
+      "mes_desconto": "mês da aplicação do reajuste",
+      "direito_oposicao": true,
+      "vedacao_ECT": "não pode incentivar oposição"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Excluir a cláusula",
+      "pedido_fentect": "Manutenção da cláusula preexistente",
+      "pedido_findect": "Manutenção da cláusula preexistente",
+      "decisao_tst": "DEFERE, com base no Tema 935 do STF",
+      "fundamento_juridico": "Art. 513, 'e', CLT; Tema 935 do STF",
+      "votos_divergentes": "Ministro Mauricio Godinho Delgado (parcialmente vencido)"
+    },
+    "observacao": null,
+    "pagina_referencia": 30
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+    "numero_clausula_original": 73,
+    "titulo_original": "DESCONTO ASSISTENCIAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "desconto": "conforme aprovado em assembleia geral",
+      "publico": "filiados e não filiados",
+      "oposicao": "manifestação ao sindicato"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Excluir a cláusula",
+      "pedido_fentect": "Manutenção da cláusula preexistente",
+      "pedido_findect": "Manutenção da cláusula preexistente",
+      "decisao_tst": "DEFERE, com base no Tema 935 do STF",
+      "fundamento_juridico": "Art. 513, 'e', CLT; Tema 935 do STF",
+      "votos_divergentes": "Ministro Mauricio Godinho Delgado (parcialmente vencido)"
+    },
+    "observacao": null,
+    "pagina_referencia": 30
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+    "numero_clausula_original": 73,
+    "titulo_original": "DESCONTO ASSISTENCIAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "desconto": "conforme aprovado em assembleia geral",
+      "publico": "filiados e não filiados",
+      "oposicao": "até dia 10 do mês",
+      "envio_atas": "até 2º dia útil",
+      "base_legal": "art. 513, 'e', CLT; Tema 935/STF"
+    },
+    "pagina_referencia": "82-85"
+  }
+]

@@ -1,0 +1,1048 @@
+{
+  "metadados_documento": {
+    "tipo": "DCG",
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "processo": "DCG-1001174-70.2021.5.00.0000",
+    "tribunal": "TST",
+    "orgao": "Seção Especializada em Dissídios Coletivos (SDC)",
+    "relator": "Ministro Alexandre de Souza Agra Belmonte",
+    "data_julgamento": "2021-10-18",
+    "data_publicacao": null,
+    "entidade_patronal": "ECT",
+    "entidades_profissionais": [
+      "FENTECT",
+      "SINTECT-SP",
+      "SINTECT-RJ",
+      "SINTECT-MA",
+      "FINDECT (assistente litisconsorcial)",
+      "SINTECT/TO (assistente litisconsorcial)"
+    ],
+    "arquivo_origem": "Acordao_2021-2022.pdf",
+    "greve": {
+      "ocorreu": true,
+      "periodo": "17/08/2021 (duração inferior a 24 horas)",
+      "resultado": "Não abusiva; desconto do dia parado",
+      "comunicacao_previa": "16/08/2021 (um dia antes)",
+      "tutela_urgência": "Deferida parcialmente em 18/08/2021 (contingente mínimo de 70%)"
+    }
+  },
+  "clausulas": [
+    {
+      "id_canonico": "FIN_REAJUSTE_SALARIAL",
+      "numero_clausula_original": 1,
+      "titulo_original": "REAJUSTE SALARIAL",
+      "status": "DEFERIDO",
+      "valor_atual": 9.75,
+      "unidade": "%",
+      "detalhes": {
+        "percentual": 9.75,
+        "data_base": "2021-08-01",
+        "reflexos": "demais parcelas de natureza salarial",
+        "INPC_referencia": "9,85%",
+        "precedente": "ROT-1002831-61.2019.5.02.0000"
+      },
+      "memoria_negociacao": "Empresa propôs inicialmente sem reajuste; durante audiências concordou com 100% do INPC; SDC fixou 9,75% (ligeiramente inferior ao INPC de 9,85%)",
+      "observacao": "Dispositivo final menciona 9,75%, mas conclusão (pág. 96) menciona 9,5% — prevalece 9,75% conforme fundamentação e dispositivo",
+      "pagina_referencia": "21, 96, 113"
+    },
+    {
+      "id_canonico": "FIN_VALE_ALIMENTACAO",
+      "numero_clausula_original": 2,
+      "titulo_original": "VALE-ALIMENTAÇÃO/REFEIÇÃO",
+      "status": "DEFERIDO",
+      "valor_atual": 9.75,
+      "unidade": "%",
+      "detalhes": {
+        "reajuste": 9.75,
+        "base_legal": "PAT - Programa de Alimentação do Trabalhador",
+        "redacao": "A empresa disponibilizará benefício de refeição/alimentação conforme PAT, definindo seus parâmetros, promovendo o reajuste de 9,75% no benefício"
+      },
+      "memoria_negociacao": "Empresa ofertou reajuste de 100% do INPC sobre o benefício durante audiências",
+      "observacao": "Mantida a redação anterior com acréscimo do reajuste",
+      "pagina_referencia": "24, 96"
+    },
+    {
+      "id_canonico": "SOC_PLANO_SAUDE",
+      "numero_clausula_original": 3,
+      "titulo_original": "PLANO DE SAÚDE DOS EMPREGADOS DOS CORREIOS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "redacao": "A empresa disponibilizará Benefício de Assistência à Saúde por meio de operadora contratada, de adesão facultativa e mediante cobrança de mensalidade e coparticipação dos beneficiários",
+        "manutencao": "sentença normativa anterior"
+      },
+      "memoria_negociacao": "Sindicatos pleitearam novas regras (patrocínio para aposentados, isenções); SDC indeferiu por ausência de cláusula preexistente e impacto financeiro",
+      "observacao": "Cláusula mantida nos mesmos moldes da sentença normativa passada; análise da Cláusula 28ª (§§1º, 3º, II e 7º) e Cláusula 79ª sobrestada por decisão do STF na SL 1264",
+      "pagina_referencia": "24-25"
+    },
+    {
+      "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+      "numero_clausula_original": 4,
+      "titulo_original": "ACUMULAÇÃO DE VANTAGENS (66ª do DCG 2019/2020)",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "redacao": "Em caso de posterior instituição legal de benefícios ou vantagens previstos na presente sentença normativa ou quaisquer outros já mantidos pelos Correios, será feita a necessária compensação, a fim de que não se computem ou se acumulem acréscimos pecuniários superiores sob o mesmo título ou idêntico fundamento, com consequente duplicidade de pagamento"
+      },
+      "memoria_negociacao": "Manutenção proposta pelos Correios e anuída pelas entidades sindicais",
+      "observacao": null,
+      "pagina_referencia": "60"
+    },
+    {
+      "id_canonico": "CON_REGISTRO_PONTO",
+      "numero_clausula_original": 5,
+      "titulo_original": "REGISTRO DE PONTO (74ª do DCG 2019/2020)",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "redacao": "O registro de presença ao serviço será feito exclusivamente pelo empregado(a) sob a supervisão da Empresa. §1º Fica vedada qualquer interferência de terceiros na marcação do cartão de ponto. §2º A Empresa poderá adotar sistemas alternativos de controle da jornada de trabalho, em conformidade com legislação vigente"
+      },
+      "memoria_negociacao": "Sindicatos propuseram tolerância adicional de 5 min (4x/mês); SDC indeferiu por contrariar art. 58, §1º, CLT",
+      "observacao": "Mantida redação da sentença normativa anterior",
+      "pagina_referencia": "67-68, 72"
+    },
+    {
+      "id_canonico": "SIN_ANISTIA",
+      "numero_clausula_original": 6,
+      "titulo_original": "ANISTIA (1ª do DCG 2019/2020)",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "redacao": "Os Correios, respeitando e seguindo os ditames previstos nas Leis 8.632/93, 8.878/94, 10.559/2002 e 11.282/2006, comprometem-se a: §1º adotar, de imediato, os procedimentos para o cumprimento da decisão, quando os atos de anistia previstos em lei determinar o retorno do anistiado aos quadros da Empresa, permitindo o acesso às informações de documentos aos interessados. §2º analisar e julgar os pedidos de anistia... §3º avaliar e discutir os impactos e condições de viabilização para adequação salarial... §4º avaliar e examinar encaminhamentos de demissões sem justa causa ocorridas durante o período de estabilidade previstas em lei...",
+        "grupo_trabalho": "6 representantes Correios + 5 Federações"
+      },
+      "memoria_negociacao": "Manutenção anuída pelas entidades sindicais",
+      "observacao": null,
+      "pagina_referencia": "60-61"
+    },
+    {
+      "id_canonico": "SIN_ENFRENTAMENTO_ASSEDIOS",
+      "numero_clausula_original": 7,
+      "titulo_original": "ASSÉDIO SEXUAL E MORAL (3ª do DCG 2019/2020)",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "redacao": "Os Correios prosseguirão no desenvolvimento de programas educativos, visando coibir o assédio sexual e o assédio moral. §1° Continuará promovendo eventos de sensibilização... §2º As denúncias... deverão ser feitas pelo(a) próprio(a) empregado(a), por escrito, à área de gestão das relações sindicais a do trabalho ou canal de denúncias da Ouvidoria... §3º Havendo a comprovação da denúncia... as vítimas... receberão a orientação psicológica (psicossocial) pertinente. §4° Será constituído Grupo de Trabalho paritário, contendo 7 representantes dos Correios e 7 representantes das Federações..."
+      },
+      "memoria_negociacao": "Manutenção anuída pelas entidades sindicais",
+      "observacao": null,
+      "pagina_referencia": "61-62"
+    },
+    {
+      "id_canonico": "SIN_EQUIDADE_RACIAL",
+      "numero_clausula_original": 8,
+      "titulo_original": "PROMOÇÃO DA EQUIDADE RACIAL E ENFRENTAMENTO AO RACISMO (4ª do DCG 2019/2020)",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "redacao": "Os Correios continuarão implementando políticas de enfrentamento ao racismo e de promoção da igualdade racial... §1º tratar os casos de discriminação racial... §2º denúncia à área de gestão das relações sindicais... §3º campanhas constantes... §4º estudos para reserva de vagas de bolsas para Mulheres, Negros e Indígenas... §5º ações no mês da consciência negra... §6º levantamento de informações relativas à cor ou raça... §7º Grupo de Trabalho paritário (7+7)...",
+        "historico": "ACT 1999/2000, com evolução até sentença normativa 2019/2020"
+      },
+      "memoria_negociacao": "Cláusula considerada histórica e social; deferida",
+      "observacao": null,
+      "pagina_referencia": "77-78"
+    },
+    {
+      "id_canonico": "SIN_EMPREGADO_ESTUDANTE",
+      "numero_clausula_original": 9,
+      "titulo_original": "GARANTIAS AO(À) EMPREGADO(A) ESTUDANTE (6ª do DCG 2019/2020)",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "redacao": "Os Correios facultarão aos(às) empregados(as) estudantes as seguintes garantias: §1º Abono de ausências para provas do ENEM ou vestibular... §2º Não alteração da jornada de trabalho... §3º Realização de estágio curricular na própria Empresa... §4º Parcerias com instituições de ensino... §5º Não convocação para horas extras em horário escolar... §6º Orientação e apoio às Federações... §7º Priorização de transferência... §8º Política de estímulo à pesquisa e inovação... §9º Adoção de política de incentivo ao desenvolvimento educacional... §10º Fortalecimento das orientações e condições operacionais para acesso à internet...",
+        "historico": "ACT 1998/1999, com evolução até sentença normativa 2019/2020"
+      },
+      "memoria_negociacao": "Cláusula considerada relevantíssima, com forte apelo social; sem implicação econômica substancial",
+      "observacao": null,
+      "pagina_referencia": "78-80"
+    },
+    {
+      "id_canonico": "SOC_SAUDE_MULHER",
+      "numero_clausula_original": 10,
+      "titulo_original": "SAÚDE DA MULHER (14ª do DCG 2019/2020)",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "redacao": "Os Correios desenvolverão atividades de prevenção e promoção à saúde da mulher. §1° No mês de março, as ações terão enfoque na saúde da mulher e, no mês de outubro, orientações com vistas à conscientização do combate ao câncer de mama. §2º As ações de comunicação serão realizadas corporativamente... §3º garantia de mudança provisória de tarefa às empregadas... §4º mudança provisória automática a partir do 5º mês de gestação... §5° As mulheres/adolescentes/meninas dependentes poderão participar..."
+      },
+      "memoria_negociacao": "Manutenção anuída pelas entidades sindicais",
+      "observacao": null,
+      "pagina_referencia": "62"
+    },
+    {
+      "id_canonico": "SIN_ACESSO_DEPENDENCIAS",
+      "numero_clausula_original": 11,
+      "titulo_original": "ACESSO ÀS DEPENDÊNCIAS (16ª do DCG 2019/2020)",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "redacao": "Quando solicitado pelas entidades sindicais e acordado entre as partes... os(as) empregados(as) dos Correios regularmente eleitos(as) como dirigentes sindicais... terão acesso às dependências da Empresa... §1° Nos Centros de Distribuição Domiciliária... as reuniões ocorrerão durante os intervalos destinados à alimentação e descanso. §2° Cada reunião deverá ser realizada, no máximo, por 3 dirigentes sindicais... com duração máxima de 40 minutos. §3° Os sindicatos poderão... desenvolver processo de filiação. §4° As reuniões serão realizadas em locais apropriados... §5º Quando do treinamento para os novos empregados... o Sindicato poderá apresentar as atividades sindicais... §6º Durante a vigência deste Acordo... os Correios disponibilizarão o acesso ao Sistema ECT Normas...",
+        "historico": "ACT 1990/1991, com evolução até sentença normativa 2019/2020"
+      },
+      "memoria_negociacao": "Cláusula sedimentada pelo tempo, de natureza social, sem custos financeiros diretos; adaptada ao PN 91 do TST",
+      "observacao": "Acolhida divergência do Ministro Ives Gandra Martins Filho para adequar ao PN 91",
+      "pagina_referencia": "83-89, 101-102"
+    },
+    {
+      "id_canonico": "SIN_FORNECIMENTO_DOCUMENTOS",
+      "numero_clausula_original": 12,
+      "titulo_original": "FORNECIMENTO DE DOCUMENTOS (18ª do DCG 2019/2020)",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "redacao": "Os Correios, quando solicitados, fornecerão às Federações de Trabalhadores legalmente constituídas e Sindicatos dos Empregados dos Correios, desde que respeitada a Lei de Acesso à Informação, cópia em meio digital dos Manuais da Empresa, no prazo de 5 dias da data de recebimento da solicitação. §1° Quando se tratar de manual estratégico... termo de confidencialidade... §2º Os Correios enviarão... informativo de comunicação Interna Primeira Hora. §3º Os Correios disponibilizarão... relação contendo nome, matrícula, cargo/atividade, lotação de empregados(as), status (ativo/inativo) e período do afastamento, no intervalo mínimo de 1 mês"
+      },
+      "memoria_negociacao": "Manutenção anuída pelas entidades sindicais",
+      "observacao": null,
+      "pagina_referencia": "62-63"
+    },
+    {
+      "id_canonico": "SOC_ATESTADO_SAUDE_DEMISSAO",
+      "numero_clausula_original": 13,
+      "titulo_original": "ATESTADO DE SAÚDE NA DEMISSÃO (29ª do DCG 2019/2020)",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "redacao": "Quando solicitado pelo Sindicato, os Correios encaminharão cópia de todas as rescisões, acompanhadas do Atestado de Saúde Ocupacional – ASO, dos (as) empregados(as) demitidos(as) nas unidades do interior, cujas homologações foram realizadas nas DRTs, bem como daqueles demitidos antes de completarem 1 ano de serviço e que fizerem a homologação na própria Empresa. Parágrafo Único: Os Correios autorizarão a realização de exames complementares, sempre que solicitado pelo médico responsável pela emissão do ASO"
+      },
+      "memoria_negociacao": "Manutenção anuída pelas entidades sindicais",
+      "observacao": null,
+      "pagina_referencia": "63"
+    },
+    {
+      "id_canonico": "SOC_AVERIGUACAO_CONDICOES",
+      "numero_clausula_original": 14,
+      "titulo_original": "AVERIGUAÇÃO DAS CONDIÇÕES DE TRABALHO (30ª do DCG 2019/2020)",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "redacao": "Os Correios garantirão o acesso aos locais de trabalho de representante do sindicato... acompanhado(a) por médico(a), engenheiro(a) do trabalho e/ou técnico de segurança do trabalho; e por representantes da Empresa, mediante agendamento prévio... §1° O Sindicato deverá solicitar o agendamento de visita com antecedência mínima de 5 dias úteis... §2º Os Correios continuarão o processo gradual de exame das condições técnicas para climatização..."
+      },
+      "memoria_negociacao": "Manutenção anuída pelas entidades sindicais",
+      "observacao": null,
+      "pagina_referencia": "63"
+    },
+    {
+      "id_canonico": "CON_CIPA",
+      "numero_clausula_original": 15,
+      "titulo_original": "COMISSÃO INTERNA DE PREVENÇÃO DE ACIDENTES-CIPA (31ª do DCG 2019/2020)",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "redacao": "Os Correios realizarão eleições para composição da CIPA em todos os seus estabelecimentos cujo efetivo seja superior a 30 empregados (as). §1° A eleição para a CIPA será convocada em até 60 dias antes do término do mandato... §2º A partir de 31 empregados(as) observar-se-á o que estabelece a NR-05. §3º Nos estabelecimentos com efetivo de até 30 empregados(as) os Correios designarão um responsável... §4º liberação mensal: 4h (menos de 400), 6h (400 a 1.000), 8h (mais de 1.000)... §5º A CIPA fornecerá aos sindicatos a ata de reunião... §6º visita de médico do trabalho... §7º materiais de primeiros socorros... §8º curso de formação EAD ou presencial... §9º reuniões semestrais com presidentes de CIPAs... §10º treinamento também para Diretoria da Entidade Sindical..."
+      },
+      "memoria_negociacao": "Cláusula com quase 30 anos, de caráter social; não afronta a NR 5, mas a complementa",
+      "observacao": null,
+      "pagina_referencia": "89-94, 104-105"
+    },
+    {
+      "id_canonico": "SOC_EMPREGADO_VIVENDO_HIV",
+      "numero_clausula_original": 16,
+      "titulo_original": "EMPREGADO VIVENDO COM HIV OU AIDS (32ª do DCG 2019/2020)",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "redacao": "Em caso de recomendação médica ou por solicitação e interesse do (a) empregado (a) vivendo com HIV ou Aids, preservado o sigilo de informação, os Correios promoverão o seu remanejamento para outra posição de trabalho que o ajude a preservar seu estado de saúde, vedada a sua dispensa sem justa causa. Parágrafo Único: Os Correios realizarão ações junto a entidades públicas, visando facilitar a obtenção de medicamentos..."
+      },
+      "memoria_negociacao": "Manutenção anuída pelas entidades sindicais",
+      "observacao": null,
+      "pagina_referencia": "64"
+    },
+    {
+      "id_canonico": "CON_ERGONOMIA",
+      "numero_clausula_original": 17,
+      "titulo_original": "ERGONOMIA NA EMPRESA (34ª do DCG 2019/2020)",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "redacao": "Os Correios se comprometem a realizar avaliação permanente dos processos de trabalho, tendo como base... os conceitos e princípios ergonômicos, de acordo com a NR-17 e seus anexos... §1º Os Correios, quando identificarem processo cuja operacionalização se mostre mais apropriada... desencadeará ações com vistas ao seu aprimoramento. §2º A implementação destas soluções ficará condicionada à existência de soluções disponíveis no mercado"
+      },
+      "memoria_negociacao": "Manutenção anuída pelas entidades sindicais",
+      "observacao": null,
+      "pagina_referencia": "64"
+    },
+    {
+      "id_canonico": "SOC_FORNECIMENTO_CAT",
+      "numero_clausula_original": 18,
+      "titulo_original": "FORNECIMENTO DE CAT/LISA (35ª do DCG 2019/2020)",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "redacao": "Os Correios emitirão o Comunicado de Acidente de Trabalho – CAT nos casos de doenças ocupacionais, de acidentes do trabalho, de assaltos aos(às) empregados(as) em serviço, nas atividades promovidas e em representação. §1º Os Correios fornecerão, às Federações e Sindicatos dos empregados, uma via da CAT registrada no MPAS, relativa aos acidentes ocorridos no mês imediatamente anterior. §2º Os Correios emitirão CAT para o(a) empregado(a) Dirigente Sindical que estiver liberado(a) com ônus para a Empresa e que se acidentar... §3º Os Correios orientarão aos (às) gestores (as) quanto ao preenchimento da CAT..."
+      },
+      "memoria_negociacao": "Manutenção anuída pelas entidades sindicais",
+      "observacao": null,
+      "pagina_referencia": "64-65"
+    },
+    {
+      "id_canonico": "SOC_SAUDE_EMPREGADO",
+      "numero_clausula_original": 19,
+      "titulo_original": "SAÚDE DO(A) EMPREGADO(A) (40ª do DCG 2019/2020)",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "redacao": "Os Correios prosseguirão nas campanhas de prevenção de doenças e promoção da saúde... §1° estudos ergonômicos (NR 17) para prevenção de LER/DORT. §2º campanhas de combate e prevenção à hipertensão arterial... §3° acompanhamento psicológico para empregados(as) vítimas de assalto... §4° entrega de cópia do prontuário médico... §5° encaminhamento aos Sindicatos de documentos relativos à segurança e higiene do trabalho. §6° cursos e palestras sobre dependência química... §7° incentivo à ginástica laboral... §8° procedimentos voltados ao restabelecimento da saúde laboral... §9° prazo para entrega de atestados médicos/odontológicos de 4 dias úteis",
+        "excecoes": "§3º (dependentes) e §9º (integralidade) indeferidos por custo financeiro significativo"
+      },
+      "memoria_negociacao": "Cláusula com indiscutível natureza social, sem desgaste econômico relevante; exceção de parágrafos com custo significativo",
+      "observacao": "Acolhida divergência do Ministro Ives Gandra Martins Filho para excluir §3º (dependentes) e §9º (integralidade)",
+      "pagina_referencia": "94-95, 106-107"
+    },
+    {
+      "id_canonico": "CON_DISTRIBUICAO_DOMICILIARIA",
+      "numero_clausula_original": 20,
+      "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA (41ª do DCG 2019/2020)",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "redacao": "A Distribuição Domiciliária de Correspondência será efetuada de acordo com os seguintes critérios: §1° O limite de peso transportado pelo(a) carteiro(a)... não ultrapassará 10 kg para homens e 08 kg para mulheres. §2º Em caso de gravidez, o limite poderá ser reduzido mediante prescrição médica... §3º Os Correios comprometem-se a aperfeiçoar os critérios e ampliar a aplicação de processo seletivo interno... §4° Depois de realizado o processo seletivo interno e não havendo êxito no preenchimento das funções de Motorizado(a) (M) e Motorizado(a) (V) a Empresa... garantirá os recursos necessários para a obtenção das carteiras de habilitação. §5° A responsabilização por perdas, extravios e danos... será definida mediante aplicação do respectivo processo de apuração. §6° Os Correios continuarão aprimorando o complexo logístico... A Empresa priorizará as entregas matutinas em âmbito nacional, nos Centros de Distribuição Domiciliária – CDD. §7° A Implantação da entrega matutina continuará sendo acompanhada por Comissão formada por 5 representantes da Empresa e 4 representantes das Federações... §8° A ampliação da entrega matutina de cartas simples para novas unidades será objeto de estudo pela comissão... com prazo de 90 dias..."
+      },
+      "memoria_negociacao": "Sindicatos propuseram alteração do §6º e inclusão de §7º; SDC rejeitou por implicar alteração da estrutura organizacional e ônus financeiro",
+      "observacao": "Mantida redação da sentença normativa anterior",
+      "pagina_referencia": "68-74, 107-108"
+    },
+    {
+      "id_canonico": "TEC_INOVACOES",
+      "numero_clausula_original": 21,
+      "titulo_original": "INOVAÇÕES TECNOLÓGICAS (43ª do DCG 2019/2020)",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "redacao": "Os Correios se comprometem a realocar o(a) empregado(a) cuja atividade seja afetada por inovações tecnológicas ou racionalização de processo, remanejando-o(a) para outra atividade compatível com o cargo que ocupa, qualificando-o(a) para o exercício de sua nova atividade, sem prejuízo das vantagens adquiridas"
+      },
+      "memoria_negociacao": "Manutenção anuída pelas entidades sindicais",
+      "observacao": null,
+      "pagina_referencia": "65"
+    },
+    {
+      "id_canonico": "CON_JORNADA_AGENCIAS",
+      "numero_clausula_original": 22,
+      "titulo_original": "JORNADA DE TRABALHO NAS AGÊNCIAS DE TRABALHO (44ª do DCG 2019/2020)",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "redacao": "O início da jornada de trabalho dos (as) empregados (as) lotados (as) nas Agências de Correio deverá ser escalonado de modo a permitir sua abertura e fechamento nos horários estabelecidos para cada unidade. Parágrafo Único: Os Correios respeitarão os horários estabelecidos para a jornada de trabalho e para o intervalo de alimentação"
+      },
+      "memoria_negociacao": "Manutenção anuída pelas entidades sindicais",
+      "observacao": null,
+      "pagina_referencia": "65"
+    },
+    {
+      "id_canonico": "CON_REDIMENSIONAMENTO_CARGA",
+      "numero_clausula_original": 23,
+      "titulo_original": "REDIMENSIONAMENTO DE CARGA (46ª do DCG 2019/2020)",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "redacao": "No caso de redimensionamento de carga, além da participação dos (as) empregados (as) que serão abrangidos (as) com o redimensionamento, os Correios viabilizarão a participação de 1 representante sindical regularmente eleito, quando solicitado pelo sindicato... Parágrafo Único: Após a conclusão, o novo dimensionamento será implantado integralmente em até 120 dias após a liberação dos recursos necessários pelos órgãos competentes"
+      },
+      "memoria_negociacao": "Manutenção anuída pelas entidades sindicais",
+      "observacao": null,
+      "pagina_referencia": "65"
+    },
+    {
+      "id_canonico": "FIN_TRABALHO_FINS_SEMANA",
+      "numero_clausula_original": 24,
+      "titulo_original": "TRABALHO NOS FINS DE SEMANA (66ª do DCG 2019/2020)",
+      "status": "DEFERIDO",
+      "valor_atual": 15,
+      "unidade": "%",
+      "detalhes": {
+        "redacao": "Os (as) empregados (as) lotados (as) na Área Operacional com carga de trabalho normal de 44 horas semanais, que trabalham regularmente nos fins de semana, receberão pelo trabalho excedente, em relação ao pessoal com jornada de 40 horas semanais, um valor complementar de 15% (quinze por cento) do salário-base pelas horas trabalhadas. §1° Para os efeitos desta cláusula, consideram-se como atividades operacionais as de atendimento, transporte, tratamento, encaminhamento e distribuição de objetos postais... §2° Qualquer empregado (a)... convocado (a) eventualmente... terá direito a um quarto de 15% por fim de semana trabalhado, limitado a 15% ao mês. §3º O (a) empregado (a) convocado (a)... com jornada mínima de 4 horas, fará jus também a um vale alimentação ou refeição... §4º A Empresa se compromete a realizar a convocação... com, no mínimo, 48 horas de antecedência. §5º O trabalho nos finais de semana... não constitui jornada extraordinária dos empregados convocados para realizá-lo, uma vez que a jornada contratual dos empregados da ECT é de 44 horas",
+        "percentual": 15,
+        "base_calculo": "salário-base"
+      },
+      "memoria_negociacao": "Cláusula com quase 3 décadas, suprimida na sentença normativa anterior; restabelecida por ser cláusula social sedimentada no tempo, visando corrigir distorção entre empregados de 44h e 40h",
+      "observacao": "Acrescido §5º conforme sugestão do Ministro Ives Gandra Martins Filho",
+      "pagina_referencia": "25-28, 109-110"
+    },
+    {
+      "id_canonico": "PRO_CONCURSO_PUBLICO",
+      "numero_clausula_original": 25,
+      "titulo_original": "CONCURSO PÚBLICO (67ª do DCG 2019/2020)",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "redacao": "Os Correios garantirão que, nos concursos públicos realizados para preenchimento de seus cargos, não haverá quaisquer discriminações raciais, religiosas ou de orientação sexual, conforme previsão da CF/88, respeitando o percentual de 10% das vagas destinadas a pessoas com deficiência e 20% de reserva de vagas para negros (as). Parágrafo Único: Os Correios continuarão observando a sistemática de alocação e reposição de pessoal..."
+      },
+      "memoria_negociacao": "Manutenção anuída pelas entidades sindicais",
+      "observacao": null,
+      "pagina_referencia": "65-66"
+    },
+    {
+      "id_canonico": "PRO_AMPLA_DEFESA",
+      "numero_clausula_original": 26,
+      "titulo_original": "DIREITO À AMPLA DEFESA (69ª do DCG 2019/2020)",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "redacao": "Aos(Às) empregados(as) arrolados(as) em processo de apuração de falta grave e por sua solicitação serão assegurados a obtenção de documentos e o amplo direito de defesa. As cópias dos documentos deverão ser entregues diretamente ao(a) empregado(a) envolvido ou ao seu/sua procurador(a) legal, quando solicitado formalmente. A critério do(a) empregado(a) o sindicato poderá acompanhar o processo de apuração"
+      },
+      "memoria_negociacao": "Manutenção anuída pelas entidades sindicais",
+      "observacao": null,
+      "pagina_referencia": "66"
+    },
+    {
+      "id_canonico": "FIN_RESPONSABILIDADE_CIVIL",
+      "numero_clausula_original": 27,
+      "titulo_original": "RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO (75ª do DCG 2019/2020)",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "redacao": "Os Correios assumirão os custos com a recuperação dos danos de veículos de sua frota, bem como danos causados a terceiros, consequentes de acidentes de trânsito, nos casos em que, após apuração, ficar comprovada a inexistência de dolo por parte do(a) empregado(a), estando o mesmo no exercício de suas funções. §1° As diretrizes sobre o assunto serão estabelecidas e implantadas pelos Correios, por meio de grupo de trabalho constituído por portaria. §2º Os processos administrativos de apuração de responsabilidades não concluídos e sobrestados na Empresa, deverão ser analisados por comissão paritária, composta por 3 integrantes dos Correios e 3"
+      },
+      "memoria_negociacao": "Manutenção anuída pelas entidades sindicais",
+      "observacao": null,
+      "pagina_referencia": "66"
+    },
+    {
+      "id_canonico": "SIN_QUADRO_AVISOS",
+      "numero_clausula_original": 28,
+      "titulo_original": "QUADRO DE AVISOS (24ª do DCG 2019/2020)",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "redacao": "Os Correios assegurarão que o Sindicato dos (as) Empregados(as) dos Correios da respectiva base territorial instale quadro para a fixação de avisos e comunicações de interesse da categoria profissional, em local apropriado e de comum acordo entre as partes"
+      },
+      "memoria_negociacao": "Manutenção anuída pelas entidades sindicais",
+      "observacao": null,
+      "pagina_referencia": "66"
+    },
+    {
+      "id_canonico": "PRO_PROCESSO_PERMANENTE",
+      "numero_clausula_original": 29,
+      "titulo_original": "PROCESSO PERMANENTE DE NEGOCIAÇÃO (22ª do DCG 2019/2020)",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "redacao": "Os Correios manterão o processo permanente de negociação com as Federações de Trabalhadores dos Correios legalmente constituídas e Sindicatos dos(das) Empregados(as) dos Correios, por meio do Sistema Nacional de Negociação Permanente - SNNP-Correios, com regras definidas em conjunto com as representações dos(das) trabalhadores(as)"
+      },
+      "memoria_negociacao": "Sindicatos propuseram inclusão de §§1º e 2º; SDC rejeitou por acrescer rol limitativo e ingerência no poder diretivo",
+      "observacao": "Mantida redação da sentença normativa anterior",
+      "pagina_referencia": "70-71, 74"
+    },
+    {
+      "id_canonico": "PRO_NEGOCIACAO_COLETIVA",
+      "numero_clausula_original": 30,
+      "titulo_original": "NEGOCIAÇÃO COLETIVA (27ª do DCG 2019/2020)",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "redacao": "Em caso de ocorrência de fatos que alterem substancialmente a regulamentação salarial vigente, serão revistos de comum acordo pelas partes os termos do presente acordo coletivo de trabalho, visando ajustá-lo à nova realidade"
+      },
+      "memoria_negociacao": "Sindicatos propuseram incluir 'econômicos, sociais ou políticos'; SDC rejeitou por atender ao art. 873 da CLT",
+      "observacao": "Mantida redação da sentença normativa anterior",
+      "pagina_referencia": "74-75, 111"
+    },
+    {
+      "id_canonico": "PRO_CONCILIACAO_DIVERGENCIAS",
+      "numero_clausula_original": 31,
+      "titulo_original": "CONCILIAÇÃO DE DIVERGÊNCIAS (78ª do DCG 2019/2020)",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "redacao": "Eventuais divergências de interpretação relacionadas ao disposto na presente sentença normativa deverão ser comunicadas, por escrito, aos Correios, para fins de conciliação, no prazo de 15 dias, antes de serem submetidas à Justiça do Trabalho"
+      },
+      "memoria_negociacao": "Manutenção anuída pelas entidades sindicais",
+      "observacao": null,
+      "pagina_referencia": "66-67"
+    },
+    {
+      "id_canonico": "PRO_PRORROGACAO_REVISAO",
+      "numero_clausula_original": 32,
+      "titulo_original": "PRORROGAÇÃO, REVISÃO, DENÚNCIA OU REVOGAÇÃO (23ª do DCG 2019/2020)",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "redacao": "A prorrogação, revisão, denúncia ou revogação, total ou parcial, do presente Acordo Coletivo de Trabalho ficará subordinada às normas estabelecidas pelo Art. 615 da CLT, observando-se os princípios da liberdade e autonomia sindical estabelecidas na Constituição Federal"
+      },
+      "memoria_negociacao": "Manutenção anuída pelas entidades sindicais",
+      "observacao": null,
+      "pagina_referencia": "67"
+    },
+    {
+      "id_canonico": "PRO_ACOMPANHAMENTO_CUMPRIMENTO",
+      "numero_clausula_original": 33,
+      "titulo_original": "ACOMPANHAMENTO DO CUMPRIMENTO DE CLÁUSULAS DO ACORDO (77ª do DCG 2019/2020)",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "redacao": "Os Correios se comprometem a fornecer às Federações dos Trabalhadores, legalmente constituídas, informações a respeito do cumprimento das cláusulas que preveem prazo para sua implementação"
+      },
+      "memoria_negociacao": "Manutenção anuída pelas entidades sindicais",
+      "observacao": null,
+      "pagina_referencia": "67"
+    },
+    {
+      "id_canonico": "FIN_PENALIDADE",
+      "numero_clausula_original": 34,
+      "titulo_original": "PENALIDADE (72ª do DCG 2019/2020)",
+      "status": "DEFERIDO",
+      "valor_atual": 20,
+      "unidade": "%",
+      "detalhes": {
+        "redacao": "Descumprida qualquer obrigação desta sentença normativa, por qualquer das partes, ficará a parte infratora obrigada ao pagamento, em favor do(a) empregado(a) prejudicado(a), de multa equivalente a 20% (vinte por cento) do dia de serviço deste(a)",
+        "percentual": 20
+      },
+      "memoria_negociacao": "Manutenção anuída pelas entidades sindicais",
+      "observacao": null,
+      "pagina_referencia": "67"
+    },
+    {
+      "id_canonico": "PRO_VIGENCIA",
+      "numero_clausula_original": 35,
+      "titulo_original": "VIGÊNCIA (79ª do DCG 2019/2020)",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "data_inicio": "2021-08-01",
+        "data_fim": "2022-07-31",
+        "duracao_meses": 12,
+        "redacao": "A presente sentença normativa terá vigência de 1 (um) ano, de 1° de agosto de 2021 até 31 de julho de 2022"
+      },
+      "memoria_negociacao": "Ajustada a vigência para o período 2021/2022",
+      "observacao": null,
+      "pagina_referencia": "67, 112"
+    },
+    {
+      "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+      "numero_clausula_original": 20,
+      "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Por maioria, vencidos os Ministros Luiz Philippe Vieira de Mello Filho, Mauricio Godinho Delgado, Kátia Magalhães Arruda e Delaíde Alves Miranda Arantes",
+        "fundamento": "Cláusula com custo econômico significativo, não preexistente e não histórica"
+      },
+      "memoria_negociacao": "SDC indeferiu por maioria",
+      "observacao": "Consta do rol de cláusulas indeferidas no dispositivo final (pág. 113-114)",
+      "pagina_referencia": "113-114"
+    },
+    {
+      "id_canonico": "SOC_ENFRENTAMENTO_VIOLENCIA_MULHER",
+      "numero_clausula_original": 10,
+      "titulo_original": "ENFRENTAMENTO À VIOLÊNCIA CONTRA A MULHER",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Por maioria, vencidos os Ministros Luiz Philippe Vieira de Mello Filho, Mauricio Godinho Delgado, Kátia Magalhães Arruda e Delaíde Alves Miranda Arantes",
+        "fundamento": "Cláusula com custo econômico, não preexistente e não histórica"
+      },
+      "memoria_negociacao": "SDC indeferiu por maioria",
+      "observacao": "Consta do rol de cláusulas indeferidas no dispositivo final (pág. 113-114)",
+      "pagina_referencia": "113-114"
+    },
+    {
+      "id_canonico": "SOC_APOSENTADOS",
+      "numero_clausula_original": 2,
+      "titulo_original": "APOSENTADOS",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula não preexistente e com custo econômico"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "113"
+    },
+    {
+      "id_canonico": "SIN_VALORIZACAO_DIVERSIDADE",
+      "numero_clausula_original": 5,
+      "titulo_original": "VALORIZAÇÃO DA DIVERSIDADE HUMANA E RESPEITO ÀS DIFERENÇAS",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula não preexistente e com custo econômico"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "113"
+    },
+    {
+      "id_canonico": "SOC_LICENCA_ADOCAO",
+      "numero_clausula_original": 7,
+      "titulo_original": "LICENÇA ADOÇÃO",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "113"
+    },
+    {
+      "id_canonico": "SIN_PROGRAMA_CASA_PROPRIA",
+      "numero_clausula_original": 8,
+      "titulo_original": "PROGRAMA CASA PRÓPRIA",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com apelo social, mas não histórica (projeção inferior a 10 anos)"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "80-82, 113"
+    },
+    {
+      "id_canonico": "SOC_AADC",
+      "numero_clausula_original": 9,
+      "titulo_original": "ADICIONAL DE ATIVIDADE DISTRIBUIÇÃO E COLETA - AADC",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "113"
+    },
+    {
+      "id_canonico": "SOC_PERIODO_AMAMENTACAO",
+      "numero_clausula_original": 12,
+      "titulo_original": "PERÍODO DE AMAMENTAÇÃO",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com encargo financeiro significativo, não preexistente; há previsão legal específica"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "113"
+    },
+    {
+      "id_canonico": "SOC_LICENCA_MATERNIDADE",
+      "numero_clausula_original": 11,
+      "titulo_original": "LICENÇA MATERNIDADE",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "113"
+    },
+    {
+      "id_canonico": "SOC_PRORROGACAO_LICENCA_MATERNIDADE",
+      "numero_clausula_original": 13,
+      "titulo_original": "PRORROGAÇÃO DA LICENÇA MATERNIDADE",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "113"
+    },
+    {
+      "id_canonico": "SIN_EQUIDADE_GENERO",
+      "numero_clausula_original": 15,
+      "titulo_original": "PROMOÇÃO DA EQUIDADE DE GÊNERO E ENFRENTAMENTO AO SEXISMO",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "113"
+    },
+    {
+      "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+      "numero_clausula_original": 17,
+      "titulo_original": "DESCONTO ASSISTENCIAL",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "113"
+    },
+    {
+      "id_canonico": "SIN_LIBERACAO_CONSELHO",
+      "numero_clausula_original": 19,
+      "titulo_original": "LIBERAÇÃO DO CONSELHEIRO DO POSTALIS",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "113"
+    },
+    {
+      "id_canonico": "SIN_REPASSE_MENSALIDADES",
+      "numero_clausula_original": 25,
+      "titulo_original": "REPASSE DAS MENSALIDADES DOS SINDICATOS",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "113"
+    },
+    {
+      "id_canonico": "SIN_REPRESENTANTES_EMPREGADOS",
+      "numero_clausula_original": 26,
+      "titulo_original": "REPRESENTANTES DOS EMPREGADOS",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "113"
+    },
+    {
+      "id_canonico": "SOC_LICENCA_ACOMPANHANTE",
+      "numero_clausula_original": 27,
+      "titulo_original": "ACOMPANHANTE",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "113"
+    },
+    {
+      "id_canonico": "SOC_EMPREGADO_INAPTO",
+      "numero_clausula_original": 33,
+      "titulo_original": "EMPREGADO INAPTO PARA RETORNO AO TRABALHO",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "113"
+    },
+    {
+      "id_canonico": "CON_ITENS_PROTECAO_BAIXA_UMIDADE",
+      "numero_clausula_original": 36,
+      "titulo_original": "ITENS DE PROTEÇÃO NO CASO DE BAIXA UMIDADE",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "113"
+    },
+    {
+      "id_canonico": "CON_ITENS_USO_PROTECAO",
+      "numero_clausula_original": 37,
+      "titulo_original": "ITENS DE USO E PROTEÇÃO AO (À) EMPREGADO (A)",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "113"
+    },
+    {
+      "id_canonico": "SOC_PREVENCAO_DOENCAS",
+      "numero_clausula_original": 38,
+      "titulo_original": "PREVENÇÃO DE DOENÇAS",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "113"
+    },
+    {
+      "id_canonico": "SOC_REABILITACAO_PROFISSIONAL",
+      "numero_clausula_original": 39,
+      "titulo_original": "REABILITAÇÃO PROFISSIONAL",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "113"
+    },
+    {
+      "id_canonico": "CON_FROTA_OPERACIONAL",
+      "numero_clausula_original": 42,
+      "titulo_original": "FROTA OPERACIONAL",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "113"
+    },
+    {
+      "id_canonico": "TEC_JORNADA_TERMINAIS",
+      "numero_clausula_original": 45,
+      "titulo_original": "JORNADA DE TRABALHO PARA TRABALHADORES EM TERMINAIS COMPUTADORIZADOS",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "113"
+    },
+    {
+      "id_canonico": "CON_SEGURANCA_EMPRESA",
+      "numero_clausula_original": 47,
+      "titulo_original": "SEGURANÇA NA EMPRESA",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "113"
+    },
+    {
+      "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+      "numero_clausula_original": 48,
+      "titulo_original": "AUXÍLIO PARA DEPENDENTES COM DEFICIÊNCIA",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "113"
+    },
+    {
+      "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+      "numero_clausula_original": 49,
+      "titulo_original": "REEMBOLSO CRECHE E REEMBOLSO BABÁ",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "113"
+    },
+    {
+      "id_canonico": "SOC_TRANSPORTE_NOTURNO",
+      "numero_clausula_original": 50,
+      "titulo_original": "TRANSPORTE NOTURNO",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "113"
+    },
+    {
+      "id_canonico": "FIN_VALE_TRANSPORTE",
+      "numero_clausula_original": 52,
+      "titulo_original": "VALE-TRANSPORTE E JORNADA DE TRABALHO",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "113"
+    },
+    {
+      "id_canonico": "FIN_VALE_CULTURA",
+      "numero_clausula_original": 53,
+      "titulo_original": "VALE-CULTURA",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "113"
+    },
+    {
+      "id_canonico": "FIN_ADIANTAMENTO_FERIAS",
+      "numero_clausula_original": 54,
+      "titulo_original": "ADIANTAMENTO DE FÉRIAS",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "113"
+    },
+    {
+      "id_canonico": "FIN_ADICIONAL_NOTURNO",
+      "numero_clausula_original": 55,
+      "titulo_original": "ADICIONAL NOTURNO",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "113"
+    },
+    {
+      "id_canonico": "FIN_AJUDA_CUSTO",
+      "numero_clausula_original": 56,
+      "titulo_original": "AJUDA DE CUSTO DE TRANSFERÊNCIA",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "113"
+    },
+    {
+      "id_canonico": "FIN_ANTECIPACAO_13",
+      "numero_clausula_original": 57,
+      "titulo_original": "ANTECIPAÇÃO DE 50% DA GRATIFICAÇÃO NATALINA",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "113"
+    },
+    {
+      "id_canonico": "FIN_ANUENIOS",
+      "numero_clausula_original": 58,
+      "titulo_original": "ANUÊNIOS",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "113"
+    },
+    {
+      "id_canonico": "FIN_GRATIFICACAO_FERIAS",
+      "numero_clausula_original": 59,
+      "titulo_original": "GRATIFICAÇÃO DE FÉRIAS",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "113"
+    },
+    {
+      "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+      "numero_clausula_original": 60,
+      "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "113"
+    },
+    {
+      "id_canonico": "FIN_HORAS_EXTRAS",
+      "numero_clausula_original": 61,
+      "titulo_original": "HORAS EXTRAS",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "113"
+    },
+    {
+      "id_canonico": "FIN_PAGAMENTO_SALARIO",
+      "numero_clausula_original": 62,
+      "titulo_original": "PAGAMENTO DE SALÁRIO",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "113"
+    },
+    {
+      "id_canonico": "FIN_TRABALHO_DIA_REPOUSO",
+      "numero_clausula_original": 64,
+      "titulo_original": "TRABALHO EM DIA DE REPOUSO",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "113"
+    },
+    {
+      "id_canonico": "PRO_CURSOS_REUNIOES",
+      "numero_clausula_original": 68,
+      "titulo_original": "CURSOS E REUNIÕES OBRIGATÓRIAS",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "113"
+    },
+    {
+      "id_canonico": "FIN_PLR",
+      "numero_clausula_original": 71,
+      "titulo_original": "PARTICIPAÇÃO NOS LUCROS OU RESULTADOS-PLR",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "113"
+    },
+    {
+      "id_canonico": "FIN_INDENIZACAO_MORTE_INVALIDEZ",
+      "numero_clausula_original": 76,
+      "titulo_original": "INDENIZAÇÃO POR MORTE OU INVALIDEZ",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": null,
+      "pagina_referencia": "113"
+    },
+    {
+      "id_canonico": "SOC_ESTADO_CALAMIDADE",
+      "numero_clausula_original": null,
+      "titulo_original": "EPIDEMIA, PANDEMIA E ESTADO DE CALAMIDADE PÚBLICA",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com encargo financeiro significativo, não preexistente; matéria nova na pauta de reivindicações"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": "Apresentada em reconvenção",
+      "pagina_referencia": "54-56, 113"
+    },
+    {
+      "id_canonico": "SOC_HOME_OFFICE",
+      "numero_clausula_original": null,
+      "titulo_original": "HOME OFFICE (TRABALHO REMOTO, TELETRABALHO OU TRABALHO A DISTÂNCIA)",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Cláusula com encargo financeiro significativo, não preexistente; matéria nova na pauta de reivindicações"
+      },
+      "memoria_negociacao": "SDC indeferiu",
+      "observacao": "Apresentada em reconvenção",
+      "pagina_referencia": "56-57, 113"
+    },
+    {
+      "id_canonico": "PRO_BANCO_HORAS",
+      "numero_clausula_original": null,
+      "titulo_original": "BANCO DE HORAS",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "motivo": "Impossibilidade jurídica do pedido à luz do art. 59, §2º, da CLT; matéria não constava da pauta de reivindicações dos trabalhadores"
+      },
+      "memoria_negociacao": "Proposta da empresa rechaçada pelos sindicatos; SDC extinguiu o dissídio quanto a este ponto",
+      "observacao": "Extinção do dissídio coletivo apenas quanto à inclusão da Cláusula Banco de Horas",
+      "pagina_referencia": "9-10, 112"
+    }
+  ],
+  "temas_nao_mapeados": [],
+  "retorno_ao_trabalho": {
+    "periodo_greve": "17/08/2021 (duração inferior a 24 horas)",
+    "abusividade": "Não configurada",
+    "multa": "Improcedente o pedido de aplicação de multa",
+    "desconto_dia_parado": "Determinado o desconto do dia parado em relação aos trabalhadores que aderiram ao movimento paredista (art. 7º, Lei 7.783/89)",
+    "tutela_urgencia": "Deferida parcialmente em 18/08/2021 para garantir contingente mínimo de 70% dos trabalhadores",
+    "comunicacao_previa": "16/08/2021 (um dia antes do início)",
+    "preliminar_ilegitimidade": "Rejeitada; FINDECT e SINTECT/TO admitidos apenas como assistentes litisconsorciais"
+  },
+  "dispositivo_final": {
+    "data_base": "2021-08-01",
+    "vigencia": "2021-08-01 a 2022-07-31",
+    "data_julgamento": "2021-10-18",
+    "local": "Brasília/DF",
+    "reajuste": "9,75%",
+    "va_vr": "9,75%",
+    "trabalho_fins_semana": "15% restabelecido",
+    "custas": "R$ 2.000,00, a cargo das Partes, isenta a empresa suscitante (art. 12, DL 509/1969)",
+    "observacoes": "Dissídio Coletivo de Greve convertido em Dissídio Coletivo de Natureza Econômica. Greve não abusiva. Sentença normativa com 35 cláusulas deferidas, diversas indeferidas. Reajuste fixado em 9,75% (ligeiramente inferior ao INPC de 9,85%)."
+  },
+  "notas_metodologicas": [
+    {
+      "tipo": "DCG_CONVERTIDO_EM_DC",
+      "tema": "GERAL",
+      "descricao": "Dissídio Coletivo de Greve (DCG-1001174-70.2021.5.00.0000) julgado pela SDC do TST em 18/10/2021. Greve não abusiva, com desconto do dia parado. Convertido em Dissídio Coletivo de Natureza Econômica para fixação de cláusulas. Sentença normativa com vigência de 01/08/2021 a 31/07/2022."
+    }
+  ]
+}

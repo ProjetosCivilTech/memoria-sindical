@@ -1,0 +1,24 @@
+[
+  {
+    "ano_inicio": 2000,
+    "ano_fim": 2001,
+    "tipo": "DC",
+    "id_canonico": "PRO_SALARIO_ADMISSIONAL",
+    "numero_clausula_original": null,
+    "titulo_original": "SALÁRIO ADMISSIONAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "elevacao": "RS-01 a RS-07 para RS-08",
+      "aplicacao": "empregados atuais e novos empregados"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Não mencionada explicitamente",
+      "pedido_fentect": "Admitida pela ECT",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Negociação coletiva",
+      "votos_divergentes": null
+    },
+    "observacao": "Cláusula admitida expressamente pela ECT.",
+    "pagina_referencia": "14"
+  }
+]

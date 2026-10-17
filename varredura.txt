@@ -1,0 +1,37 @@
+==========================================================================================
+VARREDURA -- SALARIO-BASE, PISO E TABELA SALARIAL NOS 36 JSONs
+==========================================================================================
+
+
+[ARQ] ACT 1988-1989.json  (ACT 1988)
+      Clausulas com termos-chave: 1
+      Valores em R$ encontrados:  0
+      -> [FIN_TABELA_SALARIAL]  TABELA SALARIAL...
+
+[ARQ] ACT 2013-2014 FINDECT.json  (ACT 2013)
+      Clausulas com termos-chave: 8
+      Valores em R$ encontrados:  9
+      -> [FIN_ADIANTAMENTO_FERIAS] Adiantamento de um salário-base + anuênios/quinquênios + IGQP incorporado + gratificação de função, reembolsável em até ...
+      -> [FIN_ADICIONAL_NOTURNO] 60% sobre hora diurna em relação ao salário-base, já incluído adicional legal. Horário noturno: 20h-6h, hora reduzida de...
+      -> [FIN_AJUDA_CUSTO_TRANSFERENCIA] Calculada sobre salário-base + anuênios + IGQP incorporado + gratificação de função. Valor mínimo: R$ 1.244,95. Despesas...
+      -> [FIN_AJUDA_CUSTO_TRANSFERENCIA] R$ 1.244,95
+      -> [SOC_AUXILIO_DEPENDENTES_DEFICIENCIA] R$ 691,82
+      -> [FIN_GRATIFICACAO_QUEBRA_CAIXA] R$ 172,63
+      -> [FIN_GRATIFICACAO_QUEBRA_CAIXA] R$ 230,17
+      -> [FIN_REEMBOLSO_CRECHE_BABA] R$ 435,68
+
+[ARQ] DC 2013-2014.json  (DC 2013)
+      Clausulas com termos-chave: 8
+      Valores em R$ encontrados:  10
+      -> [FIN_ADIANTAMENTO_FERIAS] Adiantamento de um salário-base + anuênios/quinquênios + IGQP incorporado + gratificação de função, reembolsável em até ...
+      -> [FIN_ADICIONAL_NOTURNO] Acréscimo de 60% sobre o valor da hora diurna em relação ao salário-base, já incluído o adicional legal. Horário noturno...
+      -> [FIN_AJUDA_CUSTO_TRANSFERENCIA] Calculada sobre salário-base + anuênios + IGQP incorporado + gratificação de função. Valor mínimo: R$ 1.244,95. Despesas...
+      -> [FIN_AJUDA_CUSTO_TRANSFERENCIA] R$ 1.244,95
+      -> [SOC_ASSISTENCIA_MEDICA] R$ 28,00
+      -> [SOC_AUXILIO_DEPENDENTES_DEFICIENCIA] R$ 691,82
+      -> [FIN_GRATIFICACAO_QUEBRA_CAIXA] R$ 172,63
+      -> [FIN_GRATIFICACAO_QUEBRA_CAIXA] R$ 230,17
+
+==========================================================================================
+RESUMO: 3 arquivos com termos-chave, 2 arquivos com valores em R$
+==========================================================================================

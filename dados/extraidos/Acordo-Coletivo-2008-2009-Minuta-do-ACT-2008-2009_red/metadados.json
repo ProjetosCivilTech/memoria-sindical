@@ -1,0 +1,145 @@
+{
+  "arquivo_origem": "Acordo-Coletivo-2008-2009-Minuta-do-ACT-2008-2009_red.pdf",
+  "metadados_pdf": {
+    "titulo": "Documento1",
+    "autor": null,
+    "assunto": null,
+    "criador": "PDF reDirect v2",
+    "produtor": "EXP Systems LLC (www.exp-systems.com)",
+    "criado_em": "D:20081017100526Z",
+    "modificado_em": "D:20160615172338-03'00'"
+  },
+  "paginas_info": [
+    {
+      "pagina": 1,
+      "metodo": "OCR",
+      "chars": 2639,
+      "conf_ocr": 84.9
+    },
+    {
+      "pagina": 2,
+      "metodo": "OCR",
+      "chars": 3011,
+      "conf_ocr": 92.9
+    },
+    {
+      "pagina": 3,
+      "metodo": "OCR",
+      "chars": 3154,
+      "conf_ocr": 91.4
+    },
+    {
+      "pagina": 4,
+      "metodo": "OCR",
+      "chars": 3035,
+      "conf_ocr": 92.4
+    },
+    {
+      "pagina": 5,
+      "metodo": "OCR",
+      "chars": 3218,
+      "conf_ocr": 91.7
+    },
+    {
+      "pagina": 6,
+      "metodo": "OCR",
+      "chars": 3178,
+      "conf_ocr": 91.2
+    },
+    {
+      "pagina": 7,
+      "metodo": "OCR",
+      "chars": 2839,
+      "conf_ocr": 91.1
+    },
+    {
+      "pagina": 8,
+      "metodo": "OCR",
+      "chars": 2681,
+      "conf_ocr": 92.4
+    },
+    {
+      "pagina": 9,
+      "metodo": "OCR",
+      "chars": 2959,
+      "conf_ocr": 92.3
+    },
+    {
+      "pagina": 10,
+      "metodo": "OCR",
+      "chars": 3329,
+      "conf_ocr": 92.1
+    },
+    {
+      "pagina": 11,
+      "metodo": "OCR",
+      "chars": 2595,
+      "conf_ocr": 92.8
+    },
+    {
+      "pagina": 12,
+      "metodo": "OCR",
+      "chars": 3103,
+      "conf_ocr": 91.0
+    },
+    {
+      "pagina": 13,
+      "metodo": "OCR",
+      "chars": 3072,
+      "conf_ocr": 92.1
+    },
+    {
+      "pagina": 14,
+      "metodo": "OCR",
+      "chars": 2639,
+      "conf_ocr": 91.6
+    },
+    {
+      "pagina": 15,
+      "metodo": "OCR",
+      "chars": 3092,
+      "conf_ocr": 92.2
+    },
+    {
+      "pagina": 16,
+      "metodo": "OCR",
+      "chars": 2600,
+      "conf_ocr": 91.3
+    },
+    {
+      "pagina": 17,
+      "metodo": "OCR",
+      "chars": 3011,
+      "conf_ocr": 93.7
+    },
+    {
+      "pagina": 18,
+      "metodo": "OCR",
+      "chars": 3294,
+      "conf_ocr": 93.1
+    },
+    {
+      "pagina": 19,
+      "metodo": "OCR",
+      "chars": 3009,
+      "conf_ocr": 91.6
+    },
+    {
+      "pagina": 20,
+      "metodo": "OCR",
+      "chars": 3338,
+      "conf_ocr": 91.4
+    },
+    {
+      "pagina": 21,
+      "metodo": "OCR",
+      "chars": 357,
+      "conf_ocr": 70.0
+    }
+  ],
+  "paginas_total": 21,
+  "paginas_ocr": 21,
+  "conf_ocr_media": 90.6,
+  "metodo": "ocr",
+  "tempo_s": 53.05
+}

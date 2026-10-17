@@ -1,0 +1,187 @@
+[
+  {
+    "ano_inicio": 1988,
+    "ano_fim": 1989,
+    "tipo": "ACT",
+    "id_canonico": "FIN_GRATIFICACAO_PRODUTIVIDADE",
+    "numero_clausula_original": 11,
+    "titulo_original": "GRATIFICAÇÃO DE PRODUTIVIDADE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "extensao": "admitidos de 28.12.83 a 27.08.87",
+      "vantagem_pessoal": "nominalmente identificável",
+      "exclusao_futuros": "admitidos após 27.08.87 não farão jus",
+      "periodo_aquisitivo": "julho a dezembro/1988 (pagamento em março/1989)"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "3-4"
+  },
+  {
+    "ano_inicio": 1990,
+    "ano_fim": 1991,
+    "tipo": "ACT",
+    "id_canonico": "FIN_GRATIFICACAO_PRODUTIVIDADE",
+    "numero_clausula_original": 4,
+    "titulo_original": "PRODUTIVIDADE SEMESTRAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "extensao": "todos os empregados, quando cessem os impedimentos do DL 2355/87"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "5"
+  },
+  {
+    "ano_inicio": 1992,
+    "ano_fim": 1992,
+    "tipo": "ACT",
+    "id_canonico": "FIN_GRATIFICACAO_PRODUTIVIDADE",
+    "numero_clausula_original": 5,
+    "titulo_original": "GRATIFICAÇÃO DE PRODUTIVIDADE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "criterio": "semestral",
+      "condicoes": [
+        "sem punição (exceto advertência verbal)",
+        "sem processo de apuração (salvo ausência de culpa)",
+        "máximo 15 dias de ausência"
+      ],
+      "excecoes": [
+        "férias regulamentares",
+        "acidente de trabalho",
+        "folga aniversário",
+        "convocação judicial",
+        "treinamento",
+        "missões exterior",
+        "transferência",
+        "atividade esportiva/social/cultural",
+        "afastamento remunerado de Diretoria de Sindicatos ou Federações"
+      ],
+      "pagamento_excepcional_2S1991": "1992-01-20"
+    },
+    "pagina_referencia": "2"
+  },
+  {
+    "ano_inicio": 1993,
+    "ano_fim": 1994,
+    "tipo": "ACT",
+    "id_canonico": "FIN_GRATIFICACAO_PRODUTIVIDADE",
+    "numero_clausula_original": 3,
+    "titulo_original": "GRATIFICAÇÃO DE PRODUTIVIDADE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "criterio": "semestral",
+      "condicoes": [
+        "sem punição (exceto advertência)",
+        "sem processo de apuração",
+        "máximo 15 dias de ausência"
+      ],
+      "excecoes": [
+        "férias",
+        "acidente",
+        "licença profissional",
+        "folga aniversário",
+        "convocação judicial",
+        "treinamento",
+        "missões exterior",
+        "transferência",
+        "atividade esportiva/social/cultural",
+        "liberação sindical"
+      ]
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "3-4"
+  },
+  {
+    "ano_inicio": 1993,
+    "ano_fim": 1994,
+    "tipo": "ACT",
+    "id_canonico": "FIN_GRATIFICACAO_PRODUTIVIDADE",
+    "numero_clausula_original": 21,
+    "titulo_original": "PRODUTIVIDADE ANUAL",
+    "status": "DEFERIDO",
+    "valor_atual": 3.0,
+    "unidade": "%",
+    "detalhes": {
+      "incorporacao": "3% ao salário a partir de 01/01/1993"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "12"
+  },
+  {
+    "ano_inicio": 1994,
+    "ano_fim": 1995,
+    "tipo": "ACT",
+    "id_canonico": "FIN_GRATIFICACAO_PRODUTIVIDADE",
+    "numero_clausula_original": 23,
+    "titulo_original": "GRATIFICAÇÃO DE PRODUTIVIDADE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "criterio": "semestral",
+      "condicoes": [
+        "sem punição (exceto advertência)",
+        "sem processo de apuração",
+        "máximo 15 dias de ausência"
+      ]
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "8"
+  },
+  {
+    "ano_inicio": 1997,
+    "ano_fim": 1998,
+    "tipo": "ACT",
+    "id_canonico": "FIN_GRATIFICACAO_PRODUTIVIDADE",
+    "numero_clausula_original": 24,
+    "titulo_original": "GRATIFICAÇÃO DE QUALIDADE E PRODUTIVIDADE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "criterio": "trimestral",
+      "excecoes_afastamento": [
+        "férias",
+        "acidente",
+        "licença profissional",
+        "folga aniversário",
+        "judicial",
+        "treinamento",
+        "missões exterior",
+        "transferência",
+        "esportiva/social/cultural"
+      ]
+    }
+  },
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "FIN_GRATIFICACAO_PRODUTIVIDADE",
+    "numero_clausula_original": 26,
+    "titulo_original": "GRATIFICAÇÃO DE QUALIDADE E PRODUTIVIDADE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "criterio": "trimestral",
+      "excecoes_afastamento": [
+        "férias",
+        "acidente",
+        "licença profissional",
+        "folga aniversário",
+        "judicial",
+        "treinamento",
+        "missões exterior",
+        "transferência",
+        "esportiva/social/cultural",
+        "licença gestante",
+        "paternidade",
+        "adoção",
+        "nojo",
+        "gala",
+        "doação sangue",
+        "liberação sindical"
+      ]
+    }
+  }
+]

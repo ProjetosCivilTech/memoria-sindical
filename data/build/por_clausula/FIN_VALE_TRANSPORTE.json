@@ -1,0 +1,492 @@
+[
+  {
+    "ano_inicio": 1990,
+    "ano_fim": 1991,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_TRANSPORTE",
+    "numero_clausula_original": 13,
+    "titulo_original": "VALE-TRANSPORTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "regra": "assegurado na forma da lei"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "7"
+  },
+  {
+    "ano_inicio": 1992,
+    "ano_fim": 1992,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_TRANSPORTE",
+    "numero_clausula_original": 13,
+    "titulo_original": "VALE-TRANSPORTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "regra": "assegurado na forma da lei"
+    },
+    "pagina_referencia": "4"
+  },
+  {
+    "ano_inicio": 1993,
+    "ano_fim": 1994,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_TRANSPORTE",
+    "numero_clausula_original": 11,
+    "titulo_original": "VALE-TRANSPORTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "regra": "assegurado na forma da lei"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "7"
+  },
+  {
+    "ano_inicio": 1994,
+    "ano_fim": 1995,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_TRANSPORTE",
+    "numero_clausula_original": 46,
+    "titulo_original": "VALE-TRANSPORTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "assegurar benefício na forma da lei",
+      "passe_livre": "defesa do direito"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "14"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_TRANSPORTE",
+    "numero_clausula_original": 62,
+    "titulo_original": "VALE TRANSPORTE E JORNADA DE TRABALHO \"IN ITINERE\"",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "compromisso": "revisar sistemática de fornecimento",
+      "in_itinere": "Enunciado 90 do TST"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "29"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_TRANSPORTE",
+    "numero_clausula_original": 61,
+    "titulo_original": "VALE TRANSPORTE E JORNADA DE TRABALHO \"IN ITINERE\"",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "compromisso": "revisar sistemática de fornecimento",
+      "in_itinere": "art. 58, §2º, CLT"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "19"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_TRANSPORTE",
+    "numero_clausula_original": 61,
+    "titulo_original": "VALE TRANSPORTE E JORNADA DE TRABALHO IN ITINERE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compartilhamento": "nos moldes da lei",
+      "in_itinere": "Art. 58 CLT"
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_TRANSPORTE",
+    "numero_clausula_original": 61,
+    "titulo_original": "VALE TRANSPORTE E JORNADA DE TRABALHO \"IN ITINERE\"",
+    "status": "DEFERIDO",
+    "valor_anterior": 420.0,
+    "valor_atual": 420.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 420.0,
+      "limite_distancia": "120 km",
+      "compartilhamento": "conforme lei",
+      "in_itinere": "art. 58, §2º, CLT"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "25"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_TRANSPORTE",
+    "numero_clausula_original": 61,
+    "titulo_original": "VALE TRANSPORTE E JORNADA DE TRABALHO \"IN ITINERE\"",
+    "status": "DEFERIDO",
+    "valor_anterior": 420.0,
+    "valor_atual": 500.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 500.0,
+      "limite_distancia": "120 km",
+      "compartilhamento": "conforme lei",
+      "in_itinere": "art. 58, §2º, CLT"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Ampliação do limite de R$ 420,00 para R$ 500,00",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 20
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_TRANSPORTE",
+    "numero_clausula_original": 62,
+    "titulo_original": "VALE TRANSPORTE E JORNADA DE TRABALHO IN ITINERE",
+    "status": "DEFERIDO",
+    "valor_atual": 522.5,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 522.5,
+      "limite_distancia": "120 km"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "18-19"
+  },
+  {
+    "ano_inicio": 2011,
+    "ano_fim": 2012,
+    "tipo": "DCG",
+    "id_canonico": "FIN_VALE_TRANSPORTE",
+    "numero_clausula_original": 62,
+    "titulo_original": "VALE TRANSPORTE E JORNADA DE TRABALHO IN ITINERE",
+    "status": "DEFERIDO",
+    "valor_anterior": 558.39,
+    "valor_atual": 558.39,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 558.39,
+      "compartilhamento": "conforme lei"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção",
+      "pedido_fentect": "Reajuste",
+      "decisao_tst": "DEFERE a manutenção com reajuste de 6,87%",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 71
+  },
+  {
+    "ano_inicio": 2012,
+    "ano_fim": 2013,
+    "tipo": "DCG",
+    "id_canonico": "FIN_VALE_TRANSPORTE",
+    "numero_clausula_original": 62,
+    "titulo_original": "VALE TRANSPORTE E JORNADA DE TRABALHO IN ITINERE",
+    "status": "DEFERIDO",
+    "valor_anterior": 558.39,
+    "valor_atual": 594.68,
+    "unidade": "BRL",
+    "variacao_percentual": "6,5",
+    "detalhes": {
+      "valor_mensal": 594.68,
+      "reajuste_aplicado": "6,5%",
+      "compartilhamento": "conforme lei"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção",
+      "pedido_fentect": "Reajuste",
+      "decisao_tst": "DEFERE reajuste de 6,5%",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 71
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_TRANSPORTE",
+    "numero_clausula_original": 62,
+    "titulo_original": "VALE TRANSPORTE E JORNADA DE TRABALHO IN ITINERE",
+    "status": "MANTIDO",
+    "texto": "ECT fornecerá vale transporte. Compartilhamento de outros meios até 120 km e R$ 631,97/mês, sem natureza salarial. Pagamento de jornada in itinere condicionado ao art. 58, paragrafo 2, da CLT.",
+    "observacao": "Idêntica ao DC 2013-2014.",
+    "pagina_referencia": 18
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "FIN_VALE_TRANSPORTE",
+    "numero_clausula_original": 62,
+    "titulo_original": "VALE TRANSPORTE E JORNADA DE TRABALHO IN ITINERE",
+    "status": "MANTIDO",
+    "texto": "ECT fornecerá vale transporte. Compartilhamento de outros meios de transporte coletivo legalizados até 120 km e R$ 631,97/mês, sem natureza salarial. Pagamento de jornada in itinere condicionado ao art. 58, parágrafo 2º, da CLT.",
+    "observacao": "Idêntica ao DC 2012-2013. Integra a lista de benefícios não salariais reajustados em 6,27%.",
+    "pagina_referencia": 103
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_TRANSPORTE",
+    "numero_clausula_original": 52,
+    "titulo_original": "VALE TRANSPORTE E JORNADA DE TRABALHO IN ITINERE",
+    "status": "DEFERIDO",
+    "valor_atual": 673.06,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 673.06,
+      "limite_distancia": "120 km"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "24"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_TRANSPORTE",
+    "numero_clausula_original": 52,
+    "titulo_original": "VALE-TRANSPORTE E JORNADA DE TRABALHO IN ITINERE",
+    "status": "DEFERIDO",
+    "valor_anterior": 673.06,
+    "valor_atual": 673.06,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 673.06,
+      "compartilhamento": "conforme lei",
+      "pecunia": "permitido em caso de indisponibilidade",
+      "in_itinere": "art. 58, §2º, CLT"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 31
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_TRANSPORTE",
+    "numero_clausula_original": 52,
+    "titulo_original": "VALE-TRANSPORTE E JORNADA DE TRABALHO IN ITINERE",
+    "status": "DEFERIDO",
+    "valor_atual": 673.06,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 673.06,
+      "pecunia_excepcional": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "32-33"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_TRANSPORTE",
+    "numero_clausula_original": 52,
+    "titulo_original": "VALE-TRANSPORTE E JORNADA DE TRABALHO IN ITINERE",
+    "status": "DEFERIDO",
+    "valor_atual": 686.99,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 686.99,
+      "compartilhamento": "conforme lei",
+      "pecunia": "permitido em caso de indisponibilidade",
+      "in_itinere": "art. 58, §2º, CLT"
+    },
+    "pagina_referencia": "77-78"
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_TRANSPORTE",
+    "numero_clausula_original": 52,
+    "titulo_original": "VALE-TRANSPORTE E JORNADA DE TRABALHO IN ITINERE",
+    "status": "DEFERIDO",
+    "valor_anterior": 711.79,
+    "valor_atual": 711.79,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 711.79,
+      "compartilhamento": "conforme lei",
+      "pecunia": "permitido em caso de indisponibilidade",
+      "in_itinere": "art. 58, §2º, CLT"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 31
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "FIN_VALE_TRANSPORTE",
+    "numero_clausula_original": 52,
+    "titulo_original": "VALE-TRANSPORTE E JORNADA DE TRABALHO IN ITINERE .......................................................................",
+    "status": "MANTIDO",
+    "texto": "Cláusula 53 – VALE CULTURA ............................................................................................................................................................ 88 TÍTULO VI – DAS QUESTÕES ECONÔMICAS Cláusula 54 – ADIANTAMENTO DE FÉRIAS ....................................................................................................................................... 90 Cláusula 55 – ADICIONAL NOTURNO ................................................................................................................................................ 92 Cláusula 56 – AJUDA DE CUSTO NA TRANSFERÊNCIA ....................................................................................................................... 95",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "FIN_VALE_TRANSPORTE",
+    "numero_clausula_original": 52,
+    "titulo_original": "VALE-TRANSPORTE E JORNADA DE TRABALHO",
+    "status": "INDEFERIDO",
+    "detalhes": {
+      "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+    },
+    "memoria_negociacao": "SDC indeferiu",
+    "observacao": null,
+    "pagina_referencia": "113"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_TRANSPORTE",
+    "numero_clausula_original": 55,
+    "titulo_original": "VALE-TRANSPORTE E JORNADA DE TRABALHO IN ITINERE",
+    "status": "DEFERIDO",
+    "valor_atual": 835.83,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 835.83,
+      "pecunia_excepcional": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "12"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_TRANSPORTE",
+    "numero_clausula_original": 58,
+    "titulo_original": "VALE-TRANSPORTE E JORNADA DE TRABALHO IN ITINERE",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": 870.18,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 870.18,
+      "compartilhamento": "conforme lei",
+      "pecunia": "permitido em caso de indisponibilidade",
+      "jornada_in_itinere": "conforme art. 58, §2º, CLT"
+    },
+    "observacao": "No DC 2025/2026, o valor foi mantido em R$ 914,55 sem reajuste.",
+    "pagina_referencia": 22
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "FIN_VALE_TRANSPORTE",
+    "numero_clausula_original": 50,
+    "titulo_original": "VALE-TRANSPORTE",
+    "status": "DEFERIDO",
+    "valor_anterior": 914.55,
+    "valor_atual": 950.17,
+    "unidade": "BRL",
+    "variacao_percentual": "3,89",
+    "detalhes": {
+      "valor_mensal": 950.17,
+      "reajuste_aplicado": "4,09%",
+      "compartilhamento": "conforme lei",
+      "pecunia": "permitido em caso de indisponibilidade"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção com reajuste de 2,61%",
+      "pedido_fentect": "Manutenção com reajuste",
+      "pedido_findect": "Manutenção com reajuste",
+      "decisao_tst": "DEFERE reajuste de 4,09%",
+      "fundamento_juridico": "Jurisprudência da SDC/TST",
+      "votos_divergentes": null
+    },
+    "observacao": "Reajuste de 4,09% sobre R$ 914,55 → R$ 950,17.",
+    "pagina_referencia": 21
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "FIN_VALE_TRANSPORTE",
+    "numero_clausula_original": 50,
+    "titulo_original": "VALE-TRANSPORTE",
+    "status": "DEFERIDO_PARCIALMENTE",
+    "valor_atual": 914.55,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_mensal": 914.55,
+      "compartilhamento": "conforme lei",
+      "pecunia": "permitido em caso de indisponibilidade"
+    },
+    "pagina_referencia": "61-62"
+  }
+]

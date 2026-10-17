@@ -1,0 +1,60 @@
+{
+  "datas_br": {
+    "total": 0,
+    "amostra": []
+  },
+  "datas_ext": {
+    "total": 0,
+    "amostra": []
+  },
+  "valores_brl": {
+    "total": 0,
+    "amostra": []
+  },
+  "percentuais": {
+    "total": 5,
+    "amostra": [
+      "60%",
+      "26,85%",
+      "60,00%",
+      "00%",
+      "50,00%"
+    ]
+  },
+  "clausulas": {
+    "total": 0,
+    "amostra": []
+  },
+  "processos_tst": {
+    "total": 0,
+    "amostra": []
+  },
+  "cnpj": {
+    "total": 0,
+    "amostra": []
+  },
+  "artigos": {
+    "total": 0,
+    "amostra": []
+  },
+  "incisos": {
+    "total": 11,
+    "amostra": [
+      "II",
+      "III",
+      "CD",
+      "MIL",
+      "LM",
+      "XXIII",
+      "IV",
+      "CC",
+      "V",
+      "VI",
+      "VII"
+    ]
+  },
+  "paragrafos": {
+    "total": 0,
+    "amostra": []
+  }
+}

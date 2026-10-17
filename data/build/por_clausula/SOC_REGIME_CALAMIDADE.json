@@ -1,0 +1,47 @@
+[
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SOC_REGIME_CALAMIDADE",
+    "numero_clausula_original": 64,
+    "titulo_original": "SITUAÇÃO EM CASO DE ESTADO DE CALAMIDADE PÚBLICA OU ESTADO DE EMERGÊNCIA",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "salario_base_adicional": 1,
+      "publico": "empregados desabrigados ou intensamente atingidos",
+      "avaliacao_social": true,
+      "prazo_pagamento": "5 dias úteis após requerimento"
+    },
+    "observacao": null,
+    "pagina_referencia": 23
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SOC_REGIME_CALAMIDADE",
+    "numero_clausula_original": 77,
+    "titulo_original": "SITUAÇÃO EM CASO DE ESTADO DE CALAMIDADE PÚBLICA OU ESTADO DE EMERGÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "salario_base_adicional": 1,
+      "publico": "empregados desabrigados ou intensamente atingidos",
+      "avaliacao_social": true,
+      "prazo_pagamento": "5 dias úteis após requerimento"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 31
+  }
+]

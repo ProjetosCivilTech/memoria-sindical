@@ -1,0 +1,26 @@
+[
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "PRO_ACESSO_DEPENDENCIAS",
+    "numero_clausula_original": 1,
+    "titulo_original": "ACESSO ÀS DEPENDÊNCIAS",
+    "status": "MANTIDO",
+    "texto": "Quando solicitado pelas entidades sindicais e acordado entre as partes, dirigentes sindicais regularmente eleitos terão acesso às dependências da Empresa. Reuniões em CDD, CEE, CT e CTE podem ocorrer durante a jornada; nas demais unidades, no início ou final. Máximo 3 dirigentes, 40 min. Solicitação com 2 dias úteis.",
+    "observacao": "Idêntica ao DC 2013-2014.",
+    "pagina_referencia": 1
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "PRO_ACESSO_DEPENDENCIAS",
+    "numero_clausula_original": 1,
+    "titulo_original": "ACESSO ÀS DEPENDÊNCIAS",
+    "status": "MANTIDO",
+    "texto": "Quando solicitado pelas entidades sindicais e acordado entre as partes, os empregados da ECT regularmente eleitos como dirigentes sindicais e que não estejam com contrato suspenso para apuração de falta grave terão acesso às dependências da Empresa para tratar de assuntos de interesse exclusivo dos empregados. Reuniões em CDD, CEE, CT e CTE podem ocorrer durante a jornada; nas demais unidades, no início ou final da jornada. Máximo de 3 dirigentes, duração máxima de 40 min. Solicitação com 2 dias úteis de antecedência.",
+    "observacao": "Idêntica ao DC 2012-2013.",
+    "pagina_referencia": 72
+  }
+]

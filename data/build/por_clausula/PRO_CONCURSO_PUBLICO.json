@@ -1,0 +1,490 @@
+[
+  {
+    "ano_inicio": 1988,
+    "ano_fim": 1989,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CONCURSO_PUBLICO",
+    "numero_clausula_original": 24,
+    "titulo_original": "PREENCHIMENTO DE CARGOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "politica": "priorização de pessoal interno via PSI",
+      "prerrogativa": "Presidência pode decidir em contrário",
+      "CAP": "até 50% das vagas para candidatos externos"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "7"
+  },
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CONCURSO_PUBLICO",
+    "numero_clausula_original": 16,
+    "titulo_original": "CONCURSO PÚBLICO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "vedacao_discriminacao": [
+        "racial",
+        "religiosa",
+        "orientação sexual"
+      ],
+      "cotas": [
+        "pessoas com deficiência (10%)"
+      ],
+      "reserva_etnias": [
+        "negra",
+        "indígena"
+      ]
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "10"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CONCURSO_PUBLICO",
+    "numero_clausula_original": 16,
+    "titulo_original": "CONCURSO PÚBLICO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "vedacao_discriminacao": [
+        "racial",
+        "religiosa",
+        "orientação sexual"
+      ],
+      "cotas": [
+        "pessoas com deficiência (10%)"
+      ]
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "10"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CONCURSO_PUBLICO",
+    "numero_clausula_original": 16,
+    "titulo_original": "CONCURSO PÚBLICO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "vedacao_discriminacao": [
+        "racial",
+        "religiosa",
+        "orientação sexual"
+      ],
+      "cotas": [
+        "pessoas com deficiência (10%)"
+      ]
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CONCURSO_PUBLICO",
+    "numero_clausula_original": 16,
+    "titulo_original": "CONCURSO PÚBLICO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "cotas_PCD": 10,
+      "vedacao_discriminacao": true
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CONCURSO_PUBLICO",
+    "numero_clausula_original": 16,
+    "titulo_original": "CONCURSO PÚBLICO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "vedacao_discriminacao": [
+        "racial",
+        "religiosa",
+        "orientação sexual"
+      ],
+      "cotas": [
+        "pessoas com deficiência (10%)"
+      ]
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "8"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CONCURSO_PUBLICO",
+    "numero_clausula_original": 16,
+    "titulo_original": "CONCURSO PÚBLICO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "vedacao_discriminacao": [
+        "racial",
+        "religiosa",
+        "orientação sexual"
+      ],
+      "cotas": [
+        "pessoas com deficiência (10%)"
+      ]
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 7
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CONCURSO_PUBLICO",
+    "numero_clausula_original": 16,
+    "titulo_original": "CONCURSO PÚBLICO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "cotas": [
+        "pessoas com deficiência (10%)"
+      ],
+      "vedacao_discriminacao": [
+        "racial",
+        "religiosa",
+        "orientação sexual"
+      ]
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CONCURSO_PUBLICO",
+    "numero_clausula_original": 16,
+    "titulo_original": "CONCURSO PÚBLICO",
+    "status": "MANTIDO",
+    "texto": "Concursos sem discriminação racial, religiosa ou de orientação sexual. Reserva de 10% das vagas para deficientes físicos.",
+    "observacao": "Idêntica ao DC 2013-2014.",
+    "pagina_referencia": 6
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "PRO_CONCURSO_PUBLICO",
+    "numero_clausula_original": 16,
+    "titulo_original": "CONCURSO PÚBLICO",
+    "status": "MANTIDO",
+    "texto": "Concursos sem discriminação racial, religiosa ou de orientação sexual. Reserva de 10% das vagas para deficientes físicos.",
+    "observacao": "Idêntica ao DC 2012-2013.",
+    "pagina_referencia": 81
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CONCURSO_PUBLICO",
+    "numero_clausula_original": 67,
+    "titulo_original": "CONCURSO PÚBLICO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "cotas": [
+        "PCD 10%",
+        "Negros 20%"
+      ]
+    },
+    "memoria_negociacao": null,
+    "observacao": "Incluída cota de 20% para negros.",
+    "pagina_referencia": "28"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CONCURSO_PUBLICO",
+    "numero_clausula_original": 68,
+    "titulo_original": "CONCURSO PÚBLICO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "vedacao_discriminacao": [
+        "racial",
+        "religiosa",
+        "orientação sexual"
+      ],
+      "cotas": [
+        "pessoas com deficiência (10%)",
+        "negros (20%)"
+      ],
+      "reposicao_efetivo": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 37
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CONCURSO_PUBLICO",
+    "numero_clausula_original": 69,
+    "titulo_original": "CONCURSO PÚBLICO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "cotas": [
+        "PCD 10%",
+        "Negros 20%"
+      ]
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "38"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CONCURSO_PUBLICO",
+    "numero_clausula_original": 67,
+    "titulo_original": "CONCURSO PÚBLICO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "cotas_PCD": 10,
+      "cotas_negros": 20,
+      "unidade_cotas": "%",
+      "vedacao_discriminacao": true
+    },
+    "pagina_referencia": 89
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CONCURSO_PUBLICO",
+    "numero_clausula_original": 67,
+    "titulo_original": "CONCURSO PÚBLICO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "vedacao_discriminacao": [
+        "racial",
+        "religiosa",
+        "orientação sexual"
+      ],
+      "cotas": [
+        "pessoas com deficiência (10%)",
+        "negros (20%)"
+      ],
+      "reposicao_efetivo": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 36
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "PRO_CONCURSO_PUBLICO",
+    "numero_clausula_original": 67,
+    "titulo_original": "CONCURSO PÚBLICO",
+    "status": "MANTIDO",
+    "texto": "seus cargos não haverá quaisquer discriminações raciais, religiosas ou de orientação sexual, conforme previsão da CF/88, respeitando o percentual de 10% (dez por cento) das vagas destinadas a pessoas com deficiência e 20% (vinte por cento) de reserva de vagas para negros(as). Parágrafo Único: Os Correios continuarão observando a sistemática de alocação e reposição de pessoal, com vistas a garantir a manutenção do efetivo necessário à prestação qualitativa e contínua dos serviços postais. 81 --- PAGINA 82 --CLÁUSULA 68",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2020,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "PRO_CONCURSO_PUBLICO",
+    "numero_clausula_original": 19,
+    "titulo_original": "CONCURSO PÚBLICO",
+    "status": "MANTIDO",
+    "texto": "preenchimento de seus cargos, não haverá quaisquer discriminações raciais, religiosas ou de orientação sexual, conforme previsão da CF/88, respeitando o percentual de 10% (dez por cento) das vagas destinadas a pessoas com deficiência e 20% (vinte por cento) de reserva de vagas para negros (as). Parágrafo Único: Os Correios continuarão observando a sistemática de alocação e reposição de pessoal, com vistas a garantir a manutenção do efetivo necessário à prestação qualitativa e contínua dos serviços postais. OPERACIONALIZAÇÃO DA CLÁUSULA As solicitações de informações referentes a esta cláusula devem ser encaminhadas à Central de Serviços de Gestão de Pessoas – CEGEP/DIGEP - cscegepgres@correios.com.br 29 --- PAGINA 30 --CLÁUSULA 20",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "PRO_CONCURSO_PUBLICO",
+    "numero_clausula_original": 25,
+    "titulo_original": "CONCURSO PÚBLICO (67ª do DCG 2019/2020)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "redacao": "Os Correios garantirão que, nos concursos públicos realizados para preenchimento de seus cargos, não haverá quaisquer discriminações raciais, religiosas ou de orientação sexual, conforme previsão da CF/88, respeitando o percentual de 10% das vagas destinadas a pessoas com deficiência e 20% de reserva de vagas para negros (as). Parágrafo Único: Os Correios continuarão observando a sistemática de alocação e reposição de pessoal..."
+    },
+    "memoria_negociacao": "Manutenção anuída pelas entidades sindicais",
+    "observacao": null,
+    "pagina_referencia": "65-66"
+  },
+  {
+    "ano_inicio": 2022,
+    "ano_fim": 2023,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CONCURSO_PUBLICO",
+    "numero_clausula_original": 26,
+    "titulo_original": "CONCURSO PÚBLICO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "cotas_PCD": 10,
+      "cotas_negros": 20,
+      "unidade_cotas": "%",
+      "vedacao_discriminacao": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CONCURSO_PUBLICO",
+    "numero_clausula_original": 67,
+    "titulo_original": "CONCURSO PÚBLICO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "cotas": [
+        "PCD 10%",
+        "Negros (lei)"
+      ],
+      "compromisso_governo": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "13"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CONCURSO_PUBLICO",
+    "numero_clausula_original": 68,
+    "titulo_original": "CONCURSO PÚBLICO",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "vedacao_discriminacao": [
+        "racial",
+        "religiosa",
+        "orientação sexual"
+      ],
+      "cotas": [
+        "pessoas com deficiência",
+        "negros"
+      ],
+      "reposicao_efetivo": true,
+      "contratacoes_ate": "dezembro/2024"
+    },
+    "observacao": null,
+    "pagina_referencia": 24
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CONCURSO_PUBLICO",
+    "numero_clausula_original": 58,
+    "titulo_original": "CONCURSO PÚBLICO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "vedacao_discriminacao": [
+        "racial",
+        "religiosa",
+        "orientação sexual"
+      ],
+      "cotas": [
+        "pessoas com deficiência",
+        "negros"
+      ],
+      "reposicao_efetivo": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção com exclusão do §1º",
+      "pedido_fentect": "Manutenção com acréscimo",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 24
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "PRO_CONCURSO_PUBLICO",
+    "numero_clausula_original": 58,
+    "titulo_original": "CONCURSO PÚBLICO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "vedacao_discriminacao": [
+        "racial",
+        "religiosa",
+        "orientação sexual"
+      ],
+      "cotas": [
+        "pessoas com deficiência",
+        "negros"
+      ],
+      "reposicao_efetivo": true
+    },
+    "pagina_referencia": "70-71"
+  }
+]

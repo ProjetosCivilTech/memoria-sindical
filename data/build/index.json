@@ -1,0 +1,224 @@
+[
+  {
+    "periodo": "1988-1989",
+    "tipo": "ACT",
+    "arquivo": "data/raw/Acordo-Coletivo-1988_red.json",
+    "n_clausulas": 28
+  },
+  {
+    "periodo": "1990-1991",
+    "tipo": "ACT",
+    "arquivo": "data/raw/Acordo-Coletivo-1990_red.json",
+    "n_clausulas": 33
+  },
+  {
+    "periodo": "1991-1991",
+    "tipo": "DC",
+    "arquivo": "data/raw/Acordo-Coletivo-1991-parcial.json",
+    "n_clausulas": 22
+  },
+  {
+    "periodo": "1992-1992",
+    "tipo": "ACT",
+    "arquivo": "data/raw/Acordo-Coletivo-1992_red.json",
+    "n_clausulas": 35
+  },
+  {
+    "periodo": "1993-1994",
+    "tipo": "ACT",
+    "arquivo": "data/raw/Acordo-Coletivo-1993_red.json",
+    "n_clausulas": 40
+  },
+  {
+    "periodo": "1994-1995",
+    "tipo": "ACT",
+    "arquivo": "data/raw/acordo-coletivo-1994-1995.json",
+    "n_clausulas": 48
+  },
+  {
+    "periodo": "1995-1996",
+    "tipo": "ACT",
+    "arquivo": "data/raw/Acordo-Coletivo-1995-1996.json",
+    "n_clausulas": 40
+  },
+  {
+    "periodo": "1997-1998",
+    "tipo": "ACT",
+    "arquivo": "data/raw/Acordo-Coletivo-1997-1998.json",
+    "n_clausulas": 51
+  },
+  {
+    "periodo": "1998-1999",
+    "tipo": "ACT",
+    "arquivo": "data/raw/Acordo-Coletivo-1998-1999.json",
+    "n_clausulas": 55
+  },
+  {
+    "periodo": "1999-2000",
+    "tipo": "ACT",
+    "arquivo": "data/raw/acordo-coletivo-1999-2000.json",
+    "n_clausulas": 56
+  },
+  {
+    "periodo": "2000-2001",
+    "tipo": "DC",
+    "arquivo": "data/raw/acordo-coletivo-2000-2001.json",
+    "n_clausulas": 51
+  },
+  {
+    "periodo": "2001-2002",
+    "tipo": "ACT",
+    "arquivo": "data/raw/acordo-coletivo-2001-2002.json",
+    "n_clausulas": 50
+  },
+  {
+    "periodo": "2002-2003",
+    "tipo": "ACT",
+    "arquivo": "data/raw/acordo-coletivo-2002-2003.json",
+    "n_clausulas": 60
+  },
+  {
+    "periodo": "2003-2004",
+    "tipo": "ACT",
+    "arquivo": "data/raw/acordo-coletivo-2003-2004.json",
+    "n_clausulas": 63
+  },
+  {
+    "periodo": "2004-2005",
+    "tipo": "ACT",
+    "arquivo": "data/raw/acordo-coletivo-2004-2005.json",
+    "n_clausulas": 62
+  },
+  {
+    "periodo": "2005-2006",
+    "tipo": "ACT",
+    "arquivo": "data/raw/Acordo-Coletivo-2005-2006_red.json",
+    "n_clausulas": 63
+  },
+  {
+    "periodo": "2007-2008",
+    "tipo": "ACT",
+    "arquivo": "data/raw/acordo-coletivo-2007-2008.json",
+    "n_clausulas": 62
+  },
+  {
+    "periodo": "2008-2009",
+    "tipo": "ACT",
+    "arquivo": "data/raw/acordo-coletivo-2008-2009.json",
+    "n_clausulas": 62
+  },
+  {
+    "periodo": "2009-2011",
+    "tipo": "ACT",
+    "arquivo": "data/raw/Acordo-Coletivo-2009-2011_redp1.json e _redp2.json",
+    "n_clausulas": 63
+  },
+  {
+    "periodo": "2011-2012",
+    "tipo": "DCG",
+    "arquivo": "data/raw/acordao-tst--dissidio-2011--julgamento.json",
+    "n_clausulas": 16
+  },
+  {
+    "periodo": "2012-2013",
+    "tipo": "DCG",
+    "arquivo": "data/raw/acordo-coletivo-2012-2013.json",
+    "n_clausulas": 14
+  },
+  {
+    "periodo": "2013-2014",
+    "tipo": "ACT",
+    "arquivo": "data/raw/Acordo-Coletivo-2013-2014-FINDECT_red.json",
+    "n_clausulas": 64
+  },
+  {
+    "periodo": "2013-2014",
+    "tipo": "ACT",
+    "arquivo": "data/raw/Acordo-Coletivo-2013-2014-Sindicatos-Unificados.json",
+    "n_clausulas": 5
+  },
+  {
+    "periodo": "2013-2014",
+    "tipo": "DC",
+    "arquivo": "data/raw/Acordo-Coletivo-2013-2014-Acórdão-TST-DC-6942-72-2013-5-00-0000.json",
+    "n_clausulas": 64
+  },
+  {
+    "periodo": "2014-2015",
+    "tipo": "ACT",
+    "arquivo": "data/raw/acordo-coletivo-2014-2015.json",
+    "n_clausulas": 78
+  },
+  {
+    "periodo": "2015-2016",
+    "tipo": "ACT",
+    "arquivo": "data/raw/acordo-coletivo-2015-2016.json",
+    "n_clausulas": 81
+  },
+  {
+    "periodo": "2016-2017",
+    "tipo": "ACT",
+    "arquivo": "data/raw/acordo-coletivo-2016-2017.json",
+    "n_clausulas": 81
+  },
+  {
+    "periodo": "2017-2018",
+    "tipo": "ACT",
+    "arquivo": "data/raw/ACT-2017-2018.json",
+    "n_clausulas": 79
+  },
+  {
+    "periodo": "2018-2019",
+    "tipo": "ACT",
+    "arquivo": "data/raw/acordo-coletivo-2018-2019.json",
+    "n_clausulas": 79
+  },
+  {
+    "periodo": "2019-2021",
+    "tipo": "DC",
+    "arquivo": "data/raw/Acordao-2019-2021.json",
+    "n_clausulas": 79
+  },
+  {
+    "periodo": "2020-2021",
+    "tipo": "DC",
+    "arquivo": "data/raw/Acordao-2020-2021.json",
+    "n_clausulas": 29
+  },
+  {
+    "periodo": "2021-2022",
+    "tipo": "DCG",
+    "arquivo": "data/raw/Acordao_2021-2022.json",
+    "n_clausulas": 80
+  },
+  {
+    "periodo": "2022-2023",
+    "tipo": "ACT",
+    "arquivo": "data/raw/ACT-2022-2023.json",
+    "n_clausulas": 37
+  },
+  {
+    "periodo": "2023-2024",
+    "tipo": "ACT",
+    "arquivo": "data/raw/ACT-2023-2024.json",
+    "n_clausulas": 78
+  },
+  {
+    "periodo": "2024-2025",
+    "tipo": "ACT",
+    "arquivo": "data/raw/ACT-2024-2025-FINDECT.json",
+    "n_clausulas": 79
+  },
+  {
+    "periodo": "2024-2025",
+    "tipo": "ACT",
+    "arquivo": "data/raw/ACT-2024-2025-FINDECT.json",
+    "n_clausulas": 80
+  },
+  {
+    "periodo": "2025-2026",
+    "tipo": "DCG",
+    "arquivo": "data/raw/DC 2025-2026.json",
+    "n_clausulas": 80
+  }
+]

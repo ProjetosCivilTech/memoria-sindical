@@ -1,0 +1,37 @@
+{
+  "arquivo_origem": "1__Termo_Aditivo_ACT_2023_2024.pdf",
+  "metadados_pdf": {
+    "titulo": null,
+    "autor": null,
+    "assunto": null,
+    "criador": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+    "produtor": "Skia/PDF m111",
+    "criado_em": "D:20240112181545+00'00'",
+    "modificado_em": "D:20240112181545+00'00'"
+  },
+  "paginas_info": [
+    {
+      "pagina": 1,
+      "metodo": "OCR",
+      "chars": 7394,
+      "conf_ocr": 87.8
+    },
+    {
+      "pagina": 2,
+      "metodo": "OCR",
+      "chars": 6071,
+      "conf_ocr": 91.0
+    },
+    {
+      "pagina": 3,
+      "metodo": "OCR",
+      "chars": 929,
+      "conf_ocr": 88.1
+    }
+  ],
+  "paginas_total": 3,
+  "paginas_ocr": 3,
+  "conf_ocr_media": 89.0,
+  "metodo": "ocr",
+  "tempo_s": 12.56
+}

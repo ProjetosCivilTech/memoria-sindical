@@ -1,0 +1,123 @@
+[
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "SOC_APOSENTADOS",
+    "numero_clausula_original": 2,
+    "titulo_original": "APOSENTADOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dia_aposentado": "24 de janeiro",
+      "crachá": true,
+      "programa_preparacao": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "3"
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "SOC_APOSENTADOS",
+    "numero_clausula_original": 2,
+    "titulo_original": "APOSENTADOS(AS)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dia_aposentado": "24 de janeiro",
+      "crachá": true,
+      "programa_preparacao": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "3"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "SOC_APOSENTADOS",
+    "numero_clausula_original": 2,
+    "titulo_original": "APOSENTADOS(AS)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dia_aposentado": "24 de janeiro",
+      "cracha_especifico": true,
+      "programa_preparacao": true,
+      "participacao_diversidade": true
+    },
+    "pagina_referencia": 14
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "SOC_APOSENTADOS",
+    "numero_clausula_original": 2,
+    "titulo_original": "APOSENTADOS",
+    "status": "INDEFERIDO",
+    "detalhes": {
+      "motivo": "Cláusula não preexistente e com custo econômico"
+    },
+    "memoria_negociacao": "SDC indeferiu",
+    "observacao": null,
+    "pagina_referencia": "113"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "SOC_APOSENTADOS",
+    "numero_clausula_original": 3,
+    "titulo_original": "APOSENTADOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dia_aposentado": "24 de janeiro",
+      "crachá": true,
+      "programa_preparacao": true,
+      "reunioes_representativas": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "1"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SOC_APOSENTADOS",
+    "numero_clausula_original": 3,
+    "titulo_original": "APOSENTADOS(AS)",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "dia_aposentado": "24 de janeiro",
+      "cracha_especifico": true,
+      "programa_preparacao": true,
+      "relacionamento_entidades": true,
+      "participacao_acoes_diversidade": true
+    },
+    "observacao": null,
+    "pagina_referencia": 2
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "SOC_APOSENTADOS",
+    "numero_clausula_original": 2,
+    "titulo_original": "APOSENTADOS(AS)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dia_aposentado": "24 de janeiro",
+      "cracha_especifico": true,
+      "programa_preparacao": true,
+      "relacionamento_entidades": true,
+      "participacao_diversidade_geracional": true
+    },
+    "pagina_referencia": "14-15"
+  }
+]

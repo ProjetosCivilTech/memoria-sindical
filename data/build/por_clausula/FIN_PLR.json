@@ -1,0 +1,344 @@
+[
+  {
+    "ano_inicio": 2001,
+    "ano_fim": 2002,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PLR",
+    "numero_clausula_original": 31,
+    "titulo_original": "PARTICIPAÇÃO NOS LUCROS OU RESULTADOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "apresentar programa de PLR em 30 dias",
+      "negociacao": "com representações dos empregados"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "9"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PLR",
+    "numero_clausula_original": 45,
+    "titulo_original": "PARTICIPAÇÃO NOS LUCROS E RESULTADOS – PLR",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "negociacao": "com participação da FENTECT",
+      "base_legal": "Lei 10.101/2000"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "14"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PLR",
+    "numero_clausula_original": 42,
+    "titulo_original": "PARTICIPAÇÃO NOS LUCROS E RESULTADOS - PLR",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "base_legal": "Lei 10.101/2000"
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PLR",
+    "numero_clausula_original": 42,
+    "titulo_original": "PARTICIPAÇÃO NOS LUCROS E RESULTADOS – PLR",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "negociacao": "com participação da FENTECT",
+      "base_legal": "Lei 10.101/2000"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "18"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PLR",
+    "numero_clausula_original": 42,
+    "titulo_original": "PARTICIPAÇÃO NOS LUCROS E RESULTADOS – PLR",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "negociacao": "com participação da FENTECT",
+      "base_legal": "Lei 10.101/2000"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 14
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PLR",
+    "numero_clausula_original": 43,
+    "titulo_original": "PARTICIPAÇÃO NOS LUCROS E RESULTADOS – PLR",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "base_legal": "Lei 10.101/2000"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "13"
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PLR",
+    "numero_clausula_original": 43,
+    "titulo_original": "PARTICIPAÇÃO NOS LUCROS E RESULTADOS - PLR",
+    "status": "ALTERADO",
+    "texto": "ECT se compromete a negociar PLR com participação do Sindicato dos Empregados dos Correios ou Federação ao qual o sindicato esteja filiado, conforme Lei 10.101/2000.",
+    "observacao": "Substituição 'FENTECT' por 'Sindicato dos Empregados dos Correios ou Federação ao qual o sindicato esteja filiado'.",
+    "pagina_referencia": 12
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "FIN_PLR",
+    "numero_clausula_original": 43,
+    "titulo_original": "PARTICIPAÇÃO NOS LUCROS E RESULTADOS - PLR",
+    "status": "MANTIDO",
+    "texto": "ECT se compromete a negociar PLR com participação da FENTECT, conforme Lei 10.101/2000.",
+    "observacao": "Idêntica ao DC 2012-2013.",
+    "pagina_referencia": 69
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PLR",
+    "numero_clausula_original": 71,
+    "titulo_original": "PLR",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "base_legal": "Lei 10.101/2000"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "30"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PLR",
+    "numero_clausula_original": 72,
+    "titulo_original": "PARTICIPAÇÃO NOS LUCROS OU RESULTADOS – PLR",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "negociacao": "com participação das Federações signatárias",
+      "base_legal": "Lei 10.101/2000"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 39
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PLR",
+    "numero_clausula_original": 73,
+    "titulo_original": "PARTICIPAÇÃO NOS LUCROS E RESULTADOS - PLR",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "base_legal": "Lei 10.101/2000"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "40"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PLR",
+    "numero_clausula_original": 71,
+    "titulo_original": "PARTICIPAÇÃO NOS LUCROS OU RESULTADOS - PLR",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "negociacao": "com participação das Federações",
+      "base_legal": "Lei 10.101/2000"
+    },
+    "pagina_referencia": 93
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PLR",
+    "numero_clausula_original": 71,
+    "titulo_original": "PARTICIPAÇÃO NOS LUCROS OU RESULTADOS – PLR",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "negociacao": "com participação das Federações signatárias",
+      "base_legal": "Lei 10.101/2000"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 37
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "FIN_PLR",
+    "numero_clausula_original": 71,
+    "titulo_original": "PARTICIPAÇÃO NOS LUCROS OU RESULTADOS",
+    "status": "MANTIDO",
+    "texto": "Cláusula 72 – PENALIDADE ............................................................................................................................................................. 121",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "FIN_PLR",
+    "numero_clausula_original": 71,
+    "titulo_original": "PARTICIPAÇÃO NOS LUCROS OU RESULTADOS-PLR",
+    "status": "INDEFERIDO",
+    "detalhes": {
+      "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+    },
+    "memoria_negociacao": "SDC indeferiu",
+    "observacao": null,
+    "pagina_referencia": "113"
+  },
+  {
+    "ano_inicio": 2022,
+    "ano_fim": 2023,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PLR",
+    "numero_clausula_original": 32,
+    "titulo_original": "PARTICIPAÇÃO NOS LUCROS E RESULTADOS 2021 E 2022",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "PLR_2021": "parcela corporativa linear + individual proporcional",
+      "PLR_2022": "conforme programa aprovado pela SEST",
+      "base_legal": "Resolução CCE nº 10/1995"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PLR",
+    "numero_clausula_original": 70,
+    "titulo_original": "PARTICIPAÇÃO NOS LUCROS OU RESULTADOS - PLR",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "base_legal": "Lei 10.101/2000"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "14"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PLR",
+    "numero_clausula_original": 71,
+    "titulo_original": "PARTICIPAÇÃO NOS LUCROS OU RESULTADOS – PLR",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "negociacao": "com participação das Federações signatárias",
+      "base_legal": "Lei 10.101/2000"
+    },
+    "observacao": null,
+    "pagina_referencia": 25
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PLR",
+    "numero_clausula_original": 61,
+    "titulo_original": "PARTICIPAÇÃO NOS LUCROS OU RESULTADOS – PLR",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "negociacao": "com participação das Federações signatárias",
+      "base_legal": "Lei 10.101/2000"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 25
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "FIN_PLR",
+    "numero_clausula_original": 61,
+    "titulo_original": "PARTICIPAÇÃO NOS LUCROS OU RESULTADOS - PLR",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "negociacao": "com participação das Federações signatárias",
+      "base_legal": "Lei 10.101/2000"
+    },
+    "pagina_referencia": "72-73"
+  }
+]

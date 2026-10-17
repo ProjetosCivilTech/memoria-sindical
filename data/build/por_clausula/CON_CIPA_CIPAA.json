@@ -1,0 +1,82 @@
+[
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "CON_CIPA_CIPAA",
+    "numero_clausula_original": 37,
+    "titulo_original": "COMISSÃO INTERNA DE PREVENÇÃO DE ACIDENTES E ASSÉDIOS – CIPAA",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "efetivo_minimo": 30,
+      "eleicao": "60 dias antes do término, 30 dias de antecedência",
+      "designacao_responsavel": "até 30 empregados",
+      "liberacao_cipeiros": {
+        "menos_400_empregados": "4 horas/mês",
+        "400_a_1000_empregados": "6 horas/mês",
+        "mais_1000_empregados": "8 horas/mês"
+      },
+      "curso_formacao": "EaD ou presencial",
+      "reunioes_semestrais": "presidentes de CIPAA com mais de 1.000 empregados",
+      "SIPAT": true
+    },
+    "observacao": "No DC 2025/2026, a cláusula foi atualizada para CIPA (sem o 'A' final) e adaptada à NR-5 (Portaria MTP 4.219/2022).",
+    "pagina_referencia": 13
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "CON_CIPA_CIPAA",
+    "numero_clausula_original": 30,
+    "titulo_original": "COMISSÃO INTERNA DE PREVENÇÃO DE ACIDENTES E ASSÉDIOS – CIPA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "base_legal": "NR-05, Portaria MTP nº 4.219/2022",
+      "dimensionamento": "Quadro I da NR-05",
+      "designacao_responsavel": "até 50 empregados",
+      "liberacao_cipeiros": {
+        "menos_400_empregados": "4 horas/mês",
+        "400_a_1000_empregados": "6 horas/mês",
+        "mais_1000_empregados": "8 horas/mês"
+      },
+      "reunioes_semestrais": "presidentes de CIPA com mais de 1.000 empregados"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com divergência pontual",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "NR-05; Portaria MTP 4.219/2022",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 14
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "CON_CIPA_CIPAA",
+    "numero_clausula_original": 30,
+    "titulo_original": "COMISSÃO INTERNA DE PREVENÇÃO DE ACIDENTES E ASSÉDIOS - CIPA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "base_legal": "NR-05, Portaria MTP nº 4.219/2022",
+      "dimensionamento": "Quadro I da NR-05",
+      "designacao_responsavel": "até 50 empregados",
+      "liberacao_cipeiros": {
+        "menos_400": "4 horas/mês",
+        "400_a_1000": "6 horas/mês",
+        "mais_1000": "8 horas/mês"
+      },
+      "reunioes_semestrais": "presidentes de CIPA com mais de 1.000 empregados",
+      "Lei 14.457/2022": true,
+      "SIPAT": true
+    },
+    "pagina_referencia": "41-43"
+  }
+]

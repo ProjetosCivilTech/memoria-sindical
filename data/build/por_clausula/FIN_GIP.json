@@ -1,0 +1,50 @@
+[
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "FIN_GIP",
+    "numero_clausula_original": 63,
+    "titulo_original": "DA GRATIFICAÇÃO DE INCENTIVO À PRODUTIVIDADE - GIP",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "reajuste_anual": true,
+      "reflexos": [
+        "férias",
+        "13º",
+        "FGTS"
+      ],
+      "incorporacao_referencia_salarial": {
+        "2015": 25,
+        "2016": 25,
+        "remanescente": "10% para cada R$ 100 milhões de lucro líquido",
+        "lucro_superior": "2% para cada R$ 20 milhões"
+      }
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 34
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "FIN_GIP",
+    "numero_clausula_original": 63,
+    "titulo_original": "GRATIFICAÇÃO DE INCENTIVO À PRODUTIVIDADE - GIP",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "incorporacao_total": "01/08/2016"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "37"
+  }
+]

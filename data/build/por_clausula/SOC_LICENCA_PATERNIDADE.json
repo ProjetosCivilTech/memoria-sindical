@@ -1,0 +1,87 @@
+[
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_PATERNIDADE",
+    "numero_clausula_original": 11,
+    "titulo_original": "LICENÇA PATERNIDADE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias": 20,
+      "extensao_adocao": true
+    },
+    "memoria_negociacao": null,
+    "observacao": "Ampliada para 20 dias.",
+    "pagina_referencia": "3"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_PATERNIDADE",
+    "numero_clausula_original": 11,
+    "titulo_original": "LICENÇA PATERNIDADE",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": 22,
+    "unidade": "dias",
+    "detalhes": {
+      "dias_licenca": 22,
+      "extensao_adocao": true,
+      "ampliacao_filho_deficiencia": 30,
+      "garantia_natimorto": true,
+      "garantia_falecimento_recem_nascido": true
+    },
+    "observacao": null,
+    "pagina_referencia": 5
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SOC_LICENCA_PATERNIDADE",
+    "numero_clausula_original": 10,
+    "titulo_original": "LICENÇA PATERNIDADE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dias_licenca": 20,
+      "base_legal": "Lei 15.371/2026",
+      "extensao_adocao": true,
+      "ampliacao_filho_deficiencia": 30,
+      "garantia_natimorto": true,
+      "conciliacao_ferias": true,
+      "novo_paragrafo_3": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Reduzir de 22 para 20 dias, com base na Lei 15.371/2026",
+      "pedido_fentect": "Manutenção dos 22 dias",
+      "pedido_findect": "Manutenção dos 22 dias; concorda com o §3º",
+      "decisao_tst": "DEFERE a redução para 20 dias, por estar alinhada à Lei 15.371/2026",
+      "fundamento_juridico": "Lei 15.371/2026",
+      "votos_divergentes": null
+    },
+    "observacao": "**PERDA HISTÓRICA**. A licença-paternidade foi reduzida de 22 para 20 dias. Incluído §3º que garante a fruição integral mesmo quando o nascimento ocorrer durante as férias.",
+    "pagina_referencia": 6
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "SOC_LICENCA_PATERNIDADE",
+    "numero_clausula_original": 10,
+    "titulo_original": "LICENÇA PATERNIDADE",
+    "status": "DEFERIDO",
+    "valor_atual": 22,
+    "unidade": "dias",
+    "detalhes": {
+      "dias_licenca": 22,
+      "extensao_adocao": true,
+      "ampliacao_filho_deficiencia": 30,
+      "garantia_natimorto": true,
+      "garantia_falecimento_recem_nascido": true
+    },
+    "observacao": "Mantida em 22 dias (só no DC 2026/2027 foi reduzida para 20 pela Lei 15.371/2026)",
+    "pagina_referencia": "28"
+  }
+]

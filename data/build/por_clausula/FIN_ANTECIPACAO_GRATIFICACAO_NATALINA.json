@@ -1,0 +1,37 @@
+[
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ANTECIPACAO_GRATIFICACAO_NATALINA",
+    "numero_clausula_original": 8,
+    "titulo_original": "ANTECIPAÇÃO DE 50% DA GRATIFICAÇÃO NATALINA",
+    "status": "MANTIDO",
+    "texto": "Empregados que em 2014 não gozarem férias até junho receberão 50% do 13º em 2 parcelas (25% março + 25% junho) ou em parcela única em junho. Diferença paga até 20/12/2014.",
+    "observacao": "Idêntica ao DC 2013-2014.",
+    "pagina_referencia": 3
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "FIN_ANTECIPACAO_GRATIFICACAO_NATALINA",
+    "numero_clausula_original": 8,
+    "titulo_original": "ANTECIPAÇÃO DE 50% DA GRATIFICAÇÃO NATALINA",
+    "status": "MANTIDO",
+    "texto": "Empregados que em 2014 não gozarem férias até junho e não optarem pelo recebimento nas férias receberão 50% do 13º em 2 parcelas (25% em março/2014 + 25% em junho/2014) ou em parcela única de 50% em junho/2014. Diferença paga até 20/12/2014.",
+    "observacao": "Idêntica ao DC 2012-2013, com datas ajustadas para 2014.",
+    "pagina_referencia": 75
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "FIN_ANTECIPACAO_GRATIFICACAO_NATALINA",
+    "numero_clausula_original": 57,
+    "titulo_original": "ANTECIPAÇÃO DE 50% DA GRATIFICAÇÃO NATALINA.............................................................................",
+    "status": "MANTIDO",
+    "texto": "Cláusula 58 – ANUÊNIOS................................................................................................................................................................. 100 Cláusula 59 – GRATIFICAÇÃO DE FÉRIAS......................................................................................................................................... 102 Cláusula 60 – GRATIFICAÇÃO DE QUEBRA DE CAIXA ...................................................................................................................... 103 Cláusula 61 – HORAS EXTRAS ......................................................................................................................................................... 105 Cláusula 62 – PAGAMENTO DE SALÁRIO ........................................................................................................................................ 107 Cláusula 63 – REAJUSTE SALARIAL .................................................................................................................................................. 108 Cláusula 64 – TRABALHO EM DIA DE REPOUSO.............................................................................................................................. 109 Cláusula 65 – TRABALHO NOS FINS DE SEMANA ............................................................................................................................ 111 TÍTULO VII – DAS DISPOSIÇÕES GERAIS Cláusula 66 – ACUMULAÇÃO DE VANTAGENS ................................................................................................................................ 113 Cláusula 67 – CONCURSO PÚBLICO ................................................................................................................................................ 114 Cláusula 68 – CURSOS E REUNIÕES OBRIGATÓRIAS ....................................................................................................................... 115 Cláusula 69 – DIREITO A AMPLA DEFESA ........................................................................................................................................ 117 Cláusula 70 – MULTAS DE TRÂNSITO .............................................................................................................................................. 118",
+    "novo_id": false
+  }
+]

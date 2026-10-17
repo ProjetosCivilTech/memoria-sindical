@@ -1,0 +1,487 @@
+[
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EQUIDADE_RACIAL",
+    "numero_clausula_original": 19,
+    "titulo_original": "DISCRIMINAÇÕES E PRECONCEITOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "desenvolver ações positivas contra discriminações",
+      "temas": [
+        "origem",
+        "raça",
+        "sexo",
+        "cor",
+        "idade"
+      ],
+      "assedio_sexual": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "7"
+  },
+  {
+    "ano_inicio": 2000,
+    "ano_fim": 2001,
+    "tipo": "DC",
+    "id_canonico": "SIN_EQUIDADE_RACIAL",
+    "numero_clausula_original": 14,
+    "titulo_original": "DISCRIMINAÇÕES E PRECONCEITOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "desenvolver ações positivas contra discriminações e preconceitos",
+      "temas": [
+        "origem",
+        "raça",
+        "credo",
+        "sexo",
+        "cor",
+        "idade"
+      ],
+      "assedio_sexual": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "Cláusula incontroversa.",
+    "pagina_referencia": "5"
+  },
+  {
+    "ano_inicio": 2001,
+    "ano_fim": 2002,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EQUIDADE_RACIAL",
+    "numero_clausula_original": 14,
+    "titulo_original": "DISCRIMINAÇÕES E PRECONCEITOS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "desenvolver ações positivas contra discriminações e preconceitos",
+      "temas": [
+        "origem",
+        "raça",
+        "sexo",
+        "cor",
+        "idade"
+      ],
+      "assedio_sexual": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "5"
+  },
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EQUIDADE_RACIAL",
+    "numero_clausula_original": 22,
+    "titulo_original": "DISCRIMINAÇÃO RACIAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "implementar políticas de orientação contra discriminação racial",
+      "canal_denuncia": "área de relações do trabalho",
+      "levantamento_etnia": true,
+      "inclusao_funcoes_confianca": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "11-12"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EQUIDADE_RACIAL",
+    "numero_clausula_original": 22,
+    "titulo_original": "DISCRIMINAÇÃO RACIAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "implementar políticas de orientação contra discriminação racial",
+      "canal_denuncia": "área de relações do trabalho"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "11"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EQUIDADE_RACIAL",
+    "numero_clausula_original": 22,
+    "titulo_original": "DISCRIMINAÇÃO RACIAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "implementar políticas de orientação contra discriminação racial",
+      "canal_denuncia": "área de relações do trabalho"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "8"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EQUIDADE_RACIAL",
+    "numero_clausula_original": 22,
+    "titulo_original": "DISCRIMINAÇÃO RACIAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "canal_denuncia": "área de Gestão Relações Sindicais",
+      "politicas_orientacao": true
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EQUIDADE_RACIAL",
+    "numero_clausula_original": 22,
+    "titulo_original": "DISCRIMINAÇÃO RACIAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "implementar políticas de orientação contra discriminação racial",
+      "canal_denuncia": "área de gestão das relações sindicais e do trabalho",
+      "apoio_sindical": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "10"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EQUIDADE_RACIAL",
+    "numero_clausula_original": 22,
+    "titulo_original": "DISCRIMINAÇÃO RACIAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "implementar políticas de orientação contra discriminação racial",
+      "canal_denuncia": "área de gestão das relações sindicais e do trabalho"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 8
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EQUIDADE_RACIAL",
+    "numero_clausula_original": 22,
+    "titulo_original": "DISCRIMINAÇÃO RACIAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "implementar políticas contra discriminação racial",
+      "canal_denuncia": "área de gestão das relações sindicais e do trabalho"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "8"
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EQUIDADE_RACIAL",
+    "numero_clausula_original": 4,
+    "titulo_original": "DISCRIMINAÇÃO RACIAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "enfrentamento ao racismo e promoção da igualdade racial",
+      "reserva_vagas_bolsas": "Mulheres, Negros, Indígenas"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "3"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EQUIDADE_RACIAL",
+    "numero_clausula_original": 4,
+    "titulo_original": "PROMOÇÃO DA EQUIDADE RACIAL E ENFRENTAMENTO AO RACISMO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "painel_radar_pessoas": true,
+      "grupo_trabalho": true,
+      "prazo_gt": "30 dias após assinatura do ACT",
+      "composicao_gt": "7 representantes dos Correios + 7 representantes das Federações",
+      "campanhas_conscientizacao": true,
+      "reserva_bolsas_estudos": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 4
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EQUIDADE_RACIAL",
+    "numero_clausula_original": 4,
+    "titulo_original": "PROMOÇÃO DA EQUIDADE RACIAL E ENFRENTAMENTO AO RACISMO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "reserva_vagas_bolsas": "Mulheres, Negros, Indígenas",
+      "grupo_trabalho": "7 + 7",
+      "levantamento_etnia": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "4-5"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EQUIDADE_RACIAL",
+    "numero_clausula_original": 4,
+    "titulo_original": "PROMOÇÃO DA EQUIDADE RACIAL E ENFRENTAMENTO AO RACISMO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "tratamento_denuncias": true,
+      "campanhas_conscientizacao": true,
+      "reserva_vagas_bolsas": [
+        "Mulheres",
+        "Negros",
+        "Indígenas"
+      ],
+      "grupo_trabalho": "7 Correios + 7 Federações",
+      "mesa_tematica": true,
+      "mes_consciencia_negra": true
+    },
+    "pagina_referencia": "16-17"
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EQUIDADE_RACIAL",
+    "numero_clausula_original": 4,
+    "titulo_original": "PROMOÇÃO DA EQUIDADE RACIAL E ENFRENTAMENTO AO RACISMO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "painel_radar_pessoas": true,
+      "grupo_trabalho": true,
+      "prazo_gt": "30 dias após assinatura do ACT",
+      "composicao_gt": "7 representantes dos Correios + 7 representantes das Federações",
+      "campanhas_conscientizacao": true,
+      "reserva_bolsas_estudos": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 3
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "SIN_EQUIDADE_RACIAL",
+    "numero_clausula_original": 4,
+    "titulo_original": "PROMOÇÃO DA EQUIDADE RACIAL E ENFRENTAMENTO AO RACISMO... ..............................................................",
+    "status": "MANTIDO",
+    "texto": "",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "SIN_EQUIDADE_RACIAL",
+    "numero_clausula_original": 8,
+    "titulo_original": "PROMOÇÃO DA EQUIDADE RACIAL E ENFRENTAMENTO AO RACISMO (4ª do DCG 2019/2020)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "redacao": "Os Correios continuarão implementando políticas de enfrentamento ao racismo e de promoção da igualdade racial... §1º tratar os casos de discriminação racial... §2º denúncia à área de gestão das relações sindicais... §3º campanhas constantes... §4º estudos para reserva de vagas de bolsas para Mulheres, Negros e Indígenas... §5º ações no mês da consciência negra... §6º levantamento de informações relativas à cor ou raça... §7º Grupo de Trabalho paritário (7+7)...",
+      "historico": "ACT 1999/2000, com evolução até sentença normativa 2019/2020"
+    },
+    "memoria_negociacao": "Cláusula considerada histórica e social; deferida",
+    "observacao": null,
+    "pagina_referencia": "77-78"
+  },
+  {
+    "ano_inicio": 2022,
+    "ano_fim": 2023,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EQUIDADE_RACIAL",
+    "numero_clausula_original": 8,
+    "titulo_original": "PROMOÇÃO DA EQUIDADE RACIAL E ENFRENTAMENTO AO RACISMO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "tratamento_denuncias": true,
+      "campanhas_conscientizacao": true,
+      "reserva_vagas_bolsas": [
+        "Mulheres",
+        "Negros",
+        "Indígenas"
+      ],
+      "grupo_trabalho": "7 Correios + 7 Federações",
+      "mesa_tematica": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "2"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EQUIDADE_RACIAL",
+    "numero_clausula_original": 5,
+    "titulo_original": "PROMOÇÃO DA EQUIDADE RACIAL E ENFRENTAMENTO AO RACISMO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "reserva_vagas_bolsas": "Mulheres, Negros, Indígenas, Povos Originários",
+      "grupo_trabalho": "7 + 7",
+      "orientacao_juridica_vitimas": true
+    },
+    "memoria_negociacao": null,
+    "observacao": "Incluída orientação jurídica e suporte psicológico.",
+    "pagina_referencia": "2"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EQUIDADE_RACIAL",
+    "numero_clausula_original": 5,
+    "titulo_original": "PROMOÇÃO DA EQUIDADE RACIAL E ENFRENTAMENTO AO RACISMO",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "painel_radar_pessoas": true,
+      "grupo_trabalho": true,
+      "prazo_gt": "30 dias após assinatura do ACT",
+      "composicao_gt": "7 representantes dos Correios + 7 representantes das Federações",
+      "cotas_capacitacao": {
+        "mulheres": 40,
+        "negros": 30,
+        "operacionais": 20
+      },
+      "letramento_racial": true,
+      "reserva_vagas_bolsas": [
+        "negros",
+        "indígenas"
+      ]
+    },
+    "observacao": null,
+    "pagina_referencia": 3
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EQUIDADE_RACIAL",
+    "numero_clausula_original": 4,
+    "titulo_original": "PROMOÇÃO DA EQUIDADE RACIAL E ENFRENTAMENTO AO RACISMO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "painel_radar_pessoas": true,
+      "grupo_trabalho": true,
+      "prazo_gt": "30 dias após assinatura do ACT",
+      "composicao_gt": "7 representantes dos Correios + 7 representantes das Federações",
+      "cotas_capacitacao": {
+        "mulheres": 40,
+        "negros": 30,
+        "operacionais": 20
+      },
+      "letramento_racial": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 3
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "SIN_EQUIDADE_RACIAL",
+    "numero_clausula_original": 4,
+    "titulo_original": "PROMOÇÃO DA EQUIDADE RACIAL E ENFRENTAMENTO AO RACISMO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "painel_radar_pessoas": true,
+      "grupo_trabalho": "7 Correios + 7 Federações",
+      "prazo_gt": "30 dias após publicação",
+      "paridade_genero": true,
+      "cotas_capacitacao": {
+        "mulheres": 40,
+        "negros": 30,
+        "operacionais": 20
+      },
+      "orientacao_juridica_vitimas": true,
+      "link_app_sou_correios": true,
+      "letramento_racial": true
+    },
+    "pagina_referencia": "17-19"
+  }
+]

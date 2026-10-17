@@ -1,0 +1,61 @@
+{
+  "arquivo_origem": "Acordo-Coletivo-2004-2005_p3.pdf",
+  "metadados_pdf": {
+    "titulo": "Acordo Coletivo 2004 2005",
+    "autor": null,
+    "assunto": null,
+    "criador": "PDF reDirect v2",
+    "produtor": "EXP Systems LLC (www.exp-systems.com)",
+    "criado_em": "D:20070223094556Z",
+    "modificado_em": "D:20160616100019-03'00'"
+  },
+  "paginas_info": [
+    {
+      "pagina": 1,
+      "metodo": "OCR",
+      "chars": 2415,
+      "conf_ocr": 91.1
+    },
+    {
+      "pagina": 2,
+      "metodo": "OCR",
+      "chars": 2561,
+      "conf_ocr": 90.8
+    },
+    {
+      "pagina": 3,
+      "metodo": "OCR",
+      "chars": 2718,
+      "conf_ocr": 92.1
+    },
+    {
+      "pagina": 4,
+      "metodo": "OCR",
+      "chars": 2638,
+      "conf_ocr": 89.9
+    },
+    {
+      "pagina": 5,
+      "metodo": "OCR",
+      "chars": 1074,
+      "conf_ocr": 83.5
+    },
+    {
+      "pagina": 6,
+      "metodo": "OCR",
+      "chars": 407,
+      "conf_ocr": 68.6
+    },
+    {
+      "pagina": 7,
+      "metodo": "OCR",
+      "chars": 2854,
+      "conf_ocr": 86.4
+    }
+  ],
+  "paginas_total": 7,
+  "paginas_ocr": 7,
+  "conf_ocr_media": 86.1,
+  "metodo": "ocr",
+  "tempo_s": 15.86
+}

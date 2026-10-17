@@ -1,0 +1,17 @@
+[
+  {
+    "ano_inicio": 1994,
+    "ano_fim": 1995,
+    "tipo": "ACT",
+    "id_canonico": "PRO_PASSIVO_TRABALHISTA",
+    "numero_clausula_original": 32,
+    "titulo_original": "PASSIVO TRABALHISTA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "reexaminar no 2º semestre de 1994"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "10"
+  }
+]

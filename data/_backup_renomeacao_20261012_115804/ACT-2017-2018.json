@@ -1,0 +1,1177 @@
+{
+  "metadados_documento": {
+    "tipo": "ACT",
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "processo": "TST-DCG-1000135-77.2017.5.00.0000",
+    "tribunal": "TST",
+    "orgao": "SDC",
+    "relator": "Ministro Emmanoel Pereira (Vice-Presidente do TST - mediação)",
+    "data_julgamento": null,
+    "data_publicacao": null,
+    "entidade_patronal": "ECT",
+    "entidades_profissionais": ["FENTECT", "FINDECT", "SINTECT/SP", "SINDECTEB", "SINTECT/RJ", "SINTECT/TO", "SINTECT/MA"],
+    "arquivo_origem": "ACT-2017-2018.pdf",
+    "greve": null
+  },
+  "clausulas": [
+    {
+      "id_canonico": "SIN_ANISTIA",
+      "numero_clausula_original": 1,
+      "titulo_original": "ANISTIA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "base_legal": ["Lei 8.632/93", "Lei 8.878/94", "Lei 10.559/2002", "Lei 11.282/2006"],
+        "grupo_trabalho": "6 Correios + 5 Federações",
+        "compromissos": [
+          "adotar procedimentos para cumprimento de decisão de anistia",
+          "analisar e julgar pedidos de anistia",
+          "avaliar impactos para adequação salarial dos anistiados",
+          "examinar encaminhamentos de demissões sem justa causa em período de estabilidade"
+        ]
+      },
+      "pagina_referencia": "13-14"
+    },
+    {
+      "id_canonico": "SOC_APOSENTADOS",
+      "numero_clausula_original": 2,
+      "titulo_original": "APOSENTADOS(AS)",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "dia_aposentado": "24 de janeiro",
+        "cracha_especifico": true,
+        "programa_preparacao": true,
+        "participacao_diversidade": true
+      },
+      "pagina_referencia": 14
+    },
+    {
+      "id_canonico": "SIN_ENFRENTAMENTO_ASSEDIOS",
+      "numero_clausula_original": 3,
+      "titulo_original": "ASSÉDIO SEXUAL E ASSÉDIO MORAL",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "programas_educativos": true,
+        "canais_denuncia": "área de gestão das relações sindicais e do trabalho",
+        "apoio_sindical": true,
+        "orientacao_psicologica": true,
+        "grupo_trabalho": "7 Correios + 7 Federações",
+        "mesa_tematica": true
+      },
+      "pagina_referencia": "15-16"
+    },
+    {
+      "id_canonico": "SIN_EQUIDADE_RACIAL",
+      "numero_clausula_original": 4,
+      "titulo_original": "PROMOÇÃO DA EQUIDADE RACIAL E ENFRENTAMENTO AO RACISMO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "tratamento_denuncias": true,
+        "campanhas_conscientizacao": true,
+        "reserva_vagas_bolsas": ["Mulheres", "Negros", "Indígenas"],
+        "grupo_trabalho": "7 Correios + 7 Federações",
+        "mesa_tematica": true,
+        "mes_consciencia_negra": true
+      },
+      "pagina_referencia": "16-17"
+    },
+    {
+      "id_canonico": "SIN_VALORIZACAO_DIVERSIDADE",
+      "numero_clausula_original": 5,
+      "titulo_original": "VALORIZAÇÃO DA DIVERSIDADE HUMANA E RESPEITO ÀS DIFERENÇAS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "publico_alvo": ["pessoas com deficiência", "juventude", "LGBT", "pessoas idosas", "povos indígenas"],
+        "campanhas_comunicacao": true,
+        "seminarios_foruns": true,
+        "cursos_formacao": true,
+        "campanha_antihomofobia": true,
+        "comissoes_regionais": true
+      },
+      "pagina_referencia": "17-18"
+    },
+    {
+      "id_canonico": "SIN_EMPREGADO_ESTUDANTE",
+      "numero_clausula_original": 6,
+      "titulo_original": "GARANTIAS AO(À) EMPREGADO(A) ESTUDANTE",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "abono_enem_vestibular": "10 dias de antecedência",
+        "nao_alteracao_jornada": true,
+        "estagio_curricular": true,
+        "parcerias_ensino": true,
+        "nao_convocacao_horas_extras": true,
+        "orientacao_federacoes": true,
+        "priorizacao_transferencia": true,
+        "pesquisa_inovacao": true,
+        "incentivo_educacional": true,
+        "acesso_internet_PIDI": true
+      },
+      "pagina_referencia": "18-20"
+    },
+    {
+      "id_canonico": "SOC_LICENCA_ADOCAO",
+      "numero_clausula_original": 7,
+      "titulo_original": "LICENÇA ADOÇÃO",
+      "status": "DEFERIDO",
+      "valor_atual": 12,
+      "unidade": "anos de idade",
+      "detalhes": {
+        "dias_licenca": 120,
+        "dias_prorrogacao": 60,
+        "idade_limite_crianca": 12,
+        "termo_guarda": true,
+        "licenca_paternidade_adotante": 5,
+        "solteiro": true,
+        "homoafetiva": true
+      },
+      "pagina_referencia": "20-21"
+    },
+    {
+      "id_canonico": "SIN_PROGRAMA_CASA_PROPRIA",
+      "numero_clausula_original": 8,
+      "titulo_original": "PROGRAMA CASA PRÓPRIA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "liberacao_dirigente": 1,
+        "onus": "ECT",
+        "projeto_habitacional": true,
+        "parcerias": ["Ministério das Cidades", "Secretaria Habitação Estadual e Municipal"],
+        "prazo_solicitacao": "10 dias úteis"
+      },
+      "pagina_referencia": "21-22"
+    },
+    {
+      "id_canonico": "FIN_AADC",
+      "numero_clausula_original": 9,
+      "titulo_original": "ADICIONAL DE ATIVIDADE DISTRIBUIÇÃO E COLETA - AADC",
+      "status": "DEFERIDO",
+      "valor_atual": 30,
+      "unidade": "%",
+      "detalhes": {
+        "percentual": 30,
+        "base_calculo": "salário-base",
+        "publico_alvo": ["gestantes", "lactantes em licença maternidade"],
+        "cargos": ["Agente de Correios - Carteiro", "Carteiro motorizado"],
+        "inicio": "5º mês de gestação ou antes por recomendação médica",
+        "manutencao_licenca_maternidade": true
+      },
+      "pagina_referencia": "22-23"
+    },
+    {
+      "id_canonico": "SOC_ENFRENTAMENTO_VIOLENCIA_MULHER",
+      "numero_clausula_original": 10,
+      "titulo_original": "ENFRENTAMENTO À VIOLÊNCIA CONTRA A MULHER",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "transferencia_unidade": "prioridade independente do SNT",
+        "divulgacao_ligue_180": true,
+        "manutencao_vinculo_6_meses": "sem pagamento de remuneração",
+        "campanha_tolerancia_zero": true
+      },
+      "pagina_referencia": "23-24"
+    },
+    {
+      "id_canonico": "SOC_LICENCA_MATERNIDADE",
+      "numero_clausula_original": 11,
+      "titulo_original": "LICENÇA MATERNIDADE",
+      "status": "DEFERIDO",
+      "valor_atual": 120,
+      "unidade": "dias",
+      "detalhes": {
+        "inicio_ate_28_dias_antes_parto": true,
+        "permanencia_2_meses_atividades_internas": true,
+        "estabilidade_90_dias": true,
+        "conciliacao_ferias": true
+      },
+      "pagina_referencia": "24-25"
+    },
+    {
+      "id_canonico": "SOC_PERIODO_AMAMENTACAO",
+      "numero_clausula_original": 12,
+      "titulo_original": "PERÍODO DE AMAMENTAÇÃO",
+      "status": "DEFERIDO",
+      "valor_atual": 1,
+      "unidade": "ano",
+      "detalhes": {
+        "intervalo_especial": "2h ou 2x 1h",
+        "idade_limite_filho": 1,
+        "jornada_reduzida": "6h corridas",
+        "prioridade_vaga_proxima_residencia": true,
+        "jornada_inferior_2_descansos_30min": true
+      },
+      "pagina_referencia": 25
+    },
+    {
+      "id_canonico": "SOC_PRORROGACAO_LICENCA_MATERNIDADE",
+      "numero_clausula_original": 13,
+      "titulo_original": "PRORROGAÇÃO DA LICENÇA MATERNIDADE",
+      "status": "DEFERIDO",
+      "valor_atual": 60,
+      "unidade": "dias",
+      "detalhes": {
+        "dias_prorrogacao": 60,
+        "remuneracao_integral": true,
+        "vedacao_atividade_remunerada": true,
+        "vedacao_creche": true,
+        "perda_reembolso_creche_baba": true,
+        "base_legal": "Lei 11.770/2008"
+      },
+      "pagina_referencia": "25-26"
+    },
+    {
+      "id_canonico": "SOC_SAUDE_MULHER",
+      "numero_clausula_original": 14,
+      "titulo_original": "SAÚDE DA MULHER",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "marco": "saúde da mulher",
+        "outubro": "câncer de mama",
+        "mudanca_provisoria_tarefa": true,
+        "mudanca_automatica_5_mes": ["carteiro", "motorista", "operadora de triagem e transbordo"],
+        "participacao_dependentes": true
+      },
+      "pagina_referencia": "26-27"
+    },
+    {
+      "id_canonico": "SIN_EQUIDADE_GENERO",
+      "numero_clausula_original": 15,
+      "titulo_original": "PROMOÇÃO DA EQUIDADE DE GÊNERO E ENFRENTAMENTO AO SEXISMO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "principios_empoderamento": true,
+        "programas_lideranca": true,
+        "sensibilizacao_homens": true,
+        "grupo_trabalho": "7 Correios + 7 Federações",
+        "mesa_tematica": true,
+        "eliminacao_homofobia": true
+      },
+      "pagina_referencia": "27-28"
+    },
+    {
+      "id_canonico": "SIN_ACESSO_DEPENDENCIAS",
+      "numero_clausula_original": 16,
+      "titulo_original": "ACESSO ÀS DEPENDÊNCIAS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "dirigentes_por_reuniao": 3,
+        "duracao_maxima_reuniao": 40,
+        "unidade_tempo": "min",
+        "antecedencia_solicitacao": "2 dias úteis",
+        "processo_filiacao": true,
+        "participacao_facultativa": true,
+        "treinamento_novos": "1 hora",
+        "VPN": true
+      },
+      "pagina_referencia": "30-32"
+    },
+    {
+      "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+      "numero_clausula_original": 17,
+      "titulo_original": "DESCONTO ASSISTENCIAL",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "oposicao": "até dia 12 do mês",
+        "envio_atas": "até 2º dia útil",
+        "relacao_desautorizacao": "até dia 15 do mês",
+        "vedacao_inducao_ECT": true
+      },
+      "pagina_referencia": "32-33"
+    },
+    {
+      "id_canonico": "SIN_FORNECIMENTO_DOCUMENTOS",
+      "numero_clausula_original": 18,
+      "titulo_original": "FORNECIMENTO DE DOCUMENTOS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "prazo": "5 dias",
+        "base_legal": "Lei de Acesso à Informação",
+        "manual_estrategico": "termo de confidencialidade",
+        "envio_informativos": ["Primeira Hora"],
+        "relacao_empregados": "5 dias úteis, intervalo mínimo de 1 mês"
+      },
+      "pagina_referencia": "33-34"
+    },
+    {
+      "id_canonico": "SIN_LIBERACAO_CONSELHO",
+      "numero_clausula_original": 19,
+      "titulo_original": "LIBERAÇÃO DE CONSELHEIRO(A) DO POSTALIS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "liberacao": "membros do Conselho Deliberativo e Fiscal do POSTALIS",
+        "onus": "ECT quando reuniões obrigatórias e curso de capacitação",
+        "base_legal": "Lei Complementar 108"
+      },
+      "pagina_referencia": 34
+    },
+    {
+      "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+      "numero_clausula_original": 20,
+      "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+      "status": "DEFERIDO",
+      "valor_atual": 11,
+      "unidade": "quantidade",
+      "detalhes": {
+        "quantidade_por_federacao": 11,
+        "quantidade_por_sindicato": 5,
+        "bases_grandes": "+1 a cada 1.500 (limite 9)",
+        "onus_misto": true,
+        "manutencao_salarios": true,
+        "manutencao_vale_alimentacao": true,
+        "manutencao_vale_cultura": true,
+        "manutencao_assistencia_medica": true,
+        "consideracao_efetivo_exercicio": true,
+        "promocoes_anuenios_IGQP": true
+      },
+      "pagina_referencia": "34-37"
+    },
+    {
+      "id_canonico": "PRO_NEGOCIACAO_COLETIVA",
+      "numero_clausula_original": 21,
+      "titulo_original": "NEGOCIAÇÃO COLETIVA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "gatilho": "fatos econômicos, sociais ou políticos que alterem substancialmente a regulamentação salarial"
+      },
+      "pagina_referencia": 37
+    },
+    {
+      "id_canonico": "PRO_PROCESSO_PERMANENTE",
+      "numero_clausula_original": 22,
+      "titulo_original": "PROCESSO PERMANENTE DE NEGOCIAÇÃO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "sistema": "SNNP-Correios",
+        "temas_debatidos": ["Vale Transporte", "Sistema de Distritamento", "MOT", "Jornada do jornalista"],
+        "periodicidade_reunioes": "conforme regras definidas em conjunto"
+      },
+      "pagina_referencia": "37-38"
+    },
+    {
+      "id_canonico": "PRO_PRORROGACAO_REVISAO",
+      "numero_clausula_original": 23,
+      "titulo_original": "PRORROGAÇÃO, REVISÃO, DENÚNCIA OU REVOGAÇÃO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "base_legal": "Art. 615 da CLT"
+      },
+      "pagina_referencia": 38
+    },
+    {
+      "id_canonico": "SIN_QUADRO_AVISOS",
+      "numero_clausula_original": 24,
+      "titulo_original": "QUADRO DE AVISOS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "instalacao_sindicato": true,
+        "responsabilidade_comunicacoes": "Sindicatos",
+        "vedacao_politico_partidario": true
+      },
+      "pagina_referencia": 38
+    },
+    {
+      "id_canonico": "SIN_REPASSE_MENSALIDADES",
+      "numero_clausula_original": 25,
+      "titulo_original": "REPASSE DAS MENSALIDADES DO SINDICATO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "prazo_repasse": "primeiro dia útil após o pagamento mensal",
+        "comprovacao": "Atas de Assembleias",
+        "prazo_comunicados": "dia 10 do mês corrente"
+      },
+      "pagina_referencia": "38-39"
+    },
+    {
+      "id_canonico": "SIN_REPRESENTANTES_EMPREGADOS",
+      "numero_clausula_original": 26,
+      "titulo_original": "REPRESENTANTES DOS(AS) EMPREGADOS(AS)",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "estabilidade_dirigentes_sindicais": "art. 522 da CLT",
+        "estabilidade_cipeiros": "6 meses após término da estabilidade legal",
+        "estabilidade_delegados_sindicais": "1 ano após término do mandato",
+        "avaliacao_conjunta_com_federacoes": true
+      },
+      "pagina_referencia": "39-40"
+    },
+    {
+      "id_canonico": "SOC_LICENCA_ACOMPANHANTE",
+      "numero_clausula_original": 27,
+      "titulo_original": "ACOMPANHANTE",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "dias_ausencia": 6,
+        "turnos": 12,
+        "publico_alvo": ["dependentes menores de 18 anos", "deficientes", "gestantes", "cônjuge com dificuldade de locomoção", "pais com mais de 60 anos"],
+        "prazo_atestado": "4 dias úteis",
+        "acrescimo_filho_deficiencia": "4 dias úteis (8 turnos)",
+        "neoplasias": "até 8 dias úteis (16 turnos)"
+      },
+      "pagina_referencia": "42-43"
+    },
+    {
+      "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+      "numero_clausula_original": 28,
+      "titulo_original": "ASSISTÊNCIA MÉDICA/HOSPITALAR E ODONTOLÓGICA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "participacao_empregado": {
+          "NM-01 a NM-16": 10,
+          "NM-17 a NM-48": 15,
+          "NM-49 a NM-90": 20,
+          "NS-01 a NS-60": 20
+        },
+        "teto_compartilhamento": {
+          "ativos": "2x salário-base",
+          "aposentados": "3x soma INSS + POSTALIS"
+        },
+        "exames_periodicos": "sem ônus",
+        "acidente_trabalho": "gratuito",
+        "auxilio_doenca": "compartilhado",
+        "transporte_emergencial": true,
+        "aposentados": "mínimo 10 anos, último período mínimo 5 anos",
+        "PBM": true,
+        "comissao_paritaria": "14 trabalhadores (7 FENTECT + 7 FINDECT) + 14 empresa"
+      },
+      "pagina_referencia": "43-46"
+    },
+    {
+      "id_canonico": "SOC_ATESTADO_SAUDE_DEMISSAO",
+      "numero_clausula_original": 29,
+      "titulo_original": "ATESTADO DE SAÚDE NA DEMISSÃO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "envio_copias": true,
+        "exames_complementares": true
+      },
+      "pagina_referencia": 46
+    },
+    {
+      "id_canonico": "SOC_AVERIGUACAO_CONDICOES",
+      "numero_clausula_original": 30,
+      "titulo_original": "AVERIGUAÇÃO DAS CONDIÇÕES DE TRABALHO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "antecedencia_visita": "5 dias úteis",
+        "prazo_agendamento": "10 dias úteis",
+        "participantes": ["representante sindical", "médico", "engenheiro/técnico segurança", "representantes da Empresa"],
+        "climatizacao": true
+      },
+      "pagina_referencia": "46-47"
+    },
+    {
+      "id_canonico": "CON_CIPA",
+      "numero_clausula_original": 31,
+      "titulo_original": "COMISSÃO INTERNA DE PREVENÇÃO DE ACIDENTES - CIPA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "base_legal": "NR-05",
+        "efetivo_minimo": 30,
+        "eleicao_convocacao": "60 dias antes",
+        "liberacao_cipeiros": {"ate_400": 4, "400_a_1000": 6, "acima_1000": 8, "unidade": "horas/mês"},
+        "ata_reuniao": "5 dias úteis",
+        "visita_medico": true,
+        "primeiros_socorros": "NR-7 (PCMSO)",
+        "curso_EAD": "30 dias após eleição",
+        "reunioes_semestrais": "até 120 dias após assinatura",
+        "treinamento_dirigentes": true
+      },
+      "pagina_referencia": "47-49"
+    },
+    {
+      "id_canonico": "SOC_EMPREGADO_VIVENDO_HIV",
+      "numero_clausula_original": 32,
+      "titulo_original": "EMPREGADO(A) VIVENDO COM HIV OU AIDS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "remanejamento": true,
+        "vedacao_dispensa_sem_justa_causa": true,
+        "convenios_medicamentos": true,
+        "exames": "conforme Correios Saúde"
+      },
+      "pagina_referencia": 50
+    },
+    {
+      "id_canonico": "SOC_EMPREGADO_INAPTO",
+      "numero_clausula_original": 33,
+      "titulo_original": "EMPREGADO(A) INAPTO(A) PARA RETORNO AO TRABALHO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "retorno_imediato_apos_alta_INSS": true,
+        "manutencao_remuneracao": "90 dias",
+        "devolucao": "6 parcelas",
+        "prorrogacao": "mais 90 dias",
+        "prazo_analise": "15 dias úteis"
+      },
+      "pagina_referencia": "50-52"
+    },
+    {
+      "id_canonico": "CON_ERGONOMIA",
+      "numero_clausula_original": 34,
+      "titulo_original": "ERGONOMIA NA EMPRESA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "base_legal": "NR-17",
+        "avaliacao_permanente": true,
+        "mecanizacao": "quando disponível no mercado"
+      },
+      "pagina_referencia": 52
+    },
+    {
+      "id_canonico": "SOC_FORNECIMENTO_CAT",
+      "numero_clausula_original": 35,
+      "titulo_original": "FORNECIMENTO DE CAT/LISA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "emissoes": ["doenças ocupacionais", "acidentes de trabalho", "assaltos em serviço", "atividades promovidas", "representação"],
+        "envio_copias": "mês imediatamente anterior",
+        "CAT_dirigente_sindical": true,
+        "orientacao_gestores": true
+      },
+      "pagina_referencia": "53-54"
+    },
+    {
+      "id_canonico": "CON_ITENS_PROTECAO_BAIXA_UMIDADE",
+      "numero_clausula_original": 36,
+      "titulo_original": "ITENS DE PROTEÇÃO NO CASO DE BAIXA UMIDADE RELATIVA DO AR",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "umidade_baixa": "≤ 20% (média 5 dias) ou ≤ 15% (dia anterior)",
+        "itens": ["squeezes", "soro fisiológico", "protetor labial FPS 30"],
+        "suplementar": true
+      },
+      "pagina_referencia": 54
+    },
+    {
+      "id_canonico": "CON_ITENS_USO_PROTECAO",
+      "numero_clausula_original": 37,
+      "titulo_original": "ITENS DE USO E PROTEÇÃO AO(À) EMPREGADO(A)",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "uniformes": "modelos masculino e feminino",
+        "calcados": "tênis com amortecedor, botina para OTTs",
+        "EPIs": "conforme NR-06",
+        "protetor_solar": true,
+        "motorizado_M": "luvas, jaquetas de couro, botas, calça de motociclista",
+        "carteiro_ciclista": "luvas e capacetes",
+        "PPRA": true,
+        "uniforme_gestante": true
+      },
+      "pagina_referencia": "54-58"
+    },
+    {
+      "id_canonico": "SOC_PREVENCAO_DOENCAS",
+      "numero_clausula_original": 38,
+      "titulo_original": "PREVENÇÃO DE DOENÇAS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "cinesioterapia": true,
+        "rodizio_operacional": true,
+        "terapia_comunitaria": "mínimo 50% das Sedes das Diretorias Regionais"
+      },
+      "pagina_referencia": 58
+    },
+    {
+      "id_canonico": "SOC_REABILITACAO_PROFISSIONAL",
+      "numero_clausula_original": 39,
+      "titulo_original": "REABILITAÇÃO PROFISSIONAL",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "estabilidade": "24 meses",
+        "ampliacao": "36 meses se próximo da aposentadoria",
+        "acompanhamento_sistemático": true,
+        "CRRP": true
+      },
+      "pagina_referencia": "58-59"
+    },
+    {
+      "id_canonico": "SOC_SAUDE_EMPREGADO",
+      "numero_clausula_original": 40,
+      "titulo_original": "SAÚDE DO(A) EMPREGADO(A)",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "campanhas_prevencao": true,
+        "estudos_ergonomicos": "NR-17",
+        "hipertensao": "atenção ao afrodescendente",
+        "acompanhamento_psicologico": true,
+        "prontuario_medico": true,
+        "documentos_seguranca_higiene": true,
+        "dependencia_quimica": true,
+        "ginastica_laboral": true,
+        "restricao_medica": "90 dias com adicional",
+        "saude_psicossocial": true,
+        "prazo_atestados": "4 dias úteis"
+      },
+      "pagina_referencia": "59-61"
+    },
+    {
+      "id_canonico": "CON_DISTRIBUICAO_DOMICILIARIA",
+      "numero_clausula_original": 41,
+      "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "limite_peso_homem": 10,
+        "limite_peso_mulher": 8,
+        "unidade_peso": "kg",
+        "gravidez": "redução mediante prescrição",
+        "processo_seletivo_motorizado": true,
+        "entrega_matutina": true,
+        "comissao_entrega_matutina": "5 Empresa + 4 Federações",
+        "prazo_cronograma": "90 dias"
+      },
+      "pagina_referencia": "63-66"
+    },
+    {
+      "id_canonico": "CON_FROTA_OPERACIONAL",
+      "numero_clausula_original": 42,
+      "titulo_original": "FROTA OPERACIONAL",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "veiculos_novos": "ar condicionado, direção hidráulica, vidro elétrico",
+        "motos": "partida elétrica",
+        "bicicletas": "estudos ergonômicos"
+      },
+      "pagina_referencia": 66
+    },
+    {
+      "id_canonico": "TEC_INOVACOES",
+      "numero_clausula_original": 43,
+      "titulo_original": "INOVAÇÕES TECNOLÓGICAS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "realocacao": "para atividade compatível",
+        "qualificacao": "para nova atividade",
+        "sem_prejuizo_vantagens": true
+      },
+      "pagina_referencia": 67
+    },
+    {
+      "id_canonico": "CON_JORNADA_AGENCIAS",
+      "numero_clausula_original": 44,
+      "titulo_original": "JORNADA DE TRABALHO NAS AGÊNCIAS DE CORREIOS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "escalonamento": "para abertura e fechamento",
+        "respeito_horarios": "jornada e intervalo de alimentação"
+      },
+      "pagina_referencia": 67
+    },
+    {
+      "id_canonico": "TEC_JORNADA_TERMINAIS",
+      "numero_clausula_original": 45,
+      "titulo_original": "JORNADA DE TRABALHO PARA TRABALHADORES(AS) EM TERMINAIS COMPUTADORIZADOS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "intervalo": "10 minutos a cada 50 minutos trabalhados"
+      },
+      "pagina_referencia": 67
+    },
+    {
+      "id_canonico": "CON_REDIMENSIONAMENTO_CARGA",
+      "numero_clausula_original": 46,
+      "titulo_original": "REDIMENSIONAMENTO DE CARGA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "participacao_representante_sindical": 1,
+        "locais": ["CTC", "CTE", "CTCE", "CDD", "CEE", "TECA", "CTCI"],
+        "prazo_implantacao": "120 dias após liberação de recursos"
+      },
+      "pagina_referencia": "67-68"
+    },
+    {
+      "id_canonico": "CON_SEGURANCA_EMPRESA",
+      "numero_clausula_original": 47,
+      "titulo_original": "SEGURANÇA NA EMPRESA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "transporte_numerarios": true,
+        "preservacao_vida": true,
+        "informacao_sindicatos": true
+      },
+      "pagina_referencia": "68-69"
+    },
+    {
+      "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+      "numero_clausula_original": 48,
+      "titulo_original": "AUXÍLIO PARA DEPENDENTES COM DEFICIÊNCIA",
+      "status": "DEFERIDO",
+      "valor_atual": 895.96,
+      "unidade": "BRL",
+      "detalhes": {
+        "valor_mensal": 895.96,
+        "publico_alvo": ["filhos", "enteados", "tutelados", "curatelados"],
+        "reembolso_licenca_medica": true
+      },
+      "pagina_referencia": "71-72"
+    },
+    {
+      "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+      "numero_clausula_original": 49,
+      "titulo_original": "REEMBOLSO CRECHE E REEMBOLSO BABÁ",
+      "status": "DEFERIDO",
+      "valor_atual": 564.24,
+      "unidade": "BRL",
+      "detalhes": {
+        "valor_mensal": 564.24,
+        "idade_limite": "até 7 anos",
+        "participacao_empregada": "5%",
+        "participacao_empresa": "95%",
+        "reembolso_integral": "6 primeiros meses",
+        "extensao_pai_solteiro_viuvo": true,
+        "extensao_licenca_maternidade": true
+      },
+      "pagina_referencia": "72-73"
+    },
+    {
+      "id_canonico": "SOC_TRANSPORTE_NOTURNO",
+      "numero_clausula_original": 50,
+      "titulo_original": "TRANSPORTE NOTURNO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "horario": "22h às 6h",
+        "gratuito": true,
+        "local_dificil_acesso": true
+      },
+      "pagina_referencia": 74
+    },
+    {
+      "id_canonico": "FIN_VALE_ALIMENTACAO",
+      "numero_clausula_original": 51,
+      "titulo_original": "VALE REFEIÇÃO/ALIMENTAÇÃO",
+      "status": "DEFERIDO",
+      "valor_atual": 36.64,
+      "unidade": "BRL",
+      "detalhes": {
+        "valor_facial": 36.64,
+        "quantidade": "26 ou 30 vales",
+        "vale_cesta": 229.32,
+        "compartilhamento": {"NM-01 a NM-63": 0.5, "NM-64 a NM-90": 5, "NS-01 a NS-60": 10},
+        "vale_extra": 989.24,
+        "opcao_fracionamento": true,
+        "extensao_licenca_medica_90_dias": true,
+        "extensao_ferias": true,
+        "extensao_licenca_maternidade_adoção": true
+      },
+      "pagina_referencia": "74-77"
+    },
+    {
+      "id_canonico": "FIN_VALE_TRANSPORTE",
+      "numero_clausula_original": 52,
+      "titulo_original": "VALE-TRANSPORTE E JORNADA DE TRABALHO IN ITINERE",
+      "status": "DEFERIDO",
+      "valor_atual": 686.99,
+      "unidade": "BRL",
+      "detalhes": {
+        "valor_mensal": 686.99,
+        "compartilhamento": "conforme lei",
+        "pecunia": "permitido em caso de indisponibilidade",
+        "in_itinere": "art. 58, §2º, CLT"
+      },
+      "pagina_referencia": "77-78"
+    },
+    {
+      "id_canonico": "FIN_VALE_CULTURA",
+      "numero_clausula_original": 53,
+      "titulo_original": "VALE CULTURA",
+      "status": "DEFERIDO",
+      "valor_atual": 50.00,
+      "unidade": "BRL",
+      "detalhes": {
+        "valor_mensal": 50.00,
+        "publico_alvo": "remuneração até 5 salários mínimos",
+        "compartilhamento": {"até 1 SM": 2, "1 a 2 SM": 4, "2 a 3 SM": 6, "3 a 4 SM": 8, "4 a 5 SM": 10},
+        "base_legal": "Lei 12.761/2012"
+      },
+      "pagina_referencia": "78-79"
+    },
+    {
+      "id_canonico": "FIN_ADIANTAMENTO_FERIAS",
+      "numero_clausula_original": 54,
+      "titulo_original": "ADIANTAMENTO DE FÉRIAS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "valor": "um salário-base + anuênios/quinquênios + IGQP + gratificação",
+        "parcelas": "até 5",
+        "inicio_restituicao": "segundo mês subsequente",
+        "opcao_escrita": "até 40 dias antes",
+        "ferias_dois_periodos": true
+      },
+      "pagina_referencia": "80-81"
+    },
+    {
+      "id_canonico": "FIN_ADICIONAL_NOTURNO",
+      "numero_clausula_original": 55,
+      "titulo_original": "ADICIONAL NOTURNO",
+      "status": "DEFERIDO",
+      "valor_atual": 60,
+      "unidade": "%",
+      "detalhes": {
+        "percentual": 60,
+        "horario": "20h às 6h",
+        "hora_reduzida": "52min30s",
+        "manutencao_licenca_medica": true,
+        "manutencao_treinamento_viagem_folgas": true
+      },
+      "pagina_referencia": "81-82"
+    },
+    {
+      "id_canonico": "FIN_AJUDA_CUSTO",
+      "numero_clausula_original": 56,
+      "titulo_original": "AJUDA DE CUSTO NA TRANSFERÊNCIA",
+      "status": "DEFERIDO",
+      "valor_atual": 1325.90,
+      "unidade": "BRL",
+      "detalhes": {
+        "valor_minimo": 1325.90,
+        "calculo": "salário-base + anuênios + IGQP + gratificação de função",
+        "responsabilidade": "ECT",
+        "base_legal": "MANPES"
+      },
+      "pagina_referencia": 82
+    },
+    {
+      "id_canonico": "FIN_ANTECIPACAO_13",
+      "numero_clausula_original": 57,
+      "titulo_original": "ANTECIPAÇÃO DE 50% DA GRATIFICAÇÃO NATALINA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "percentual": 50,
+        "parcelas": "2 (25% março + 25% junho) ou 1 (50% junho)",
+        "diferenca_paga_ate": "20/12/2018",
+        "opcao_ferias": "janeiro a novembro"
+      },
+      "pagina_referencia": "82-83"
+    },
+    {
+      "id_canonico": "FIN_ANUENIOS",
+      "numero_clausula_original": 58,
+      "titulo_original": "ANUÊNIOS",
+      "status": "DEFERIDO",
+      "valor_atual": 1,
+      "unidade": "%",
+      "detalhes": {
+        "percentual": 1,
+        "base_calculo": "salário-base + gratificação de função",
+        "limite_maximo": 35,
+        "retroacao": "20/03/1969"
+      },
+      "pagina_referencia": 83
+    },
+    {
+      "id_canonico": "FIN_GRATIFICACAO_FERIAS",
+      "numero_clausula_original": 59,
+      "titulo_original": "GRATIFICAÇÃO DE FÉRIAS",
+      "status": "DEFERIDO",
+      "valor_atual": 70,
+      "unidade": "%",
+      "detalhes": {
+        "percentual": 70,
+        "base_calculo": "remuneração vigente",
+        "inclui_terco_constitucional": true,
+        "ferias_dois_periodos": "proporcional"
+      },
+      "pagina_referencia": "83-84"
+    },
+    {
+      "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+      "numero_clausula_original": 60,
+      "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+      "status": "DEFERIDO",
+      "valor_atual": 187.66,
+      "unidade": "BRL",
+      "detalhes": {
+        "valor_sem_banco_postal": 187.66,
+        "valor_com_banco_postal": 250.21,
+        "participacao_parcial": "25% para cobertura de almoço"
+      },
+      "pagina_referencia": "84-85"
+    },
+    {
+      "id_canonico": "FIN_HORAS_EXTRAS",
+      "numero_clausula_original": 61,
+      "titulo_original": "HORAS EXTRAS",
+      "status": "DEFERIDO",
+      "valor_atual": 70,
+      "unidade": "%",
+      "detalhes": {
+        "percentual": 70,
+        "pagamento": "folha do mês subsequente"
+      },
+      "pagina_referencia": 85
+    },
+    {
+      "id_canonico": "FIN_PAGAMENTO_SALARIO",
+      "numero_clausula_original": 62,
+      "titulo_original": "PAGAMENTO DE SALÁRIO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "data_pagamento": "último dia útil bancário do mês trabalhado"
+      },
+      "pagina_referencia": 85
+    },
+    {
+      "id_canonico": "FIN_REAJUSTE_SALARIAL",
+      "numero_clausula_original": 63,
+      "titulo_original": "REAJUSTE SALARIAL",
+      "status": "DEFERIDO",
+      "valor_atual": 2.07,
+      "unidade": "%",
+      "detalhes": {
+        "indice_aplicado": "2,07%",
+        "data_base": "2017-08-01",
+        "incidencia": "tabela salarial vigente",
+        "retroativos": "agosto e setembro pagos em outubro e novembro/2017"
+      },
+      "pagina_referencia": 85
+    },
+    {
+      "id_canonico": "FIN_TRABALHO_DIA_REPOUSO",
+      "numero_clausula_original": 64,
+      "titulo_original": "TRABALHO EM DIA DE REPOUSO",
+      "status": "DEFERIDO",
+      "valor_atual": 200,
+      "unidade": "%",
+      "detalhes": {
+        "percentual": 200,
+        "troca_por_folgas": "2 folgas compensatórias",
+        "antecedencia": "48 horas",
+        "evitar_viagens": true
+      },
+      "pagina_referencia": "85-86"
+    },
+    {
+      "id_canonico": "FIN_TRABALHO_FINS_SEMANA",
+      "numero_clausula_original": 65,
+      "titulo_original": "TRABALHO NOS FINS DE SEMANA",
+      "status": "DEFERIDO",
+      "valor_atual": 15,
+      "unidade": "%",
+      "detalhes": {
+        "percentual": 15,
+        "publico": "Área Operacional com jornada de 44 horas semanais",
+        "convocacao_eventual": "1/4 de 15% limitado a 15%/mês",
+        "vale_alimentacao": "jornada mínima de 4 horas",
+        "antecedencia": "48 horas"
+      },
+      "pagina_referencia": "86-87"
+    },
+    {
+      "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+      "numero_clausula_original": 66,
+      "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "regra": "compensação para evitar duplicidade"
+      },
+      "pagina_referencia": 89
+    },
+    {
+      "id_canonico": "PRO_CONCURSO_PUBLICO",
+      "numero_clausula_original": 67,
+      "titulo_original": "CONCURSO PÚBLICO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "cotas_PCD": 10,
+        "cotas_negros": 20,
+        "unidade_cotas": "%",
+        "vedacao_discriminacao": true
+      },
+      "pagina_referencia": 89
+    },
+    {
+      "id_canonico": "PRO_CURSOS_REUNIOES",
+      "numero_clausula_original": 68,
+      "titulo_original": "CURSOS E REUNIÕES OBRIGATÓRIAS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "comunicacao_antecedencia": "3 dias úteis",
+        "horas_extras": "se fora do horário de serviço",
+        "compensacao_dobro": true,
+        "excecao_EaD_assincrono": true,
+        "treinamento_valores": true,
+        "treinamento_dirigentes": true
+      },
+      "pagina_referencia": "89-91"
+    },
+    {
+      "id_canonico": "PRO_AMPLA_DEFESA",
+      "numero_clausula_original": 69,
+      "titulo_original": "DIREITO À AMPLA DEFESA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "obtencao_documentos": true,
+        "entrega_copias": true,
+        "acompanhamento_sindical": true
+      },
+      "pagina_referencia": 91
+    },
+    {
+      "id_canonico": "CON_MULTAS_TRANSITO",
+      "numero_clausula_original": 70,
+      "titulo_original": "MULTAS DE TRÂNSITO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "responsabilidade_provisoria": "ECT",
+        "desconto": "se não houver recurso",
+        "ressarcimento": "parcelado",
+        "isencao_pontos_CNH": true,
+        "remanejamento": true,
+        "cursos_direcao_defensiva": true
+      },
+      "pagina_referencia": "92-93"
+    },
+    {
+      "id_canonico": "FIN_PLR",
+      "numero_clausula_original": 71,
+      "titulo_original": "PARTICIPAÇÃO NOS LUCROS OU RESULTADOS - PLR",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "negociacao": "com participação das Federações",
+        "base_legal": "Lei 10.101/2000"
+      },
+      "pagina_referencia": 93
+    },
+    {
+      "id_canonico": "FIN_PENALIDADE",
+      "numero_clausula_original": 72,
+      "titulo_original": "PENALIDADE",
+      "status": "DEFERIDO",
+      "valor_atual": 20,
+      "unidade": "%",
+      "detalhes": {
+        "percentual": 20,
+        "base_calculo": "dia de serviço do empregado prejudicado"
+      },
+      "pagina_referencia": 93
+    },
+    {
+      "id_canonico": "FIN_CONSIGNACOES",
+      "numero_clausula_original": 73,
+      "titulo_original": "PROCESSAMENTO DE CONSIGNAÇÕES EM FOLHA DE PAGAMENTO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "consignacoes_obrigatorias": ["INSS", "pensão alimentícia judicial", "IR", "decisão judicial/administrativa", "mensalidade sindical", "plano Correios Saúde", "outros legais"],
+        "consignacoes_voluntarias": ["previdência complementar", "financiamento habitacional", "pensão alimentícia voluntária", "empréstimo cooperativa", "empréstimo bancário"],
+        "margem_consignavel": "30% empréstimos + 10% cartão"
+      },
+      "pagina_referencia": "93-96"
+    },
+    {
+      "id_canonico": "CON_REGISTRO_PONTO",
+      "numero_clausula_original": 74,
+      "titulo_original": "REGISTRO DE PONTO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "registro_pelo_empregado": true,
+        "vedacao_interferencia_terceiros": true,
+        "tolerancia": "5 minutos + 5 minutos adicionais (4x/mês)"
+      },
+      "pagina_referencia": 96
+    },
+    {
+      "id_canonico": "CON_RESPONSABILIDADE_CIVIL_TRANSITO",
+      "numero_clausula_original": 75,
+      "titulo_original": "RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "responsabilidade_ECT": "custos com recuperação de veículos da frota e danos a terceiros",
+        "excecao": "inexistência de dolo",
+        "comissao_paritaria": "3 Correios + 3 Sindicato",
+        "conduta_dolosa": "somente com decisão da comissão",
+        "campanhas_prevencao": true
+      },
+      "pagina_referencia": "96-97"
+    },
+    {
+      "id_canonico": "FIN_INDENIZACAO_MORTE_INVALIDEZ",
+      "numero_clausula_original": 76,
+      "titulo_original": "INDENIZAÇÃO POR MORTE OU INVALIDEZ PERMANENTE",
+      "status": "DEFERIDO",
+      "valor_atual": 137755.81,
+      "unidade": "BRL",
+      "detalhes": {
+        "valor_indenizacao": 137755.81,
+        "casos": ["acidente de trabalho", "assalto", "roubo"],
+        "complementacao_beneficio_INSS": true,
+        "seguro_vida_substitutivo": true,
+        "atendimento_medico_pos_assalto": true
+      },
+      "pagina_referencia": "97-98"
+    },
+    {
+      "id_canonico": "PRO_ACOMPANHAMENTO_CUMPRIMENTO",
+      "numero_clausula_original": 77,
+      "titulo_original": "ACOMPANHAMENTO DO CUMPRIMENTO DE CLÁUSULAS DO ACORDO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "fornecimento_informacoes": "às Federações"
+      },
+      "pagina_referencia": 98
+    },
+    {
+      "id_canonico": "PRO_CONCILIACAO_DIVERGENCIAS",
+      "numero_clausula_original": 78,
+      "titulo_original": "CONCILIAÇÃO DE DIVERGÊNCIAS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "prazo": "15 dias"
+      },
+      "pagina_referencia": 99
+    },
+    {
+      "id_canonico": "PRO_VIGENCIA",
+      "numero_clausula_original": 79,
+      "titulo_original": "VIGÊNCIA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "data_inicio": "2017-08-01",
+        "data_fim": "2018-07-31",
+        "duracao_meses": 12
+      },
+      "pagina_referencia": 99
+    }
+  ],
+  "temas_nao_mapeados": [],
+  "retorno_ao_trabalho": null,
+  "dispositivo_final": {
+    "data_base": "2017-08-01",
+    "vigencia": "2017-08-01 a 2018-07-31",
+    "data_assinatura": "2017-10-10",
+    "local": "Brasília/DF",
+    "mediacao": "TST (Min. Emmanoel Pereira, Vice-Presidente)",
+    "reajuste": "2,07%",
+    "va_vr": "R$ 36,64 (facial)",
+    "vale_cesta": "R$ 229,32",
+    "vale_extra": "R$ 989,24",
+    "vale_cultura": "R$ 50,00",
+    "vale_transporte": "R$ 686,99",
+    "auxilio_dependentes_deficiencia": "R$ 895,96",
+    "reembolso_creche": "R$ 564,24",
+    "quebra_caixa": "R$ 187,66 / R$ 250,21",
+    "ajuda_custo": "R$ 1.325,90",
+    "indenizacao_morte_invalidez": "R$ 137.755,81",
+    "adicional_noturno": "60%",
+    "gratificacao_ferias": "70%",
+    "horas_extras": "70%",
+    "trabalho_dia_repouso": "200%",
+    "trabalho_fins_semana": "15%",
+    "observacoes": "ACT 2017/2018 mediado pelo TST (Min. Emmanoel Pereira). Vigência de 01/08/2017 a 31/07/2018, contendo 79 cláusulas. Assinado em 10/10/2017 por FENTECT, FINDECT, SINTECT/SP, SINDECTEB, SINTECT/RJ, SINTECT/TO e SINTECT/MA."
+  },
+  "notas_metodologicas": [
+    {
+      "tipo": "ACT_NEGOCIADO_MEDIADO_TST",
+      "tema": "GERAL",
+      "descricao": "ACT 2017/2018 mediado pelo Ministro Emmanoel Pereira (Vice-Presidente do TST). Teve vigência de 1º/08/2017 a 31/07/2018, com 79 cláusulas. Extraído do livreto oficial publicado pelos Correios (ACT-2017-2018.pdf, 100 páginas)."
+    },
+    {
+      "tipo": "VALORES_ACT_2017_2018",
+      "tema": "GERAL",
+      "descricao": "Valores do ACT 2017/2018: Reajuste 2,07%; VA R$ 36,64; VC R$ 229,32; Vale Extra R$ 989,24; Vale Cultura R$ 50,00; Vale Transporte R$ 686,99; Auxílio Dependentes R$ 895,96; Reembolso Creche R$ 564,24; Quebra Caixa R$ 187,66 (sem banco postal) / R$ 250,21 (com banco postal); Ajuda de Custo R$ 1.325,90; Indenização Morte/Invalidez R$ 137.755,81; Adicional Noturno 60%; Gratificação Férias 70%; Horas Extras 70%; Trabalho Dia Repouso 200%; Trabalho Fins de Semana 15%."
+    },
+    {
+      "tipo": "DIFERENCA_ENTRE_ARQUIVOS",
+      "tema": "GERAL",
+      "descricao": "O arquivo ACT-2017-2018.pdf (100 páginas) é o livreto oficial publicado pelos Correios, com índice, equipe envolvida e texto completo. O arquivo acordo-coletivo-2017-2018.pdf (45 páginas) é o termo assinado, mas teve páginas corrompidas na extração. Ambos contêm as mesmas 79 cláusulas, mas o livreto tem valores explícitos que no documento assinado estavam em páginas defeituosas (como o reajuste de 2,07% da cláusula 63)."
+    }
+  ]
+}

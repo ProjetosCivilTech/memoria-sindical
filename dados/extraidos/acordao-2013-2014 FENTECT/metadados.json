@@ -1,0 +1,883 @@
+{
+  "arquivo_origem": "acordao-2013-2014 FENTECT.pdf",
+  "metadados_pdf": {
+    "titulo": "A C Ó R D Ã O",
+    "autor": "C031212",
+    "assunto": null,
+    "criador": "Microsoft® Word 2010",
+    "produtor": "Microsoft® Word 2010; modified using iText 5.0.6 (c) 1T3XT BVBA",
+    "criado_em": "D:20131017162031-03'00'",
+    "modificado_em": "D:20131025150712-03'00'"
+  },
+  "paginas_info": [
+    {
+      "pagina": 1,
+      "metodo": "OCR",
+      "chars": 1617,
+      "conf_ocr": 85.9
+    },
+    {
+      "pagina": 2,
+      "metodo": "OCR",
+      "chars": 2119,
+      "conf_ocr": 87.4
+    },
+    {
+      "pagina": 3,
+      "metodo": "OCR",
+      "chars": 2523,
+      "conf_ocr": 90.4
+    },
+    {
+      "pagina": 4,
+      "metodo": "OCR",
+      "chars": 2358,
+      "conf_ocr": 89.4
+    },
+    {
+      "pagina": 5,
+      "metodo": "OCR",
+      "chars": 2109,
+      "conf_ocr": 89.4
+    },
+    {
+      "pagina": 6,
+      "metodo": "OCR",
+      "chars": 2182,
+      "conf_ocr": 89.1
+    },
+    {
+      "pagina": 7,
+      "metodo": "OCR",
+      "chars": 2617,
+      "conf_ocr": 89.7
+    },
+    {
+      "pagina": 8,
+      "metodo": "OCR",
+      "chars": 2275,
+      "conf_ocr": 89.2
+    },
+    {
+      "pagina": 9,
+      "metodo": "OCR",
+      "chars": 2491,
+      "conf_ocr": 89.6
+    },
+    {
+      "pagina": 10,
+      "metodo": "OCR",
+      "chars": 2725,
+      "conf_ocr": 90.1
+    },
+    {
+      "pagina": 11,
+      "metodo": "OCR",
+      "chars": 2575,
+      "conf_ocr": 89.7
+    },
+    {
+      "pagina": 12,
+      "metodo": "OCR",
+      "chars": 2526,
+      "conf_ocr": 89.3
+    },
+    {
+      "pagina": 13,
+      "metodo": "OCR",
+      "chars": 2488,
+      "conf_ocr": 90.1
+    },
+    {
+      "pagina": 14,
+      "metodo": "OCR",
+      "chars": 2720,
+      "conf_ocr": 90.2
+    },
+    {
+      "pagina": 15,
+      "metodo": "OCR",
+      "chars": 2382,
+      "conf_ocr": 89.1
+    },
+    {
+      "pagina": 16,
+      "metodo": "OCR",
+      "chars": 2509,
+      "conf_ocr": 90.3
+    },
+    {
+      "pagina": 17,
+      "metodo": "OCR",
+      "chars": 2469,
+      "conf_ocr": 90.0
+    },
+    {
+      "pagina": 18,
+      "metodo": "OCR",
+      "chars": 2513,
+      "conf_ocr": 90.6
+    },
+    {
+      "pagina": 19,
+      "metodo": "OCR",
+      "chars": 2394,
+      "conf_ocr": 89.9
+    },
+    {
+      "pagina": 20,
+      "metodo": "OCR",
+      "chars": 2506,
+      "conf_ocr": 90.3
+    },
+    {
+      "pagina": 21,
+      "metodo": "OCR",
+      "chars": 2527,
+      "conf_ocr": 89.9
+    },
+    {
+      "pagina": 22,
+      "metodo": "OCR",
+      "chars": 2372,
+      "conf_ocr": 89.6
+    },
+    {
+      "pagina": 23,
+      "metodo": "OCR",
+      "chars": 2652,
+      "conf_ocr": 91.2
+    },
+    {
+      "pagina": 24,
+      "metodo": "OCR",
+      "chars": 2204,
+      "conf_ocr": 89.2
+    },
+    {
+      "pagina": 25,
+      "metodo": "OCR",
+      "chars": 2607,
+      "conf_ocr": 89.5
+    },
+    {
+      "pagina": 26,
+      "metodo": "OCR",
+      "chars": 1980,
+      "conf_ocr": 88.3
+    },
+    {
+      "pagina": 27,
+      "metodo": "OCR",
+      "chars": 2251,
+      "conf_ocr": 89.8
+    },
+    {
+      "pagina": 28,
+      "metodo": "OCR",
+      "chars": 2435,
+      "conf_ocr": 89.4
+    },
+    {
+      "pagina": 29,
+      "metodo": "OCR",
+      "chars": 2393,
+      "conf_ocr": 90.0
+    },
+    {
+      "pagina": 30,
+      "metodo": "OCR",
+      "chars": 2359,
+      "conf_ocr": 89.8
+    },
+    {
+      "pagina": 31,
+      "metodo": "OCR",
+      "chars": 2302,
+      "conf_ocr": 89.5
+    },
+    {
+      "pagina": 32,
+      "metodo": "OCR",
+      "chars": 2516,
+      "conf_ocr": 81.1
+    },
+    {
+      "pagina": 33,
+      "metodo": "OCR",
+      "chars": 2225,
+      "conf_ocr": 87.9
+    },
+    {
+      "pagina": 34,
+      "metodo": "OCR",
+      "chars": 2803,
+      "conf_ocr": 83.8
+    },
+    {
+      "pagina": 35,
+      "metodo": "OCR",
+      "chars": 2441,
+      "conf_ocr": 86.4
+    },
+    {
+      "pagina": 36,
+      "metodo": "OCR",
+      "chars": 2798,
+      "conf_ocr": 83.6
+    },
+    {
+      "pagina": 37,
+      "metodo": "OCR",
+      "chars": 2324,
+      "conf_ocr": 88.1
+    },
+    {
+      "pagina": 38,
+      "metodo": "OCR",
+      "chars": 2232,
+      "conf_ocr": 89.1
+    },
+    {
+      "pagina": 39,
+      "metodo": "OCR",
+      "chars": 1663,
+      "conf_ocr": 86.9
+    },
+    {
+      "pagina": 40,
+      "metodo": "OCR",
+      "chars": 2034,
+      "conf_ocr": 89.4
+    },
+    {
+      "pagina": 41,
+      "metodo": "OCR",
+      "chars": 2625,
+      "conf_ocr": 91.3
+    },
+    {
+      "pagina": 42,
+      "metodo": "OCR",
+      "chars": 2619,
+      "conf_ocr": 89.9
+    },
+    {
+      "pagina": 43,
+      "metodo": "OCR",
+      "chars": 2692,
+      "conf_ocr": 90.2
+    },
+    {
+      "pagina": 44,
+      "metodo": "OCR",
+      "chars": 2420,
+      "conf_ocr": 89.6
+    },
+    {
+      "pagina": 45,
+      "metodo": "OCR",
+      "chars": 2671,
+      "conf_ocr": 90.6
+    },
+    {
+      "pagina": 46,
+      "metodo": "OCR",
+      "chars": 2284,
+      "conf_ocr": 89.5
+    },
+    {
+      "pagina": 47,
+      "metodo": "OCR",
+      "chars": 2086,
+      "conf_ocr": 91.0
+    },
+    {
+      "pagina": 48,
+      "metodo": "OCR",
+      "chars": 2130,
+      "conf_ocr": 86.3
+    },
+    {
+      "pagina": 49,
+      "metodo": "OCR",
+      "chars": 2375,
+      "conf_ocr": 88.5
+    },
+    {
+      "pagina": 50,
+      "metodo": "OCR",
+      "chars": 2361,
+      "conf_ocr": 89.4
+    },
+    {
+      "pagina": 51,
+      "metodo": "OCR",
+      "chars": 2205,
+      "conf_ocr": 88.8
+    },
+    {
+      "pagina": 52,
+      "metodo": "OCR",
+      "chars": 2151,
+      "conf_ocr": 88.3
+    },
+    {
+      "pagina": 53,
+      "metodo": "OCR",
+      "chars": 2341,
+      "conf_ocr": 89.6
+    },
+    {
+      "pagina": 54,
+      "metodo": "OCR",
+      "chars": 2267,
+      "conf_ocr": 89.0
+    },
+    {
+      "pagina": 55,
+      "metodo": "OCR",
+      "chars": 2434,
+      "conf_ocr": 90.3
+    },
+    {
+      "pagina": 56,
+      "metodo": "OCR",
+      "chars": 2130,
+      "conf_ocr": 86.7
+    },
+    {
+      "pagina": 57,
+      "metodo": "OCR",
+      "chars": 2026,
+      "conf_ocr": 85.4
+    },
+    {
+      "pagina": 58,
+      "metodo": "OCR",
+      "chars": 2389,
+      "conf_ocr": 88.8
+    },
+    {
+      "pagina": 59,
+      "metodo": "OCR",
+      "chars": 2294,
+      "conf_ocr": 89.9
+    },
+    {
+      "pagina": 60,
+      "metodo": "OCR",
+      "chars": 2342,
+      "conf_ocr": 82.0
+    },
+    {
+      "pagina": 61,
+      "metodo": "OCR",
+      "chars": 2032,
+      "conf_ocr": 90.1
+    },
+    {
+      "pagina": 62,
+      "metodo": "OCR",
+      "chars": 2470,
+      "conf_ocr": 82.2
+    },
+    {
+      "pagina": 63,
+      "metodo": "OCR",
+      "chars": 2201,
+      "conf_ocr": 89.9
+    },
+    {
+      "pagina": 64,
+      "metodo": "OCR",
+      "chars": 2257,
+      "conf_ocr": 90.0
+    },
+    {
+      "pagina": 65,
+      "metodo": "OCR",
+      "chars": 2703,
+      "conf_ocr": 90.2
+    },
+    {
+      "pagina": 66,
+      "metodo": "OCR",
+      "chars": 2167,
+      "conf_ocr": 89.3
+    },
+    {
+      "pagina": 67,
+      "metodo": "OCR",
+      "chars": 2113,
+      "conf_ocr": 89.5
+    },
+    {
+      "pagina": 68,
+      "metodo": "OCR",
+      "chars": 2459,
+      "conf_ocr": 90.3
+    },
+    {
+      "pagina": 69,
+      "metodo": "OCR",
+      "chars": 2602,
+      "conf_ocr": 91.0
+    },
+    {
+      "pagina": 70,
+      "metodo": "OCR",
+      "chars": 2524,
+      "conf_ocr": 89.7
+    },
+    {
+      "pagina": 71,
+      "metodo": "OCR",
+      "chars": 2447,
+      "conf_ocr": 89.8
+    },
+    {
+      "pagina": 72,
+      "metodo": "OCR",
+      "chars": 2322,
+      "conf_ocr": 89.4
+    },
+    {
+      "pagina": 73,
+      "metodo": "OCR",
+      "chars": 2581,
+      "conf_ocr": 77.7
+    },
+    {
+      "pagina": 74,
+      "metodo": "OCR",
+      "chars": 2339,
+      "conf_ocr": 88.4
+    },
+    {
+      "pagina": 75,
+      "metodo": "OCR",
+      "chars": 2199,
+      "conf_ocr": 89.2
+    },
+    {
+      "pagina": 76,
+      "metodo": "OCR",
+      "chars": 2166,
+      "conf_ocr": 88.5
+    },
+    {
+      "pagina": 77,
+      "metodo": "OCR",
+      "chars": 2042,
+      "conf_ocr": 88.4
+    },
+    {
+      "pagina": 78,
+      "metodo": "OCR",
+      "chars": 2333,
+      "conf_ocr": 89.4
+    },
+    {
+      "pagina": 79,
+      "metodo": "OCR",
+      "chars": 2209,
+      "conf_ocr": 89.4
+    },
+    {
+      "pagina": 80,
+      "metodo": "OCR",
+      "chars": 2043,
+      "conf_ocr": 89.2
+    },
+    {
+      "pagina": 81,
+      "metodo": "OCR",
+      "chars": 2058,
+      "conf_ocr": 88.2
+    },
+    {
+      "pagina": 82,
+      "metodo": "OCR",
+      "chars": 2265,
+      "conf_ocr": 90.5
+    },
+    {
+      "pagina": 83,
+      "metodo": "OCR",
+      "chars": 2637,
+      "conf_ocr": 76.8
+    },
+    {
+      "pagina": 84,
+      "metodo": "OCR",
+      "chars": 2221,
+      "conf_ocr": 89.6
+    },
+    {
+      "pagina": 85,
+      "metodo": "OCR",
+      "chars": 2163,
+      "conf_ocr": 89.7
+    },
+    {
+      "pagina": 86,
+      "metodo": "OCR",
+      "chars": 2267,
+      "conf_ocr": 78.5
+    },
+    {
+      "pagina": 87,
+      "metodo": "OCR",
+      "chars": 2086,
+      "conf_ocr": 89.6
+    },
+    {
+      "pagina": 88,
+      "metodo": "OCR",
+      "chars": 2139,
+      "conf_ocr": 88.3
+    },
+    {
+      "pagina": 89,
+      "metodo": "OCR",
+      "chars": 2354,
+      "conf_ocr": 88.3
+    },
+    {
+      "pagina": 90,
+      "metodo": "OCR",
+      "chars": 2426,
+      "conf_ocr": 90.6
+    },
+    {
+      "pagina": 91,
+      "metodo": "OCR",
+      "chars": 2352,
+      "conf_ocr": 89.2
+    },
+    {
+      "pagina": 92,
+      "metodo": "OCR",
+      "chars": 2414,
+      "conf_ocr": 79.0
+    },
+    {
+      "pagina": 93,
+      "metodo": "OCR",
+      "chars": 2129,
+      "conf_ocr": 85.7
+    },
+    {
+      "pagina": 94,
+      "metodo": "OCR",
+      "chars": 2499,
+      "conf_ocr": 89.9
+    },
+    {
+      "pagina": 95,
+      "metodo": "OCR",
+      "chars": 2261,
+      "conf_ocr": 89.7
+    },
+    {
+      "pagina": 96,
+      "metodo": "OCR",
+      "chars": 2214,
+      "conf_ocr": 89.5
+    },
+    {
+      "pagina": 97,
+      "metodo": "OCR",
+      "chars": 2402,
+      "conf_ocr": 90.1
+    },
+    {
+      "pagina": 98,
+      "metodo": "OCR",
+      "chars": 2210,
+      "conf_ocr": 89.8
+    },
+    {
+      "pagina": 99,
+      "metodo": "OCR",
+      "chars": 2411,
+      "conf_ocr": 88.4
+    },
+    {
+      "pagina": 100,
+      "metodo": "OCR",
+      "chars": 2282,
+      "conf_ocr": 88.7
+    },
+    {
+      "pagina": 101,
+      "metodo": "OCR",
+      "chars": 2206,
+      "conf_ocr": 89.8
+    },
+    {
+      "pagina": 102,
+      "metodo": "OCR",
+      "chars": 2189,
+      "conf_ocr": 89.4
+    },
+    {
+      "pagina": 103,
+      "metodo": "OCR",
+      "chars": 2151,
+      "conf_ocr": 89.0
+    },
+    {
+      "pagina": 104,
+      "metodo": "OCR",
+      "chars": 2360,
+      "conf_ocr": 88.7
+    },
+    {
+      "pagina": 105,
+      "metodo": "OCR",
+      "chars": 2588,
+      "conf_ocr": 86.3
+    },
+    {
+      "pagina": 106,
+      "metodo": "OCR",
+      "chars": 2329,
+      "conf_ocr": 86.7
+    },
+    {
+      "pagina": 107,
+      "metodo": "OCR",
+      "chars": 2275,
+      "conf_ocr": 89.2
+    },
+    {
+      "pagina": 108,
+      "metodo": "OCR",
+      "chars": 2360,
+      "conf_ocr": 90.5
+    },
+    {
+      "pagina": 109,
+      "metodo": "OCR",
+      "chars": 2016,
+      "conf_ocr": 90.2
+    },
+    {
+      "pagina": 110,
+      "metodo": "OCR",
+      "chars": 2189,
+      "conf_ocr": 88.3
+    },
+    {
+      "pagina": 111,
+      "metodo": "OCR",
+      "chars": 2415,
+      "conf_ocr": 90.1
+    },
+    {
+      "pagina": 112,
+      "metodo": "OCR",
+      "chars": 2069,
+      "conf_ocr": 88.3
+    },
+    {
+      "pagina": 113,
+      "metodo": "OCR",
+      "chars": 2122,
+      "conf_ocr": 89.3
+    },
+    {
+      "pagina": 114,
+      "metodo": "OCR",
+      "chars": 2351,
+      "conf_ocr": 90.1
+    },
+    {
+      "pagina": 115,
+      "metodo": "OCR",
+      "chars": 2715,
+      "conf_ocr": 88.8
+    },
+    {
+      "pagina": 116,
+      "metodo": "OCR",
+      "chars": 2780,
+      "conf_ocr": 87.0
+    },
+    {
+      "pagina": 117,
+      "metodo": "OCR",
+      "chars": 2837,
+      "conf_ocr": 90.7
+    },
+    {
+      "pagina": 118,
+      "metodo": "OCR",
+      "chars": 2820,
+      "conf_ocr": 89.3
+    },
+    {
+      "pagina": 119,
+      "metodo": "OCR",
+      "chars": 2810,
+      "conf_ocr": 90.7
+    },
+    {
+      "pagina": 120,
+      "metodo": "OCR",
+      "chars": 2795,
+      "conf_ocr": 90.4
+    },
+    {
+      "pagina": 121,
+      "metodo": "OCR",
+      "chars": 2763,
+      "conf_ocr": 90.3
+    },
+    {
+      "pagina": 122,
+      "metodo": "OCR",
+      "chars": 2771,
+      "conf_ocr": 90.7
+    },
+    {
+      "pagina": 123,
+      "metodo": "OCR",
+      "chars": 2781,
+      "conf_ocr": 90.6
+    },
+    {
+      "pagina": 124,
+      "metodo": "OCR",
+      "chars": 2774,
+      "conf_ocr": 90.5
+    },
+    {
+      "pagina": 125,
+      "metodo": "OCR",
+      "chars": 2776,
+      "conf_ocr": 91.2
+    },
+    {
+      "pagina": 126,
+      "metodo": "OCR",
+      "chars": 2799,
+      "conf_ocr": 91.0
+    },
+    {
+      "pagina": 127,
+      "metodo": "OCR",
+      "chars": 2820,
+      "conf_ocr": 89.9
+    },
+    {
+      "pagina": 128,
+      "metodo": "OCR",
+      "chars": 2800,
+      "conf_ocr": 90.4
+    },
+    {
+      "pagina": 129,
+      "metodo": "OCR",
+      "chars": 2786,
+      "conf_ocr": 90.6
+    },
+    {
+      "pagina": 130,
+      "metodo": "OCR",
+      "chars": 2769,
+      "conf_ocr": 89.7
+    },
+    {
+      "pagina": 131,
+      "metodo": "OCR",
+      "chars": 2788,
+      "conf_ocr": 90.0
+    },
+    {
+      "pagina": 132,
+      "metodo": "OCR",
+      "chars": 2772,
+      "conf_ocr": 89.5
+    },
+    {
+      "pagina": 133,
+      "metodo": "OCR",
+      "chars": 2810,
+      "conf_ocr": 90.9
+    },
+    {
+      "pagina": 134,
+      "metodo": "OCR",
+      "chars": 2815,
+      "conf_ocr": 90.3
+    },
+    {
+      "pagina": 135,
+      "metodo": "OCR",
+      "chars": 2786,
+      "conf_ocr": 90.4
+    },
+    {
+      "pagina": 136,
+      "metodo": "OCR",
+      "chars": 2776,
+      "conf_ocr": 90.9
+    },
+    {
+      "pagina": 137,
+      "metodo": "OCR",
+      "chars": 2781,
+      "conf_ocr": 90.4
+    },
+    {
+      "pagina": 138,
+      "metodo": "OCR",
+      "chars": 2828,
+      "conf_ocr": 90.2
+    },
+    {
+      "pagina": 139,
+      "metodo": "OCR",
+      "chars": 2802,
+      "conf_ocr": 91.1
+    },
+    {
+      "pagina": 140,
+      "metodo": "OCR",
+      "chars": 2752,
+      "conf_ocr": 90.8
+    },
+    {
+      "pagina": 141,
+      "metodo": "OCR",
+      "chars": 2789,
+      "conf_ocr": 90.8
+    },
+    {
+      "pagina": 142,
+      "metodo": "OCR",
+      "chars": 2592,
+      "conf_ocr": 85.9
+    },
+    {
+      "pagina": 143,
+      "metodo": "OCR",
+      "chars": 2693,
+      "conf_ocr": 87.4
+    },
+    {
+      "pagina": 144,
+      "metodo": "OCR",
+      "chars": 1595,
+      "conf_ocr": 82.3
+    }
+  ],
+  "paginas_total": 144,
+  "paginas_ocr": 144,
+  "conf_ocr_media": 88.8,
+  "metodo": "ocr",
+  "tempo_s": 379.87
+}

@@ -1,0 +1,36 @@
+[
+  {
+    "ano_inicio": 1990,
+    "ano_fim": 1991,
+    "tipo": "ACT",
+    "id_canonico": "PRO_DIREITOS_DEVERES",
+    "numero_clausula_original": 29,
+    "titulo_original": "DIREITOS E DEVERES",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "base_legal": "CLT, legislação complementar, Regulamento de Pessoal, PCS"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "10"
+  },
+  {
+    "ano_inicio": 1992,
+    "ano_fim": 1992,
+    "tipo": "ACT",
+    "id_canonico": "PRO_DIREITOS_DEVERES",
+    "numero_clausula_original": 31,
+    "titulo_original": "DIREITOS E DEVERES",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "base_legal": [
+        "Constituição Federal",
+        "CLT",
+        "Legislação complementar",
+        "Documentos normativos da ECT",
+        "Regulamento de Pessoal"
+      ]
+    },
+    "pagina_referencia": "8"
+  }
+]

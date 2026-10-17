@@ -1,0 +1,23 @@
+{
+  "labels": [
+    "Já Elegível (35+ anos)",
+    "Já Elegível (Especial 25+)",
+    "Risco Iminente (30-34 anos)",
+    "Risco Iminente (Cart. 20-24)",
+    "Longo Prazo (< 20 anos)"
+  ],
+  "geral": [
+    8840,
+    20867,
+    1076,
+    15601,
+    35211
+  ],
+  "carteiros": [
+    7479,
+    20867,
+    0,
+    15601,
+    25464
+  ]
+}

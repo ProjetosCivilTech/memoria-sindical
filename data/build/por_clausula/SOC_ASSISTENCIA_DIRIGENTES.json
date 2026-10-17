@@ -1,0 +1,22 @@
+[
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ASSISTENCIA_DIRIGENTES",
+    "numero_clausula_original": 10,
+    "titulo_original": "ASSISTÊNCIA PARA DIRIGENTES SINDICAIS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "concessao": "Assistência Médico-Hospitalar e Odontológica a dirigentes sindicais liberados pelo art. 543 da CLT",
+      "limite": "2 dirigentes por Sindicato e 7 para FENTECT",
+      "gradual": {
+        "a_partir_01_01_2000": "1 dirigente por Sindicato e 3 da Federação"
+      },
+      "ressarcimento": "mensal pelos Sindicatos via compensação do repasse das mensalidades"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "4-5"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "PRO_LICENCA_SEM_REMUNERACAO",
+    "numero_clausula_original": 38,
+    "titulo_original": "LICENÇA SEM REMUNERAÇÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "prazo_maximo": "1 ano",
+      "renovacao": "uma única vez",
+      "criterio": "a critério da Empresa",
+      "prazo_analise": "30 dias"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "18"
+  }
+]

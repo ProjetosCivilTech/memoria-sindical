@@ -1,0 +1,337 @@
+==============================================================================
+RELATÓRIO DE QUALIDADE — CONSOLIDAÇÃO DE CLÁUSULAS
+==============================================================================
+Gerado em: 2026-10-15 17:21
+Documentos processados: 52
+Total de cláusulas:     1,855
+
+--- CLÁUSULAS POR TIPO ---
+  ACT       1,183
+  DC          672
+
+--- DOCUMENTOS SEM DATA-BASE (9) ---
+  1__Termo_Aditivo_ACT_2023_2024
+  Acordo-Coletivo-1990_red
+  Acordo-Coletivo-1991-parcial
+  Acordo-Coletivo-1992_red
+  Acordo-coletivo-1994-1995
+  Acordo-Coletivo-1995-1996
+  Acordo-Coletivo-2001-2002_redP1
+  Acordo-Coletivo-2003-2004_redP1
+  Acordo-Coletivo-2004-2005_P1
+
+--- DOCUMENTOS SEM ASSINATURA (16) ---
+  Acordao-2020-2021
+  Acordo-Coletivo-1989
+  Acordo-Coletivo-1990-Suplementar
+  Acordo-Coletivo-1990_red
+  Acordo-Coletivo-1993_red
+  Acordo-coletivo-1994-1995
+  Acordo-Coletivo-1997-1998
+  Acordo-Coletivo-2000-2001
+  Acordo-Coletivo-2003-2004_redP1
+  Acordo-Coletivo-2003-2004_redp3
+  Acordo-Coletivo-2004-2005_P1
+  Acordo-Coletivo-2004-2005_p2
+  Acordo-Coletivo-2004-2005_p3
+  Acordo-Coletivo-2008-2009-Complem-Ata-do-dia-13.10.2008
+  Acordo-Coletivo-2008-2009-Complem-Ata-do-dia-14.10.2008
+  Acordo-Coletivo-2013-2014-Sindicatos-Unificados
+
+--- DOCUMENTOS SEM VIGÊNCIA (4) ---
+  1__Termo_Aditivo_ACT_2023_2024
+  Acordo-Coletivo-2004-2005_p2
+  Acordo-Coletivo-2008-2009-Complem-Ata-do-dia-13.10.2008
+  Acordo-Coletivo-2008-2009-Complem-Ata-do-dia-14.10.2008
+
+--- STATUS DISTINTOS ---
+  MANTIDO               1,855
+
+--- IDs CANÔNICOS REPETIDOS NO MESMO DOCUMENTO ---
+  1__Termo_Aditivo_ACT_2023_2024 :: FIN_VALE_ALIMENTACAO -> cláusulas [53, 64]
+  ACT-2015-2016-Assinado-no-TST-Gabriel-2 :: CON_CIPA -> cláusulas [31, 57]
+  ACT-2015-2016-Assinado-no-TST-Gabriel-2 :: CON_JORNADA_AGENCIAS -> cláusulas [44, 45, 52]
+  ACT-2015-2016-Assinado-no-TST-Gabriel-2 :: SOC_AUXILIO_DEPENDENTES_DEFICIENCIA -> cláusulas [48, 48]
+  ACT-2015-2016-Assinado-no-TST-Gabriel-2 :: SOC_PRORROGACAO_LICENCA_MATERNIDADE -> cláusulas [11, 13]
+  ACT-2016-2017-Assinado :: CON_CIPA -> cláusulas [31, 57]
+  ACT-2018-2019-A5 :: CON_CIPA -> cláusulas [31, 57]
+  ACT-2018-2019-A5 :: CON_JORNADA_AGENCIAS -> cláusulas [44, 45, 52]
+  ACT-2018-2019-A5 :: SIN_DESCONTO_ASSISTENCIAL -> cláusulas [17, 17, 17]
+  ACT-2018-2019-A5 :: SIN_LIBERACAO_DIRIGENTES -> cláusulas [20, 20]
+  ACT-2018-2019-A5 :: SOC_PRORROGACAO_LICENCA_MATERNIDADE -> cláusulas [11, 13]
+  ACT-2022-2023 :: CON_CIPA -> cláusulas [162, 242]
+  ACT-2023-2024 :: GEN_A_EMPRESA_SE_COMPROMETE_SALVO -> cláusulas [83, 84]
+  ACT-2024-2025-FINDECT :: CON_CIPA -> cláusulas [22, 37, 59, 69]
+  ACT-2024-2025-FINDECT :: CON_JORNADA_AGENCIAS -> cláusulas [48, 50, 58]
+  ACT-2024-2025-FINDECT :: SIN_DIVERSIDADE -> cláusulas [6, 7, 8]
+  ACT-2024-2025-FINDECT :: SOC_PRORROGACAO_LICENCA_MATERNIDADE -> cláusulas [16, 17]
+  Acordao_2021-2022 :: CON_CIPA -> cláusulas [83, 57, 81]
+  Acordao_2021-2022 :: CON_JORNADA_AGENCIAS -> cláusulas [45, 52, 17]
+  Acordao_2021-2022 :: SOC_PRORROGACAO_LICENCA_MATERNIDADE -> cláusulas [11, 13]
+  Acordo-Coletivo-1995-1996 :: CON_CIPA -> cláusulas [8, 14]
+  Acordo-Coletivo-1995-1996 :: PRO_VIGENCIA -> cláusulas [81, 51]
+  Acordo-Coletivo-1998-1999 :: CON_CIPA -> cláusulas [7, 13]
+  Acordo-Coletivo-2003-2004_redp2 :: CON_JORNADA_AGENCIAS -> cláusulas [33, 34]
+  Acordo-Coletivo-2004-2005_P1 :: CON_CIPA -> cláusulas [8, 14]
+  Acordo-Coletivo-2004-2005_p2 :: CON_JORNADA_AGENCIAS -> cláusulas [34, 35]
+  Acordo-Coletivo-2005-2006_red :: CON_CIPA -> cláusulas [8, 14]
+  Acordo-Coletivo-2005-2006_red :: CON_JORNADA_AGENCIAS -> cláusulas [34, 35, 61]
+  Acordo-Coletivo-2007-2008_redp1 :: CON_CIPA -> cláusulas [8, 14]
+  Acordo-Coletivo-2008-2009-Minuta-do-ACT-2008-2009_red :: CON_CIPA -> cláusulas [8, 14]
+  Acordo-Coletivo-2008-2009-Minuta-do-ACT-2008-2009_red :: CON_JORNADA_AGENCIAS -> cláusulas [34, 44]
+  Acordo-Coletivo-2009-2011_redp1 :: CON_CIPA -> cláusulas [8, 82, 14]
+  Acordo-Coletivo-2009-2011_redp2 :: CON_JORNADA_AGENCIAS -> cláusulas [34, 35, 62]
+  Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0000 :: CON_CIPA -> cláusulas [8, 14, 8, 14]
+  Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0000 :: CON_DISTRIBUICAO_DOMICILIARIA -> cláusulas [23, 23]
+  Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0000 :: CON_JORNADA_AGENCIAS -> cláusulas [34, 62, 34, 35, 62]
+  Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0000 :: CON_REGISTRO_PONTO -> cláusulas [54, 54]
+  Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0000 :: FIN_ADICIONAL_NOTURNO -> cláusulas [5, 5]
+  Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0000 :: FIN_ANUENIOS -> cláusulas [9, 9]
+  Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0000 :: FIN_GRATIFICACAO_FERIAS -> cláusulas [29, 29]
+  Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0000 :: FIN_HORAS_EXTRAS -> cláusulas [31, 31]
+  Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0000 :: FIN_PLR -> cláusulas [43, 43, 43]
+  Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0000 :: FIN_REEMBOLSO_CRECHE_BABA -> cláusulas [53, 53]
+  Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0000 :: FIN_VALE_ALIMENTACAO -> cláusulas [61, 61]
+  Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0000 :: GEN_AJUDA_DE_CUSTO_NA_TRANSFERENCIA -> cláusulas [6, 6]
+  Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0000 :: GEN_ATESTADO_DE_SAUDE_NA_DEMISSAO -> cláusulas [12, 12]
+  Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0000 :: GEN_AUXILIO_PARA_FILHOS_DEPENDENTES -> cláusulas [13, 13]
+  Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0000 :: GEN_EMPREGADO_PORTADOR_DO_VIRUS_HIV -> cláusulas [24, 24]
+  Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0000 :: GEN_GRATIFICACAO_DE_QUEBRA_DE_CAIXA -> cláusulas [30, 30]
+  Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0000 :: GEN_ITENS_DE_USO_E_PROTECAO -> cláusulas [33, 33]
+  Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0000 :: GEN_LIBERACAO_DE_CONSELHEIRO_DO_POSTALIS -> cláusulas [37, 37]
+  Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0000 :: GEN_PROGRAMA_CASA_PROPRIA_A_ECT -> cláusulas [47, 47]
+  Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0000 :: GEN_REABILITACAO_PROFISSIONAL_NA_FORMA_DA -> cláusulas [51, 51]
+  Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0000 :: GEN_TRABALHO_EM_DIA_DE_REPOUSO -> cláusulas [58, 58]
+  Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0000 :: GEN_TRABALHO_NOS_FINS_DE_SEMANA -> cláusulas [59, 59, 59]
+  Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0000 :: PRO_AMPLA_DEFESA -> cláusulas [21, 21]
+  Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0000 :: PRO_CONCILIACAO_DIVERGENCIAS -> cláusulas [15, 15]
+  Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0000 :: PRO_CONCURSO_PUBLICO -> cláusulas [16, 16]
+  Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0000 :: PRO_NEGOCIACAO_COLETIVA -> cláusulas [41, 41]
+  Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0000 :: PRO_PROCESSO_PERMANENTE -> cláusulas [46, 46]
+  Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0000 :: PRO_PRORROGACAO_REVISAO -> cláusulas [49, 48, 4, 49]
+  Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0000 :: PRO_VIGENCIA -> cláusulas [63, 63]
+  Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0000 :: SIN_ANISTIA -> cláusulas [7, 7]
+  Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0000 :: SIN_DESCONTO_ASSISTENCIAL -> cláusulas [20, 20]
+  Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0000 :: SIN_EMPREGADO_ESTUDANTE -> cláusulas [28, 28]
+  Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0000 :: SIN_LIBERACAO_DIRIGENTES -> cláusulas [36, 36]
+  Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0000 :: SIN_QUADRO_AVISOS -> cláusulas [50, 50, 2]
+  Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0000 :: SOC_ASSEDIO_SEXUAL_MORAL -> cláusulas [10, 10]
+  Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0000 :: SOC_ASSISTENCIA_MEDICA -> cláusulas [11, 11]
+  Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0000 :: SOC_LICENCA_ADOCAO -> cláusulas [38, 38]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: CON_CIPA -> cláusulas [8, 14, 8]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: CON_DISTRIBUICAO_DOMICILIARIA -> cláusulas [23, 23]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: CON_JORNADA_AGENCIAS -> cláusulas [34, 35, 34, 35]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: FIN_ADICIONAL_NOTURNO -> cláusulas [5, 5]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: FIN_ANUENIOS -> cláusulas [9, 9]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: FIN_GRATIFICACAO_FERIAS -> cláusulas [29, 2, 29]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: FIN_HORAS_EXTRAS -> cláusulas [31, 31]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: FIN_PLR -> cláusulas [43, 43]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: FIN_REEMBOLSO_CRECHE_BABA -> cláusulas [53, 53]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: FIN_VALE_ALIMENTACAO -> cláusulas [61, 61]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: GEN_ACUMULACAO_DE_VANTAGENS_EM_CASO -> cláusulas [3, 3]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: GEN_ADIANTAMENTO_DE_FERIAS_O_ADIANTAMENTO -> cláusulas [4, 4]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: GEN_AJUDA_DE_CUSTO_NA_TRANSFERENCIA -> cláusulas [6, 6]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: GEN_ATESTADO_DE_SAUDE_NA_DEMISSAO -> cláusulas [12, 12]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: GEN_AUXILIO_PARA_FILHOS_DEPENDENTES -> cláusulas [13, 13]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: GEN_CONTRATACAO_DE_EMPREGADOS_A_ECT -> cláusulas [17, 17]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: GEN_CURSOS_E_REUNIOES_OBRIGATORIAS_OS -> cláusulas [18, 18]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: GEN_DELEGADO_SINDICAL_O_DELEGADO_SINDICAL -> cláusulas [19, 19]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: GEN_DISCRIMINACAO_RACIAL_A_ECT_CONTINUARA -> cláusulas [22, 22]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: GEN_EMPREGADO_PORTADOR_DO_VIRUS_HIV -> cláusulas [24, 24]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: GEN_FORNECIMENTO_DE_CATLISA_A_ECT -> cláusulas [25, 25]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: GEN_FORNECIMENTO_DE_MANUAL_A_ECT -> cláusulas [26, 26]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: GEN_GRATIFICACAO_DE_QUEBRA_DE_CAIXA -> cláusulas [30, 30]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: GEN_INOVACOES_TECNOLOGICAS_A_ECT_SE -> cláusulas [32, 32]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: GEN_ITENS_DE_USO_E_PROTECAO -> cláusulas [33, 33]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: GEN_LIBERACAO_DE_CONSELHEIRO_DO_POSTALIS -> cláusulas [37, 37]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: GEN_MEDIDAS_DE_SEGURANCA_A_ECT -> cláusulas [39, 39]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: GEN_MULTAS_DE_TRANSITO_A_ECT -> cláusulas [40, 40]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: GEN_PAGAMENTO_DE_SALARIO_OS_SALARIOS -> cláusulas [42, 42]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: GEN_PERIODO_DE_AMAMENTACAO_A_ECT -> cláusulas [45, 45]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: GEN_PROGRAMA_CASA_PROPRIA_A_ECT -> cláusulas [47, 47]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: GEN_REABILITACAO_PROFISSIONAL_NA_FORMA_DA -> cláusulas [51, 51]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: GEN_RELACAO_NOMINAL_DE_EMPREGADOS_A -> cláusulas [55, 55]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: GEN_SAUDE_DO_EMPREGADO_A_ECT -> cláusulas [57, 57]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: GEN_TRABALHO_EM_DIA_DE_REPOUSO -> cláusulas [58, 58]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: PRO_AMPLA_DEFESA -> cláusulas [21, 21]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: PRO_CONCILIACAO_DIVERGENCIAS -> cláusulas [15, 15]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: PRO_CONCURSO_PUBLICO -> cláusulas [16, 16]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: PRO_NEGOCIACAO_COLETIVA -> cláusulas [41, 41]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: PRO_PROCESSO_PERMANENTE -> cláusulas [46, 46]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: PRO_PRORROGACAO_REVISAO -> cláusulas [48, 4, 49, 49]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: PRO_VIGENCIA -> cláusulas [63, 63]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: SIN_ANISTIA -> cláusulas [7, 7]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: SIN_DESCONTO_ASSISTENCIAL -> cláusulas [20, 20]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: SIN_EMPREGADO_ESTUDANTE -> cláusulas [28, 28]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: SIN_LIBERACAO_DIRIGENTES -> cláusulas [36, 36]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: SIN_QUADRO_AVISOS -> cláusulas [50, 2, 50]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: SOC_ASSEDIO_SEXUAL_MORAL -> cláusulas [10, 10]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: SOC_ASSISTENCIA_MEDICA -> cláusulas [11, 11]
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0000 :: SOC_LICENCA_ADOCAO -> cláusulas [38, 38]
+  Acordo-Coletivo-2013-2014-Acórdão-TST-DC-6942-72-2013-5-00-0000 :: CON_CIPA -> cláusulas [8, 8]
+  Acordo-Coletivo-2013-2014-Acórdão-TST-DC-6942-72-2013-5-00-0000 :: CON_JORNADA_AGENCIAS -> cláusulas [34, 35, 62]
+  Acordo-Coletivo-2013-2014-Acórdão-TST-DC-6942-72-2013-5-00-0000 :: GEN_EMPREGADO_PORTADOR_DO_VIRUS_HIV -> cláusulas [24, 24]
+  Acordo-Coletivo-2013-2014-Acórdão-TST-DC-6942-72-2013-5-00-0000 :: GEN_LIBERACAO_DE_CONSELHEIRO_DO_POSTALIS -> cláusulas [37, 37]
+  Acordo-Coletivo-2013-2014-Acórdão-TST-DC-6942-72-2013-5-00-0000 :: SIN_QUADRO_AVISOS -> cláusulas [2, 50]
+  Acordo-Coletivo-2013-2014-Acórdão-TST-DC-6942-72-2013-5-00-0000 :: SOC_LICENCA_ADOCAO -> cláusulas [85, 38]
+  Acordo-Coletivo-2013-2014-FINDECT_red :: CON_CIPA -> cláusulas [8, 14]
+  Acordo-Coletivo-2013-2014-FINDECT_red :: FIN_REEMBOLSO_CRECHE_BABA -> cláusulas [53, 53]
+  Acordo-Coletivo-2013-2014-FINDECT_red :: FIN_VALE_ALIMENTACAO -> cláusulas [61, 86]
+  Acordo-Coletivo-2014-2015_red :: CON_CIPA -> cláusulas [57, 68]
+  Acordo-Coletivo-2014-2015_red :: CON_JORNADA_AGENCIAS -> cláusulas [44, 45, 52]
+  DC 2025-2026 :: CON_CIPA -> cláusulas [19, 51]
+  DC 2025-2026 :: CON_JORNADA_AGENCIAS -> cláusulas [82, 83, 81, 83, 85, 83, 41, 43]
+  DC 2025-2026 :: CON_REGISTRO_PONTO -> cláusulas [65, 74, 64]
+  DC 2025-2026 :: FIN_AADC -> cláusulas [89, 11]
+  DC 2025-2026 :: FIN_ADICIONAL_NOTURNO -> cláusulas [82, 85]
+  DC 2025-2026 :: FIN_HORAS_EXTRAS -> cláusulas [84, 84, 85]
+  DC 2025-2026 :: FIN_REAJUSTE_SALARIAL -> cláusulas [82, 55]
+  DC 2025-2026 :: GEN_A_CRITERIO_DOA_EMPREGADOA_O -> cláusulas [82, 82, 82]
+  DC 2025-2026 :: GEN_A_ECT_EM_CASO_DE -> cláusulas [81, 81]
+  DC 2025-2026 :: GEN_A_ECT_GARANTIRA_AO_EMPREGADO -> cláusulas [87, 86]
+  DC 2025-2026 :: GEN_A_EMPRESA_EVITARA_SALVO_EM -> cláusulas [83, 83, 83]
+  DC 2025-2026 :: GEN_A_EMPRESA_REALIZARA_SALVO_EM -> cláusulas [84, 84, 84]
+  DC 2025-2026 :: GEN_OS_200_DUZENTOS_POR_CENTO -> cláusulas [81, 81, 81]
+  DC 2025-2026 :: SIN_ANISTIA -> cláusulas [84, 1]
+  DC 2025-2026 :: SOC_PRORROGACAO_LICENCA_MATERNIDADE -> cláusulas [12, 13]
+  acordao-2013-2014 FENTECT :: CON_CIPA -> cláusulas [8, 8]
+  acordao-2013-2014 FENTECT :: CON_JORNADA_AGENCIAS -> cláusulas [34, 35, 62]
+  acordao-2013-2014 FENTECT :: GEN_EMPREGADO_PORTADOR_DO_VIRUS_HIV -> cláusulas [24, 24]
+  acordao-2013-2014 FENTECT :: GEN_LIBERACAO_DE_CONSELHEIRO_DO_POSTALIS -> cláusulas [37, 37]
+  acordao-2013-2014 FENTECT :: SIN_QUADRO_AVISOS -> cláusulas [2, 50]
+  acordao-2013-2014 FENTECT :: SOC_LICENCA_ADOCAO -> cláusulas [85, 38]
+  acordo-coletivo-2017-2018 :: CON_CIPA -> cláusulas [31, 57]
+  acordo-coletivo-2017-2018 :: CON_JORNADA_AGENCIAS -> cláusulas [44, 45]
+
+--- CLÁUSULAS SEM ID CANÔNICO (1075) ---
+  [1__Termo_Aditivo_ACT_2023_2024          ] nº   1 :: DO OBJETO: O presente termo aditivo tem por objeto a alteraç
+  [acordao-2013-2014 FENTECT               ] nº  85 :: No caso de falecimento do empregado, o beneficio da É
+  [acordao-2013-2014 FENTECT               ] nº   5 :: CLÂUSULAS FIXADAS NO ACÓRDÃO NORMATIVO REVISANDO -
+  [acordao-2013-2014 FENTECT               ] nº   6 :: PROPOSTA DA EMPRESA BRASILEIRA DE CORREIOS E E
+  [acordao-2013-2014 FENTECT               ] nº  85 :: A Empresa se compromete a entregar ao empregado, quando por 
+  [acordao-2013-2014 FENTECT               ] nº   1 :: ACESSO ÀS DEPENDÊNCIAS - Quando E
+  [acordao-2013-2014 FENTECT               ] nº   2 :: ACOMPANHANTE -— Assegura-se ao empregado 2
+  [acordao-2013-2014 FENTECT               ] nº   3 :: ACUMULAÇÃO DE VANTAGENS - Em caso de *?
+  [acordao-2013-2014 FENTECT               ] nº   4 :: ADIANTAMENTO DE FÉRIAS - O adiantamento E)
+  [acordao-2013-2014 FENTECT               ] nº  12 :: ATESTADO DE SAÚDE NA DEMISSÃO- Quando
+  [acordao-2013-2014 FENTECT               ] nº  17 :: CONTRATAÇÃO DE EMPREGADOS - A ECT é
+  [acordao-2013-2014 FENTECT               ] nº  18 :: CURSOS E REUNIÕES OBRIGATÓRIAS - Os E
+  [acordao-2013-2014 FENTECT               ] nº  19 :: DELEGADO SINDICAL - O delegado sindical Ei
+  [acordao-2013-2014 FENTECT               ] nº  22 :: DISCRIMINAÇÃO RACIAL - A ECT continuará «
+  [acordao-2013-2014 FENTECT               ] nº  24 :: EMPREGADO PORTADOR DO VÍRUS HIV - Em caso ã
+  [acordao-2013-2014 FENTECT               ] nº  25 :: FORNECIMENTO DE CAT/LISA- A ECT emitirá É)
+  [acordao-2013-2014 FENTECT               ] nº  26 :: FORNECIMENTO DE MANUAL - A ECT, quando E
+  [acordao-2013-2014 FENTECT               ] nº  27 :: GARANTIAS A MULHER ECETISTA - A ECT o
+  [acordao-2013-2014 FENTECT               ] nº  30 :: GRATIFICAÇÃO DE QUEBRA DE CAIXA - A ECT E
+  [acordao-2013-2014 FENTECT               ] nº  32 :: INOVAÇÕES TECNOLÓGICAS - A ECT se º
+  [acordao-2013-2014 FENTECT               ] nº  33 :: ITENS DE USO E PROTEÇÃO AO EMPREGADO - “a
+  [acordao-2013-2014 FENTECT               ] nº  37 :: LIBERAÇÃO DE CONSELHEIRO DO POSTALIS - Ê
+  [acordao-2013-2014 FENTECT               ] nº  40 :: MULTAS DE TRANSITO- A ECT arcará, 5
+  [acordao-2013-2014 FENTECT               ] nº  42 :: PAGAMENTO DE SALÁRIO - Os salários serão &
+  [acordao-2013-2014 FENTECT               ] nº  45 :: PERÍODO DE AMAMENTAÇÃO - A ECT assegurará E
+  [acordao-2013-2014 FENTECT               ] nº  47 :: PROGRAMA CASA PRÓPRIA - A ECT E
+  [acordao-2013-2014 FENTECT               ] nº  51 :: REABILITAÇÃO PROFISSIONAL - Na forma da E
+  [acordao-2013-2014 FENTECT               ] nº  55 :: RELAÇÃO NOMINAL DE EMPREGADOS - A ECT E
+  [acordao-2013-2014 FENTECT               ] nº  56 :: REPASSE DAS MENSALIDADES DO SINDICATO E
+  [acordao-2013-2014 FENTECT               ] nº  57 :: SAÚDE DO EMPREGADO - A ECT prosseguirá Ê
+  [acordao-2013-2014 FENTECT               ] nº  58 :: TRABALHO EM DIA DE REPOUSO - Sem prejuízo o
+  [acordao-2013-2014 FENTECT               ] nº  59 :: TRABALHO NOS FINS DE SEMANA - Os o
+  [acordao-2013-2014 FENTECT               ] nº  60 :: TRANSPORTE NOTURNO - A ECT providenciará é
+  [acordao-2013-2014 FENTECT               ] nº   5 :: A ECT garantirá o transporte dos empregados com necessidade 
+  [acordao-2013-2014 FENTECT               ] nº  24 :: EMPREGADO PORTADOR DO VÍRUS HIV - Em caso de recomendação ó
+  [acordao-2013-2014 FENTECT               ] nº  37 :: LIBERAÇÃO DE CONSELHEIRO DO POSTALIS - A ECT, por à
+  [Acordao-2020-2021                       ] nº   9 :: FORNECIMENTO DE DOCUMENTOS .............. ee eererererrrrrer
+  [Acordao-2020-2021                       ] nº  27 :: ACOMPANHAMENTO DO CUMPRIMENTO DE CLÁUSULAS DO ACORDO... rr B
+  [Acordao_2021-2022                       ] nº   3 :: COMPOSIÇÃO DO DISSÍDIO COLETIVO DE NATUREZA
+  [Acordao_2021-2022                       ] nº  19 :: LIBERAÇÃO DE CONSELHEIRO(A) DO POSTALIS - Os
+  [Acordao_2021-2022                       ] nº  27 :: ACOMPANHANTE - Assegura-se ao(à) empregado(a)
+  [Acordao_2021-2022                       ] nº  82 :: O teto máximo para efeito de desconto da parcela devida a
+  [Acordao_2021-2022                       ] nº  85 :: Tabela de cobrança mensal, a título de mensalidade,
+  [Acordao_2021-2022                       ] nº 816 :: Fica garantida a permanência dos tratamentos em
+  [Acordao_2021-2022                       ] nº  33 :: EMPREGADO(A) INAPTO(A) PARA RETORNO AO
+  [Acordao_2021-2022                       ] nº  25 :: REPASSE DAS MENSALIDADES DO SINDICATO - Os
+  [Acordao_2021-2022                       ] nº  26 :: REPRESENTANTES DOS(AS) EMPREGADOS(AS) - Os
+  [Acordao_2021-2022                       ] nº  37 :: ITENS DE USO E PROTEÇÃO AO(AÃ) EMPREGADO(A) Os Correios forn
+  [Acordao_2021-2022                       ] nº  39 :: REABILITAÇÃO PROFISSIONAL - Na forma da
+  [Acordao_2021-2022                       ] nº  42 :: FROTA OPERACIONAL - Os Correios, visando à
+  [Acordao_2021-2022                       ] nº  47 :: SEGURANÇA NA EMPRESA - Os Correios mantêm o
+  [Acordao_2021-2022                       ] nº  50 :: TRANSPORTE NOTURNO - Os Correios
+  [Acordao_2021-2022                       ] nº  54 :: ADIANTAMENTO DE FÉRIAS - O adiantamento de
+  [Acordao_2021-2022                       ] nº  56 :: AJUDA DE CUSTO NA TRANSFERÊNCIA - A ajuda de
+  [Acordao_2021-2022                       ] nº  60 :: GRATIFICAÇÃO DE QUEBRA DE CAIXA - Os Correios
+  [Acordao_2021-2022                       ] nº  62 :: PAGAMENTO DE SALÁRIO - Os salários serão pagos
+  [Acordao_2021-2022                       ] nº  64 :: TRABALHO EM DIA DE REPOUSO - Sem prejuízo do
+  [Acordao_2021-2022                       ] nº  65 :: TRABALHO NOS FINS DE SEMANA - Os(as)
+  [Acordao_2021-2022                       ] nº  68 :: CURSOS E REUNIÕES OBRIGATÓRIAS - Os Correios
+  [Acordao_2021-2022                       ] nº  76 :: INDENIZAÇÃO POR MORTE OU INVALIDEZ
+  ... (+1015)
+
+--- CLÁUSULAS POR DOCUMENTO ---
+arquivo                                                 tipo    cláus
+------------------------------------------------------------------------------
+1__Termo_Aditivo_ACT_2023_2024                          ACT         3
+Acordo-Coletivo-1988_red                                ACT         0
+Acordo-Coletivo-1990_red                                ACT         0
+Acordo-Coletivo-1992_red                                ACT         0
+Acordo-Coletivo-1993_red                                ACT        23
+Acordo-Coletivo-1989                                    ACT         0
+Acordo-Coletivo-1990-Suplementar                        ACT         0
+Acordo-Coletivo-1991-parcial                            ACT         0
+Acordo-coletivo-1994-1995                               ACT        41
+Acordo-Coletivo-1995-1996                               ACT        44
+Acordo-Coletivo-1995-1996-Aditamento                    ACT         8
+Acordo-Coletivo-1997-1998                               ACT        42
+Acordo-Coletivo-1998-1999                               ACT        43
+Acordo-Coletivo-1999-2000                               ACT        42
+Acordo-Coletivo-2000-2001                               ACT         8
+Acordo-Coletivo-2001-2002_redP1                         ACT        24
+Acordo-Coletivo-2001-2002_redp2                         ACT        18
+Acordo-Coletivo-2002-2003                               ACT        33
+Acordo-Coletivo-2003-2004_redP1                         ACT        16
+Acordo-Coletivo-2003-2004_redp2                         ACT        17
+Acordo-Coletivo-2003-2004_redp3                         ACT        24
+Acordo-Coletivo-2004-2005_P1                            ACT        18
+Acordo-Coletivo-2004-2005_p2                            ACT        20
+Acordo-Coletivo-2004-2005_p3                            ACT        14
+Acordo-Coletivo-2005-2006_red                           ACT        58
+Acordo-Coletivo-2007-2008_redp1                         ACT        22
+Acordo-Coletivo-2007-2008_redp2                         ACT        33
+Acordo-Coletivo-2008-2009-Complem-Ata-do-dia-13.10.20   ACT         0
+Acordo-Coletivo-2008-2009-Complem-Ata-do-dia-14.10.20   ACT         0
+Acordo-Coletivo-2008-2009-Minuta-do-ACT-2008-2009_red   ACT        56
+Acordo-Coletivo-2009-2011_redp1                         ACT        34
+Acordo-Coletivo-2009-2011_redp2                         ACT        30
+Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011   DC        136
+Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012   DC        144
+Acordo-Coletivo-2013-2014-Acórdão-TST-DC-6942-72-2013   DC         61
+Acordo-Coletivo-2013-2014-FINDECT_red                   ACT        60
+Acordo-Coletivo-2013-2014-Sindicatos-Unificados         ACT         2
+acordao-2013-2014 FENTECT                               DC         61
+Acordo-Coletivo-2014-2015_red                           ACT        69
+ACT-2015-2016-Assinado-no-TST-Gabriel-2                 ACT        71
+ACT-2016-2017-Assinado                                  ACT        39
+ACT-2017-2018                                           ACT        15
+acordo-coletivo-2017-2018                               ACT        36
+ACT-2018-2019-A5                                        ACT        79
+Acordao-2019-2021                                       DC          2
+Acordao-2020-2021                                       DC          9
+ACT-2022-2023                                           ACT        37
+Acordao_2021-2022                                       DC         75
+ACT-2023-2024                                           ACT         4
+ACT-2024-2025-FENTECT                                   ACT        15
+ACT-2024-2025-FINDECT                                   ACT        85
+DC 2025-2026                                            DC        184
+
+--- DOCUMENTOS QUE MENCIONAM 'GREVE' (12) ---
+  acordao-2013-2014 FENTECT                                    (131 menções)
+  Acordao-2019-2021                                            (9 menções)
+  Acordao_2021-2022                                            (40 menções)
+  Acordo-Coletivo-2005-2006_red                                (1 menções)
+  Acordo-Coletivo-2007-2008_redp1                              (2 menções)
+  Acordo-Coletivo-2011-2012-Acórdão-TST-DC-6335-37-2011-5-00-0 (81 menções)
+  Acordo-Coletivo-2012-2013-Acórdão-TST-DC-8981-76-2012-5-00-0 (100 menções)
+  Acordo-Coletivo-2013-2014-Acórdão-TST-DC-6942-72-2013-5-00-0 (131 menções)
+  Acordo-Coletivo-2013-2014-Sindicatos-Unificados              (2 menções)
+  ACT-2015-2016-Assinado-no-TST-Gabriel-2                      (4 menções)
+  ACT-2018-2019-A5                                             (1 menções)
+  DC 2025-2026                                                 (84 menções)

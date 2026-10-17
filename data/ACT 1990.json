@@ -1,0 +1,472 @@
+{
+  "metadados_documento": {
+    "tipo": "ACT",
+    "ano_inicio": 1990,
+    "ano_fim": 1991,
+    "processo": "Negociação direta ECT/Sindicatos (FENTECT)",
+    "tribunal": null,
+    "orgao": null,
+    "relator": null,
+    "data_julgamento": null,
+    "data_publicacao": null,
+    "entidade_patronal": "ECT",
+    "entidades_profissionais": ["FENTECT"],
+    "arquivo_origem": "Acordo-Coletivo-1990_red.pdf",
+    "greve": null
+  },
+  "clausulas": [
+    {
+      "id_canonico": "PRO_ABRANGENCIA",
+      "numero_clausula_original": 1,
+      "titulo_original": "ABRANGÊNCIA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "abrangencia": "empregados do quadro de pessoal da ECT lotados na Administração Central e Diretorias Regionais, inclusive os admitidos na vigência"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "4"
+    },
+    {
+      "id_canonico": "FIN_REAJUSTE_SALARIAL",
+      "numero_clausula_original": 2,
+      "titulo_original": "REAJUSTE SALARIAL",
+      "status": "DEFERIDO",
+      "valor_atual": 127.18,
+      "unidade": "%",
+      "detalhes": {
+        "indice_aplicado": "127,18% sobre salários de 31.12.89",
+        "aumento_real": "4% a título de produtividade",
+        "reposicao_plano_bresser": "9,62%",
+        "deducao_pagamento_duplicado": "9,91% (junho/1989)",
+        "ajuste_IPC": "substituição do IPC estimado (41%) pelo oficial"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "4-5"
+    },
+    {
+      "id_canonico": "FIN_ANUENIOS",
+      "numero_clausula_original": 3,
+      "titulo_original": "ANUÊNIOS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "retroacao": "data de admissão, limite 20/03/1969",
+        "vedacao_quinquenio": "não cumulação com quinquênio pelo mesmo período",
+        "vigencia": "a partir de 01/01/1990"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "5"
+    },
+    {
+      "id_canonico": "FIN_GRATIFICACAO_PRODUTIVIDADE",
+      "numero_clausula_original": 4,
+      "titulo_original": "PRODUTIVIDADE SEMESTRAL",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "extensao": "todos os empregados, quando cessem os impedimentos do DL 2355/87"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "5"
+    },
+    {
+      "id_canonico": "FIN_PAGAMENTO_SALARIO",
+      "numero_clausula_original": 5,
+      "titulo_original": "PAGAMENTO DE SALÁRIOS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "data_pagamento": "até o 2º dia útil bancário do mês subsequente ao vencido"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "5"
+    },
+    {
+      "id_canonico": "FIN_HORAS_EXTRAS",
+      "numero_clausula_original": 6,
+      "titulo_original": "HORAS EXTRAS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "pagamento": "até 10º dia útil do mês subsequente, folha suplementar"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "5"
+    },
+    {
+      "id_canonico": "FIN_GRATIFICACAO_FERIAS",
+      "numero_clausula_original": 7,
+      "titulo_original": "GRATIFICAÇÃO DE FÉRIAS",
+      "status": "DEFERIDO",
+      "valor_atual": 70,
+      "unidade": "percentual",
+      "detalhes": {
+        "percentual": 70,
+        "base_calculo": "remuneração vigente à data do início das férias",
+        "inclui": "direito do Art. 7º, XVII, CF"
+      },
+      "memoria_negociacao": null,
+      "observacao": "Elevado de 60% (1988/89) para 70% em 1990.",
+      "pagina_referencia": "6"
+    },
+    {
+      "id_canonico": "FIN_ADIANTAMENTO_FERIAS",
+      "numero_clausula_original": 8,
+      "titulo_original": "ADIANTAMENTO DE FÉRIAS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "parcelas": 7,
+        "carencia": "2 meses",
+        "inicio_restituicao": "a contar do término do descanso"
+      },
+      "memoria_negociacao": null,
+      "observacao": "Parcelamento em 7 vezes (posteriormente reduzido a 5).",
+      "pagina_referencia": "6"
+    },
+    {
+      "id_canonico": "FIN_ANTECIPACAO_13",
+      "numero_clausula_original": 9,
+      "titulo_original": "ADIANTAMENTO DA 1ª PARCELA DO 13º SALÁRIO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "percentual": 50,
+        "data_pagamento": "folha de junho",
+        "condicao": "não gozou férias até julho",
+        "antecipacao_por_requerimento": true,
+        "segunda_parcela": "até 20 de dezembro"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "6"
+    },
+    {
+      "id_canonico": "FIN_ADICIONAL_PENOSIDADE",
+      "numero_clausula_original": 10,
+      "titulo_original": "ADICIONAL DE PENOSIDADE",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "condicao": "regulamentação do Art. 7º, XXIII, CF"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "6"
+    },
+    {
+      "id_canonico": "FIN_AJUDA_CUSTO",
+      "numero_clausula_original": 11,
+      "titulo_original": "AJUDA DE CUSTO NA TRANSFERÊNCIA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "calculo": "salário-base + anuênios + gratificação de função",
+        "base_legal": "Regulamento de Pessoal"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "6-7"
+    },
+    {
+      "id_canonico": "FIN_VALE_REFEICAO",
+      "numero_clausula_original": 12,
+      "titulo_original": "VALE-REFEIÇÃO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "quantidade": "25 unidades (trabalha sábado) / 22 unidades (não trabalha sábado)",
+        "extensao_ferias": true,
+        "extensao_licenca_gestante": "primeiros 45 dias"
+      },
+      "memoria_negociacao": null,
+      "observacao": "Quantidade por unidade (posteriormente alterado para 23/27 vales por jornada 5/6 dias).",
+      "pagina_referencia": "7"
+    },
+    {
+      "id_canonico": "FIN_VALE_TRANSPORTE",
+      "numero_clausula_original": 13,
+      "titulo_original": "VALE-TRANSPORTE",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "regra": "assegurado na forma da lei"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "7"
+    },
+    {
+      "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+      "numero_clausula_original": 14,
+      "titulo_original": "ASSISTÊNCIA MÉDICA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "compromisso": "estudos de reformulação, com opção por sistema compartilhado"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "7"
+    },
+    {
+      "id_canonico": "SOC_AUXILIO_DOENCA",
+      "numero_clausula_original": 15,
+      "titulo_original": "AUXÍLIO-DOENÇA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "compromisso": "convênio com INPS para pagamento pela ECT com posterior reembolso"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "7"
+    },
+    {
+      "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+      "numero_clausula_original": 16,
+      "titulo_original": "AUXÍLIO-CRECHE E PRÉ-ESCOLAR",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "idade_limite": "até 7 anos (inclusive excepcional)",
+        "extensao_pai_solteiro": true,
+        "extensao_viuvo": true
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "7"
+    },
+    {
+      "id_canonico": "FIN_VALE_ALIMENTACAO",
+      "numero_clausula_original": 17,
+      "titulo_original": "CESTA BÁSICA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "compartilhamento": "50% empregado / 50% empresa"
+      },
+      "memoria_negociacao": null,
+      "observacao": "Alterado pelo ACT Suplementar 1990 (regionalização).",
+      "pagina_referencia": "8"
+    },
+    {
+      "id_canonico": "SOC_LICENCA_ADOCAO",
+      "numero_clausula_original": 18,
+      "titulo_original": "LICENÇA-ADOÇÃO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "dias_licenca": 15,
+        "idade_crianca": "0 a 12 meses incompletos",
+        "inicio_contagem": "data efetiva da adoção"
+      },
+      "memoria_negociacao": null,
+      "observacao": "Reduzida de 60 dias (1988/89) para 15 dias em 1990.",
+      "pagina_referencia": "8"
+    },
+    {
+      "id_canonico": "PRO_GRATIFICACAO_APOSENTADORIA",
+      "numero_clausula_original": 19,
+      "titulo_original": "GRATIFICAÇÃO DE APOSENTADORIA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "compromisso": "estudos após cessar DL 2355/87"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "8"
+    },
+    {
+      "id_canonico": "PRO_FGTS_RETROATIVO",
+      "numero_clausula_original": 20,
+      "titulo_original": "OPÇÃO RETROATIVA PELO FGTS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "retroacao": "15/07/1975",
+        "prazo": "até 30/04/1990"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "8"
+    },
+    {
+      "id_canonico": "CON_ITENS_USO_PROTECAO",
+      "numero_clausula_original": 21,
+      "titulo_original": "UNIFORMES",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "compromisso": "revisar sistema de distribuição no 1º semestre/1990"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "8"
+    },
+    {
+      "id_canonico": "CON_SEGURANCA_EMPRESA",
+      "numero_clausula_original": 22,
+      "titulo_original": "TRANSPORTE DE VALORES E SEGURANÇA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "compromisso": "concluir estudos no 1º semestre/1990"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "8"
+    },
+    {
+      "id_canonico": "PRO_DEFESA_MONOPOLIO",
+      "numero_clausula_original": 23,
+      "titulo_original": "DEFESA DO MONOPÓLIO POSTAL",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "compromisso": "ações de repressão à quebra do monopólio"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "9"
+    },
+    {
+      "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+      "numero_clausula_original": 24,
+      "titulo_original": "CONTRIBUIÇÃO ASSISTENCIAL",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "base_legal": "Art. 8º, IV, CF",
+        "oposicao": "até 20 dias antes do pagamento do primeiro salário reajustado",
+        "envio_atas": "até 20 dias antes"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "9"
+    },
+    {
+      "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+      "numero_clausula_original": 25,
+      "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "quantidade": "Presidente e 1 Diretor por Sindicato local",
+        "FENTECT": "2 diretores",
+        "outros_dirigentes": "liberação sem ônus, mínimo 10 dias, comunicação 3 dias"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "9"
+    },
+    {
+      "id_canonico": "SIN_ACESSO_DEPENDENCIAS",
+      "numero_clausula_original": 26,
+      "titulo_original": "ACESSO ÀS DEPENDÊNCIAS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "regra": "somente com prévia autorização da Empresa",
+        "relacao_responsaveis": "ECT disponibilizará"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "9"
+    },
+    {
+      "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+      "numero_clausula_original": 27,
+      "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "regra": "compensação para evitar duplicidade de pagamento"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "10"
+    },
+    {
+      "id_canonico": "PRO_CONCILIACAO_DIVERGENCIAS",
+      "numero_clausula_original": 28,
+      "titulo_original": "CONCILIAÇÃO DE DIVERGÊNCIAS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "regra": "comunicação por escrito à ECT antes de recorrer à Justiça do Trabalho",
+        "reuniao": "ECT pode designar reunião"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "10"
+    },
+    {
+      "id_canonico": "PRO_DIREITOS_DEVERES",
+      "numero_clausula_original": 29,
+      "titulo_original": "DIREITOS E DEVERES",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "base_legal": "CLT, legislação complementar, Regulamento de Pessoal, PCS"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "10"
+    },
+    {
+      "id_canonico": "FIN_PENALIDADE",
+      "numero_clausula_original": 30,
+      "titulo_original": "PENALIDADES",
+      "status": "DEFERIDO",
+      "valor_atual": 20,
+      "unidade": "percentual",
+      "detalhes": {
+        "percentual": 20,
+        "base_calculo": "maior valor de referência (MVR)"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "10"
+    },
+    {
+      "id_canonico": "PRO_PRORROGACAO_REVISAO",
+      "numero_clausula_original": 31,
+      "titulo_original": "PRORROGAÇÃO, REVISÃO, DENÚNCIA OU REVOGAÇÃO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "base_legal": "Art. 615 da CLT"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "10"
+    },
+    {
+      "id_canonico": "PRO_VIGENCIA",
+      "numero_clausula_original": 32,
+      "titulo_original": "VIGÊNCIA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "data_inicio": "1990-01-01",
+        "data_fim": "1990-12-31",
+        "duracao_meses": 12
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "10-11"
+    },
+    {
+      "id_canonico": "PRO_APROVACAO_CISE",
+      "numero_clausula_original": 33,
+      "titulo_original": "APROVAÇÃO DO ACORDO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "condicao": "sujeito à aprovação do CISE"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "11"
+    }
+  ],
+  "temas_nao_mapeados": [],
+  "retorno_ao_trabalho": null,
+  "dispositivo_final": {
+    "data_base": "1990-01-01",
+    "vigencia": "1990-01-01 a 1990-12-31",
+    "data_assinatura": "1990",
+    "local": "Brasília/DF",
+    "reajuste": "127,18% + 4% de aumento real",
+    "gratificacao_ferias": "70%",
+    "vale_refeicao": "25/22 unidades mensais",
+    "licenca_adocao": "15 dias",
+    "observacoes": "Primeiro acordo com data-base em janeiro. Elevação da gratificação de férias para 70%."
+  },
+  "notas_metodologicas": [
+    {
+      "tipo": "ACT_NEGOCIADO",
+      "tema": "GERAL",
+      "descricao": "ACT 1990 negociado diretamente entre ECT e Representações Sindicais (FENTECT e Sindicatos Independentes). Vigência de 01/01/1990 a 31/12/1990."
+    }
+  ]
+}

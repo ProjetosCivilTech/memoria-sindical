@@ -1,0 +1,115 @@
+{
+  "arquivo_origem": "Acordo-Coletivo-1998-1999.pdf",
+  "metadados_pdf": {
+    "titulo": "Acordo Coletivo 1998 1999",
+    "autor": null,
+    "assunto": null,
+    "criador": "PDF reDirect v2",
+    "produtor": "EXP Systems LLC (www.exp-systems.com)",
+    "criado_em": "D:20070319173834",
+    "modificado_em": "D:20070319173845+03'00'"
+  },
+  "paginas_info": [
+    {
+      "pagina": 1,
+      "metodo": "OCR",
+      "chars": 2097,
+      "conf_ocr": 73.9
+    },
+    {
+      "pagina": 2,
+      "metodo": "OCR",
+      "chars": 2105,
+      "conf_ocr": 78.8
+    },
+    {
+      "pagina": 3,
+      "metodo": "OCR",
+      "chars": 2464,
+      "conf_ocr": 76.4
+    },
+    {
+      "pagina": 4,
+      "metodo": "OCR",
+      "chars": 2135,
+      "conf_ocr": 79.2
+    },
+    {
+      "pagina": 5,
+      "metodo": "OCR",
+      "chars": 2054,
+      "conf_ocr": 80.2
+    },
+    {
+      "pagina": 6,
+      "metodo": "OCR",
+      "chars": 2248,
+      "conf_ocr": 80.6
+    },
+    {
+      "pagina": 7,
+      "metodo": "OCR",
+      "chars": 2055,
+      "conf_ocr": 78.3
+    },
+    {
+      "pagina": 8,
+      "metodo": "OCR",
+      "chars": 2399,
+      "conf_ocr": 80.8
+    },
+    {
+      "pagina": 9,
+      "metodo": "OCR",
+      "chars": 2319,
+      "conf_ocr": 75.6
+    },
+    {
+      "pagina": 10,
+      "metodo": "OCR",
+      "chars": 1989,
+      "conf_ocr": 78.0
+    },
+    {
+      "pagina": 11,
+      "metodo": "OCR",
+      "chars": 2122,
+      "conf_ocr": 81.4
+    },
+    {
+      "pagina": 12,
+      "metodo": "OCR",
+      "chars": 1911,
+      "conf_ocr": 78.3
+    },
+    {
+      "pagina": 13,
+      "metodo": "OCR",
+      "chars": 2090,
+      "conf_ocr": 73.9
+    },
+    {
+      "pagina": 14,
+      "metodo": "OCR",
+      "chars": 2229,
+      "conf_ocr": 77.6
+    },
+    {
+      "pagina": 15,
+      "metodo": "OCR",
+      "chars": 1937,
+      "conf_ocr": 75.8
+    },
+    {
+      "pagina": 16,
+      "metodo": "OCR",
+      "chars": 926,
+      "conf_ocr": 60.9
+    }
+  ],
+  "paginas_total": 16,
+  "paginas_ocr": 16,
+  "conf_ocr_media": 76.9,
+  "metodo": "ocr",
+  "tempo_s": 30.78
+}

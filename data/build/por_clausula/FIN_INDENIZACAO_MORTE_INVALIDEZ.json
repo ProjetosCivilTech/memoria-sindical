@@ -1,0 +1,115 @@
+[
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "FIN_INDENIZACAO_MORTE_INVALIDEZ",
+    "numero_clausula_original": 77,
+    "titulo_original": "INDENIZAÇÃO POR MORTE OU INVALIDEZ PERMANENTE",
+    "status": "DEFERIDO",
+    "valor_anterior": 137755.81,
+    "valor_atual": 137755.81,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_indenizacao": 137755.81,
+      "casos": [
+        "acidente de trabalho",
+        "assalto",
+        "roubo"
+      ],
+      "complementacao_beneficio": true,
+      "seguro_vida_substitutivo": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 41
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "FIN_INDENIZACAO_MORTE_INVALIDEZ",
+    "numero_clausula_original": 76,
+    "titulo_original": "INDENIZAÇÃO POR MORTE OU INVALIDEZ PERMANENTE",
+    "status": "DEFERIDO",
+    "valor_atual": 137755.81,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_indenizacao": 137755.81,
+      "casos": [
+        "acidente de trabalho",
+        "assalto",
+        "roubo"
+      ],
+      "complementacao_beneficio_INSS": true,
+      "seguro_vida_substitutivo": true,
+      "atendimento_medico_pos_assalto": true
+    },
+    "pagina_referencia": "97-98"
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "FIN_INDENIZACAO_MORTE_INVALIDEZ",
+    "numero_clausula_original": 76,
+    "titulo_original": "INDENIZAÇÃO POR MORTE OU INVALIDEZ PERMANENTE",
+    "status": "DEFERIDO",
+    "valor_anterior": 137755.81,
+    "valor_atual": 137755.81,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_indenizacao": 137755.81,
+      "casos": [
+        "acidente de trabalho",
+        "assalto",
+        "roubo"
+      ],
+      "complementacao_beneficio": true,
+      "seguro_vida_substitutivo": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 40
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "FIN_INDENIZACAO_MORTE_INVALIDEZ",
+    "numero_clausula_original": 76,
+    "titulo_original": "INDENIZAÇÃO POR MORTE OU INVALIDEZ PERMANENTE ..........................................................................",
+    "status": "MANTIDO",
+    "texto": "",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "FIN_INDENIZACAO_MORTE_INVALIDEZ",
+    "numero_clausula_original": 76,
+    "titulo_original": "INDENIZAÇÃO POR MORTE OU INVALIDEZ",
+    "status": "INDEFERIDO",
+    "detalhes": {
+      "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+    },
+    "memoria_negociacao": "SDC indeferiu",
+    "observacao": null,
+    "pagina_referencia": "113"
+  }
+]

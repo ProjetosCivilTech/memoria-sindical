@@ -1,0 +1,61 @@
+[
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "CON_PREVENCAO_DOENCAS",
+    "numero_clausula_original": 38,
+    "titulo_original": "PREVENÇÃO DE DOENÇAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "cinesioterapia": true,
+      "rodizio_operacional": true,
+      "terapia_comunitaria": "50% das Sedes das Diretorias Regionais"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 23
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "CON_PREVENCAO_DOENCAS",
+    "numero_clausula_original": 38,
+    "titulo_original": "PREVENÇÃO DE DOENÇAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "cinesioterapia": true,
+      "rodizio_operacional": true,
+      "terapia_comunitaria": "50% das Sedes das Diretorias Regionais"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 23
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "CON_PREVENCAO_DOENCAS",
+    "numero_clausula_original": 38,
+    "titulo_original": "PREVENÇÃO DE DOENÇAS",
+    "status": "MANTIDO",
+    "texto": "da saúde e prevenção de doenças no trabalho, visando: §1º Implantar gradativamente as ações de Cinesioterapia dentro dos Centros de Tratamento e Terminais de Carga ou nas suas imediações, com o objetivo de levar para perto dos(as) empregados(as) todas as condições de fortalecimento da saúde e melhoria da qualidade de vida. §2º Implantar gradativamente o rodízio operacional nos Centros de Tratamento, com vistas à melhoria contínua da saúde dos(as) empregados(as), ambientes de trabalho e clima organizacional. §3º Expandir o programa terapia comunitária integrativa em, no mínimo, 50% das Sedes das Superintendências Estaduais. Observações: As alterações ocorridas foram objeto de pleitos da Empresa, sendo acatadas pelo TST em julgamento de Dissídio Coletivo de Greve. 47 --- PAGINA 48 --CLÁUSULA 39",
+    "novo_id": false
+  }
+]

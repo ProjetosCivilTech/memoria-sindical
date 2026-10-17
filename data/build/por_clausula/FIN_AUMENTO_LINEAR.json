@@ -1,0 +1,28 @@
+[
+  {
+    "ano_inicio": 2011,
+    "ano_fim": 2012,
+    "tipo": "DCG",
+    "id_canonico": "FIN_AUMENTO_LINEAR",
+    "numero_clausula_original": null,
+    "titulo_original": "AUMENTO LINEAR",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": 60.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor": 60.0,
+      "data_inicio": "2012-01-02",
+      "publico_alvo": "todos os empregados"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "R$ 60,00",
+      "pedido_fentect": "R$ 200,00",
+      "decisao_tst": "DEFERE R$ 60,00",
+      "fundamento_juridico": "Proposta da ECT aceita em audiência",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 85
+  }
+]

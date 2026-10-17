@@ -1,0 +1,73 @@
+{
+  "arquivo_origem": "Acordo-Coletivo-2009-2011_redp2.pdf",
+  "metadados_pdf": {
+    "titulo": null,
+    "autor": null,
+    "assunto": null,
+    "criador": "Adobe InDesign CS4 (6.0.4)",
+    "produtor": "Adobe PDF Library 9.0",
+    "criado_em": "D:20091005131002-03'00'",
+    "modificado_em": "D:20160616100252-03'00'"
+  },
+  "paginas_info": [
+    {
+      "pagina": 1,
+      "metodo": "OCR",
+      "chars": 3549,
+      "conf_ocr": 92.6
+    },
+    {
+      "pagina": 2,
+      "metodo": "OCR",
+      "chars": 3417,
+      "conf_ocr": 93.2
+    },
+    {
+      "pagina": 3,
+      "metodo": "OCR",
+      "chars": 3380,
+      "conf_ocr": 93.1
+    },
+    {
+      "pagina": 4,
+      "metodo": "OCR",
+      "chars": 3230,
+      "conf_ocr": 93.2
+    },
+    {
+      "pagina": 5,
+      "metodo": "OCR",
+      "chars": 3882,
+      "conf_ocr": 93.1
+    },
+    {
+      "pagina": 6,
+      "metodo": "OCR",
+      "chars": 3601,
+      "conf_ocr": 92.8
+    },
+    {
+      "pagina": 7,
+      "metodo": "OCR",
+      "chars": 3629,
+      "conf_ocr": 93.5
+    },
+    {
+      "pagina": 8,
+      "metodo": "OCR",
+      "chars": 4389,
+      "conf_ocr": 93.1
+    },
+    {
+      "pagina": 9,
+      "metodo": "OCR",
+      "chars": 580,
+      "conf_ocr": 84.1
+    }
+  ],
+  "paginas_total": 9,
+  "paginas_ocr": 9,
+  "conf_ocr_media": 92.1,
+  "metodo": "ocr",
+  "tempo_s": 30.72
+}

@@ -1,0 +1,508 @@
+[
+  {
+    "ano_inicio": 1990,
+    "ano_fim": 1991,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+    "numero_clausula_original": 27,
+    "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "regra": "compensação para evitar duplicidade de pagamento"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "10"
+  },
+  {
+    "ano_inicio": 1991,
+    "ano_fim": 1991,
+    "tipo": "DC",
+    "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+    "numero_clausula_original": 78,
+    "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "regra": "compensação para evitar duplicidade",
+      "prevalecimento": "norma mais vantajosa"
+    },
+    "pagina_referencia": "9"
+  },
+  {
+    "ano_inicio": 1992,
+    "ano_fim": 1992,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+    "numero_clausula_original": 30,
+    "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "regra": "compensação para evitar duplicidade"
+    },
+    "pagina_referencia": "8"
+  },
+  {
+    "ano_inicio": 1993,
+    "ano_fim": 1994,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+    "numero_clausula_original": 31,
+    "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "regra": "compensação para evitar duplicidade"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "17"
+  },
+  {
+    "ano_inicio": 1994,
+    "ano_fim": 1995,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+    "numero_clausula_original": 3,
+    "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "regra_compensacao": "não acumulação de acréscimos pecuniários sob o mesmo título"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "2"
+  },
+  {
+    "ano_inicio": 1997,
+    "ano_fim": 1998,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+    "numero_clausula_original": 3,
+    "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+    "status": "DEFERIDO"
+  },
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+    "numero_clausula_original": 3,
+    "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+    "status": "DEFERIDO"
+  },
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+    "numero_clausula_original": 3,
+    "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "regra_compensacao": "não acumulação de acréscimos pecuniários sob o mesmo título"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "2"
+  },
+  {
+    "ano_inicio": 2000,
+    "ano_fim": 2001,
+    "tipo": "DC",
+    "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+    "numero_clausula_original": 3,
+    "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "regra_compensacao": "não acumulação de acréscimos pecuniários sob o mesmo título"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "Cláusula incontroversa.",
+    "pagina_referencia": "3"
+  },
+  {
+    "ano_inicio": 2001,
+    "ano_fim": 2002,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+    "numero_clausula_original": 3,
+    "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "regra_compensacao": "não acumulação de acréscimos pecuniários sob o mesmo título"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "2"
+  },
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+    "numero_clausula_original": 3,
+    "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "regra_compensacao": "não acumulação de acréscimos pecuniários sob o mesmo título"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "2"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+    "numero_clausula_original": 3,
+    "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "regra_compensacao": "não acumulação de acréscimos pecuniários sob o mesmo título"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "2"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+    "numero_clausula_original": 3,
+    "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "regra_compensacao": "não acumulação de acréscimos pecuniários sob o mesmo título"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "2"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+    "numero_clausula_original": 3,
+    "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+    "status": "DEFERIDO"
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+    "numero_clausula_original": 3,
+    "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "regra_compensacao": "não acumulação de acréscimos pecuniários sob o mesmo título"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "3"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+    "numero_clausula_original": 3,
+    "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "regra_compensacao": "não acumulação de acréscimos pecuniários sob o mesmo título"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 2
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+    "numero_clausula_original": 3,
+    "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "regra_compensacao": "não acumulação sob o mesmo título"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "2"
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+    "numero_clausula_original": 3,
+    "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+    "status": "MANTIDO",
+    "texto": "Compensação para evitar acúmulo de acréscimos pecuniários sob mesmo título ou idêntico fundamento.",
+    "observacao": "Idêntica ao DC 2013-2014.",
+    "pagina_referencia": 2
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+    "numero_clausula_original": 3,
+    "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+    "status": "MANTIDO",
+    "texto": "Em caso de posterior instituição legal de benefícios ou vantagens previstos neste instrumento, será feita compensação para evitar acúmulo de acréscimos pecuniários sob o mesmo título ou idêntico fundamento.",
+    "observacao": "Idêntica ao DC 2012-2013.",
+    "pagina_referencia": 73
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+    "numero_clausula_original": 66,
+    "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "regra": "não acumulação"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "28"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+    "numero_clausula_original": 67,
+    "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "regra_compensacao": "não acumulação de acréscimos pecuniários sob o mesmo título"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 37
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+    "numero_clausula_original": 68,
+    "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "regra": "não acumulação"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "38"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+    "numero_clausula_original": 66,
+    "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "regra": "compensação para evitar duplicidade"
+    },
+    "pagina_referencia": 89
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+    "numero_clausula_original": 66,
+    "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "regra_compensacao": "não acumulação de acréscimos pecuniários sob o mesmo título"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 36
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+    "numero_clausula_original": 66,
+    "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+    "status": "MANTIDO",
+    "texto": "no presente Acordo Coletivo de Trabalho ou quaisquer outros já mantidos pelos Correios, será feita a necessária compensação, a fim de que não se computem ou se acumulem acréscimos pecuniários superiores sob o mesmo título ou idêntico fundamento, com consequente duplicidade de pagamento. 80 --- PAGINA 81 --CLÁUSULA 67",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2020,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+    "numero_clausula_original": 4,
+    "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+    "status": "MANTIDO",
+    "texto": "previstos na presente sentença normativa ou quaisquer outros já mantidos pelos Correios, será feita a necessária compensação, a fim de que não se computem ou se acumulem acréscimos pecuniários superiores sob o mesmo título ou idêntico fundamento, com consequente duplicidade de pagamento. OPERACIONALIZAÇÃO DA CLÁUSULA As solicitações de informações referentes a esta cláusula devem ser encaminhadas ao Departamento de Gestão de Pessoas– DEGEP/DIGEP - degep-digep@correios.com.br 9 --- PAGINA 10 --CLÁUSULA 05",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+    "numero_clausula_original": 4,
+    "titulo_original": "ACUMULAÇÃO DE VANTAGENS (66ª do DCG 2019/2020)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "redacao": "Em caso de posterior instituição legal de benefícios ou vantagens previstos na presente sentença normativa ou quaisquer outros já mantidos pelos Correios, será feita a necessária compensação, a fim de que não se computem ou se acumulem acréscimos pecuniários superiores sob o mesmo título ou idêntico fundamento, com consequente duplicidade de pagamento"
+    },
+    "memoria_negociacao": "Manutenção proposta pelos Correios e anuída pelas entidades sindicais",
+    "observacao": null,
+    "pagina_referencia": "60"
+  },
+  {
+    "ano_inicio": 2022,
+    "ano_fim": 2023,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+    "numero_clausula_original": 4,
+    "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "regra": "compensação para evitar duplicidade de pagamento"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "1"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+    "numero_clausula_original": 65,
+    "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "regra": "compensação"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "13"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+    "numero_clausula_original": 66,
+    "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "regra_compensacao": "não acumulação de acréscimos pecuniários sob o mesmo título"
+    },
+    "observacao": null,
+    "pagina_referencia": 24
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+    "numero_clausula_original": 56,
+    "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "regra_compensacao": "não acumulação de acréscimos pecuniários sob o mesmo título"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 23
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+    "numero_clausula_original": 56,
+    "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "regra_compensacao": "não acumulação de acréscimos pecuniários sob o mesmo título"
+    },
+    "pagina_referencia": "68"
+  }
+]

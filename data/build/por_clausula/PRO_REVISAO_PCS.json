@@ -1,0 +1,19 @@
+[
+  {
+    "ano_inicio": 1988,
+    "ano_fim": 1989,
+    "tipo": "ACT",
+    "id_canonico": "PRO_REVISAO_PCS",
+    "numero_clausula_original": 25,
+    "titulo_original": "REVISÃO DO PCS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "iniciar estudos em 1989",
+      "participacao_sindicatos": "envio de sugestões",
+      "remessa_PCS": "até 31.03.89"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "7-8"
+  }
+]

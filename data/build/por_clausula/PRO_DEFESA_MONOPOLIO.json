@@ -1,0 +1,83 @@
+[
+  {
+    "ano_inicio": 1990,
+    "ano_fim": 1991,
+    "tipo": "ACT",
+    "id_canonico": "PRO_DEFESA_MONOPOLIO",
+    "numero_clausula_original": 23,
+    "titulo_original": "DEFESA DO MONOPÓLIO POSTAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "ações de repressão à quebra do monopólio"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "9"
+  },
+  {
+    "ano_inicio": 1991,
+    "ano_fim": 1991,
+    "tipo": "DC",
+    "id_canonico": "PRO_DEFESA_MONOPOLIO",
+    "numero_clausula_original": 65,
+    "titulo_original": "DEFESA DO MONOPÓLIO POSTAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "intensificar ações de repressão à quebra do monopólio postal da União"
+    },
+    "pagina_referencia": "8"
+  },
+  {
+    "ano_inicio": 1993,
+    "ano_fim": 1994,
+    "tipo": "ACT",
+    "id_canonico": "PRO_DEFESA_MONOPOLIO",
+    "numero_clausula_original": 33,
+    "titulo_original": "DEFESA DO MONOPÓLIO POSTAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "intensificar ações de repressão"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "18"
+  },
+  {
+    "ano_inicio": 1994,
+    "ano_fim": 1995,
+    "tipo": "ACT",
+    "id_canonico": "PRO_DEFESA_MONOPOLIO",
+    "numero_clausula_original": 17,
+    "titulo_original": "DEFESA DO MONOPÓLIO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "ações de repressão à quebra do Monopólio Postal da União"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "PRO_DEFESA_MONOPOLIO",
+    "numero_clausula_original": 53,
+    "titulo_original": "REGULAMENTAÇÃO POSTAL",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "gestão junto ao Poder Executivo",
+      "retirada_PL_1491": true,
+      "regulamentacao_lei_postal": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "25"
+  }
+]

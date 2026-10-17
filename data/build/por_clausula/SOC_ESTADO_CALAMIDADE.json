@@ -1,0 +1,95 @@
+[
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "SOC_ESTADO_CALAMIDADE",
+    "numero_clausula_original": null,
+    "titulo_original": "EPIDEMIA, PANDEMIA E ESTADO DE CALAMIDADE PÚBLICA",
+    "status": "INDEFERIDO",
+    "detalhes": {
+      "motivo": "Cláusula com encargo financeiro significativo, não preexistente; matéria nova na pauta de reivindicações"
+    },
+    "memoria_negociacao": "SDC indeferiu",
+    "observacao": "Apresentada em reconvenção",
+    "pagina_referencia": "54-56, 113"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ESTADO_CALAMIDADE",
+    "numero_clausula_original": 61,
+    "titulo_original": "SITUAÇÃO EM CASO DE ESTADO DE CALAMIDADE PÚBLICA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "salario_base_adicional": "1 salário-base",
+      "pagamento": "parcela única",
+      "condicao": "decreto de calamidade pública"
+    },
+    "memoria_negociacao": null,
+    "observacao": "Nova cláusula.",
+    "pagina_referencia": "13"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ESTADO_CALAMIDADE",
+    "numero_clausula_original": 64,
+    "titulo_original": "SITUAÇÃO EM CASO DE ESTADO DE CALAMIDADE PÚBLICA OU ESTADO DE EMERGÊNCIA",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "salario_base_adicional": 1,
+      "publico": "empregados desabrigados ou intensamente atingidos",
+      "avaliacao_social": true,
+      "prazo_pagamento": "5 dias úteis após requerimento"
+    },
+    "observacao": null,
+    "pagina_referencia": 23
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SOC_ESTADO_CALAMIDADE",
+    "numero_clausula_original": 77,
+    "titulo_original": "SITUAÇÃO EM CASO DE ESTADO DE CALAMIDADE PÚBLICA OU ESTADO DE EMERGÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "salario_base_adicional": 1,
+      "publico": "empregados desabrigados ou intensamente atingidos",
+      "avaliacao_social": true,
+      "prazo_pagamento": "5 dias úteis após requerimento"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 31
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "SOC_ESTADO_CALAMIDADE",
+    "numero_clausula_original": 77,
+    "titulo_original": "SITUAÇÃO EM CASO DE ESTADO DE CALAMIDADE PÚBLICA OU ESTADO DE EMERGÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "salario_base_adicional": 1,
+      "publico": "empregados desabrigados ou intensamente atingidos",
+      "avaliacao_social": true,
+      "prazo_pagamento": "5 dias úteis após requerimento"
+    },
+    "pagina_referencia": "87-89"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "SIN_PARCERIA_ASSOCIACOES_RECREATIVAS",
+    "numero_clausula_original": 13,
+    "titulo_original": "PARCERIA COM ASSOCIAÇÕES RECREATIVAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "liberacao": "2 dias/mês para 1 dirigente"
+    },
+    "memoria_negociacao": null,
+    "observacao": "Nova cláusula.",
+    "pagina_referencia": "3"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SIN_PARCERIA_ASSOCIACOES_RECREATIVAS",
+    "numero_clausula_original": 13,
+    "titulo_original": "PARCERIA COM AS ASSOCIAÇÕES RECREATIVAS DOS(AS) EMPREGADOS(AS)",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "liberacao_mensal": 1,
+      "onus": "ECT",
+      "repasse": "segundo dia útil após pagamento"
+    },
+    "observacao": null,
+    "pagina_referencia": 6
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SIN_PARCERIA_ASSOCIACOES_RECREATIVAS",
+    "numero_clausula_original": 71,
+    "titulo_original": "PARCERIA COM AS ASSOCIAÇÕES RECREATIVAS DOS(AS) EMPREGADOS(AS)",
+    "status": "DEFERIDO_PARCIALMENTE",
+    "detalhes": {
+      "liberacao_mensal": 1,
+      "onus": "ECT",
+      "desconto_mensalidades": true,
+      "repasse": "segundo dia útil após pagamento",
+      "visita_unidades": "2 pessoas"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Excluir a cláusula",
+      "pedido_fentect": "Manutenção da cláusula preexistente",
+      "pedido_findect": "Manutenção da cláusula preexistente",
+      "decisao_tst": "DEFERE a cláusula com a redação da sentença normativa 2025/2026, com EXCLUSÃO do caput",
+      "fundamento_juridico": "Cláusula sem impacto financeiro extraordinário",
+      "votos_divergentes": "Ministra Maria Cristina Irigoyen Peduzzi divergiu parcialmente"
+    },
+    "observacao": "O caput (liberação mensal de 1 dirigente com ônus para a ECT) foi excluído. Os demais parágrafos foram mantidos.",
+    "pagina_referencia": 29
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "SIN_PARCERIA_ASSOCIACOES_RECREATIVAS",
+    "numero_clausula_original": 71,
+    "titulo_original": "PARCERIA COM AS ASSOCIAÇÕES RECREATIVAS DOS(AS) EMPREGADOS(AS)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "liberacao_mensal": 1,
+      "onus": "ECT",
+      "desconto_mensalidades": true,
+      "repasse": "segundo dia útil após pagamento",
+      "visita_unidades": "2 pessoas"
+    },
+    "pagina_referencia": "82"
+  }
+]

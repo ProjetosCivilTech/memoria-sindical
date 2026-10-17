@@ -1,0 +1,28 @@
+[
+  {
+    "ano_inicio": 2011,
+    "ano_fim": 2012,
+    "tipo": "DCG",
+    "id_canonico": "FIN_ABONO",
+    "numero_clausula_original": null,
+    "titulo_original": "ABONO",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": 800.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor": 800.0,
+      "pagamento": "50% em até 15 dias após assinatura + 50% em 01/01/2012",
+      "publico_alvo": "admitidos até 31/07/2011"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "R$ 500,00",
+      "pedido_fentect": "R$ 800,00",
+      "decisao_tst": "DEFERE R$ 800,00 (proposta da ECT em audiência)",
+      "fundamento_juridico": "Proposta da ECT aceita em audiência",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 84
+  }
+]

@@ -1,0 +1,428 @@
+[
+  {
+    "ano_inicio": 1990,
+    "ano_fim": 1991,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AJUDA_CUSTO",
+    "numero_clausula_original": 11,
+    "titulo_original": "AJUDA DE CUSTO NA TRANSFERÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "calculo": "salário-base + anuênios + gratificação de função",
+      "base_legal": "Regulamento de Pessoal"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "6-7"
+  },
+  {
+    "ano_inicio": 1992,
+    "ano_fim": 1992,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AJUDA_CUSTO",
+    "numero_clausula_original": 11,
+    "titulo_original": "AJUDA DE CUSTO NA TRANSFERÊNCIA DE EMPREGADO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "calculo": "salário-base + anuênio + gratificação de função",
+      "gratificação_no_transito": true
+    },
+    "pagina_referencia": "3"
+  },
+  {
+    "ano_inicio": 1993,
+    "ano_fim": 1994,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AJUDA_CUSTO",
+    "numero_clausula_original": 9,
+    "titulo_original": "AJUDA DE CUSTO NA TRANSFERÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "calculo": "salário-base + anuênios + gratificação de função",
+      "responsabilidade": "ECT"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 1994,
+    "ano_fim": 1995,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AJUDA_CUSTO",
+    "numero_clausula_original": 5,
+    "titulo_original": "AJUDA DE CUSTO NA TRANSFERÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "calculo": "salário-base + anuênios + gratificação de função",
+      "responsabilidade": "ECT"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "2"
+  },
+  {
+    "ano_inicio": 1997,
+    "ano_fim": 1998,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AJUDA_CUSTO",
+    "numero_clausula_original": 6,
+    "titulo_original": "AJUDA DE CUSTO NA TRANSFERÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "calculo": "salário-base + anuênios + IGQP + gratificação",
+      "base_legal": "MANPES"
+    }
+  },
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AJUDA_CUSTO",
+    "numero_clausula_original": 6,
+    "titulo_original": "AJUDA DE CUSTO NA TRANSFERÊNCIA",
+    "status": "DEFERIDO"
+  },
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AJUDA_CUSTO",
+    "numero_clausula_original": 6,
+    "titulo_original": "AJUDA DE CUSTO NA TRANSFERÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "calculo": "salário-base + anuênio + gratificação de função",
+      "responsabilidade": "ECT"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "3"
+  },
+  {
+    "ano_inicio": 2000,
+    "ano_fim": 2001,
+    "tipo": "DC",
+    "id_canonico": "FIN_AJUDA_CUSTO",
+    "numero_clausula_original": 6,
+    "titulo_original": "AJUDA DE CUSTO NA TRANSFERÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "calculo": "salário-base + anuênio + GQP incorporada + gratificação de função",
+      "responsabilidade": "ECT",
+      "base_legal": "Regulamento de Pessoal"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "Cláusula incontroversa.",
+    "pagina_referencia": "3"
+  },
+  {
+    "ano_inicio": 2001,
+    "ano_fim": 2002,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AJUDA_CUSTO",
+    "numero_clausula_original": 6,
+    "titulo_original": "AJUDA DE CUSTO NA TRANSFERÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "calculo": "salário-base + anuênios/quinquênios + GQP incorporada + gratificação de função",
+      "responsabilidade": "ECT",
+      "base_legal": "Regulamento de Pessoal"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "3"
+  },
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AJUDA_CUSTO",
+    "numero_clausula_original": 6,
+    "titulo_original": "AJUDA DE CUSTO NA TRANSFERÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "calculo": "salário-base + anuênios/quinquênios + GQP incorporada + gratificação de função",
+      "responsabilidade": "ECT",
+      "base_legal": "Regulamento de Pessoal"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "3"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AJUDA_CUSTO",
+    "numero_clausula_original": 6,
+    "titulo_original": "AJUDA DE CUSTO NA TRANSFERÊNCIA",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "calculo": "salário-base + anuênios/quinquênios + GQP incorporada + gratificação de função",
+      "responsabilidade": "ECT",
+      "base_legal": "Regulamento de Pessoal"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "3"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AJUDA_CUSTO",
+    "numero_clausula_original": 6,
+    "titulo_original": "AJUDA DE CUSTO NA TRANSFERÊNCIA",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "calculo": "salário-base + anuênios/quinquênios + GQP incorporada + gratificação de função",
+      "responsabilidade": "ECT",
+      "base_legal": "Regulamento de Pessoal"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "3"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AJUDA_CUSTO",
+    "numero_clausula_original": 6,
+    "titulo_original": "AJUDA DE CUSTO NA TRANSFERÊNCIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "calculo": "salário-base + anuênios/quinquênios + IGQP + gratificação"
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AJUDA_CUSTO",
+    "numero_clausula_original": 6,
+    "titulo_original": "AJUDA DE CUSTO NA TRANSFERÊNCIA",
+    "status": "DEFERIDO",
+    "valor_anterior": 1000.0,
+    "valor_atual": 1000.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_minimo": 1000.0,
+      "calculo": "salário-base + anuênios/quinquênios + IGQP incorporado + gratificação de função",
+      "responsabilidade": "ECT",
+      "base_legal": "Manual de Pessoal - MANPES",
+      "transferencia_funcao_gratificada": "gratificação a partir do início do período de trânsito"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "4"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AJUDA_CUSTO",
+    "numero_clausula_original": 6,
+    "titulo_original": "AJUDA DE CUSTO NA TRANSFERÊNCIA",
+    "status": "DEFERIDO",
+    "valor_anterior": 1000.0,
+    "valor_atual": 1000.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_minimo": 1000.0,
+      "calculo": "salário-base + anuênios/quinquênios + GQP incorporada + gratificação de função",
+      "responsabilidade": "ECT"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 3
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AJUDA_CUSTO",
+    "numero_clausula_original": 6,
+    "titulo_original": "AJUDA DE CUSTO NA TRANSFERÊNCIA",
+    "status": "DEFERIDO",
+    "valor_atual": 1100.0,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_minimo": 1100.0,
+      "calculo": "salário-base + anuênios + IGQP + gratificação de função"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "3"
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AJUDA_CUSTO",
+    "numero_clausula_original": 56,
+    "titulo_original": "AJUDA DE CUSTO NA TRANSFERÊNCIA",
+    "status": "DEFERIDO",
+    "valor_atual": 1325.9,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_minimo": 1325.9
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "25"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AJUDA_CUSTO",
+    "numero_clausula_original": 56,
+    "titulo_original": "AJUDA DE CUSTO NA TRANSFERÊNCIA",
+    "status": "DEFERIDO",
+    "valor_anterior": 1325.9,
+    "valor_atual": 1325.9,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_minimo": 1325.9,
+      "calculo": "salário-base + anuênios + IGQP + gratificação de função",
+      "responsabilidade": "ECT"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 32
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AJUDA_CUSTO",
+    "numero_clausula_original": 56,
+    "titulo_original": "AJUDA DE CUSTO NA TRANSFERÊNCIA",
+    "status": "DEFERIDO",
+    "valor_atual": 1325.9,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_minimo": 1325.9
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "35"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AJUDA_CUSTO",
+    "numero_clausula_original": 56,
+    "titulo_original": "AJUDA DE CUSTO NA TRANSFERÊNCIA",
+    "status": "DEFERIDO",
+    "valor_atual": 1325.9,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_minimo": 1325.9,
+      "calculo": "salário-base + anuênios + IGQP + gratificação de função",
+      "responsabilidade": "ECT",
+      "base_legal": "MANPES"
+    },
+    "pagina_referencia": 82
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "FIN_AJUDA_CUSTO",
+    "numero_clausula_original": 56,
+    "titulo_original": "AJUDA DE CUSTO NA TRANSFERÊNCIA",
+    "status": "DEFERIDO",
+    "valor_anterior": 1325.9,
+    "valor_atual": 1325.9,
+    "unidade": "BRL",
+    "detalhes": {
+      "valor_minimo": 1325.9,
+      "calculo": "salário-base + anuênios + IGQP + gratificação de função",
+      "responsabilidade": "ECT"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 32
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "FIN_AJUDA_CUSTO",
+    "numero_clausula_original": 56,
+    "titulo_original": "AJUDA DE CUSTO DE TRANSFERÊNCIA",
+    "status": "INDEFERIDO",
+    "detalhes": {
+      "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+    },
+    "memoria_negociacao": "SDC indeferiu",
+    "observacao": null,
+    "pagina_referencia": "113"
+  }
+]

@@ -1,0 +1,501 @@
+[
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EMPREGADO_ESTUDANTE",
+    "numero_clausula_original": 24,
+    "titulo_original": "GARANTIAS AO EMPREGADO ESTUDANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "nao_alteracao_jornada": true,
+      "estagio_curricular": true,
+      "incentivo_educacional": true
+    }
+  },
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EMPREGADO_ESTUDANTE",
+    "numero_clausula_original": 25,
+    "titulo_original": "GARANTIAS AO EMPREGADO ESTUDANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "nao_alteracao_jornada": true,
+      "estagio_curricular": true,
+      "incentivo_ensino_fundamental_medio": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "9"
+  },
+  {
+    "ano_inicio": 2000,
+    "ano_fim": 2001,
+    "tipo": "DC",
+    "id_canonico": "SIN_EMPREGADO_ESTUDANTE",
+    "numero_clausula_original": 20,
+    "titulo_original": "GARANTIAS AO EMPREGADO ESTUDANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "nao_alteracao_jornada": true,
+      "estagio_curricular": true,
+      "incentivo_ensino_fundamental_medio": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "Cláusula incontroversa.",
+    "pagina_referencia": "6-7"
+  },
+  {
+    "ano_inicio": 2001,
+    "ano_fim": 2002,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EMPREGADO_ESTUDANTE",
+    "numero_clausula_original": 20,
+    "titulo_original": "GARANTIAS AO EMPREGADO ESTUDANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "nao_alteracao_jornada": true,
+      "estagio_curricular": true,
+      "incentivo_ensino_fundamental_medio": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "6-7"
+  },
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EMPREGADO_ESTUDANTE",
+    "numero_clausula_original": 28,
+    "titulo_original": "GARANTIAS AO EMPREGADO ESTUDANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "abono_vestibular": true,
+      "nao_alteracao_jornada": true,
+      "estagio_curricular": true,
+      "incentivo_ensino_fundamental_medio": true,
+      "acesso_internet": true,
+      "descontos_mensalidades": true,
+      "incentivo_ensino_superior": true,
+      "PIE": "reexame na revisão do PCCS"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "15"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EMPREGADO_ESTUDANTE",
+    "numero_clausula_original": 28,
+    "titulo_original": "GARANTIAS AO EMPREGADO ESTUDANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "abono_vestibular": true,
+      "nao_alteracao_jornada": true,
+      "estagio_curricular": true,
+      "incentivo_ensino_fundamental_medio": true,
+      "acesso_internet": true,
+      "descontos_mensalidades": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "13"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EMPREGADO_ESTUDANTE",
+    "numero_clausula_original": 28,
+    "titulo_original": "GARANTIAS AO EMPREGADO ESTUDANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "abono_vestibular": true,
+      "nao_alteracao_jornada": true,
+      "estagio_curricular": true,
+      "incentivo_ensino_fundamental_medio": true,
+      "acesso_internet": true,
+      "descontos_mensalidades": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "10"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EMPREGADO_ESTUDANTE",
+    "numero_clausula_original": 28,
+    "titulo_original": "GARANTIAS AO EMPREGADO ESTUDANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "abono_vestibular": true,
+      "nao_alteracao_jornada": true,
+      "estagio_curricular": true,
+      "incentivo_ensino": true,
+      "acesso_internet": true,
+      "descontos_escolares": true
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EMPREGADO_ESTUDANTE",
+    "numero_clausula_original": 28,
+    "titulo_original": "GARANTIAS AO EMPREGADO ESTUDANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "abono_vestibular": true,
+      "nao_alteracao_jornada": true,
+      "estagio_curricular": true,
+      "incentivo_ensino_fundamental_medio": true,
+      "acesso_internet": true,
+      "descontos_mensalidades": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "12"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EMPREGADO_ESTUDANTE",
+    "numero_clausula_original": 28,
+    "titulo_original": "GARANTIAS AO EMPREGADO ESTUDANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "abono_vestibular": true,
+      "nao_alteracao_jornada": true,
+      "estagio_curricular": true,
+      "incentivo_ensino_fundamental_medio": true,
+      "acesso_internet": true,
+      "descontos_mensalidades": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 10
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EMPREGADO_ESTUDANTE",
+    "numero_clausula_original": 28,
+    "titulo_original": "GARANTIAS AO EMPREGADO ESTUDANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "abono_vestibular": true,
+      "nao_alteracao_jornada": true,
+      "estagio_curricular": true,
+      "acesso_internet": true,
+      "descontos_mensalidades": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "9"
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EMPREGADO_ESTUDANTE",
+    "numero_clausula_original": 6,
+    "titulo_original": "GARANTIAS AO EMPREGADO ESTUDANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "abono_ENEM_vestibular": true,
+      "nao_alteracao_jornada": true,
+      "estagio_curricular": true,
+      "acesso_internet": true,
+      "priorizacao_transferencia": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "4-5"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EMPREGADO_ESTUDANTE",
+    "numero_clausula_original": 6,
+    "titulo_original": "GARANTIAS AO(À) EMPREGADO(A) ESTUDANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "abono_enem_vestibular": true,
+      "nao_alteracao_jornada": true,
+      "estagio_curricular": true,
+      "parcerias_instituicoes": true,
+      "acesso_internet": true,
+      "prioridade_transferencia": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 5
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EMPREGADO_ESTUDANTE",
+    "numero_clausula_original": 6,
+    "titulo_original": "GARANTIAS AO EMPREGADO ESTUDANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "abono_ENEM_vestibular": true,
+      "nao_alteracao_jornada": true,
+      "estagio_curricular": true,
+      "priorizacao_transferencia": true,
+      "PIDI": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "5-6"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EMPREGADO_ESTUDANTE",
+    "numero_clausula_original": 6,
+    "titulo_original": "GARANTIAS AO(À) EMPREGADO(A) ESTUDANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "abono_enem_vestibular": "10 dias de antecedência",
+      "nao_alteracao_jornada": true,
+      "estagio_curricular": true,
+      "parcerias_ensino": true,
+      "nao_convocacao_horas_extras": true,
+      "orientacao_federacoes": true,
+      "priorizacao_transferencia": true,
+      "pesquisa_inovacao": true,
+      "incentivo_educacional": true,
+      "acesso_internet_PIDI": true
+    },
+    "pagina_referencia": "18-20"
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EMPREGADO_ESTUDANTE",
+    "numero_clausula_original": 6,
+    "titulo_original": "GARANTIAS AO(À) EMPREGADO(A) ESTUDANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "abono_enem_vestibular": true,
+      "nao_alteracao_jornada": true,
+      "estagio_curricular": true,
+      "parcerias_instituicoes": true,
+      "acesso_internet": true,
+      "prioridade_transferencia": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 4
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "SIN_EMPREGADO_ESTUDANTE",
+    "numero_clausula_original": 6,
+    "titulo_original": "GARANTIAS AO(À) EMPREGADO(A) ESTUDANTE .................................................................................",
+    "status": "MANTIDO",
+    "texto": "Cláusula 07 – LICENÇA ADOÇÃO ....................................................................................................................................................... 12 Cláusula 08 – PROGRAMA CASA PRÓPRIA ........................................................................................................................................ 14 SUBTÍTULO II – DAS GARANTIAS DA MULHER ECETISTA",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "SIN_EMPREGADO_ESTUDANTE",
+    "numero_clausula_original": 9,
+    "titulo_original": "GARANTIAS AO(À) EMPREGADO(A) ESTUDANTE (6ª do DCG 2019/2020)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "redacao": "Os Correios facultarão aos(às) empregados(as) estudantes as seguintes garantias: §1º Abono de ausências para provas do ENEM ou vestibular... §2º Não alteração da jornada de trabalho... §3º Realização de estágio curricular na própria Empresa... §4º Parcerias com instituições de ensino... §5º Não convocação para horas extras em horário escolar... §6º Orientação e apoio às Federações... §7º Priorização de transferência... §8º Política de estímulo à pesquisa e inovação... §9º Adoção de política de incentivo ao desenvolvimento educacional... §10º Fortalecimento das orientações e condições operacionais para acesso à internet...",
+      "historico": "ACT 1998/1999, com evolução até sentença normativa 2019/2020"
+    },
+    "memoria_negociacao": "Cláusula considerada relevantíssima, com forte apelo social; sem implicação econômica substancial",
+    "observacao": null,
+    "pagina_referencia": "78-80"
+  },
+  {
+    "ano_inicio": 2022,
+    "ano_fim": 2023,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EMPREGADO_ESTUDANTE",
+    "numero_clausula_original": 9,
+    "titulo_original": "GARANTIAS AO(À) EMPREGADO(A) ESTUDANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "abono_ENEM_vestibular": "com 10 dias de antecedência",
+      "nao_alteracao_jornada": true,
+      "estagio_curricular": true,
+      "parcerias_ensino": true,
+      "nao_convocacao_horas_extras": true,
+      "incentivo_educacional": true,
+      "priorizacao_transferencia": true,
+      "pesquisa_inovacao": true,
+      "PIDI": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "2"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EMPREGADO_ESTUDANTE",
+    "numero_clausula_original": 9,
+    "titulo_original": "GARANTIAS AO EMPREGADO ESTUDANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "abono_ENEM": true,
+      "flexibilizacao_horario_provas": "4x/semestre",
+      "teletrabalho_curso_exterior": "até 4 anos",
+      "priorizacao_transferencia": true
+    },
+    "memoria_negociacao": null,
+    "observacao": "Incluída flexibilização para provas e curso no exterior.",
+    "pagina_referencia": "2-3"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EMPREGADO_ESTUDANTE",
+    "numero_clausula_original": 9,
+    "titulo_original": "GARANTIAS AO(À) EMPREGADO(A) ESTUDANTE",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "abono_enem_vestibular": true,
+      "nao_alteracao_jornada": true,
+      "estagio_curricular": true,
+      "parcerias_instituicoes": true,
+      "flexibilizacao_provas": true,
+      "flexibilizacao_teletrabalho": true,
+      "dias_defesa_tcc": 2,
+      "acesso_internet": true
+    },
+    "observacao": "Cláusula tem 13 parágrafos.",
+    "pagina_referencia": 4
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SIN_EMPREGADO_ESTUDANTE",
+    "numero_clausula_original": 8,
+    "titulo_original": "GARANTIAS AO(À) EMPREGADO(A) ESTUDANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "abono_enem_vestibular": true,
+      "nao_alteracao_jornada": true,
+      "estagio_curricular": true,
+      "parcerias_instituicoes": true,
+      "flexibilizacao_provas": true,
+      "flexibilizacao_teletrabalho": true,
+      "dias_defesa_tcc": 2
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 5
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "SIN_EMPREGADO_ESTUDANTE",
+    "numero_clausula_original": 8,
+    "titulo_original": "GARANTIAS AO(À) EMPREGADO(A) ESTUDANTE",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "abono_enem_vestibular": true,
+      "nao_alteracao_jornada": true,
+      "estagio_curricular": true,
+      "flexibilizacao_provas": "4x/semestre",
+      "flexibilizacao_teletrabalho": "até 4 anos",
+      "dias_defesa_tcc": 2,
+      "prioridade_transferencia": true,
+      "PIDI": true
+    },
+    "pagina_referencia": "25-26"
+  }
+]

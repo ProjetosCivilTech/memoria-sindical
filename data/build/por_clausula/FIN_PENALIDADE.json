@@ -1,0 +1,644 @@
+[
+  {
+    "ano_inicio": 1990,
+    "ano_fim": 1991,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PENALIDADE",
+    "numero_clausula_original": 30,
+    "titulo_original": "PENALIDADES",
+    "status": "DEFERIDO",
+    "valor_atual": 20,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 20,
+      "base_calculo": "maior valor de referência (MVR)"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "10"
+  },
+  {
+    "ano_inicio": 1992,
+    "ano_fim": 1992,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PENALIDADE",
+    "numero_clausula_original": 33,
+    "titulo_original": "PENALIDADES",
+    "status": "DEFERIDO",
+    "valor_atual": 20,
+    "unidade": "%",
+    "detalhes": {
+      "percentual": 20,
+      "base_calculo": "dia de serviço do empregado prejudicado"
+    },
+    "pagina_referencia": "8"
+  },
+  {
+    "ano_inicio": 1993,
+    "ano_fim": 1994,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PENALIDADE",
+    "numero_clausula_original": 38,
+    "titulo_original": "PENALIDADES",
+    "status": "DEFERIDO",
+    "valor_atual": 20,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 20
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "19"
+  },
+  {
+    "ano_inicio": 1994,
+    "ano_fim": 1995,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PENALIDADE",
+    "numero_clausula_original": 33,
+    "titulo_original": "PENALIDADES",
+    "status": "DEFERIDO",
+    "valor_atual": 20,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 20,
+      "base_calculo": "dia de serviço do empregado prejudicado"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "10"
+  },
+  {
+    "ano_inicio": 1995,
+    "ano_fim": 1996,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PENALIDADE",
+    "numero_clausula_original": 34,
+    "titulo_original": "PENALIDADE",
+    "status": "DEFERIDO",
+    "valor_atual": 20,
+    "unidade": "%",
+    "detalhes": {
+      "base_calculo": "dia de serviço"
+    }
+  },
+  {
+    "ano_inicio": 1997,
+    "ano_fim": 1998,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PENALIDADE",
+    "numero_clausula_original": 34,
+    "titulo_original": "PENALIDADE",
+    "status": "DEFERIDO",
+    "valor_atual": 20,
+    "unidade": "%",
+    "detalhes": {
+      "base": "dia de serviço"
+    }
+  },
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PENALIDADE",
+    "numero_clausula_original": 36,
+    "titulo_original": "PENALIDADE",
+    "status": "DEFERIDO",
+    "valor_atual": 20,
+    "unidade": "%"
+  },
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PENALIDADE",
+    "numero_clausula_original": 37,
+    "titulo_original": "PENALIDADE",
+    "status": "DEFERIDO",
+    "valor_atual": 20,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 20,
+      "base_calculo": "dia de serviço do empregado prejudicado"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "12"
+  },
+  {
+    "ano_inicio": 2000,
+    "ano_fim": 2001,
+    "tipo": "DC",
+    "id_canonico": "FIN_PENALIDADE",
+    "numero_clausula_original": 35,
+    "titulo_original": "PENALIDADE",
+    "status": "DEFERIDO",
+    "valor_anterior": 20,
+    "valor_atual": 20,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 20,
+      "base_calculo": "dia de serviço do empregado prejudicado"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "Cláusula incontroversa.",
+    "pagina_referencia": "8"
+  },
+  {
+    "ano_inicio": 2001,
+    "ano_fim": 2002,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PENALIDADE",
+    "numero_clausula_original": 32,
+    "titulo_original": "PENALIDADE",
+    "status": "DEFERIDO",
+    "valor_anterior": 20,
+    "valor_atual": 20,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 20,
+      "base_calculo": "dia de serviço do empregado prejudicado"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "9"
+  },
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PENALIDADE",
+    "numero_clausula_original": 45,
+    "titulo_original": "PENALIDADE",
+    "status": "DEFERIDO",
+    "valor_anterior": 20,
+    "valor_atual": 20,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 20,
+      "base_calculo": "dia de serviço do empregado prejudicado"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "22"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PENALIDADE",
+    "numero_clausula_original": 45,
+    "titulo_original": "PENALIDADE",
+    "status": "DEFERIDO",
+    "valor_anterior": 20,
+    "valor_atual": 20,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 20,
+      "base_calculo": "dia de serviço do empregado prejudicado"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "22"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PENALIDADE",
+    "numero_clausula_original": 42,
+    "titulo_original": "PENALIDADE",
+    "status": "DEFERIDO",
+    "valor_anterior": 20,
+    "valor_atual": 20,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 20,
+      "base_calculo": "dia de serviço do empregado prejudicado"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "14"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PENALIDADE",
+    "numero_clausula_original": 43,
+    "titulo_original": "PENALIDADE",
+    "status": "DEFERIDO",
+    "valor_atual": 20,
+    "unidade": "%"
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PENALIDADE",
+    "numero_clausula_original": 43,
+    "titulo_original": "PENALIDADE",
+    "status": "DEFERIDO",
+    "valor_anterior": 20,
+    "valor_atual": 20,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 20,
+      "base_calculo": "dia de serviço do empregado prejudicado"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "18"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PENALIDADE",
+    "numero_clausula_original": 43,
+    "titulo_original": "PENALIDADE",
+    "status": "DEFERIDO",
+    "valor_anterior": 20,
+    "valor_atual": 20,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 20,
+      "base_calculo": "dia de serviço do empregado prejudicado"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 14
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PENALIDADE",
+    "numero_clausula_original": 44,
+    "titulo_original": "PENALIDADE",
+    "status": "DEFERIDO",
+    "valor_atual": 20,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 20,
+      "base_calculo": "dia de serviço"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "13"
+  },
+  {
+    "ano_inicio": 2011,
+    "ano_fim": 2012,
+    "tipo": "DCG",
+    "id_canonico": "FIN_PENALIDADE",
+    "numero_clausula_original": 44,
+    "titulo_original": "PENALIDADE",
+    "status": "DEFERIDO",
+    "valor_anterior": 20,
+    "valor_atual": 20,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 20,
+      "base_calculo": "dia de serviço do empregado prejudicado"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 61
+  },
+  {
+    "ano_inicio": 2012,
+    "ano_fim": 2013,
+    "tipo": "DCG",
+    "id_canonico": "FIN_PENALIDADE",
+    "numero_clausula_original": 44,
+    "titulo_original": "PENALIDADE",
+    "status": "DEFERIDO",
+    "valor_anterior": 20,
+    "valor_atual": 20,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 20,
+      "base_calculo": "dia de serviço do empregado prejudicado"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 61
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PENALIDADE",
+    "numero_clausula_original": 44,
+    "titulo_original": "PENALIDADE",
+    "status": "MANTIDO",
+    "texto": "Descumprimento de obrigação de fazer gera multa de 20% do dia de serviço do empregado prejudicado.",
+    "observacao": "Idêntica ao DC 2013-2014.",
+    "pagina_referencia": 12
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "FIN_PENALIDADE",
+    "numero_clausula_original": 44,
+    "titulo_original": "PENALIDADE",
+    "status": "MANTIDO",
+    "texto": "Descumprimento de obrigação de fazer gera multa de 20% do dia de serviço do empregado prejudicado.",
+    "observacao": "Idêntica ao DC 2012-2013.",
+    "pagina_referencia": 93
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PENALIDADE",
+    "numero_clausula_original": 72,
+    "titulo_original": "PENALIDADE",
+    "status": "DEFERIDO",
+    "valor_atual": 20,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 20
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "30"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PENALIDADE",
+    "numero_clausula_original": 73,
+    "titulo_original": "PENALIDADE",
+    "status": "DEFERIDO",
+    "valor_anterior": 20,
+    "valor_atual": 20,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 20,
+      "base_calculo": "dia de serviço do empregado prejudicado"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 39
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PENALIDADE",
+    "numero_clausula_original": 74,
+    "titulo_original": "PENALIDADE",
+    "status": "DEFERIDO",
+    "valor_atual": 20,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 20
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "41"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PENALIDADE",
+    "numero_clausula_original": 72,
+    "titulo_original": "PENALIDADE",
+    "status": "DEFERIDO",
+    "valor_atual": 20,
+    "unidade": "%",
+    "detalhes": {
+      "percentual": 20,
+      "base_calculo": "dia de serviço do empregado prejudicado"
+    },
+    "pagina_referencia": 93
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PENALIDADE",
+    "numero_clausula_original": 72,
+    "titulo_original": "PENALIDADE",
+    "status": "DEFERIDO",
+    "valor_anterior": 20,
+    "valor_atual": 20,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 20,
+      "base_calculo": "dia de serviço do empregado prejudicado"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 38
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "FIN_PENALIDADE",
+    "numero_clausula_original": 72,
+    "titulo_original": "PENALIDADE",
+    "status": "MANTIDO",
+    "texto": "ficará a parte infratora obrigada ao pagamento, em favor do(a) empregado(a) prejudicado(a), de multa equivalente a 20% (vinte por cento) do dia de serviço deste(a). 86 --- PAGINA 87 --CLÁUSULA 73 Cláusula 73 – PROCESSAMENTO DE CONSIGNAÇÕES EM FOLHA DE PAGAMENTO – As consignações em folha de pagamento são os descontos mensais processados nos contracheques dos(as) empregados(as) da Empresa, e se classificam em obrigatórias e voluntárias. Considera-se, para fins desta Cláusula: I – Consignado: empregado(a) ativo(a) que por contrato tenha estabelecido com pessoa jurídica relação jurídica que autorize o desconto de valores mediante consignação em folha de pagamento; II – Consignação Obrigatória: desconto incidente sobre a remuneração, efetuado por força de lei ou mandado judicial; III – Consignação Voluntária: desconto incidente sobre a remuneração, mediante autorização prévia e formal do consignado; e, IV – Margem Consignável: para efeito da consignação voluntária, é a parcela limitada a 30% da remuneração do empregado, considerados os proventos fixos. a) São consignações obrigatórias: I – contribuição para a Previdência Social; II – pensão alimentícia judicial; III – imposto sobre rendimentos do trabalho; IV – decorrente de decisão judicial ou administrativa da Empresa; V – mensalidade e contribuição em favor de entidades sindicais; VI – compartilhamento para serviço ou Plano CorreiosSaúde; VII – outros descontos obrigatórios instituídos por lei ou decorrentes de contrato de trabalho. VIII – Contribuição ou mensalidade para plano de previdência complementar. b) São consignações voluntárias, na seguinte ordem de prioridade: I – prestação referente a financiamento habitacional concedidos por entidades bancárias, caixas econômicas ou entidades integrantes do Sistema Financeiro da Habitação; II – pensão alimentícia voluntária, consignada em favor de dependente indicado no assentamento funcional do(a) empregado(a), contendo a indicação do valor ou percentual de desconto sobre a remuneração e o valor do benefício de pensão; III – prestação referente a empréstimo concedido por entidade aberta ou fechada de previdência complementar, ou, por cooperativas de crédito constituídas, na forma da lei, com a finalidade de prestar serviços financeiros a seus cooperados; IV – prestação referente a empréstimo concedido por entidades bancárias, caixas econômicas ou sociedade seguradora autorizada a instituir planos de previdência complementar aberta, em conformidade com o dispos",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2020,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "FIN_PENALIDADE",
+    "numero_clausula_original": 28,
+    "titulo_original": "PENALIDADE",
+    "status": "MANTIDO",
+    "texto": "partes, ficará a parte infratora obrigada ao pagamento, em favor do(a) empregado(a) prejudicado(a), de multa equivalente a 20% (vinte por cento) do dia de serviço deste(a). OPERACIONALIZAÇÃO DA CLÁUSULA Texto autoexplicativo. As solicitações de informações referentes a esta cláusula devem ser encaminhadas ao Departamento de Relacionamento Organizacional – DEREO/DIGEP – dereo-sugep-digep@correios.com.br. 38 --- PAGINA 39 --CLÁUSULA 29",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "FIN_PENALIDADE",
+    "numero_clausula_original": 34,
+    "titulo_original": "PENALIDADE (72ª do DCG 2019/2020)",
+    "status": "DEFERIDO",
+    "valor_atual": 20,
+    "unidade": "%",
+    "detalhes": {
+      "redacao": "Descumprida qualquer obrigação desta sentença normativa, por qualquer das partes, ficará a parte infratora obrigada ao pagamento, em favor do(a) empregado(a) prejudicado(a), de multa equivalente a 20% (vinte por cento) do dia de serviço deste(a)",
+      "percentual": 20
+    },
+    "memoria_negociacao": "Manutenção anuída pelas entidades sindicais",
+    "observacao": null,
+    "pagina_referencia": "67"
+  },
+  {
+    "ano_inicio": 2022,
+    "ano_fim": 2023,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PENALIDADE",
+    "numero_clausula_original": 36,
+    "titulo_original": "PENALIDADE",
+    "status": "DEFERIDO",
+    "valor_atual": 20,
+    "unidade": "%",
+    "detalhes": {
+      "multa": "20% do dia de serviço"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PENALIDADE",
+    "numero_clausula_original": 71,
+    "titulo_original": "PENALIDADE",
+    "status": "DEFERIDO",
+    "valor_atual": 20,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 20
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "14"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PENALIDADE",
+    "numero_clausula_original": 72,
+    "titulo_original": "PENALIDADE",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": 20,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 20,
+      "base_calculo": "dia de serviço do empregado prejudicado"
+    },
+    "observacao": null,
+    "pagina_referencia": 25
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "FIN_PENALIDADE",
+    "numero_clausula_original": 62,
+    "titulo_original": "PENALIDADE",
+    "status": "DEFERIDO",
+    "valor_anterior": 20,
+    "valor_atual": 20,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 20,
+      "base_calculo": "dia de serviço do empregado prejudicado",
+      "precedente_normativo": "PN 73/TST"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Multa diária correspondente à remuneração de um dia",
+      "pedido_findect": "Manutenção da cláusula",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "PN 73/TST",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 25
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "FIN_PENALIDADE",
+    "numero_clausula_original": 62,
+    "titulo_original": "PENALIDADE",
+    "status": "DEFERIDO",
+    "valor_atual": 20,
+    "unidade": "%",
+    "detalhes": {
+      "percentual": 20,
+      "base_calculo": "dia de serviço do empregado prejudicado",
+      "precedente_normativo": "PN 73/TST"
+    },
+    "pagina_referencia": "73"
+  }
+]

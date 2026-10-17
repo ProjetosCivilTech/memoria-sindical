@@ -1,0 +1,26 @@
+[
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "SOC_VALE_CULTURA",
+    "numero_clausula_original": 63,
+    "titulo_original": "VALE-CULTURA",
+    "status": "DEFERIDO",
+    "texto": "A ECT fornecerá aos seus empregados o vale-cultura conforme disposto no Decreto nº 8.084, de 26 de agosto de 2013.",
+    "observacao": "Idêntica ao DC 2013-2014.",
+    "pagina_referencia": 18
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "SOC_VALE_CULTURA",
+    "numero_clausula_original": 63,
+    "titulo_original": "VALE-CULTURA",
+    "status": "DEFERIDO",
+    "texto": "A ECT fornecerá aos seus empregados o vale-cultura, conforme disposto no Decreto nº 8.084, de 26 de agosto de 2013.",
+    "observacao": "NOVA cláusula em 2013.",
+    "pagina_referencia": 57
+  }
+]

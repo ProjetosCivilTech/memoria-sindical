@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+data/build/all.json     # grande; gere no CI
+data/build/clausulas.csv

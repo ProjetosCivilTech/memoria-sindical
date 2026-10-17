@@ -1,0 +1,21 @@
+[
+  {
+    "ano_inicio": 1992,
+    "ano_fim": 1992,
+    "tipo": "ACT",
+    "id_canonico": "FIN_QUITACAO_DIFERENCAS",
+    "numero_clausula_original": 29,
+    "titulo_original": "QUITAÇÃO DE DIFERENÇAS DE PAGAMENTO (HORAS EXTRAS E ADICIONAL NOTURNO)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "base_legal": "TST-DC-055/89.7",
+      "percentuais": {
+        "horas_extras": "10% sobre as horas extras (total 60%)",
+        "adicional_noturno": "25% (total 45%)"
+      },
+      "pagamento": "março de 1992",
+      "renuncia_recursos": true
+    },
+    "pagina_referencia": "7-8"
+  }
+]

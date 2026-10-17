@@ -1,0 +1,493 @@
+[
+  {
+    "ano_inicio": 1991,
+    "ano_fim": 1991,
+    "tipo": "DC",
+    "id_canonico": "FIN_ADICIONAL_NOTURNO",
+    "numero_clausula_original": 13,
+    "titulo_original": "ADICIONAL NOTURNO",
+    "status": "DEFERIDO",
+    "valor_atual": 45,
+    "unidade": "%",
+    "detalhes": {
+      "percentual": 45,
+      "base_calculo": "hora diurna sobre salário-base",
+      "horario": "22h às 05h"
+    },
+    "pagina_referencia": "3"
+  },
+  {
+    "ano_inicio": 1992,
+    "ano_fim": 1992,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ADICIONAL_NOTURNO",
+    "numero_clausula_original": 20,
+    "titulo_original": "ADICIONAL NOTURNO",
+    "status": "DEFERIDO",
+    "valor_atual": 45,
+    "unidade": "%",
+    "detalhes": {
+      "percentual": 45,
+      "base_calculo": "hora diurna sobre salário-base",
+      "horario": "22h às 05h"
+    },
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 1993,
+    "ano_fim": 1994,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ADICIONAL_NOTURNO",
+    "numero_clausula_original": 20,
+    "titulo_original": "ADICIONAL NOTURNO",
+    "status": "DEFERIDO",
+    "valor_atual": 50,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 50,
+      "horario": "22h às 5h"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "12"
+  },
+  {
+    "ano_inicio": 1994,
+    "ano_fim": 1995,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ADICIONAL_NOTURNO",
+    "numero_clausula_original": 4,
+    "titulo_original": "ADICIONAL NOTURNO",
+    "status": "DEFERIDO",
+    "valor_atual": 60,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 60,
+      "horario": "22h às 5h"
+    },
+    "memoria_negociacao": null,
+    "observacao": "Horário noturno de 22h às 5h (diferente das versões posteriores, 20h às 5h).",
+    "pagina_referencia": "2"
+  },
+  {
+    "ano_inicio": 1997,
+    "ano_fim": 1998,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ADICIONAL_NOTURNO",
+    "numero_clausula_original": 5,
+    "titulo_original": "ADICIONAL NOTURNO",
+    "status": "DEFERIDO",
+    "valor_atual": 60,
+    "unidade": "%",
+    "detalhes": {
+      "horario": "20h às 5h"
+    }
+  },
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ADICIONAL_NOTURNO",
+    "numero_clausula_original": 5,
+    "titulo_original": "ADICIONAL NOTURNO",
+    "status": "DEFERIDO",
+    "valor_atual": 60,
+    "unidade": "%",
+    "detalhes": {
+      "horario": "20h às 5h"
+    }
+  },
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ADICIONAL_NOTURNO",
+    "numero_clausula_original": 5,
+    "titulo_original": "ADICIONAL NOTURNO",
+    "status": "DEFERIDO",
+    "valor_atual": 60,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 60,
+      "horario": "20h às 5h"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "3"
+  },
+  {
+    "ano_inicio": 2000,
+    "ano_fim": 2001,
+    "tipo": "DC",
+    "id_canonico": "FIN_ADICIONAL_NOTURNO",
+    "numero_clausula_original": 5,
+    "titulo_original": "ADICIONAL NOTURNO",
+    "status": "DEFERIDO",
+    "valor_anterior": 60,
+    "valor_atual": 60,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 60,
+      "horario": "20h às 5h"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "Cláusula incontroversa.",
+    "pagina_referencia": "3"
+  },
+  {
+    "ano_inicio": 2001,
+    "ano_fim": 2002,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ADICIONAL_NOTURNO",
+    "numero_clausula_original": 5,
+    "titulo_original": "ADICIONAL NOTURNO",
+    "status": "DEFERIDO",
+    "valor_anterior": 60,
+    "valor_atual": 60,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 60,
+      "horario": "20h às 5h"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "2-3"
+  },
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ADICIONAL_NOTURNO",
+    "numero_clausula_original": 5,
+    "titulo_original": "ADICIONAL NOTURNO",
+    "status": "DEFERIDO",
+    "valor_anterior": 60,
+    "valor_atual": 60,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 60,
+      "horario": "20h às 5h"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "2"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ADICIONAL_NOTURNO",
+    "numero_clausula_original": 5,
+    "titulo_original": "ADICIONAL NOTURNO",
+    "status": "DEFERIDO",
+    "valor_anterior": 60,
+    "valor_atual": 60,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 60,
+      "horario": "20h às 5h"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "3"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ADICIONAL_NOTURNO",
+    "numero_clausula_original": 5,
+    "titulo_original": "ADICIONAL NOTURNO",
+    "status": "DEFERIDO",
+    "valor_anterior": 60,
+    "valor_atual": 60,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 60,
+      "horario": "20h às 5h"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "3"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ADICIONAL_NOTURNO",
+    "numero_clausula_original": 5,
+    "titulo_original": "ADICIONAL NOTURNO",
+    "status": "DEFERIDO",
+    "valor_atual": 60,
+    "unidade": "%",
+    "detalhes": {
+      "horario": "20h às 5h",
+      "hora_reduzida": "52min30s",
+      "manutencao_licenca_medica": true
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ADICIONAL_NOTURNO",
+    "numero_clausula_original": 5,
+    "titulo_original": "ADICIONAL NOTURNO",
+    "status": "DEFERIDO",
+    "valor_anterior": 60,
+    "valor_atual": 60,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 60,
+      "horario": "20h às 5h",
+      "hora_reduzida": "52min30s",
+      "suspensao_pagamento": "não haverá nos casos de licença médica até 15 dias, treinamento, viagem a serviço ou folgas compensatórias"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "4"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ADICIONAL_NOTURNO",
+    "numero_clausula_original": 5,
+    "titulo_original": "ADICIONAL NOTURNO",
+    "status": "DEFERIDO",
+    "valor_anterior": 60,
+    "valor_atual": 60,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 60,
+      "horario": "20h às 5h",
+      "hora_reduzida": "52min30s"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 3
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ADICIONAL_NOTURNO",
+    "numero_clausula_original": 5,
+    "titulo_original": "ADICIONAL NOTURNO",
+    "status": "DEFERIDO",
+    "valor_atual": 60,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 60,
+      "horario": "20h às 6h",
+      "hora_reduzida": "52min30s"
+    },
+    "memoria_negociacao": null,
+    "observacao": "Horário estendido para 6h (era 5h).",
+    "pagina_referencia": "3"
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ADICIONAL_NOTURNO",
+    "numero_clausula_original": 5,
+    "titulo_original": "ADICIONAL NOTURNO",
+    "status": "MANTIDO",
+    "texto": "60% sobre hora diurna em relação ao salário-base, já incluído adicional legal. Horário noturno: 20h-6h, hora reduzida de 52min30s. Sem suspensão em licença médica (15 primeiros dias), treinamento, viagem ou folgas compensatórias.",
+    "observacao": "Idêntica ao DC 2013-2014.",
+    "pagina_referencia": 2
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "FIN_ADICIONAL_NOTURNO",
+    "numero_clausula_original": 5,
+    "titulo_original": "ADICIONAL NOTURNO",
+    "status": "MANTIDO",
+    "texto": "Acréscimo de 60% sobre o valor da hora diurna em relação ao salário-base, já incluído o adicional legal. Horário noturno: 20h às 6h, com hora reduzida de 52min30s. Não há suspensão do adicional em licença médica (primeiros 15 dias), treinamento, viagem a serviço ou folgas compensatórias.",
+    "observacao": "Idêntica ao DC 2012-2013.",
+    "pagina_referencia": 74
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ADICIONAL_NOTURNO",
+    "numero_clausula_original": 55,
+    "titulo_original": "ADICIONAL NOTURNO",
+    "status": "DEFERIDO",
+    "valor_atual": 60,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 60,
+      "horario": "20h às 6h",
+      "hora_reduzida": "52min30s"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "25"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ADICIONAL_NOTURNO",
+    "numero_clausula_original": 55,
+    "titulo_original": "ADICIONAL NOTURNO",
+    "status": "DEFERIDO",
+    "valor_anterior": 60,
+    "valor_atual": 60,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 60,
+      "horario": "20h às 6h",
+      "hora_reduzida": "52min30s",
+      "manutencao_licenca_medica": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 32
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ADICIONAL_NOTURNO",
+    "numero_clausula_original": 55,
+    "titulo_original": "ADICIONAL NOTURNO",
+    "status": "DEFERIDO",
+    "valor_atual": 60,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 60,
+      "horario": "20h às 6h"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "34"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ADICIONAL_NOTURNO",
+    "numero_clausula_original": 55,
+    "titulo_original": "ADICIONAL NOTURNO",
+    "status": "DEFERIDO",
+    "valor_atual": 60,
+    "unidade": "%",
+    "detalhes": {
+      "percentual": 60,
+      "horario": "20h às 6h",
+      "hora_reduzida": "52min30s",
+      "manutencao_licenca_medica": true,
+      "manutencao_treinamento_viagem_folgas": true
+    },
+    "pagina_referencia": "81-82"
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "FIN_ADICIONAL_NOTURNO",
+    "numero_clausula_original": 55,
+    "titulo_original": "ADICIONAL NOTURNO",
+    "status": "DEFERIDO",
+    "valor_anterior": 60,
+    "valor_atual": 60,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 60,
+      "horario": "20h às 6h",
+      "hora_reduzida": "52min30s",
+      "manutencao_licenca_medica": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 32
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "FIN_ADICIONAL_NOTURNO",
+    "numero_clausula_original": 55,
+    "titulo_original": "ADICIONAL NOTURNO",
+    "status": "MANTIDO",
+    "texto": "os Correios pagarão, a título de adicional noturno, acréscimo de 60% (sessenta por cento) sobre o valor da hora diurna em relação ao salário-base, já incluído o respectivo valor correspondente ao adicional legal. §1º Para os fins desta Cláusula, considera-se horário noturno o prestado entre 20 (vinte) horas de um dia e 6 (seis) horas do dia seguinte, aplicando-se também a regra de hora reduzida de 52 (cinquenta e dois) minutos e 30 (trinta) segundos entre esse horário. §2º Não haverá a suspensão do pagamento do adicional noturno, para o(a) empregado(a) com jornada normal noturna ou mista, nos casos de não comparecimento ao trabalho pelos motivos de licença médica até os primeiros 15 (quinze) dias, treinamento, viagem a serviço ou folgas compensatórias resultantes de trabalho em dias de repouso remunerado ou feriado. 68 --- PAGINA 69 --CLÁUSULA 56",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "FIN_ADICIONAL_NOTURNO",
+    "numero_clausula_original": 55,
+    "titulo_original": "ADICIONAL NOTURNO",
+    "status": "INDEFERIDO",
+    "detalhes": {
+      "motivo": "Cláusula com encargo financeiro significativo, não preexistente"
+    },
+    "memoria_negociacao": "SDC indeferiu",
+    "observacao": null,
+    "pagina_referencia": "113"
+  }
+]

@@ -1,0 +1,541 @@
+[
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_MULHER",
+    "numero_clausula_original": 23,
+    "titulo_original": "GARANTIAS À MULHER ECETISTA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "transparencia_direitos": true,
+      "mudanca_provisoria_tarefa": true,
+      "banheiro_feminino": "edificações >120m²"
+    }
+  },
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_MULHER",
+    "numero_clausula_original": 24,
+    "titulo_original": "GARANTIAS À MULHER ECETISTA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "transparencia_direitos": true,
+      "mudanca_provisoria_tarefa": true,
+      "banheiro_feminino": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "9"
+  },
+  {
+    "ano_inicio": 2000,
+    "ano_fim": 2001,
+    "tipo": "DC",
+    "id_canonico": "SOC_SAUDE_MULHER",
+    "numero_clausula_original": 19,
+    "titulo_original": "GARANTIAS À MULHER ECETISTA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "transparencia_direitos": true,
+      "mudanca_provisoria_tarefa": true,
+      "mudanca_automatica_7_mes": true,
+      "retorno_distribuicao_pos_licenca": true,
+      "lotacao_proxima_residencia": true,
+      "banheiro_feminino": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "Cláusula incontroversa. Mudança automática a partir do 7º mês de gestação.",
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 2001,
+    "ano_fim": 2002,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_MULHER",
+    "numero_clausula_original": 19,
+    "titulo_original": "GARANTIAS À MULHER ECETISTA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "mudanca_provisoria_tarefa": true,
+      "mudanca_automatica_6_mes": true,
+      "retorno_distribuicao_pos_licenca": true,
+      "lotacao_proxima_residencia": true,
+      "banheiro_feminino": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "Mudança automática a partir do 6º mês de gestação (contra 5º em versões posteriores).",
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_MULHER",
+    "numero_clausula_original": 27,
+    "titulo_original": "GARANTIAS À MULHER ECETISTA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "mudanca_provisoria_tarefa": true,
+      "mudanca_automatica_5_mes": true,
+      "licenca_gestante": "28 dias antes do parto",
+      "permanencia_2_meses_atividades_internas": true,
+      "conciliacao_ferias": true,
+      "pagamento_salario_maternidade": true,
+      "banheiro_feminino_masculino": true,
+      "uniforme_gestante": true,
+      "direito_igualdade_motorizada": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "14"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_MULHER",
+    "numero_clausula_original": 27,
+    "titulo_original": "GARANTIAS À MULHER ECETISTA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "mudanca_provisoria_tarefa": true,
+      "mudanca_automatica_5_mes": true,
+      "licenca_gestante": "28 dias antes do parto",
+      "permanencia_2_meses_atividades_internas": true,
+      "conciliacao_ferias": true,
+      "pagamento_salario_maternidade": true,
+      "banheiro_feminino": true,
+      "direito_igualdade_motorizada": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "12-13"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_MULHER",
+    "numero_clausula_original": 27,
+    "titulo_original": "GARANTIAS À MULHER ECETISTA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "mudanca_provisoria_tarefa": true,
+      "mudanca_automatica_5_mes": true,
+      "licenca_maternidade": "28 dias antes do parto",
+      "permanencia_2_meses_atividades_internas": true,
+      "conciliacao_ferias": true,
+      "pagamento_salario_maternidade": true,
+      "banheiro_feminino": true,
+      "direito_igualdade_motorizada": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "9-10"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_MULHER",
+    "numero_clausula_original": 27,
+    "titulo_original": "GARANTIAS À MULHER ECETISTA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "mudanca_provisoria_tarefa": true,
+      "mudanca_automatica_5_mes": true,
+      "licenca_gestante_28_dias": true,
+      "permanencia_2_meses": true,
+      "banheiro_feminino": "edificações >120m²",
+      "igualdade_funcao_motorizada": true
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_MULHER",
+    "numero_clausula_original": 27,
+    "titulo_original": "GARANTIAS À MULHER ECETISTA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "mudanca_provisoria_tarefa": true,
+      "mudanca_automatica_5_mes": true,
+      "licenca_maternidade": "28 dias antes do parto",
+      "permanencia_2_meses_atividades_internas": true,
+      "conciliacao_ferias": true,
+      "pagamento_salario_maternidade": true,
+      "estabilidade_90_dias": true,
+      "banheiro_feminino": true,
+      "direito_igualdade_motorizada": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "11-12"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_MULHER",
+    "numero_clausula_original": 27,
+    "titulo_original": "GARANTIAS À MULHER ECETISTA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "mudanca_provisoria_tarefa": true,
+      "mudanca_automatica_5_mes": true,
+      "licenca_maternidade": "28 dias antes do parto",
+      "permanencia_2_meses_atividades_internas": true,
+      "conciliacao_ferias": true,
+      "estabilidade_90_dias": true,
+      "banheiro_feminino": true,
+      "direito_igualdade_motorizada": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 9
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_MULHER",
+    "numero_clausula_original": 27,
+    "titulo_original": "GARANTIAS À MULHER ECETISTA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "mudanca_automatica_5_mes": true,
+      "AAT_gestante": "adicional de tratamento",
+      "licenca_maternidade": "28 dias antes do parto",
+      "permanencia_2_meses": true,
+      "estabilidade_90_dias": true,
+      "banheiro_feminino": true
+    },
+    "memoria_negociacao": null,
+    "observacao": "Inclui AAT (Adicional de Atividade de Tratamento) para gestantes.",
+    "pagina_referencia": "9"
+  },
+  {
+    "ano_inicio": 2012,
+    "ano_fim": 2013,
+    "tipo": "DCG",
+    "id_canonico": "SOC_SAUDE_MULHER",
+    "numero_clausula_original": 27,
+    "titulo_original": "GARANTIAS À MULHER ECETISTA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "mudanca_provisoria_tarefa": true,
+      "mudanca_automatica_5_mes": true,
+      "permanencia_2_meses_atividades_internas": true,
+      "estabilidade_90_dias": true,
+      "banheiro_feminino": true,
+      "direito_igualdade_motorizada": true,
+      "manutencao_AADC_durante_prorrogacao": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção com acréscimo do AADC durante prorrogação",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 53
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_MULHER",
+    "numero_clausula_original": 14,
+    "titulo_original": "SAÚDE DA MULHER",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "março": "saúde da mulher",
+      "outubro": "combate ao câncer de mama",
+      "mudanca_provisoria_tarefa": true,
+      "mudanca_automatica_5_mes": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "8"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_MULHER",
+    "numero_clausula_original": 14,
+    "titulo_original": "SAÚDE DA MULHER",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "acoes_marco_outubro": true,
+      "mudanca_provisoria_tarefa": true,
+      "mudanca_automatica_5_mes": true,
+      "publico_alvo": [
+        "carteiro",
+        "motorista",
+        "operadora de triagem e transbordo"
+      ]
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 9
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_MULHER",
+    "numero_clausula_original": 14,
+    "titulo_original": "SAÚDE DA MULHER",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "março": "saúde da mulher",
+      "outubro": "combate ao câncer de mama",
+      "mudanca_automatica_5_mes": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "10"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_MULHER",
+    "numero_clausula_original": 14,
+    "titulo_original": "SAÚDE DA MULHER",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "marco": "saúde da mulher",
+      "outubro": "câncer de mama",
+      "mudanca_provisoria_tarefa": true,
+      "mudanca_automatica_5_mes": [
+        "carteiro",
+        "motorista",
+        "operadora de triagem e transbordo"
+      ],
+      "participacao_dependentes": true
+    },
+    "pagina_referencia": "26-27"
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_MULHER",
+    "numero_clausula_original": 14,
+    "titulo_original": "SAÚDE DA MULHER",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "acoes_marco_outubro": true,
+      "mudanca_provisoria_tarefa": true,
+      "mudanca_automatica_5_mes": true,
+      "publico_alvo": [
+        "carteiro",
+        "motorista",
+        "operadora de triagem e transbordo"
+      ]
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 8
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "SOC_SAUDE_MULHER",
+    "numero_clausula_original": 14,
+    "titulo_original": "SAÚDE DA MULHER",
+    "status": "MANTIDO",
+    "texto": "§1º No mês de março, as ações terão enfoque na saúde da mulher e, no mês de outubro, orientações com vistas à conscientização do combate ao câncer de mama. §2º As ações de comunicação serão realizadas corporativamente, e aquelas que envolvam workshops, palestras e seminários, ocorrerão no Correios Sede e Superintendências Estaduais. §3º Os Correios garantirão a mudança provisória de tarefa às empregadas, mediante prescrição expressa de médico especialista, devidamente homologada pelo Serviço Médico dos Correios, quando a atividade desempenhada coloque em risco seu estado de gravidez. I – Às empregadas que ocupem os cargos/atividades de carteiro, motorista e operadora de triagem e transbordo, os Correios garantirão, sem prejuízo do disposto no §3º, a mudança provisória automática, a partir do 5º (quinto) mês de gestação, para serviços internos que preservem o estado de saúde da mãe e da criança. §4º As mulheres/adolescentes/meninas dependentes poderão participar de quaisquer atividades de prevenção e promoção a saúde da mulher organizadas pelos Correios. Observações: As alterações ocorridas foram objeto de pleitos da Empresa, sendo acatadas pelo TST em julgamento de Dissídio Coletivo de Greve. 18 --- PAGINA 19 --CLÁUSULA 15 Cláusula 15 – PROMOÇÃO DA EQUIDADE DE GÊNERO E ENFRENTAMENTO AO SEXISMO – Os Correios promoverão atividades e ações com objetivo de contribuir para equidade de gênero e o enfrentamento ao sexismo, em sintonia com as diretrizes do Governo Federal. §1º Os princípios de empoderamento das mulheres serão orientadores no desenvolvimento de plano de ação de gênero para medir e acompanhar progresso na carreira das mulheres ecetistas. §2° Os programas de desenvolvimento de lideranças dos Correios, contemplarão recorte de gênero, objetivando desenvolvimento especifico para as mulheres, considerando suas especificidades. §3º Os Correios desenvolverão ações de sensibilização dos homens empregados da empresa, para a eliminação de todas as formas de discriminação contra as mulheres empregadas. §4º Será constituído Grupo de Trabalho paritário, contendo 7 (sete) representantes dos Correios e 7 (sete) representantes das Federações dos Trabalhadores, legalmente constituídas, para tratar do assunto Equidade de Gênero e Enfrentamento ao Sexismo nos Correios, de acordo com os critérios a seguir: I – Em continuidade às ações que a Empresa vem desenvolvendo em aderência às políticas do Governo Federal, que visam valorizar a diversidade humana e promover o resp",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2020,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "SOC_SAUDE_MULHER",
+    "numero_clausula_original": 8,
+    "titulo_original": "SAÚDE DA MULHER",
+    "status": "MANTIDO",
+    "texto": "mulher. §1° No mês de março, as ações terão enfoque na saúde da mulher e, no mês de outubro, orientações com vistas à conscientização do combate ao câncer de mama. §2º As ações de comunicação serão realizadas corporativamente. E aquelas que envolvam workshops, palestras e seminários, ocorrerão na Administração Central e nas Diretorias Regionais (Correios Sede e Superintendências Estaduais). §3º Os Correios garantirão a mudança provisória de tarefa às empregadas, mediante prescrição expressa de médico especialista, devidamente homologada pelo Serviço Médico dos Correios, quando a atividade desempenhada coloque em risco seu estado de gravidez. § 4º As empregadas que ocupem os cargos/atividades de carteiro, motorista e operadora de triagem e transbordo, os Correios garantirão, sem prejuízo do disposto no §3º, a mudança provisória automática, a partir do 5º (Quinto) mês de gestação, para serviços internos que preservem o estado de saúde da mãe e da criança. §5° As mulheres/adolescentes/meninas dependentes poderão participar de quaisquer atividades de prevenção e promoção a saúde da mulher organizadas pelos Correios. OPERACIONALIZAÇÃO DA CLÁUSULA As áreas de Saúde das Superintendências Estaduais e Correios Sede realizarão campanha de saúde no mês de março, abordando diversos temas relacionados à saúde da mulher e, em outubro, campanha contemplando ações com foco na prevenção do câncer de mama. As situações previstas no §4º desta cláusula, deverão obedecer os procedimentos do MANPES, Módulo 19, que trata da licença maternidade. Quanto ao disposto no §5º, os eventos voltados à promoção de saúde e prevenção de doenças serão abertos à participação de mulheres/adolescentes/meninas dependentes de empregados(as). As solicitações de informações referentes a esta cláusula devem ser encaminhadas ao Departamento de Gestão de Pessoas – DEGEP/DIGEP - degep-digep@correios.com.br 16 --- PAGINA 17 --CLÁUSULA 09",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "SOC_SAUDE_MULHER",
+    "numero_clausula_original": 10,
+    "titulo_original": "SAÚDE DA MULHER (14ª do DCG 2019/2020)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "redacao": "Os Correios desenvolverão atividades de prevenção e promoção à saúde da mulher. §1° No mês de março, as ações terão enfoque na saúde da mulher e, no mês de outubro, orientações com vistas à conscientização do combate ao câncer de mama. §2º As ações de comunicação serão realizadas corporativamente... §3º garantia de mudança provisória de tarefa às empregadas... §4º mudança provisória automática a partir do 5º mês de gestação... §5° As mulheres/adolescentes/meninas dependentes poderão participar..."
+    },
+    "memoria_negociacao": "Manutenção anuída pelas entidades sindicais",
+    "observacao": null,
+    "pagina_referencia": "62"
+  },
+  {
+    "ano_inicio": 2022,
+    "ano_fim": 2023,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_MULHER",
+    "numero_clausula_original": 10,
+    "titulo_original": "SAÚDE DA MULHER",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "marco": "saúde da mulher",
+      "outubro": "combate ao câncer de mama",
+      "mudanca_provisoria_tarefa": "mediante prescrição médica",
+      "mudanca_automatica_5_mes": "carteiro, motorista, operadora de triagem",
+      "participacao_dependentes": true
+    },
+    "memoria_negociacao": null,
+    "observacao": "Cabeçalho da cláusula não aparece no PDF; identificada pelo conteúdo",
+    "pagina_referencia": "2"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_MULHER",
+    "numero_clausula_original": 20,
+    "titulo_original": "SAÚDE DA MULHER",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "março": "saúde da mulher",
+      "outubro": "câncer de mama",
+      "mudanca_automatica_5_mes": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "4"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_MULHER",
+    "numero_clausula_original": 20,
+    "titulo_original": "SAÚDE DA MULHER",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "acoes_marco_outubro": true,
+      "mudanca_provisoria_tarefa": true,
+      "mudanca_automatica_5_mes": true,
+      "licenca_menstrual_dias": 2,
+      "projeto_bem_estar_obesas": true
+    },
+    "observacao": null,
+    "pagina_referencia": 8
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SOC_SAUDE_MULHER",
+    "numero_clausula_original": 17,
+    "titulo_original": "SAÚDE DA MULHER",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "acoes_marco_outubro": true,
+      "mudanca_provisoria_tarefa": true,
+      "licenca_menstrual_dias": 2,
+      "prescricao_medica": "válida por 12 meses",
+      "base_legal": "art. 9º da Resolução CFM 2.323/2022"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção com alteração do §6º",
+      "pedido_fentect": "Manutenção da redação anterior",
+      "pedido_findect": "Manutenção da redação da sentença normativa 2025/2026",
+      "decisao_tst": "DEFERE nos termos propostos pela ECT",
+      "fundamento_juridico": "Cláusula preexistente; Resolução CFM 2.323/2022",
+      "votos_divergentes": null
+    },
+    "observacao": "A alteração do §6º objetiva melhorar a operacionalização do benefício, com prescrição válida por 12 meses.",
+    "pagina_referencia": 9
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "SOC_SAUDE_MULHER",
+    "numero_clausula_original": 17,
+    "titulo_original": "SAÚDE DA MULHER",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "acoes_marco_outubro": true,
+      "mudanca_provisoria_tarefa": true,
+      "mudanca_automatica_5_mes": true,
+      "licenca_menstrual_dias": 2,
+      "projeto_bem_estar_obesas": true
+    },
+    "pagina_referencia": "32-33"
+  }
+]

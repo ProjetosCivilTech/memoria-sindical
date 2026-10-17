@@ -1,0 +1,607 @@
+[
+  {
+    "ano_inicio": 1990,
+    "ano_fim": 1991,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ACESSO_DEPENDENCIAS",
+    "numero_clausula_original": 26,
+    "titulo_original": "ACESSO ÀS DEPENDÊNCIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "regra": "somente com prévia autorização da Empresa",
+      "relacao_responsaveis": "ECT disponibilizará"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "9"
+  },
+  {
+    "ano_inicio": 1992,
+    "ano_fim": 1992,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ACESSO_DEPENDENCIAS",
+    "numero_clausula_original": 27,
+    "titulo_original": "ACESSO ÀS DEPENDÊNCIAS DA ECT",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "acesso": "dirigentes sindicais empregados da ECT",
+      "horarios": "acordados com a ECT",
+      "vedacao_pessoa_estranha": true
+    },
+    "pagina_referencia": "7"
+  },
+  {
+    "ano_inicio": 1993,
+    "ano_fim": 1994,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ACESSO_DEPENDENCIAS",
+    "numero_clausula_original": 28,
+    "titulo_original": "ACESSO ÀS DEPENDÊNCIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "acesso": "dirigentes FENTECT e filiados",
+      "solicitacao": "48 horas de antecedência"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "16"
+  },
+  {
+    "ano_inicio": 1994,
+    "ano_fim": 1995,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ACESSO_DEPENDENCIAS",
+    "numero_clausula_original": 1,
+    "titulo_original": "ACESSO ÀS DEPENDÊNCIAS DA ECT",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dirigentes_por_reuniao": 2,
+      "duracao_maxima_reuniao": 20,
+      "antecedencia_solicitacao": "48 horas",
+      "visitas_CDD": "início da jornada de trabalho dos carteiros",
+      "visitas_agencias": "após as 17h",
+      "negociacao_regional": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "1"
+  },
+  {
+    "ano_inicio": 1995,
+    "ano_fim": 1996,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ACESSO_DEPENDENCIAS",
+    "numero_clausula_original": 1,
+    "titulo_original": "ACESSO ÀS DEPENDÊNCIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dirigentes_por_visita": 2,
+      "duracao_visita": 20,
+      "antecedencia_solicitacao": "48 horas"
+    }
+  },
+  {
+    "ano_inicio": 1997,
+    "ano_fim": 1998,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ACESSO_DEPENDENCIAS",
+    "numero_clausula_original": 1,
+    "titulo_original": "ACESSO ÀS DEPENDÊNCIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dirigentes_por_visita": 2,
+      "duracao_visita": 20,
+      "antecedencia_solicitacao": "48 horas"
+    }
+  },
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ACESSO_DEPENDENCIAS",
+    "numero_clausula_original": 1,
+    "titulo_original": "ACESSO ÀS DEPENDÊNCIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dirigentes_por_visita": 2,
+      "duracao_visita": 20,
+      "antecedencia_solicitacao": "48 horas"
+    }
+  },
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ACESSO_DEPENDENCIAS",
+    "numero_clausula_original": 1,
+    "titulo_original": "ACESSO ÀS DEPENDÊNCIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dirigentes_por_reuniao": 2,
+      "duracao_maxima_reuniao": 20,
+      "antecedencia_solicitacao": "48 horas",
+      "visitas_CDD": "início da jornada de trabalho dos carteiros",
+      "visitas_agencias": "após as 17h",
+      "negociacao_regional": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "1"
+  },
+  {
+    "ano_inicio": 2001,
+    "ano_fim": 2002,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ACESSO_DEPENDENCIAS",
+    "numero_clausula_original": 1,
+    "titulo_original": "ACESSO ÀS DEPENDÊNCIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dirigentes_por_reuniao": 2,
+      "duracao_maxima_reuniao": 20,
+      "antecedencia_solicitacao": "2 dias úteis",
+      "visitas_CDD": "início da jornada de trabalho dos carteiros",
+      "visitas_agencias": "após encerramento do atendimento ao público",
+      "negociacao_regional": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "1"
+  },
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ACESSO_DEPENDENCIAS",
+    "numero_clausula_original": 1,
+    "titulo_original": "ACESSO ÀS DEPENDÊNCIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dirigentes_por_reuniao": 2,
+      "duracao_maxima_reuniao": 20,
+      "antecedencia_solicitacao": "2 dias úteis",
+      "visitas_CDD": "início da jornada de trabalho dos carteiros",
+      "visitas_agencias": "após encerramento do atendimento ao público",
+      "negociacao_regional": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "1"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ACESSO_DEPENDENCIAS",
+    "numero_clausula_original": 1,
+    "titulo_original": "ACESSO ÀS DEPENDÊNCIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dirigentes_por_reuniao": 2,
+      "duracao_maxima_reuniao": 20,
+      "antecedencia_solicitacao": "2 dias úteis",
+      "locais_permitidos": [
+        "Centros de Distribuição Domiciliária",
+        "Agências",
+        "demais unidades"
+      ],
+      "visitas_CDD": "início da jornada de trabalho dos carteiros",
+      "visitas_agencias": "após encerramento do atendimento ao público"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "1"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ACESSO_DEPENDENCIAS",
+    "numero_clausula_original": 1,
+    "titulo_original": "ACESSO ÀS DEPENDÊNCIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dirigentes_por_reuniao": 3,
+      "duracao_maxima_reuniao": 30,
+      "antecedencia_solicitacao": "2 dias úteis",
+      "locais_permitidos": [
+        "salas de aula/reunião",
+        "áreas de lazer",
+        "refeitórios",
+        "local de trabalho"
+      ],
+      "processo_filiacao": true,
+      "participacao_facultativa": true,
+      "reunioes_CDD": "durante a jornada, observada conveniência operacional",
+      "reunioes_agencias": "após encerramento do atendimento ao público"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "1"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ACESSO_DEPENDENCIAS",
+    "numero_clausula_original": 1,
+    "titulo_original": "ACESSO ÀS DEPENDÊNCIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dirigentes_por_reuniao": 3,
+      "duracao_reuniao": 30,
+      "antecedencia": "2 dias úteis",
+      "processo_filiacao": true
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ACESSO_DEPENDENCIAS",
+    "numero_clausula_original": 1,
+    "titulo_original": "ACESSO ÀS DEPENDÊNCIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dirigentes_por_reuniao": 3,
+      "duracao_maxima_reuniao": 30,
+      "intervalo_minimo_entre_reunioes": "15 dias",
+      "antecedencia_solicitacao": "2 dias úteis",
+      "locais_permitidos": [
+        "salas de aula/reunião",
+        "áreas de lazer",
+        "refeitórios",
+        "local de trabalho"
+      ],
+      "processo_filiacao": true,
+      "participacao_facultativa": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção com ajustes de texto",
+      "pedido_fentect": "Manutenção do texto do ACT 2005/2006, retirando prazo de 15 dias",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula negociada",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "2"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ACESSO_DEPENDENCIAS",
+    "numero_clausula_original": 1,
+    "titulo_original": "ACESSO ÀS DEPENDÊNCIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dirigentes_por_reuniao": 3,
+      "duracao_maxima_reuniao": 30,
+      "antecedencia_solicitacao": "2 dias úteis",
+      "locais_permitidos": [
+        "salas de aula/reunião",
+        "áreas de lazer",
+        "refeitórios",
+        "local de trabalho"
+      ]
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 1
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ACESSO_DEPENDENCIAS",
+    "numero_clausula_original": 1,
+    "titulo_original": "ACESSO ÀS DEPENDÊNCIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dirigentes_por_reuniao": 3,
+      "duracao_maxima_reuniao": 40,
+      "antecedencia_solicitacao": "2 dias úteis",
+      "processo_filiacao": true
+    },
+    "memoria_negociacao": null,
+    "observacao": "Duração máxima elevada de 30 para 40 minutos.",
+    "pagina_referencia": "2"
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ACESSO_DEPENDENCIAS",
+    "numero_clausula_original": 15,
+    "titulo_original": "ACESSO ÀS DEPENDÊNCIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dirigentes_por_reuniao": 3,
+      "duracao_maxima_reuniao": 40,
+      "antecedencia_solicitacao": "2 dias úteis",
+      "treinamento_novos": "1 hora"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "8-9"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ACESSO_DEPENDENCIAS",
+    "numero_clausula_original": 16,
+    "titulo_original": "ACESSO ÀS DEPENDÊNCIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dirigentes_por_reuniao": 3,
+      "duracao_maxima_reuniao": 40,
+      "antecedencia_solicitacao": "2 dias úteis",
+      "locais_permitidos": [
+        "salas de aula/reunião",
+        "áreas de lazer",
+        "refeitórios",
+        "local de trabalho"
+      ],
+      "treinamento_novos_empregados": true,
+      "acesso_sistema_ect_normas": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 10
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ACESSO_DEPENDENCIAS",
+    "numero_clausula_original": 16,
+    "titulo_original": "ACESSO ÀS DEPENDÊNCIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dirigentes_por_reuniao": 3,
+      "duracao_maxima_reuniao": 40,
+      "antecedencia_solicitacao": "2 dias úteis",
+      "treinamento_novos": "1 hora",
+      "VPN_acesso": true
+    },
+    "memoria_negociacao": null,
+    "observacao": "Incluído acesso VPN ao sistema ECT Normas.",
+    "pagina_referencia": "11-12"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ACESSO_DEPENDENCIAS",
+    "numero_clausula_original": 16,
+    "titulo_original": "ACESSO ÀS DEPENDÊNCIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dirigentes_por_reuniao": 3,
+      "duracao_maxima_reuniao": 40,
+      "unidade_tempo": "min",
+      "antecedencia_solicitacao": "2 dias úteis",
+      "processo_filiacao": true,
+      "participacao_facultativa": true,
+      "treinamento_novos": "1 hora",
+      "VPN": true
+    },
+    "pagina_referencia": "30-32"
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ACESSO_DEPENDENCIAS",
+    "numero_clausula_original": 16,
+    "titulo_original": "ACESSO ÀS DEPENDÊNCIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dirigentes_por_reuniao": 3,
+      "duracao_maxima_reuniao": 40,
+      "antecedencia_solicitacao": "2 dias úteis",
+      "locais_permitidos": [
+        "salas de aula/reunião",
+        "áreas de lazer",
+        "refeitórios",
+        "local de trabalho"
+      ],
+      "treinamento_novos_empregados": true,
+      "acesso_sistema_ect_normas": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 9
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "SIN_ACESSO_DEPENDENCIAS",
+    "numero_clausula_original": 16,
+    "titulo_original": "ACESSO ÀS DEPENDÊNCIAS",
+    "status": "MANTIDO",
+    "texto": "(Empresa e Entidade Sindical), os(as) empregados(as) dos Correios regularmente eleitos(as) como dirigentes sindicais e que não estejam com o contrato de trabalho suspenso para apuração de falta grave, terão acesso às dependências da Empresa para tratar de assuntos de interesse exclusivo dos(das) empregados(as), resguardadas as disposições do art. 5°, Parágrafo único, da Lei nº 6. 538/78 e observado o seguinte: §1º Nos Centros de Distribuição Domiciliária, Centros de Entrega de Encomendas, Centros de Tratamento e Centros de Transporte, as reuniões ocorrerão durante a jornada de trabalho. §2º Nas demais unidades, as reuniões poderão ser realizadas no início ou no final da jornada de trabalho. §3º Cada reunião deverá ser realizada, no máximo, por 3 (três) dirigentes sindicais, no exercício de seus mandatos, observadas as demais condições desta cláusula, com duração máxima de 40 (quarenta) minutos. §4º Os sindicatos poderão, durante o tempo reservado às reuniões, desenvolver processo de filiação. §5º As reuniões serão realizadas em locais apropriados, tais como salas de aula/reunião, áreas de lazer, refeitórios ou no local de trabalho, sem a participação do representante da área de relações sindicais da empresa, salvo se solicitado pela entidade sindical, sem prejuízo ao desenvolvimento das atividades previstas para a unidade visitada, sendo a participação do(a) empregado(a) facultativa. I – As reuniões deverão ser solicitadas, por escrito, ao (à) representante, da área de gestão das relações sindicais e do trabalho com 2 (dois) dias úteis de antecedência, para a viabilidade do atendimento correspondente. II – As Superintendências Estaduais e os Sindicatos dos(as) empregados(as) dos Correios compreendidos em sua área territorial ficam autorizados a negociar alterações ao disposto nos incisos desta Cláusula, que terão validade e eficácia somente em sua jurisdição. §6º Quando do treinamento para os(as) novos(as) empregados(as) admitidos(as) pelos Correios, em curso próprio de formação, o Sindicato dos Empregados e das Empregadas dos Correios da respectiva base territorial, onde os(as) empregados(as) serão lotados(as) poderá apresentar as atividades sindicais no período acordado entre o sindicato e a Superintendência Estadual, no prazo máximo de uma hora de duração. I – O sindicato deverá ser comunicado com antecedência mínima de 3 (três) dias úteis. §7º Durante a vigência deste Acordo Coletivo de Trabalho, os Correios disponibilizarão o acesso ao Sistema ECT Nor",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "SIN_ACESSO_DEPENDENCIAS",
+    "numero_clausula_original": 11,
+    "titulo_original": "ACESSO ÀS DEPENDÊNCIAS (16ª do DCG 2019/2020)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "redacao": "Quando solicitado pelas entidades sindicais e acordado entre as partes... os(as) empregados(as) dos Correios regularmente eleitos(as) como dirigentes sindicais... terão acesso às dependências da Empresa... §1° Nos Centros de Distribuição Domiciliária... as reuniões ocorrerão durante os intervalos destinados à alimentação e descanso. §2° Cada reunião deverá ser realizada, no máximo, por 3 dirigentes sindicais... com duração máxima de 40 minutos. §3° Os sindicatos poderão... desenvolver processo de filiação. §4° As reuniões serão realizadas em locais apropriados... §5º Quando do treinamento para os novos empregados... o Sindicato poderá apresentar as atividades sindicais... §6º Durante a vigência deste Acordo... os Correios disponibilizarão o acesso ao Sistema ECT Normas...",
+      "historico": "ACT 1990/1991, com evolução até sentença normativa 2019/2020"
+    },
+    "memoria_negociacao": "Cláusula sedimentada pelo tempo, de natureza social, sem custos financeiros diretos; adaptada ao PN 91 do TST",
+    "observacao": "Acolhida divergência do Ministro Ives Gandra Martins Filho para adequar ao PN 91",
+    "pagina_referencia": "83-89, 101-102"
+  },
+  {
+    "ano_inicio": 2022,
+    "ano_fim": 2023,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ACESSO_DEPENDENCIAS",
+    "numero_clausula_original": 12,
+    "titulo_original": "ACESSO ÀS DEPENDÊNCIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dirigentes_por_reuniao": 3,
+      "duracao_reuniao": 40,
+      "unidade_tempo": "min",
+      "antecedencia_solicitacao": "2 dias úteis",
+      "local_reuniao": "salas, refeitórios, áreas de lazer ou local de trabalho",
+      "processo_filiacao": true,
+      "treinamento_novos": "1 hora",
+      "VPN": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "3"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ACESSO_DEPENDENCIAS",
+    "numero_clausula_original": 28,
+    "titulo_original": "ACESSO ÀS DEPENDÊNCIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dirigentes_por_reuniao": 3,
+      "duracao": 40,
+      "antecedencia": "2 dias úteis",
+      "treinamento_novos": "1 hora",
+      "VPN": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "6"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ACESSO_DEPENDENCIAS",
+    "numero_clausula_original": 29,
+    "titulo_original": "ACESSO ÀS DEPENDÊNCIAS",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "dirigentes_por_reuniao": 6,
+      "duracao_maxima_reuniao": 60,
+      "antecedencia_solicitacao": "2 dias úteis",
+      "locais_permitidos": [
+        "salas de aula/reunião",
+        "áreas de lazer",
+        "refeitórios",
+        "local de trabalho"
+      ],
+      "acesso_sistema_ect_normas": true,
+      "treinamento_novos_empregados": "1 hora de duração"
+    },
+    "observacao": "No DC 2025/2026, a ECT tentou reduzir para 1 dirigente e 30 minutos, mas o TST manteve 6 dirigentes e 60 minutos.",
+    "pagina_referencia": 11
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ACESSO_DEPENDENCIAS",
+    "numero_clausula_original": 25,
+    "titulo_original": "ACESSO ÀS DEPENDÊNCIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dirigentes_por_reuniao": 6,
+      "duracao_maxima_reuniao": 60,
+      "antecedencia_solicitacao": "3 dias úteis",
+      "locais_permitidos": [
+        "salas de aula/reunião",
+        "áreas de lazer",
+        "refeitórios",
+        "local de trabalho"
+      ],
+      "acesso_sistema_ect_normas": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Alterar o §2º: reduzir de 6 para 2 dirigentes e de 60 para 30 minutos",
+      "pedido_fentect": "Manutenção da disciplina preexistente",
+      "pedido_findect": "Manutenção da disciplina preexistente",
+      "decisao_tst": "DEFERE nos termos do ACT 2024/2025, mantendo 6 dirigentes e 60 minutos",
+      "fundamento_juridico": "Cláusula sem expressão econômica",
+      "votos_divergentes": null
+    },
+    "observacao": "A ECT tentou reduzir novamente, mas o TST manteve a redação original.",
+    "pagina_referencia": 12
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "SIN_ACESSO_DEPENDENCIAS",
+    "numero_clausula_original": 25,
+    "titulo_original": "ACESSO ÀS DEPENDÊNCIAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "dirigentes_por_reuniao": 6,
+      "duracao_maxima_reuniao": 60,
+      "unidade_duracao": "minutos",
+      "antecedencia_solicitacao": "3 dias úteis",
+      "treinamento_novos": "1 hora",
+      "acesso_sistema_ect_normas": true,
+      "VPN": true
+    },
+    "observacao": "ECT tentou reduzir de 6 para 1 dirigente e de 60 para 30 minutos; TST manteve",
+    "pagina_referencia": "38-39"
+  }
+]

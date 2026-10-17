@@ -1,0 +1,26 @@
+[
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "SOC_GARANTIAS_MULHER",
+    "numero_clausula_original": 27,
+    "titulo_original": "GARANTIAS A MULHER ECETISTA",
+    "status": "MANTIDO",
+    "texto": "Mudança provisória de tarefa na gravidez; mudança automática a partir do 5º mês; manutenção de adicionais; licença-maternidade entre 28º dia antes do parto e o parto; permanência de 2 meses em atividades internas após a licença; estabilidade de 90 dias; banheiro feminino com ducha higiênica em novas edificações maiores de 120m²; igualdade na seleção para função motorizada.",
+    "observacao": "Idêntica ao DC 2013-2014.",
+    "pagina_referencia": 8
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "SOC_GARANTIAS_MULHER",
+    "numero_clausula_original": 27,
+    "titulo_original": "GARANTIAS A MULHER ECETISTA",
+    "status": "MANTIDO",
+    "texto": "Mudança provisória de tarefa na gravidez; mudança automática a partir do 5º mês para serviços internos; manutenção de adicionais; licença-maternidade entre 28º dia antes do parto e o parto; permanência de 2 meses em atividades internas após a licença; estabilidade de 90 dias após a licença (inclusive prorrogação); banheiro feminino com ducha higiênica em novas edificações maiores de 120m²; igualdade na seleção para função motorizada.",
+    "observacao": "Idêntica ao DC 2012-2013.",
+    "pagina_referencia": 85
+  }
+]

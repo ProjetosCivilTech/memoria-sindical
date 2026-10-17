@@ -1,0 +1,98 @@
+{
+  "datas_br": {
+    "total": 5,
+    "amostra": [
+      "01/08/2020",
+      "17/11/2020",
+      "10/10/2021",
+      "15/09/2021",
+      "20/10/2021"
+    ]
+  },
+  "datas_ext": {
+    "total": 6,
+    "amostra": [
+      "4 de março de 1993",
+      "23 de fevereiro de 2006",
+      "12 de dezembro\nde 2013",
+      "4 de março de 1993",
+      "23 de fevereiro de 2006",
+      "31 de julho de 2021"
+    ]
+  },
+  "valores_brl": {
+    "total": 0,
+    "amostra": []
+  },
+  "percentuais": {
+    "total": 4,
+    "amostra": [
+      "2,6%",
+      "10%",
+      "20%",
+      "20%"
+    ]
+  },
+  "clausulas": {
+    "total": 22,
+    "amostra": [
+      "03",
+      "08",
+      "09",
+      "19",
+      "22",
+      "24",
+      "25",
+      "27",
+      "29",
+      "1",
+      "2",
+      "3",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "7",
+      "8",
+      "9",
+      "10",
+      "1"
+    ]
+  },
+  "processos_tst": {
+    "total": 1,
+    "amostra": [
+      "1001203-57.2020.5.00.0000"
+    ]
+  },
+  "cnpj": {
+    "total": 0,
+    "amostra": []
+  },
+  "artigos": {
+    "total": 2,
+    "amostra": [
+      "Art. 336",
+      "Art. 615"
+    ]
+  },
+  "incisos": {
+    "total": 9,
+    "amostra": [
+      "CIVIL",
+      "II",
+      "MC",
+      "MC",
+      "M",
+      "V",
+      "CDD",
+      "CDD",
+      "CIVIL"
+    ]
+  },
+  "paragrafos": {
+    "total": 0,
+    "amostra": []
+  }
+}

@@ -1,0 +1,125 @@
+[
+  {
+    "ano_inicio": 1994,
+    "ano_fim": 1995,
+    "tipo": "ACT",
+    "id_canonico": "PRO_TRANSFERENCIA_PEDIDO",
+    "numero_clausula_original": 43,
+    "titulo_original": "TRANSFERÊNCIAS A PEDIDO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "atender pedidos conciliando com necessidade do serviço"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "13"
+  },
+  {
+    "ano_inicio": 1995,
+    "ano_fim": 1996,
+    "tipo": "ACT",
+    "id_canonico": "PRO_TRANSFERENCIA_PEDIDO",
+    "numero_clausula_original": 48,
+    "titulo_original": "TRANSFERÊNCIAS A PEDIDO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "atender pedidos"
+    }
+  },
+  {
+    "ano_inicio": 1997,
+    "ano_fim": 1998,
+    "tipo": "ACT",
+    "id_canonico": "PRO_TRANSFERENCIA_PEDIDO",
+    "numero_clausula_original": 48,
+    "titulo_original": "TRANSFERÊNCIAS A PEDIDO",
+    "status": "DEFERIDO"
+  },
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "PRO_TRANSFERENCIA_PEDIDO",
+    "numero_clausula_original": 52,
+    "titulo_original": "TRANSFERÊNCIAS A PEDIDO",
+    "status": "DEFERIDO"
+  },
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "PRO_TRANSFERENCIA_PEDIDO",
+    "numero_clausula_original": 53,
+    "titulo_original": "TRANSFERÊNCIAS A PEDIDO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "atender pedidos conciliando com necessidade do serviço"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "17"
+  },
+  {
+    "ano_inicio": 2000,
+    "ano_fim": 2001,
+    "tipo": "DC",
+    "id_canonico": "PRO_TRANSFERENCIA_PEDIDO",
+    "numero_clausula_original": 48,
+    "titulo_original": "TRANSFERÊNCIA A PEDIDO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "atender pedidos de transferência conciliando com necessidade do serviço"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "Cláusula incontroversa.",
+    "pagina_referencia": "11"
+  },
+  {
+    "ano_inicio": 2001,
+    "ano_fim": 2002,
+    "tipo": "ACT",
+    "id_canonico": "PRO_TRANSFERENCIA_PEDIDO",
+    "numero_clausula_original": 47,
+    "titulo_original": "TRANSFERÊNCIA A PEDIDO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "atender pedidos de transferência conciliando com necessidade do serviço"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "12"
+  },
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "PRO_TRANSFERENCIA_PEDIDO",
+    "numero_clausula_original": 58,
+    "titulo_original": "TRANSFERÊNCIA A PEDIDO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "atender pedidos de transferência conciliando com necessidade do serviço"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "28"
+  }
+]

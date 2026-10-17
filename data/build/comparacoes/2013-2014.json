@@ -1,0 +1,14 @@
+{
+  "grupo": "2013-2014",
+  "A": {
+    "papel": "FENTECT",
+    "n_clausulas": 64
+  },
+  "B": {
+    "papel": "FINDECT",
+    "n_clausulas": 64
+  },
+  "comuns": 64,
+  "iguais": 64,
+  "divergencias": []
+}

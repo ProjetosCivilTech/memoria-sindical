@@ -1,0 +1,1139 @@
+{
+  "metadados_documento": {
+    "tipo": "DC",
+    "ano_inicio": 2000,
+    "ano_fim": 2001,
+    "processo": "TST-DC-695050/2000.5",
+    "tribunal": "TST",
+    "orgao": "Seção Especializada em Dissídios Coletivos",
+    "relator": "Ministro José Luciano de Castilho Pereira",
+    "data_julgamento": "2000-11-30",
+    "data_publicacao": null,
+    "entidade_patronal": "ECT",
+    "entidades_profissionais": ["FENTECT"],
+    "arquivo_origem": "acordo-coletivo-2000-2001.pdf",
+    "greve": null
+  },
+  "clausulas": [
+    {
+      "id_canonico": "SOC_LICENCA_ACOMPANHANTE",
+      "numero_clausula_original": 2,
+      "titulo_original": "ACOMPANHANTE",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "dias_ausencia": 2,
+        "publico_alvo": [
+          "filho de até 6 anos de idade",
+          "filho excepcional de qualquer idade"
+        ],
+        "prazo_atestado": "48 horas"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa.",
+      "pagina_referencia": 3
+    },
+    {
+      "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+      "numero_clausula_original": 3,
+      "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "regra_compensacao": "não acumulação de acréscimos pecuniários sob o mesmo título"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa.",
+      "pagina_referencia": 3
+    },
+    {
+      "id_canonico": "FIN_ADICIONAL_NOTURNO",
+      "numero_clausula_original": 5,
+      "titulo_original": "ADICIONAL NOTURNO",
+      "status": "DEFERIDO",
+      "valor_anterior": 60,
+      "valor_atual": 60,
+      "unidade": "percentual",
+      "detalhes": {
+        "percentual": 60,
+        "horario": "20h às 5h"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa.",
+      "pagina_referencia": 3
+    },
+    {
+      "id_canonico": "FIN_AJUDA_CUSTO",
+      "numero_clausula_original": 6,
+      "titulo_original": "AJUDA DE CUSTO NA TRANSFERÊNCIA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "calculo": "salário-base + anuênio + GQP incorporada + gratificação de função",
+        "responsabilidade": "ECT",
+        "base_legal": "Regulamento de Pessoal"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa.",
+      "pagina_referencia": 3
+    },
+    {
+      "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+      "numero_clausula_original": 9,
+      "titulo_original": "ASSISTÊNCIA MÉDICO HOSPITALAR ODONTOLÓGICA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "participacao_empregado": {
+          "RS-01 a RS-16": 10,
+          "RS-17 a RS-32": 15,
+          "RS-33 a RS-65": 20
+        },
+        "teto_compartilhamento": "2x salário-base",
+        "exames_periodicos": "sem ônus",
+        "acidente_trabalho": "atendimento gratuito",
+        "falecimento": "benefício mantido por 3 meses",
+        "exclusao": "internação opcional em quarto simples"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa.",
+      "pagina_referencia": 3-4
+    },
+    {
+      "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+      "numero_clausula_original": 10,
+      "titulo_original": "AUXÍLIO PARA FILHOS DEPENDENTES DE CUIDADOS ESPECIAIS",
+      "status": "DEFERIDO",
+      "valor_anterior": 235.00,
+      "valor_atual": 235.00,
+      "unidade": "BRL",
+      "detalhes": {
+        "valor_mensal": 235.00,
+        "publico_alvo": ["filhos"],
+        "reembolso_licenca_medica": true,
+        "analise": "Serviço Social e Serviço Médico da Diretoria Regional"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa.",
+      "pagina_referencia": 4
+    },
+    {
+      "id_canonico": "PRO_CONCILIACAO_DIVERGENCIAS",
+      "numero_clausula_original": 11,
+      "titulo_original": "CONCILIAÇÃO DE DIVERGÊNCIAS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "prazo": "15 dias",
+        "procedimento": "comunicação por escrito à ECT antes de recorrer à Justiça do Trabalho"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa.",
+      "pagina_referencia": 4
+    },
+    {
+      "id_canonico": "PRO_CURSOS_REUNIOES",
+      "numero_clausula_original": 12,
+      "titulo_original": "CURSOS E REUNIÕES OBRIGATÓRIOS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "comunicacao_antecedencia": "2 dias úteis",
+        "horas_extras": "se fora do horário de serviço",
+        "compensacao": "acordo entre ECT e empregado"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa.",
+      "pagina_referencia": 5
+    },
+    {
+      "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+      "numero_clausula_original": 13,
+      "titulo_original": "DESCONTO ASSISTENCIAL",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "desconto": "conforme aprovado em assembleia geral",
+        "oposicao": "manifestação ao sindicato até dia 10",
+        "envio_atas": "até 20 dias antes do desconto",
+        "empregado_nao_sindicalizado": "só com autorização"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa.",
+      "pagina_referencia": 5
+    },
+    {
+      "id_canonico": "SIN_EQUIDADE_RACIAL",
+      "numero_clausula_original": 14,
+      "titulo_original": "DISCRIMINAÇÕES E PRECONCEITOS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "compromisso": "desenvolver ações positivas contra discriminações e preconceitos",
+        "temas": ["origem", "raça", "credo", "sexo", "cor", "idade"],
+        "assedio_sexual": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa.",
+      "pagina_referencia": 5
+    },
+    {
+      "id_canonico": "CON_DISTRIBUICAO_DOMICILIARIA",
+      "numero_clausula_original": 15,
+      "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "limite_peso_homem": 12,
+        "limite_peso_mulher": 10,
+        "redistritamento": "participação dos carteiros",
+        "preferencia_motorizado": "tempo de serviço"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE como proposta pela ECT",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula deferida conforme proposta da ECT. A FENTECT pedia item 'e' sobre transferência para serviço interno após 18 anos de entrega domiciliar, não acolhido.",
+      "pagina_referencia": 5
+    },
+    {
+      "id_canonico": "SOC_EMPREGADO_VIVENDO_HIV",
+      "numero_clausula_original": 16,
+      "titulo_original": "EMPREGADO PORTADOR DO VÍRUS HIV",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "remanejamento_provisorio": true,
+        "vedacao_dispensa": true,
+        "acoes_junto_entidades_publicas": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa.",
+      "pagina_referencia": 6
+    },
+    {
+      "id_canonico": "SOC_FORNECIMENTO_CAT",
+      "numero_clausula_original": 17,
+      "titulo_original": "FORNECIMENTO DE CAT/LISA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "emissao_cat": true,
+        "envio_copias": "mês imediatamente anterior, quando solicitado"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa.",
+      "pagina_referencia": 6
+    },
+    {
+      "id_canonico": "SIN_FORNECIMENTO_DOCUMENTOS",
+      "numero_clausula_original": 18,
+      "titulo_original": "FORNECIMENTO DE DOCUMENTOS BÁSICOS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "prazo_fornecimento": "quando solicitado",
+        "publico_alvo": "FENTECT e Sindicatos filiados",
+        "adaptacao_clausulas": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa.",
+      "pagina_referencia": 6
+    },
+    {
+      "id_canonico": "SOC_SAUDE_MULHER",
+      "numero_clausula_original": 19,
+      "titulo_original": "GARANTIAS À MULHER ECETISTA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "transparencia_direitos": true,
+        "mudanca_provisoria_tarefa": true,
+        "mudanca_automatica_7_mes": true,
+        "retorno_distribuicao_pos_licenca": true,
+        "lotacao_proxima_residencia": true,
+        "banheiro_feminino": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa. Mudança automática a partir do 7º mês de gestação.",
+      "pagina_referencia": 6
+    },
+    {
+      "id_canonico": "SIN_EMPREGADO_ESTUDANTE",
+      "numero_clausula_original": 20,
+      "titulo_original": "GARANTIAS AO EMPREGADO ESTUDANTE",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "nao_alteracao_jornada": true,
+        "estagio_curricular": true,
+        "incentivo_ensino_fundamental_medio": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa.",
+      "pagina_referencia": 6-7
+    },
+    {
+      "id_canonico": "FIN_GRATIFICACAO_FERIAS",
+      "numero_clausula_original": 21,
+      "titulo_original": "GRATIFICAÇÃO DE FÉRIAS",
+      "status": "DEFERIDO",
+      "valor_anterior": 70,
+      "valor_atual": 70,
+      "unidade": "percentual",
+      "detalhes": {
+        "percentual": 70,
+        "base_calculo": "remuneração vigente",
+        "publico_alvo": "admitidos até 30/11/96"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa.",
+      "pagina_referencia": 7
+    },
+    {
+      "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+      "numero_clausula_original": 22,
+      "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": 45.60,
+      "unidade": "BRL",
+      "detalhes": {
+        "valor_unico": 45.60,
+        "publico_alvo": "guichês de Agências de Categoria I a V"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa.",
+      "pagina_referencia": 7
+    },
+    {
+      "id_canonico": "FIN_HORAS_EXTRAS",
+      "numero_clausula_original": 23,
+      "titulo_original": "HORAS EXTRAS",
+      "status": "DEFERIDO",
+      "valor_anterior": 70,
+      "valor_atual": 70,
+      "unidade": "percentual",
+      "detalhes": {
+        "percentual": 70,
+        "base_calculo": "salário-base",
+        "pagamento": "folha do mês subsequente"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa.",
+      "pagina_referencia": 7
+    },
+    {
+      "id_canonico": "TEC_INOVACOES",
+      "numero_clausula_original": 24,
+      "titulo_original": "INOVAÇÕES TECNOLÓGICAS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "realocacao": "reaproveitar empregado afetado",
+        "qualificacao": "para nova atividade"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa.",
+      "pagina_referencia": 7
+    },
+    {
+      "id_canonico": "CON_ITENS_USO_PROTECAO",
+      "numero_clausula_original": 25,
+      "titulo_original": "ITENS DE USO E PROTEÇÃO AO EMPREGADO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "descentralizacao_suprimento": true,
+        "uniformes": "adaptados ao sexo, atividade e clima",
+        "meias_compressao": "recomendação médica",
+        "tenis_amortecedor": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa.",
+      "pagina_referencia": 7
+    },
+    {
+      "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+      "numero_clausula_original": 25,
+      "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "quantidade_para_fentect": 4,
+        "quantidade_por_sindicato": 1,
+        "solicitacao": "3 dias úteis de antecedência",
+        "validade": "até 31/12/2000",
+        "apos_31_12_2000": "sem ônus para ECT",
+        "nao_aplicavel": "entidades constituídas a partir de 01/08/2000"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Liberação de 1 por Sindicato e 4 para FENTECT até 31/12/2000",
+        "pedido_fentect": "2 dirigentes por sindicato e 7 para FENTECT",
+        "decisao_tst": "DEFERE como proposta pela ECT",
+        "fundamento_juridico": "Cláusula negociada",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula social controvertida. Pedido da FENTECT não acolhido.",
+      "pagina_referencia": 16
+    },
+    {
+      "id_canonico": "SOC_LICENCA_ADOCAO",
+      "numero_clausula_original": 31,
+      "titulo_original": "LICENÇA-ADOÇÃO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "dias_licenca": 60,
+        "idade_crianca": "zero a 18 meses",
+        "inicio_contagem": "comprovação oficial da guarda"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa.",
+      "pagina_referencia": 7
+    },
+    {
+      "id_canonico": "CON_MULTAS_TRANSITO",
+      "numero_clausula_original": 32,
+      "titulo_original": "MULTAS DE TRÂNSITO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "responsabilidade_provisoria": "ECT arca provisoriamente com multas",
+        "desconto": "se julgado improcedente o recurso",
+        "isencao_pontos_CNH": true,
+        "remanejamento": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa.",
+      "pagina_referencia": 7
+    },
+    {
+      "id_canonico": "FIN_PAGAMENTO_SALARIO",
+      "numero_clausula_original": 34,
+      "titulo_original": "PAGAMENTO DE SALÁRIOS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "data_pagamento": "último dia útil bancário do mês trabalhado"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa.",
+      "pagina_referencia": 8
+    },
+    {
+      "id_canonico": "FIN_PENALIDADE",
+      "numero_clausula_original": 35,
+      "titulo_original": "PENALIDADE",
+      "status": "DEFERIDO",
+      "valor_anterior": 20,
+      "valor_atual": 20,
+      "unidade": "percentual",
+      "detalhes": {
+        "percentual": 20,
+        "base_calculo": "dia de serviço do empregado prejudicado"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa.",
+      "pagina_referencia": 8
+    },
+    {
+      "id_canonico": "SOC_PERIODO_AMAMENTACAO",
+      "numero_clausula_original": 36,
+      "titulo_original": "PERÍODO DE AMAMENTAÇÃO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "intervalo_especial": "2 descansos de 30 min ou 1 descanso de 1h",
+        "idade_limite_filho": 1,
+        "prorrogacao": "programa de amamentação"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa.",
+      "pagina_referencia": 8
+    },
+    {
+      "id_canonico": "PRO_PERIODO_FERIAS",
+      "numero_clausula_original": 37,
+      "titulo_original": "PERÍODO DE CONCESSÃO DE FÉRIAS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "inicio_periodo_concessivo": "entre dias 5 e 15 de cada mês",
+        "programacao": "janeiro a outubro, até 15% do pessoal por mês",
+        "excecao": "novembro e dezembro conforme necessidade operacional"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa.",
+      "pagina_referencia": 8
+    },
+    {
+      "id_canonico": "PRO_PROCESSO_LICITATORIO",
+      "numero_clausula_original": 38,
+      "titulo_original": "PROCESSO LICITATÓRIO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "observador_sindical": true,
+        "acesso_reunioes_CPL": true,
+        "sigilo_propostas": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa.",
+      "pagina_referencia": 8
+    },
+    {
+      "id_canonico": "PRO_PRORROGACAO_REVISAO",
+      "numero_clausula_original": 39,
+      "titulo_original": "PRORROGAÇÃO, REVISÃO, DENÚNCIA OU REVOGAÇÃO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "base_legal": "Art. 615 da CLT"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa.",
+      "pagina_referencia": 9
+    },
+    {
+      "id_canonico": "SIN_QUADRO_AVISOS",
+      "numero_clausula_original": 40,
+      "titulo_original": "QUADRO DE AVISOS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "instalacao_sindicato": true,
+        "dimensoes": "1,00m x 1,20m",
+        "fundo_verde": true,
+        "chaves_exclusivas": true,
+        "vedacao_manifestacoes_politico_partidarias": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa.",
+      "pagina_referencia": 9
+    },
+    {
+      "id_canonico": "SOC_REABILITACAO_PROFISSIONAL",
+      "numero_clausula_original": 42,
+      "titulo_original": "REABILITAÇÃO PROFISSIONAL",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "estagio_na_empresa": true,
+        "laudo_medico": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa.",
+      "pagina_referencia": 9
+    },
+    {
+      "id_canonico": "CON_REGISTRO_ATIVIDADES_GRATIFICADAS",
+      "numero_clausula_original": 43,
+      "titulo_original": "REGISTRO DE ATIVIDADES COMISSIONADAS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "registro_CTPS": true,
+        "atividades": ["Carteiro Motorizado", "Mensageiro Motorizado"]
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa.",
+      "pagina_referencia": 9
+    },
+    {
+      "id_canonico": "CON_REGISTRO_PONTO",
+      "numero_clausula_original": 44,
+      "titulo_original": "REGISTRO DE PONTO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "registro_pelo_empregado": true,
+        "vedacao_interferencia_terceiros": true,
+        "vedacao_RAI": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa.",
+      "pagina_referencia": 9-10
+    },
+    {
+      "id_canonico": "SIN_REPASSE_MENSALIDADES",
+      "numero_clausula_original": 45,
+      "titulo_original": "REPASSE DAS MENSALIDADES DO SINDICATO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "prazo_repasse": "primeiro dia útil após o pagamento mensal",
+        "comprovacao": "Atas de Assembleias",
+        "restabelecimento_afastados": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa.",
+      "pagina_referencia": 10
+    },
+    {
+      "id_canonico": "FIN_TRABALHO_DIA_REPOUSO",
+      "numero_clausula_original": 46,
+      "titulo_original": "TRABALHO EM DIA DE REPOUSO",
+      "status": "DEFERIDO",
+      "valor_anterior": 150,
+      "valor_atual": 150,
+      "unidade": "percentual",
+      "detalhes": {
+        "percentual": 150,
+        "vale_refeicao": true,
+        "troca_por_folgas": "2 folgas compensatórias"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa.",
+      "pagina_referencia": 10
+    },
+    {
+      "id_canonico": "FIN_TRABALHO_FINS_SEMANA",
+      "numero_clausula_original": 47,
+      "titulo_original": "TRABALHO NOS FINS DE SEMANA",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": null,
+      "unidade": null,
+      "detalhes": {
+        "publico": "Área Operacional com jornada de 44 horas semanais",
+        "calculo": "1,5x hora normal, limitado a 15% do salário-base"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa.",
+      "pagina_referencia": 10-11
+    },
+    {
+      "id_canonico": "PRO_TRANSFERENCIA_PEDIDO",
+      "numero_clausula_original": 48,
+      "titulo_original": "TRANSFERÊNCIA A PEDIDO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "compromisso": "atender pedidos de transferência conciliando com necessidade do serviço"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa.",
+      "pagina_referencia": 11
+    },
+    {
+      "id_canonico": "SOC_TRANSPORTE_NOTURNO",
+      "numero_clausula_original": 49,
+      "titulo_original": "TRANSPORTE NOTURNO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "horario": "0h às 5h",
+        "gratuito": true,
+        "local_dificil_acesso": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa.",
+      "pagina_referencia": 11
+    },
+    {
+      "id_canonico": "FIN_ADIANTAMENTO_FERIAS",
+      "numero_clausula_original": 3,
+      "titulo_original": "ADIANTAMENTO DE FÉRIAS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "restituicao_parcelada": "somente admitidos até 26/08/87",
+        "parcelas": "até 5 parcelas mensais",
+        "inicio_restituicao": "segundo mês subsequente ao início das férias",
+        "opcao_escrita": "até 45 dias antes",
+        "base_legal": "Decreto-lei 2355/87, determinação do TCU"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa.",
+      "pagina_referencia": 11
+    },
+    {
+      "id_canonico": "FIN_ANTECIPACAO_13",
+      "numero_clausula_original": 5,
+      "titulo_original": "ANTECIPAÇÃO DE 50% DA GRATIFICAÇÃO NATALINA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "percentual": 50,
+        "parcelas": "2 (25% abril + 25% junho) ou 1 (50% junho)",
+        "publico_alvo": "admitidos até 30/11/96",
+        "diferenca_paga_ate": "20 de dezembro"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa.",
+      "pagina_referencia": 11
+    },
+    {
+      "id_canonico": "FIN_ANUENIOS",
+      "numero_clausula_original": 6,
+      "titulo_original": "ANUÊNIOS",
+      "status": "DEFERIDO",
+      "valor_anterior": 1,
+      "valor_atual": 1,
+      "unidade": "percentual",
+      "detalhes": {
+        "percentual": 1,
+        "base_calculo": "salário-base",
+        "limite_maximo": 35,
+        "retroacao": "20/03/1969"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Manutenção",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula incontroversa.",
+      "pagina_referencia": 11-12
+    },
+    {
+      "id_canonico": "FIN_REAJUSTE_SALARIAL",
+      "numero_clausula_original": 36,
+      "titulo_original": "REAJUSTE SALARIAL",
+      "status": "DEFERIDO PARCIALMENTE",
+      "valor_anterior": null,
+      "valor_atual": 3.00,
+      "unidade": "%",
+      "detalhes": {
+        "indice_aplicado": "3% (linear) a partir de 01/08/2000",
+        "abono": "50% sobre salário-base de julho/2000",
+        "limite_minimo": 525.00,
+        "limite_maximo": 1000.00
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Aumento linear de 2% + abono 50% (min R$ 400,00 / max R$ 1.000,00)",
+        "pedido_fentect": "Aumento linear de 3% + abono 50% (min R$ 525,00 / max R$ 1.000,00)",
+        "decisao_tst": "DEFERE parcialmente, acolhendo 3% e abono com mínimo de R$ 525,00",
+        "fundamento_juridico": "Resultado econômico-financeiro da ECT",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula econômica parcialmente controvertida. TST acolheu parcialmente o pedido da FENTECT.",
+      "pagina_referencia": 12-13
+    },
+    {
+      "id_canonico": "FIN_VALE_CESTA",
+      "numero_clausula_original": 45,
+      "titulo_original": "VALE CESTA",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": 42.00,
+      "unidade": "BRL",
+      "detalhes": {
+        "valor_mensal": 42.00,
+        "participacao_empregado": {
+          "Nivel Basico": 10,
+          "Nivel Medio/Tecnico": 15,
+          "Nivel Superior": 20
+        },
+        "fornecimento_cesta": "até término dos contratos vigentes"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Vale-cesta de R$ 40,00",
+        "pedido_fentect": "Vale-cesta de R$ 42,00",
+        "decisao_tst": "DEFERE, acolhendo R$ 42,00",
+        "fundamento_juridico": "Negociação coletiva",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula econômica parcialmente controvertida.",
+      "pagina_referencia": 13
+    },
+    {
+      "id_canonico": "FIN_VALE_ALIMENTACAO",
+      "numero_clausula_original": 46,
+      "titulo_original": "VALE REFEIÇÃO/ALIMENTAÇÃO",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": 9.00,
+      "unidade": "BRL",
+      "detalhes": {
+        "valor_facial": 9.00,
+        "quantidade": "23 ou 27 vales",
+        "compartilhamento": {
+          "RS-01 a RS-17": 5,
+          "RS-18 a RS-27": 10,
+          "RS-28 a RS-65": 15
+        },
+        "fornecimento_ferias": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Valor facial de R$ 8,50",
+        "pedido_fentect": "Valor facial de R$ 13,00",
+        "decisao_tst": "DEFERE, fixando R$ 9,00",
+        "fundamento_juridico": "Negociação coletiva",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula econômica parcialmente controvertida.",
+      "pagina_referencia": 13-14
+    },
+    {
+      "id_canonico": "PRO_SALARIO_ADMISSIONAL",
+      "numero_clausula_original": null,
+      "titulo_original": "SALÁRIO ADMISSIONAL",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "elevacao": "RS-01 a RS-07 para RS-08",
+        "aplicacao": "empregados atuais e novos empregados"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Não mencionada explicitamente",
+        "pedido_fentect": "Admitida pela ECT",
+        "decisao_tst": "DEFERE nos termos propostos",
+        "fundamento_juridico": "Negociação coletiva",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula admitida expressamente pela ECT.",
+      "pagina_referencia": 14
+    },
+    {
+      "id_canonico": "PRO_NEGOCIACAO_COLETIVA",
+      "numero_clausula_original": 28,
+      "titulo_original": "NEGOCIAÇÃO COLETIVA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "gatilho": "fatos econômicos, sociais ou políticos que alterem substancialmente a regulamentação salarial",
+        "vedacao_CCP": "não constituir CCP's sem pactuar com a FENTECT"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Acrescentar parágrafo único vedando CCP's sem pactuação",
+        "decisao_tst": "DEFERE como proposta pela ECT",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula social particularmente controvertida. Pedido da FENTECT não acolhido.",
+      "pagina_referencia": 15
+    },
+    {
+      "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+      "numero_clausula_original": 37,
+      "titulo_original": "REEMBOLSO-CRECHE",
+      "status": "DEFERIDO",
+      "valor_anterior": null,
+      "valor_atual": 154.00,
+      "unidade": "BRL",
+      "detalhes": {
+        "valor_mensal": 154.00,
+        "idade_limite": "até 7 anos",
+        "extensao_pai_solteiro": true,
+        "extensao_viuvo": true
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "R$ 142,50",
+        "pedido_fentect": "R$ 154,00",
+        "decisao_tst": "DEFERE, ampliando para R$ 154,00",
+        "fundamento_juridico": "Negociação coletiva",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula social particularmente controvertida.",
+      "pagina_referencia": 15
+    },
+    {
+      "id_canonico": "CON_CIPA",
+      "numero_clausula_original": 10,
+      "titulo_original": "CIPA",
+      "status": "INDEFERIDO",
+      "detalhes": {
+        "proposta_ect": "Critérios conforme legislação específica",
+        "pedido_fentect": "Manutenção nos termos da pauta de reivindicações"
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Critérios conforme legislação específica",
+        "pedido_fentect": "Manutenção nos termos da pauta",
+        "decisao_tst": "INDEFERE a cláusula",
+        "fundamento_juridico": "Não se pode exercitar o poder normativo para dizer que a lei deve ser cumprida",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula social controvertida. TST não deferiu.",
+      "pagina_referencia": 16
+    },
+    {
+      "id_canonico": "SOC_SAUDE_EMPREGADO",
+      "numero_clausula_original": 41,
+      "titulo_original": "SAÚDE DO EMPREGADO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "campanhas_prevencao": true,
+        "estudos_ergonomicos": true,
+        "exames_cancer": ["mama", "uterino", "próstata"]
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Manutenção da cláusula",
+        "pedido_fentect": "Ampliação nos termos da pauta",
+        "decisao_tst": "DEFERE como proposta pela ECT",
+        "fundamento_juridico": "Cláusula preexistente",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula social controvertida. Pedido de ampliação da FENTECT não acolhido.",
+      "pagina_referencia": 17
+    },
+    {
+      "id_canonico": "PRO_VIGENCIA",
+      "numero_clausula_original": 47,
+      "titulo_original": "VIGÊNCIA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "data_inicio": "2000-08-01",
+        "data_fim": "2001-07-31",
+        "duracao_meses": 12
+      },
+      "memoria_negociacao": {
+        "proposta_ect": "Vigência de 1 ano",
+        "pedido_fentect": "Manutenção nos termos da pauta",
+        "decisao_tst": "DEFERE como proposta",
+        "fundamento_juridico": "Cláusula negociada",
+        "votos_divergentes": null
+      },
+      "observacao": "Cláusula social controvertida.",
+      "pagina_referencia": 17
+    }
+  ],
+  "temas_nao_mapeados": [
+    {
+      "tema": "CLÁUSULAS INCONTROVERSAS NÃO LISTADAS",
+      "descricao": "Algumas cláusulas do ACT anterior podem ter sido mantidas sem discussão e não estão explicitamente listadas no acórdão."
+    }
+  ],
+  "retorno_ao_trabalho": null,
+  "dispositivo_final": {
+    "data_base": "2000-08-01",
+    "vigencia": "2000-08-01 a 2001-07-31",
+    "data_julgamento": "2000-11-30",
+    "local": "Brasília/DF",
+    "reajuste": "3% sobre tabela salarial",
+    "abono": "50% do salário-base de julho/2000, com mínimo de R$ 525,00 e máximo de R$ 1.000,00",
+    "vale_cesta": "R$ 42,00",
+    "vale_alimentacao": "R$ 9,00",
+    "reembolso_creche": "R$ 154,00",
+    "auxilio_dependentes": "R$ 235,00",
+    "quebra_caixa": "R$ 45,60",
+    "salario_admissional": "Elevação de RS-01 a RS-07 para RS-08",
+    "custas": "R$ 100.000,00 (calculadas sobre o valor da causa)",
+    "observacoes": "DC 2000/2001 julgado pelo TST em 30/11/2000. Reajuste de 3% + abono de 50%. Vale-cesta de R$ 42,00; VA de R$ 9,00; Reembolso Creche de R$ 154,00. Cláusula de CIPA indeferida. Liberação de dirigentes sindicais limitada até 31/12/2000."
+  },
+  "notas_metodologicas": [
+    {
+      "tipo": "DC_TST",
+      "tema": "GERAL",
+      "descricao": "Dissídio Coletivo de Natureza Econômica julgado pelo TST (Processo TST-DC-695050/2000.5), Seção Especializada em Dissídios Coletivos, Relator Ministro José Luciano de Castilho Pereira, Presidente Ministro Almir Pazzianotto Pinto. Julgado em 30/11/2000."
+    },
+    {
+      "tipo": "VALORES_DC_2000_2001",
+      "tema": "GERAL",
+      "descricao": "Valores do DC 2000/2001: Reajuste 3%; Abono 50% (mín. R$ 525,00 / máx. R$ 1.000,00); Vale Cesta R$ 42,00; VA/VR R$ 9,00; Auxílio Dependentes R$ 235,00; Reembolso Creche R$ 154,00; Quebra Caixa R$ 45,60; Salário Admissional RS-08."
+    },
+    {
+      "tipo": "DIFERENCAS_ACT_1999_2000",
+      "tema": "GERAL",
+      "descricao": "Comparado ao ACT 1999/2000, o DC 2000/2001 tinha: (1) Reajuste de 3% + abono de 50% (contra 2% + abono de 50% em 1999-2000); (2) VA/VR de R$ 9,00 (contra R$ 8,50 em 1999-2000); (3) Vale Cesta de R$ 42,00 (contra R$ 40,00 em 1999-2000); (4) Auxílio Dependentes R$ 235,00 (mesmo valor); (5) Reembolso Creche R$ 154,00 (contra R$ 142,50 em 1999-2000); (6) Quebra Caixa R$ 45,60 (mesmo valor); (7) Elevação do salário admissional de RS-01 a RS-07 para RS-08; (8) Liberação de dirigentes sindicais com redução após 31/12/2000; (9) Cláusula de CIPA indeferida."
+    }
+  ]
+}

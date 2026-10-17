@@ -1,0 +1,48 @@
+[
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DIVERSIDADE_INCLUSAO",
+    "numero_clausula_original": 5,
+    "titulo_original": "DIVERSIDADE E INCLUSÃO",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "publicos": [
+        "PCD",
+        "Jovens",
+        "Idosos",
+        "LGBT",
+        "Povos Indígenas"
+      ],
+      "campanhas": true,
+      "seminarios": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "4"
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "SIN_DIVERSIDADE_INCLUSAO",
+    "numero_clausula_original": 5,
+    "titulo_original": "VALORIZAÇÃO DA DIVERSIDADE HUMANA E RESPEITO ÀS DIFERENÇAS",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "publicos": [
+        "PCD",
+        "Jovens",
+        "Idosos",
+        "LGBT",
+        "Povos Indígenas"
+      ],
+      "campanhas": true,
+      "comissoes_regionais": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "5"
+  }
+]

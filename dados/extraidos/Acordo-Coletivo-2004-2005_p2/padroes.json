@@ -1,0 +1,78 @@
+{
+  "datas_br": {
+    "total": 0,
+    "amostra": []
+  },
+  "datas_ext": {
+    "total": 1,
+    "amostra": [
+      "19 de Dezembro de 2000"
+    ]
+  },
+  "valores_brl": {
+    "total": 2,
+    "amostra": [
+      "R$ 87,45",
+      "R$ 116,60"
+    ]
+  },
+  "percentuais": {
+    "total": 2,
+    "amostra": [
+      "70%",
+      "20%"
+    ]
+  },
+  "clausulas": {
+    "total": 21,
+    "amostra": [
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "31",
+      "32",
+      "11",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "46"
+    ]
+  },
+  "processos_tst": {
+    "total": 0,
+    "amostra": []
+  },
+  "cnpj": {
+    "total": 0,
+    "amostra": []
+  },
+  "artigos": {
+    "total": 0,
+    "amostra": []
+  },
+  "incisos": {
+    "total": 5,
+    "amostra": [
+      "M",
+      "V",
+      "L",
+      "inciso XVII",
+      "DX"
+    ]
+  },
+  "paragrafos": {
+    "total": 0,
+    "amostra": []
+  }
+}

@@ -1,0 +1,31 @@
+[
+  {
+    "ano_inicio": 1988,
+    "ano_fim": 1989,
+    "tipo": "ACT",
+    "id_canonico": "SIN_REVOGACAO_SUSPENSOES",
+    "numero_clausula_original": 21,
+    "titulo_original": "REVISÃO DE PUNIÇÕES",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "rever procedimentos em 1989"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "7"
+  },
+  {
+    "ano_inicio": 1991,
+    "ano_fim": 1991,
+    "tipo": "DC",
+    "id_canonico": "SIN_REVOGACAO_SUSPENSOES",
+    "numero_clausula_original": 52,
+    "titulo_original": "REVOGAÇÃO DE SUSPENSÕES",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "reverter suspensões de contrato para apuração de falta grave de dirigentes sindicais",
+      "condicao": "objeto não submetido a inquérito policial"
+    },
+    "pagina_referencia": "7"
+  }
+]

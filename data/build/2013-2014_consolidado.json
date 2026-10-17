@@ -1,0 +1,1085 @@
+{
+  "grupo": "2013-2014",
+  "documentos_fonte": {
+    "DC": "data\\DC 2013-2014.json",
+    "FINDECT": "data\\ACT 2013-2014 FINDECT.json",
+    "Unificado": "data\\ACT 2013-2014 Unificado.json"
+  },
+  "total_ids": 67,
+  "total_clausulas": 133,
+  "total_divergencias": 19,
+  "total_materiais": 10,
+  "total_parafrases": 9,
+  "clausulas": [
+    {
+      "id_canonico": "CON_REGISTRO_PONTO",
+      "titulo_original": "REGISTRO DE PONTO",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Registro exclusivamente pelo empregado sob supervisão da Empresa. Vedada interferência de terceiros. Tolerância de 5 min (lei) + 5 min adicionais no início de cada turno, limitado a 4 vezes ao mês.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 54,
+        "FINDECT": 54
+      }
+    },
+    {
+      "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+      "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Em caso de posterior instituição legal de benefícios ou vantagens previstos neste instrumento, será feita compensação para evitar acúmulo de acréscimos pecuniários sob o mesmo título ou idêntico fundamento.",
+      "divergencia": true,
+      "divergencia_material": false,
+      "parafrase": true,
+      "numero_original": {
+        "DC": 3,
+        "FINDECT": 3
+      }
+    },
+    {
+      "id_canonico": "FIN_ADIANTAMENTO_FERIAS",
+      "titulo_original": "ADIANTAMENTO DE FÉRIAS",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Adiantamento de um salário-base + anuênios/quinquênios + IGQP incorporado + gratificação de função, reembolsável em até 5 parcelas mensais. Férias podem ser concedidas em 2 períodos (mínimo 10 dias corridos cada, mesmo período concessivo, interstício mínimo de 30 dias).",
+      "divergencia": true,
+      "divergencia_material": false,
+      "parafrase": true,
+      "numero_original": {
+        "DC": 4,
+        "FINDECT": 4
+      }
+    },
+    {
+      "id_canonico": "FIN_ADICIONAL_NOTURNO",
+      "titulo_original": "ADICIONAL NOTURNO",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Acréscimo de 60% sobre o valor da hora diurna em relação ao salário-base, já incluído o adicional legal. Horário noturno: 20h às 6h, com hora reduzida de 52min30s. Não há suspensão do adicional em licença médica (primeiros 15 dias), treinamento, viagem a serviço ou folgas compensatórias.",
+      "divergencia": true,
+      "divergencia_material": false,
+      "parafrase": true,
+      "numero_original": {
+        "DC": 5,
+        "FINDECT": 5
+      }
+    },
+    {
+      "id_canonico": "FIN_AJUDA_CUSTO_TRANSFERENCIA",
+      "titulo_original": "AJUDA DE CUSTO NA TRANSFERÊNCIA",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Calculada sobre salário-base + anuênios + IGQP incorporado + gratificação de função. Valor mínimo: R$ 1.244,95. Despesas de transferência por necessidade de serviço são de responsabilidade da ECT.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 6,
+        "FINDECT": 6
+      }
+    },
+    {
+      "id_canonico": "FIN_ANTECIPACAO_GRATIFICACAO_NATALINA",
+      "titulo_original": "ANTECIPAÇÃO DE 50% DA GRATIFICAÇÃO NATALINA",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Empregados que em 2014 não gozarem férias até junho e não optarem pelo recebimento nas férias receberão 50% do 13º em 2 parcelas (25% em março/2014 + 25% em junho/2014) ou em parcela única de 50% em junho/2014. Diferença paga até 20/12/2014.",
+      "divergencia": true,
+      "divergencia_material": false,
+      "parafrase": true,
+      "numero_original": {
+        "DC": 8,
+        "FINDECT": 8
+      }
+    },
+    {
+      "id_canonico": "FIN_ANUENIOS",
+      "titulo_original": "ANUÊNIOS",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "1% mensal aplicado ao salário-base + gratificação de função/complementação, por ano de serviço, retroativo a 20/03/1969. Limite máximo de 35%. Não gera direitos sobre pagamentos pretéritos.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 9,
+        "FINDECT": 9
+      }
+    },
+    {
+      "id_canonico": "FIN_COMPENSACAO_GREVE",
+      "titulo_original": "COMPENSAÇÃO DOS DIAS PARADOS",
+      "presente_em": [
+        "Unificado"
+      ],
+      "texto_consolidado": "Os dias parados em razão da greve deflagrada desde as 22h do dia 11 de setembro de 2013 deverão ser compensados nos dias 14 e 15/09/2013 ou por convocação de cada Diretoria Regional, no prazo de até 90 dias.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "Unificado": 4
+      }
+    },
+    {
+      "id_canonico": "FIN_GRATIFICACAO_FERIAS",
+      "titulo_original": "GRATIFICAÇÃO DE FÉRIAS",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Gratificação de férias de 70% da remuneração vigente (inclui o terço constitucional). Paga proporcionalmente se férias em 2 períodos. Não gera direitos sobre pagamentos pretéritos.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 29,
+        "FINDECT": 29
+      }
+    },
+    {
+      "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+      "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "R$ 172,63 (agências sem Banco Postal) ou R$ 230,17 (agências com Banco Postal). Prevalece a maior se houver outra gratificação. Cobertura de horário de almoço: 25% do valor. Não gera direitos sobre pagamentos pretéritos.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 30,
+        "FINDECT": 30
+      }
+    },
+    {
+      "id_canonico": "FIN_HORAS_EXTRAS",
+      "titulo_original": "HORAS EXTRAS",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Acréscimo de 70% sobre a hora normal (salário-base), pagas na folha do mês subsequente. Períodos de liberação oficial não podem ser compensados.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 31,
+        "FINDECT": 31
+      }
+    },
+    {
+      "id_canonico": "FIN_PAGAMENTO_SALARIO",
+      "titulo_original": "PAGAMENTO DE SALÁRIO",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Salários pagos no último dia útil bancário do mês trabalhado.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 42,
+        "FINDECT": 42
+      }
+    },
+    {
+      "id_canonico": "FIN_PENALIDADE",
+      "titulo_original": "PENALIDADE",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Descumprimento de obrigação de fazer gera multa de 20% do dia de serviço do empregado prejudicado.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 44,
+        "FINDECT": 44
+      }
+    },
+    {
+      "id_canonico": "FIN_PLR",
+      "titulo_original": "PARTICIPAÇÃO NOS LUCROS E RESULTADOS - PLR",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "ECT se compromete a negociar PLR com participação da FENTECT, conforme Lei 10.101/2000.",
+      "divergencia": true,
+      "divergencia_material": true,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 43,
+        "FINDECT": 43
+      }
+    },
+    {
+      "id_canonico": "FIN_REAJUSTE_SALARIAL",
+      "titulo_original": "REAJUSTE SALARIAL",
+      "presente_em": [
+        "DC",
+        "FINDECT",
+        "Unificado"
+      ],
+      "texto_consolidado": "Reajuste linear de 8% a partir de 01/08/2013. Reajuste de 6,27% (IPCA-IBGE) para benefícios não salariais: ajuda de custo na transferência, auxílio para dependentes com deficiência, reembolso-creche/babá, vale-refeição/alimentação (vale-cesta extra) e vale-transporte/in itinere.",
+      "divergencia": true,
+      "divergencia_material": true,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 52,
+        "FINDECT": 52,
+        "Unificado": 1
+      }
+    },
+    {
+      "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+      "titulo_original": "REEMBOLSO-CRECHE E REEMBOLSO-BABÁ",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Reembolso creche até o final do ano em que o filho/tutelado/menor sob guarda completar 7 anos. Opção por Reembolso Babá conforme legislação. Limite máximo: R$ 435,68. Estende-se a pai solteiro/separado/viúvo e à empregada em licença-maternidade. Não cobre ensino fundamental.",
+      "divergencia": true,
+      "divergencia_material": false,
+      "parafrase": true,
+      "numero_original": {
+        "DC": 53,
+        "FINDECT": 53
+      }
+    },
+    {
+      "id_canonico": "FIN_TRABALHO_DIA_REPOUSO",
+      "titulo_original": "TRABALHO EM DIA DE REPOUSO",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Pagamento de 200% sobre o valor pago no dia de jornada normal + vale alimentação/refeição. Opção por 2 folgas compensatórias. Convocação com 48h de antecedência (salvo excepcionalidades).",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 58,
+        "FINDECT": 58
+      }
+    },
+    {
+      "id_canonico": "FIN_TRABALHO_FINS_SEMANA",
+      "titulo_original": "TRABALHO NOS FINS DE SEMANA",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Empregados de área operacional com 44h semanais que trabalham regularmente fins de semana recebem 15% adicional do salário-base pelas horas trabalhadas. Convocação eventual: 1/4 de 15% por fim de semana, limitado a 15% ao mês + vale alimentação/refeição.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 59,
+        "FINDECT": 59
+      }
+    },
+    {
+      "id_canonico": "FIN_VALE_ALIMENTACAO",
+      "titulo_original": "VALE REFEIÇÃO/ALIMENTAÇÃO",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Vale Refeição/Alimentação de R$ 28,29 (23 ou 27 vales conforme jornada) + Vale Cesta de R$ 158,45. Compartilhamento: 5% (NM-01 a NM-18), 10% (NM-19 a NM-38), 15% (NM-39 a NM-90 e NS-01 a NS-60). Crédito extra de R$ 650,65 (Vale Cesta extra) em dezembro/2013 para admitidos até 31/07/2013.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 61,
+        "FINDECT": 61
+      }
+    },
+    {
+      "id_canonico": "FIN_VALE_TRANSPORTE",
+      "titulo_original": "VALE TRANSPORTE E JORNADA DE TRABALHO IN ITINERE",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "ECT fornecerá vale transporte. Compartilhamento de outros meios de transporte coletivo legalizados até 120 km e R$ 631,97/mês, sem natureza salarial. Pagamento de jornada in itinere condicionado ao art. 58, parágrafo 2º, da CLT.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 62,
+        "FINDECT": 62
+      }
+    },
+    {
+      "id_canonico": "PRO_ACESSO_DEPENDENCIAS",
+      "titulo_original": "ACESSO ÀS DEPENDÊNCIAS",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Quando solicitado pelas entidades sindicais e acordado entre as partes, os empregados da ECT regularmente eleitos como dirigentes sindicais e que não estejam com contrato suspenso para apuração de falta grave terão acesso às dependências da Empresa para tratar de assuntos de interesse exclusivo dos empregados. Reuniões em CDD, CEE, CT e CTE podem ocorrer durante a jornada; nas demais unidades, no início ou final da jornada. Máximo de 3 dirigentes, duração máxima de 40 min. Solicitação com 2 dias úteis de antecedência.",
+      "divergencia": true,
+      "divergencia_material": false,
+      "parafrase": true,
+      "numero_original": {
+        "DC": 1,
+        "FINDECT": 1
+      }
+    },
+    {
+      "id_canonico": "PRO_CONCILIACAO_DIVERGENCIAS",
+      "titulo_original": "CONCILIAÇÃO DE DIVERGÊNCIAS",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Divergências de interpretação devem ser comunicadas por escrito à ECT para conciliação em 15 dias antes de irem à Justiça do Trabalho.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 15,
+        "FINDECT": 15
+      }
+    },
+    {
+      "id_canonico": "PRO_CONCURSO_PUBLICO",
+      "titulo_original": "CONCURSO PÚBLICO",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Concursos sem discriminação racial, religiosa ou de orientação sexual. Reserva de 10% das vagas para deficientes físicos.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 16,
+        "FINDECT": 16
+      }
+    },
+    {
+      "id_canonico": "PRO_CONDICAO_EFICACIA_RETORNO",
+      "titulo_original": "CONDIÇÃO DE EFICÁCIA - RETORNO AO TRABALHO",
+      "presente_em": [
+        "Unificado"
+      ],
+      "texto_consolidado": "A eficácia do presente Acordo está condicionada à finalização do movimento de greve e ao retorno da categoria ao trabalho a partir das 22h do dia 13 de setembro de 2013.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "Unificado": 3
+      }
+    },
+    {
+      "id_canonico": "PRO_CONTRATACAO_EMPREGADOS",
+      "titulo_original": "CONTRATAÇÃO DE EMPREGADOS",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "ECT continuará observando a sistemática de alocação e reposição de pessoal para garantir efetivo necessário à prestação qualitativa e contínua dos serviços postais.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 17,
+        "FINDECT": 17
+      }
+    },
+    {
+      "id_canonico": "PRO_CURSOS_REUNIOES_OBRIGATORIAS",
+      "titulo_original": "CURSOS E REUNIÕES OBRIGATÓRIAS",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Cursos obrigatórios fora do horário de serviço geram horas extras. Compensação em dobro facultativa. Comunicação com 3 dias úteis de antecedência. Treinamento sobre cédulas falsas para recém-contratados.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 18,
+        "FINDECT": 18
+      }
+    },
+    {
+      "id_canonico": "PRO_DIREITO_AMPLA_DEFESA",
+      "titulo_original": "DIREITO À AMPLA DEFESA",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Empregados em processo de falta grave têm direito a documentos e ampla defesa. Acrescido: 'A critério do empregado o sindicato poderá acompanhar o processo de apuração'.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 21,
+        "FINDECT": 21
+      }
+    },
+    {
+      "id_canonico": "PRO_GARANTIAS_EMPREGADO_ESTUDANTE",
+      "titulo_original": "GARANTIAS AO EMPREGADO ESTUDANTE",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Abono de ausências em provas de vestibular; não alteração da jornada no período letivo; estágio curricular na Empresa; incentivo ao ensino fundamental e médio; acesso à internet (PIDI); gestão por descontos em cursinhos/faculdades; não convocação para horas extras em horário escolar sem concordância expressa.",
+      "divergencia": true,
+      "divergencia_material": true,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 28,
+        "FINDECT": 28
+      }
+    },
+    {
+      "id_canonico": "PRO_INCORPORACAO_SENTENCA_NORMATIVA",
+      "titulo_original": "INCORPORAÇÃO DA SENTENÇA NORMATIVA E CONQUISTAS",
+      "presente_em": [
+        "Unificado"
+      ],
+      "texto_consolidado": "Cláusulas previstas na sentença normativa (Processo nº TST-DC-8981-76.2012.5.00.0000) até então vigentes, bem como as cláusulas que representam avanços e conquistas acordados durante a presente negociação coletiva (conforme Ata em anexo - reunião de 12/09/2013), passam a integrar o presente ACT.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "Unificado": 2
+      }
+    },
+    {
+      "id_canonico": "PRO_INOVACOES_TECNOLOGICAS",
+      "titulo_original": "INOVAÇÕES TECNOLÓGICAS",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "ECT realocará empregado afetado por inovação tecnológica ou racionalização, qualificando-o para nova atividade compatível.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 32,
+        "FINDECT": 32
+      }
+    },
+    {
+      "id_canonico": "PRO_NEGOCIACAO_COLETIVA",
+      "titulo_original": "NEGOCIAÇÃO COLETIVA",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Fatos econômicos, sociais ou políticos que alterem substancialmente a regulamentação salarial serão revistos de comum acordo entre as partes.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 41,
+        "FINDECT": 41
+      }
+    },
+    {
+      "id_canonico": "PRO_PROCESSO_PERMANENTE_NEGOCIACAO",
+      "titulo_original": "PROCESSO PERMANENTE DE NEGOCIAÇÃO",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Mesas temáticas: Anistia (30 dias após julgamento), SD - Sistema de Distritamento (45 dias), Casa Própria (120 dias). Cronograma de reuniões elaborado em conjunto. Liberação dos componentes das comissões. Deliberações submetidas às assembleias dos sindicatos filiados.",
+      "divergencia": true,
+      "divergencia_material": true,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 46,
+        "FINDECT": 46
+      }
+    },
+    {
+      "id_canonico": "PRO_PRORROGACAO_REVISAO_DENUNCIA",
+      "titulo_original": "PRORROGAÇÃO, REVISÃO, DENÚNCIA OU REVOGAÇÃO",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Subordinada ao art. 615 da CLT.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 49,
+        "FINDECT": 49
+      }
+    },
+    {
+      "id_canonico": "PRO_VIGENCIA",
+      "titulo_original": "VIGÊNCIA",
+      "presente_em": [
+        "DC",
+        "FINDECT",
+        "Unificado"
+      ],
+      "texto_consolidado": "Vigência a partir de 01/08/2013 até que sentença normativa, CCT ou ACT superveniente produza revogação expressa ou tácita, respeitado o prazo máximo legal de 4 anos.",
+      "divergencia": true,
+      "divergencia_material": true,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 64,
+        "FINDECT": 64,
+        "Unificado": 5
+      }
+    },
+    {
+      "id_canonico": "SIN_ANISTIA",
+      "titulo_original": "ANISTIA",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Quando atos de anistia legal determinarem retorno do anistiado, a ECT adotará imediatamente os procedimentos, permitindo acesso a documentos. Assuntos não decididos judicialmente serão tratados entre GNEG e Comissão de Anistia da FENTECT.",
+      "divergencia": true,
+      "divergencia_material": true,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 7,
+        "FINDECT": 7
+      }
+    },
+    {
+      "id_canonico": "SIN_DELEGADO_SINDICAL",
+      "titulo_original": "DELEGADO SINDICAL",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Delegado sindical não pode ser punido ou demitido sem apuração prévia com amplo direito de defesa e assistência sindical. Número de delegados por sindicato segue critérios de razoabilidade, avaliados pela ECT e FENTECT.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 19,
+        "FINDECT": 19
+      }
+    },
+    {
+      "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+      "titulo_original": "DESCONTO ASSISTENCIAL",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Desconto em folha conforme aprovado em assembleia. Oposição até o dia 12 do mês, por escrito ao Sindicato. Atas das assembleias enviadas em até 2 dias úteis, relação dos opositores até o dia 15. Incluído §4º: empregado não sindicalizado pode optar pelo desconto assistencial.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 20,
+        "FINDECT": 20
+      }
+    },
+    {
+      "id_canonico": "SIN_DISCRIMINACAO_RACIAL",
+      "titulo_original": "DISCRIMINAÇÃO RACIAL",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "ECT implementará políticas contra discriminação racial. Denúncias por escrito à área de gestão das relações sindicais.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 22,
+        "FINDECT": 22
+      }
+    },
+    {
+      "id_canonico": "SIN_FORNECIMENTO_MANUAL",
+      "titulo_original": "FORNECIMENTO DE MANUAL",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "ECT fornecerá à FENTECT e sindicatos cópia do Manual de Pessoal em até 5 dias da solicitação.",
+      "divergencia": true,
+      "divergencia_material": true,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 26,
+        "FINDECT": 26
+      }
+    },
+    {
+      "id_canonico": "SIN_LIBERACAO_CONSELHO_POSTALIS",
+      "titulo_original": "LIBERAÇÃO DE CONSELHEIRO DO POSTALIS",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "ECT libera membros do Conselho Deliberativo e Fiscal do POSTALIS, eleitos pelos empregados ou indicados pela Empresa, para exercício das atribuições.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 37,
+        "FINDECT": 37
+      }
+    },
+    {
+      "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+      "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "ECT libera 11 empregados para a FENTECT e 5 por sindicato, sem prejuízo de remuneração. Não se aplica a entidades constituídas a partir de 01/08/2009. Solicitação por escrito à GNEG/ASGET com 2 dias úteis de antecedência. Liberação sem ônus registrada como Licença não Remunerada de Dirigente Sindical.",
+      "divergencia": true,
+      "divergencia_material": true,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 36,
+        "FINDECT": 36
+      }
+    },
+    {
+      "id_canonico": "SIN_QUADRO_AVISOS",
+      "titulo_original": "QUADRO DE AVISOS",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Quadro de avisos de propriedade do sindicato, 1,00m x 1,20m, fundo verde, proteção de vidro com fechadura, chaves sob controle exclusivo do sindicato. Vedadas manifestações político-partidárias ou ofensivas.",
+      "divergencia": true,
+      "divergencia_material": true,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 50,
+        "FINDECT": 50
+      }
+    },
+    {
+      "id_canonico": "SIN_RELACAO_NOMINAL_EMPREGADOS",
+      "titulo_original": "RELAÇÃO NOMINAL DE EMPREGADOS",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "ECT disponibilizará, quando solicitado, por meio magnético, em até 5 dias úteis, relação com nome, matrícula, cargo/atividade e lotação. Intervalo mínimo entre solicitações: 1 mês.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 55,
+        "FINDECT": 55
+      }
+    },
+    {
+      "id_canonico": "SIN_REPASSE_MENSALIDADES",
+      "titulo_original": "REPASSE DAS MENSALIDADES DO SINDICATO",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Desconto em folha conforme Atas de Assembleias. Repasse no primeiro dia útil após o pagamento mensal. Restabelecimento após retorno de afastados. Comunicação de filiação/desfiliação até o dia 10.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 56,
+        "FINDECT": 56
+      }
+    },
+    {
+      "id_canonico": "SOC_ACOMPANHANTE",
+      "titulo_original": "ACOMPANHANTE",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Ausência remunerada de até 6 dias (12 turnos) para levar ao médico: dependentes menores de 18 anos, dependentes com deficiência, esposa/companheira gestante, cônjuge com impossibilidade de locomoção, pais com mais de 60 anos. Exige atestado médico em até 2 dias úteis.",
+      "divergencia": true,
+      "divergencia_material": false,
+      "parafrase": true,
+      "numero_original": {
+        "DC": 2,
+        "FINDECT": 2
+      }
+    },
+    {
+      "id_canonico": "SOC_ASSEDIO_SEXUAL_MORAL",
+      "titulo_original": "ASSÉDIO SEXUAL E ASSÉDIO MORAL",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "ECT prosseguirá com programas educativos. Denúncias por escrito à área de gestão das relações sindicais, com apoio sindical facultativo. Vítimas receberão orientação psicológica se solicitarem.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 10,
+        "FINDECT": 10
+      }
+    },
+    {
+      "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+      "titulo_original": "ASSISTÊNCIA MÉDICA/HOSPITALAR E ODONTOLÓGICA",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "ECT como gestora. Atende ativos, aposentados na ativa, aposentados desligados e por invalidez, e dependentes. Compartilhamento por faixa salarial: NM-01 a NM-16 = 10%; NM-17 a NM-48 = 15%; NM-49 a NM-90 = 20%; NS-01 a NS-60 = 20%. Teto: 2x salário-base (ativos) ou 3x soma INSS+POSTALIS (aposentados). Ressarcimento de medicamentos até R$ 28,00/mês.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 11,
+        "FINDECT": 11
+      }
+    },
+    {
+      "id_canonico": "SOC_ATESTADO_SAUDE_DEMISSAO",
+      "titulo_original": "ATESTADO DE SAÚDE NA DEMISSÃO",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Quando solicitado pelo sindicato, a Empresa encaminhará cópia de todas as rescisões com ASO dos empregados demitidos nas unidades do interior (homologação em DRT) e dos demitidos antes de 1 ano (homologação na Empresa).",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 12,
+        "FINDECT": 12
+      }
+    },
+    {
+      "id_canonico": "SOC_AUXILIO_DEPENDENTES_DEFICIENCIA",
+      "titulo_original": "AUXÍLIO PARA DEPENDENTES COM DEFICIÊNCIA",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Reembolso de despesas com recursos especializados para filhos, enteados e tutelados com deficiência. Limite mensal: R$ 691,82 por dependente. Gastos superiores podem ser reembolsados com base em parecer do Serviço Médico e Social.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 13,
+        "FINDECT": 13
+      }
+    },
+    {
+      "id_canonico": "SOC_CIPA",
+      "titulo_original": "COMISSÃO INTERNA DE PREVENÇÃO DE ACIDENTES - CIPA",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Eleições em todos os estabelecimentos com mais de 30 empregados. Convocação em até 60 dias antes do término do mandato. Liberação mensal dos cipeiros: 4h (menos de 400 empregados), 6h (400-1000), 8h (mais de 1000). Ata de reunião fornecida em até 5 dias úteis.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 14,
+        "FINDECT": 14
+      }
+    },
+    {
+      "id_canonico": "SOC_EMPREGADO_HIV",
+      "titulo_original": "EMPREGADO PORTADOR DO VÍRUS HIV",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Remanejamento para outra função a pedido do empregado ou por recomendação médica, vedada dispensa sem justa causa. ECT facilitará obtenção de medicamentos e exames.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 24,
+        "FINDECT": 24
+      }
+    },
+    {
+      "id_canonico": "SOC_FORNECIMENTO_CAT_LISA",
+      "titulo_original": "FORNECIMENTO DE CAT/LISA",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "ECT emitirá CAT nos casos de doenças ocupacionais, acidentes de trabalho, assaltos em serviço, atividades promovidas e representação. Cópia das CAT/LISA fornecida ao sindicato até o 10º dia útil de cada mês.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 25,
+        "FINDECT": 25
+      }
+    },
+    {
+      "id_canonico": "SOC_GARANTIAS_MULHER",
+      "titulo_original": "GARANTIAS A MULHER ECETISTA",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Mudança provisória de tarefa na gravidez; mudança automática a partir do 5º mês para serviços internos; manutenção de adicionais; licença-maternidade entre 28º dia antes do parto e o parto; permanência de 2 meses em atividades internas após a licença; estabilidade de 90 dias após a licença (inclusive prorrogação); banheiro feminino com ducha higiênica em novas edificações maiores de 120m²; igualdade na seleção para função motorizada.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 27,
+        "FINDECT": 27
+      }
+    },
+    {
+      "id_canonico": "SOC_ITENS_PROTECAO",
+      "titulo_original": "ITENS DE USO E PROTEÇÃO AO EMPREGADO",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Uniformes adequados ao sexo, atividade e clima. Meias de compressão, joelheira, cinturão ergonômico, tênis com amortecedor, protetor solar e óculos de sol para carteiros/OTTs/motoristas/atendentes. EPI conforme NR-06. PPRA. Motorizado M recebe 2 peças por item (luvas, calça, jaqueta de couro, bota, macacão). Cadastro de doadores de sangue com tipo sanguíneo no crachá.",
+      "divergencia": true,
+      "divergencia_material": false,
+      "parafrase": true,
+      "numero_original": {
+        "DC": 33,
+        "FINDECT": 33
+      }
+    },
+    {
+      "id_canonico": "SOC_LICENCA_ADOCAO",
+      "titulo_original": "LICENÇA-ADOÇÃO",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Licença de 120 dias (criança até 1 ano), 60 dias (1-4 anos), 30 dias (4-8 anos). Prorrogável. Incluído §8º: direito à licença-adoção para empregados(as) em união homoafetiva estável, desde que o companheiro(a) não utilize o mesmo benefício.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 38,
+        "FINDECT": 38
+      }
+    },
+    {
+      "id_canonico": "SOC_MEDIDAS_SEGURANCA",
+      "titulo_original": "MEDIDAS DE SEGURANÇA",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "ECT adotará medidas para preservar segurança física de empregados, clientes e visitantes. Aprimoramento do transporte de numerários, acessibilidade para deficientes, ergonomia do ambiente.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 39,
+        "FINDECT": 39
+      }
+    },
+    {
+      "id_canonico": "SOC_PERIODO_AMAMENTACAO",
+      "titulo_original": "PERÍODO DE AMAMENTAÇÃO",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Descanso especial de 2h (ou 2 descansos de 1h) até o filho completar 1 ano. Jornada pode ser de 6h corridas. Prioridade para vaga em unidade próxima à residência. Jornada inferior: 2 descansos de 30min ou 1 de 1h.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 45,
+        "FINDECT": 45
+      }
+    },
+    {
+      "id_canonico": "SOC_PROGRAMA_CASA_PROPRIA",
+      "titulo_original": "PROGRAMA CASA PRÓPRIA",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "ECT desenvolverá ações de prospecção e divulgação de ofertas de moradia para baixa renda, com gestão junto a entidades públicas e privadas.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 47,
+        "FINDECT": 47
+      }
+    },
+    {
+      "id_canonico": "SOC_PRORROGACAO_LICENCA_MATERNIDADE",
+      "titulo_original": "PRORROGAÇÃO DA LICENÇA-MATERNIDADE",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Prorrogação de 60 dias (Lei 11.770/2008). Requerimento até 30 dias antes do término da licença de 120 dias. Remuneração integral nos moldes do salário-maternidade. Extensiva à adoção: 60/30/15 dias conforme idade da criança. Vedado exercer atividade remunerada ou manter criança em creche.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 48,
+        "FINDECT": 48
+      }
+    },
+    {
+      "id_canonico": "SOC_REABILITACAO_PROFISSIONAL",
+      "titulo_original": "REABILITAÇÃO PROFISSIONAL",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "ECT assegura reabilitação profissional mediante laudo. Estágio de reabilitação na própria Empresa. Estabilidade de 12 meses. Diretrizes para Comissões Regionais e Nacional de Reabilitação em 90 dias.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 51,
+        "FINDECT": 51
+      }
+    },
+    {
+      "id_canonico": "SOC_SAUDE_EMPREGADO",
+      "titulo_original": "SAÚDE DO EMPREGADO",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Campanhas de prevenção, estudos ergonômicos (NR-17), exames de câncer de mama/útero/próstata/pele/anemia falciforme, combate à hipertensão, acompanhamento psicológico para vítimas de assalto, acesso a prontuário médico, ginástica laboral, exame dermatológico para expostos ao sol.",
+      "divergencia": true,
+      "divergencia_material": true,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 57,
+        "FINDECT": 57
+      }
+    },
+    {
+      "id_canonico": "SOC_TRANSPORTE_NOTURNO",
+      "titulo_original": "TRANSPORTE NOTURNO",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "ECT providenciará transporte sem ônus para empregado que inicie ou encerre expediente entre 22h e 6h, em local de difícil acesso ou sem transporte urbano regular.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 60,
+        "FINDECT": 60
+      }
+    },
+    {
+      "id_canonico": "SOC_VALE_CULTURA",
+      "titulo_original": "VALE-CULTURA",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "A ECT fornecerá aos seus empregados o vale-cultura, conforme disposto no Decreto nº 8.084, de 26 de agosto de 2013.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 63,
+        "FINDECT": 63
+      }
+    },
+    {
+      "id_canonico": "TEC_DISTRIBUICAO_DOMICILIARIA",
+      "titulo_original": "DISTRIBUIÇÃO DOMICILIÁRIA",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Peso máximo: 10kg (homem) e 8kg (mulher). Em caso de gravidez, pode ser reduzido por prescrição médica. Redimensionamento com participação dos carteiros e dirigente sindical, implantado em até 120 dias. Processo seletivo interno para função motorizada prioriza tempo de atuação. ECT estenderá o projeto piloto de entregas matutinas de 3 para 6 unidades em DRs diferentes.",
+      "divergencia": true,
+      "divergencia_material": false,
+      "parafrase": true,
+      "numero_original": {
+        "DC": 23,
+        "FINDECT": 23
+      }
+    },
+    {
+      "id_canonico": "TEC_JORNADA_AGENCIAS",
+      "titulo_original": "JORNADA DE TRABALHO NAS AGÊNCIAS DE CORREIOS",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Início da jornada escalonado para permitir abertura e fechamento das agências. Respeito aos horários de jornada e intervalo de alimentação.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 34,
+        "FINDECT": 34
+      }
+    },
+    {
+      "id_canonico": "TEC_JORNADA_TERMINAIS",
+      "titulo_original": "JORNADA DE TRABALHO PARA TRABALHADORES EM TERMINAIS COMPUTADORIZADOS",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "Intervalo de 10 minutos a cada 50 minutos trabalhados, computados na jornada, para digitação permanente.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 35,
+        "FINDECT": 35
+      }
+    },
+    {
+      "id_canonico": "TEC_MULTAS_TRANSITO",
+      "titulo_original": "MULTAS DE TRÂNSITO",
+      "presente_em": [
+        "DC",
+        "FINDECT"
+      ],
+      "texto_consolidado": "ECT arca provisoriamente com multas em veículos de sua propriedade em percurso programado. Desconto em folha se sem recurso; ressarcimento parcelado se recurso improcedente. Necessidade imperiosa de estacionamento exime o empregado. Cursos de direção defensiva mantidos.",
+      "divergencia": false,
+      "divergencia_material": false,
+      "parafrase": false,
+      "numero_original": {
+        "DC": 40,
+        "FINDECT": 40
+      }
+    }
+  ]
+}

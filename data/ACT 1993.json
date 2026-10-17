@@ -1,0 +1,634 @@
+{
+  "metadados_documento": {
+    "tipo": "ACT",
+    "ano_inicio": 1993,
+    "ano_fim": 1994,
+    "processo": "Negociação direta ECT/FENTECT",
+    "tribunal": null,
+    "orgao": null,
+    "relator": null,
+    "data_julgamento": null,
+    "data_publicacao": null,
+    "entidade_patronal": "ECT",
+    "entidades_profissionais": [
+      "FENTECT"
+    ],
+    "arquivo_origem": "Acordo-Coletivo-1993_red.pdf",
+    "greve": null
+  },
+  "clausulas": [
+    {
+      "id_canonico": "FIN_REAJUSTE_SALARIAL",
+      "numero_clausula_original": 1,
+      "titulo_original": "REAJUSTE SALARIAL",
+      "status": "DEFERIDO",
+      "valor_atual": 3.0,
+      "unidade": "%",
+      "detalhes": {
+        "produtividade": "3% incorporados ao salário a partir de 01/01/93",
+        "antecipacao_marco": {
+          "ate_6_SM": 70,
+          "acima_6_SM": 60,
+          "base": "IRSM do bimestre anterior sobre salários de 01/01/93"
+        },
+        "antecipacao_julho_novembro": "60% do IRSM do bimestre anterior (se acumulado <= 50%)",
+        "antecipacao_acima_50": {
+          "ate_6_SM": 80,
+          "acima_6_SM": 60
+        },
+        "reajuste_maio_setembro": "conforme Lei 8.542/92"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "1-3"
+    },
+    {
+      "id_canonico": "FIN_ANUENIOS",
+      "numero_clausula_original": 2,
+      "titulo_original": "ANUÊNIOS",
+      "status": "DEFERIDO",
+      "valor_atual": 1,
+      "unidade": "percentual",
+      "detalhes": {
+        "percentual": 1,
+        "base_calculo": "salário-base",
+        "retroacao": "20/03/1969",
+        "quinquenio": "vedada cumulação"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "3"
+    },
+    {
+      "id_canonico": "FIN_GRATIFICACAO_PRODUTIVIDADE",
+      "numero_clausula_original": 3,
+      "titulo_original": "GRATIFICAÇÃO DE PRODUTIVIDADE",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "criterio": "semestral",
+        "condicoes": [
+          "sem punição (exceto advertência)",
+          "sem processo de apuração",
+          "máximo 15 dias de ausência"
+        ],
+        "excecoes": [
+          "férias",
+          "acidente",
+          "licença profissional",
+          "folga aniversário",
+          "convocação judicial",
+          "treinamento",
+          "missões exterior",
+          "transferência",
+          "atividade esportiva/social/cultural",
+          "liberação sindical"
+        ]
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "3-4"
+    },
+    {
+      "id_canonico": "FIN_PAGAMENTO_SALARIO",
+      "numero_clausula_original": 4,
+      "titulo_original": "PAGAMENTO DE SALÁRIOS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "data_pagamento": "2º dia útil bancário do mês subsequente"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "4"
+    },
+    {
+      "id_canonico": "FIN_HORAS_EXTRAS",
+      "numero_clausula_original": 5,
+      "titulo_original": "HORAS EXTRAS",
+      "status": "DEFERIDO",
+      "valor_atual": 60,
+      "unidade": "percentual",
+      "detalhes": {
+        "percentual": 60,
+        "base_calculo": "salário-base",
+        "pagamento": "até 10º dia útil do mês subsequente",
+        "repouso_trabalhado": "mais um dia"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "4-5"
+    },
+    {
+      "id_canonico": "FIN_GRATIFICACAO_FERIAS",
+      "numero_clausula_original": 6,
+      "titulo_original": "GRATIFICAÇÃO DE FÉRIAS",
+      "status": "DEFERIDO",
+      "valor_atual": 70,
+      "unidade": "percentual",
+      "detalhes": {
+        "percentual": 70,
+        "base_calculo": "remuneração vigente"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "5"
+    },
+    {
+      "id_canonico": "FIN_ADIANTAMENTO_FERIAS",
+      "numero_clausula_original": 7,
+      "titulo_original": "ADIANTAMENTO DE FÉRIAS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "valor": "salário-base + anuênios + gratificação de função",
+        "parcelas": "2 a 5",
+        "inicio_restituicao": "primeiro pagamento após o término do descanso"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "5"
+    },
+    {
+      "id_canonico": "FIN_ANTECIPACAO_13",
+      "numero_clausula_original": 8,
+      "titulo_original": "PAGAMENTO DO 13º SALÁRIO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "percentual": 50,
+        "data_pagamento": "julho",
+        "condicao": "não gozou férias até julho",
+        "segunda_parcela": "até 20 de dezembro",
+        "opcao_nao_recebimento": true
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "5-6"
+    },
+    {
+      "id_canonico": "FIN_AJUDA_CUSTO",
+      "numero_clausula_original": 9,
+      "titulo_original": "AJUDA DE CUSTO NA TRANSFERÊNCIA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "calculo": "salário-base + anuênios + gratificação de função",
+        "responsabilidade": "ECT"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "6"
+    },
+    {
+      "id_canonico": "FIN_VALE_REFEICAO",
+      "numero_clausula_original": 10,
+      "titulo_original": "VALE-REFEIÇÃO",
+      "status": "DEFERIDO",
+      "valor_atual": 80000.0,
+      "unidade": "CRUZEIROS",
+      "detalhes": {
+        "distribuicao": "1º dia útil da 2ª quinzena",
+        "valores": {
+          "regioes_metropolitanas": 80000,
+          "150k_a_800k": 68000,
+          "menos_150k": 60000
+        },
+        "reajuste": "INPC/IBGE mensal",
+        "extensao_ferias": true,
+        "extensao_licenca_medica": "45 dias"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "6-7"
+    },
+    {
+      "id_canonico": "FIN_VALE_TRANSPORTE",
+      "numero_clausula_original": 11,
+      "titulo_original": "VALE-TRANSPORTE",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "regra": "assegurado na forma da lei"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "7"
+    },
+    {
+      "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+      "numero_clausula_original": 12,
+      "titulo_original": "ASSISTÊNCIA MÉDICA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "sistema_compartilhado": true,
+        "percentuais": "praticados em dezembro/1992",
+        "extensao_falecimento": "3 meses",
+        "exames_periodicos": "sem ônus",
+        "acidente_trabalho": "atendimento gratuito"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "7-8"
+    },
+    {
+      "id_canonico": "SOC_AUXILIO_DOENCA",
+      "numero_clausula_original": 13,
+      "titulo_original": "AUXÍLIO-DOENÇA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "compromisso": "convênio INSS com reembolso mensal"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "8"
+    },
+    {
+      "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+      "numero_clausula_original": 14,
+      "titulo_original": "AUXÍLIO-CRECHE E PRÉ-ESCOLAR",
+      "status": "DEFERIDO",
+      "valor_atual": 750000.0,
+      "unidade": "CRUZEIROS",
+      "detalhes": {
+        "valor": "Cr$ 750.000,00 (jan/1993)",
+        "correcao": "bimestral INPC/IBGE",
+        "idade_limite": "até 7 anos",
+        "extensao_viuvo_separado": true
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "8-9"
+    },
+    {
+      "id_canonico": "FIN_AUXILIO_DEPENDENTES_DEFICIENCIA",
+      "numero_clausula_original": 15,
+      "titulo_original": "AUXÍLIO PARA FILHOS DEPENDENTES DE CUIDADOS ESPECIAIS",
+      "status": "DEFERIDO",
+      "valor_atual": 1000000.0,
+      "unidade": "CRUZEIROS",
+      "detalhes": {
+        "percentual_reembolso": 70,
+        "valor_mensal": "Cr$ 1.000.000,00 (jan/1993)",
+        "correcao": "bimestral INPC/IBGE",
+        "publico_alvo": "filhos menores de 21 anos"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "9-10"
+    },
+    {
+      "id_canonico": "SOC_PERIODO_AMAMENTACAO",
+      "numero_clausula_original": 16,
+      "titulo_original": "PERÍODO DE AMAMENTAÇÃO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "intervalo": "2 descansos de 30 min",
+        "idade_limite_filho": "6 meses",
+        "opcao": "1 descanso de 1h"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "10"
+    },
+    {
+      "id_canonico": "FIN_VALE_ALIMENTACAO",
+      "numero_clausula_original": 17,
+      "titulo_original": "CESTA BÁSICA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "compartilhamento": {
+          "nivel_basico": 30,
+          "nivel_medio": 40,
+          "nivel_superior": 50
+        },
+        "regionalizacao": true,
+        "extensao_afastados": "45 dias + férias",
+        "prorrogacao_acidente": "avaliação Chefia + Serviço Social"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "10-11"
+    },
+    {
+      "id_canonico": "SOC_LICENCA_ADOCAO",
+      "numero_clausula_original": 18,
+      "titulo_original": "LICENÇA-ADOÇÃO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "dias_licenca": 60,
+        "idade_crianca": "0 a 15 meses",
+        "inicio_contagem": "comprovação oficial da guarda"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "11-12"
+    },
+    {
+      "id_canonico": "FIN_GRATIFICACAO_QUEBRA_CAIXA",
+      "numero_clausula_original": 19,
+      "titulo_original": "GRATIFICAÇÃO DE QUEBRA DE CAIXA",
+      "status": "DEFERIDO",
+      "valor_atual": 6,
+      "unidade": "percentual",
+      "detalhes": {
+        "percentual": "6% da referência B-24",
+        "publico_alvo": "Agências de categoria I a V"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "12"
+    },
+    {
+      "id_canonico": "FIN_ADICIONAL_NOTURNO",
+      "numero_clausula_original": 20,
+      "titulo_original": "ADICIONAL NOTURNO",
+      "status": "DEFERIDO",
+      "valor_atual": 50,
+      "unidade": "percentual",
+      "detalhes": {
+        "percentual": 50,
+        "horario": "22h às 5h"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "12"
+    },
+    {
+      "id_canonico": "FIN_GRATIFICACAO_PRODUTIVIDADE",
+      "numero_clausula_original": 21,
+      "titulo_original": "PRODUTIVIDADE ANUAL",
+      "status": "DEFERIDO",
+      "valor_atual": 3.0,
+      "unidade": "%",
+      "detalhes": {
+        "incorporacao": "3% ao salário a partir de 01/01/1993"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "12"
+    },
+    {
+      "id_canonico": "TEC_INOVACOES",
+      "numero_clausula_original": 22,
+      "titulo_original": "INOVAÇÕES TECNOLÓGICAS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "compromisso": "reaproveitar pessoal afetado"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "13"
+    },
+    {
+      "id_canonico": "PRO_CURSOS_REUNIOES",
+      "numero_clausula_original": 23,
+      "titulo_original": "CURSOS E REUNIÕES OBRIGATÓRIOS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "horas_extras": "se fora do horário",
+        "compensacao": "limite 10h/dia"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "13"
+    },
+    {
+      "id_canonico": "SIN_QUADRO_AVISOS",
+      "numero_clausula_original": 24,
+      "titulo_original": "QUADRO DE AVISOS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "dimensoes": "1,00m x 1,20m",
+        "fundo_verde": true,
+        "chaves_exclusivas": true
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "13-14"
+    },
+    {
+      "id_canonico": "SIN_REPASSE_MENSALIDADES",
+      "numero_clausula_original": 25,
+      "titulo_original": "REPASSE DE MENSALIDADES",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "prazo_repasse": "2º ao 5º dia útil do mês subsequente"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "14"
+    },
+    {
+      "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+      "numero_clausula_original": 26,
+      "titulo_original": "DESCONTO ASSISTENCIAL",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "oposicao": "até 20 dias antes do pagamento de janeiro/1993",
+        "envio_atas": "até 25 dias antes"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "15"
+    },
+    {
+      "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+      "numero_clausula_original": 27,
+      "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "quantidade": "2 por Sindicato e 5 para FENTECT",
+        "validade": "até 31.12.93",
+        "abono_1_dia": "8 membros da Diretoria",
+        "solicitacao": "72 horas"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "15-16"
+    },
+    {
+      "id_canonico": "SIN_ACESSO_DEPENDENCIAS",
+      "numero_clausula_original": 28,
+      "titulo_original": "ACESSO ÀS DEPENDÊNCIAS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "acesso": "dirigentes FENTECT e filiados",
+        "solicitacao": "48 horas de antecedência"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "16"
+    },
+    {
+      "id_canonico": "CON_TRANSFERENCIA_SERVICO_INTERNO",
+      "numero_clausula_original": 29,
+      "titulo_original": "TRANSFERÊNCIA PARA SERVIÇOS INTERNOS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "condicao": "mais de 18 anos de distribuição externa",
+        "requisito": "recomendação médica homologada pelo Serviço Médico"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "16"
+    },
+    {
+      "id_canonico": "SOC_FORNECIMENTO_CAT",
+      "numero_clausula_original": 30,
+      "titulo_original": "FORNECIMENTO DE CAT/LISA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "envio_copias": "mensal quando solicitado"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "17"
+    },
+    {
+      "id_canonico": "FIN_ACUMULACAO_VANTAGENS",
+      "numero_clausula_original": 31,
+      "titulo_original": "ACUMULAÇÃO DE VANTAGENS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "regra": "compensação para evitar duplicidade"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "17"
+    },
+    {
+      "id_canonico": "CON_MULTAS_TRANSITO",
+      "numero_clausula_original": 32,
+      "titulo_original": "MULTAS DE TRÂNSITO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "responsabilidade_provisoria": "ECT",
+        "isencao_reflexos": true,
+        "atualizacao": "UFIR"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "17"
+    },
+    {
+      "id_canonico": "PRO_DEFESA_MONOPOLIO",
+      "numero_clausula_original": 33,
+      "titulo_original": "DEFESA DO MONOPÓLIO POSTAL",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "compromisso": "intensificar ações de repressão"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "18"
+    },
+    {
+      "id_canonico": "CON_ITENS_USO_PROTECAO",
+      "numero_clausula_original": 34,
+      "titulo_original": "UNIFORME",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "estudo_bermuda": "regiões quentes/litorâneas"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "18"
+    },
+    {
+      "id_canonico": "CON_REGISTRO_PONTO",
+      "numero_clausula_original": 35,
+      "titulo_original": "REGISTRO DE FREQUÊNCIA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "registro_pelo_empregado": true,
+        "vedacao_RAI": true
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "18"
+    },
+    {
+      "id_canonico": "PRO_PROMOCAO_TEMPO_SERVICO",
+      "numero_clausula_original": 36,
+      "titulo_original": "PROMOÇÃO POR TEMPO DE SERVIÇO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "progressao": "1 referência salarial",
+        "publico_alvo": "29 anos mulher / 34 anos homem",
+        "efeitos": "a partir de 01/01/1993"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "18-19"
+    },
+    {
+      "id_canonico": "PRO_CONCILIACAO_DIVERGENCIAS",
+      "numero_clausula_original": 37,
+      "titulo_original": "CONCILIAÇÃO DE DIVERGÊNCIAS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "prazo": "15 dias"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "19"
+    },
+    {
+      "id_canonico": "FIN_PENALIDADE",
+      "numero_clausula_original": 38,
+      "titulo_original": "PENALIDADES",
+      "status": "DEFERIDO",
+      "valor_atual": 20,
+      "unidade": "percentual",
+      "detalhes": {
+        "percentual": 20
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "19"
+    },
+    {
+      "id_canonico": "PRO_PRORROGACAO_REVISAO",
+      "numero_clausula_original": 39,
+      "titulo_original": "PRORROGAÇÃO, REVISÃO, RENÚNCIA OU REVOGAÇÃO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "base_legal": "Art. 615 da CLT"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "20"
+    },
+    {
+      "id_canonico": "PRO_VIGENCIA",
+      "numero_clausula_original": 40,
+      "titulo_original": "VIGÊNCIA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "data_inicio": "1993-01-01",
+        "data_fim": "1993-12-31",
+        "duracao_meses": 12
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "20"
+    }
+  ],
+  "temas_nao_mapeados": [],
+  "retorno_ao_trabalho": null,
+  "dispositivo_final": {
+    "data_base": "1993-01-01",
+    "vigencia": "1993-01-01 a 1993-12-31",
+    "data_assinatura": "1993-09-02",
+    "local": "Brasília/DF",
+    "reajuste": "3% produtividade + antecipações Lei 8.542/92",
+    "auxilio_creche": "Cr$ 750.000,00",
+    "auxilio_dependentes": "Cr$ 1.000.000,00 (70%)",
+    "quebra_caixa": "6% da B-24",
+    "adicional_noturno": "50%",
+    "vale_refeicao": "Cr$ 80.000 / Cr$ 68.000 / Cr$ 60.000",
+    "observacoes": "ACT 1993 com vigência de 01/01/1993 a 31/12/1993. Redução do adicional noturno de 60% (1992) para 50%."
+  },
+  "notas_metodologicas": [
+    {
+      "tipo": "ACT_NEGOCIADO",
+      "tema": "GERAL",
+      "descricao": "ACT 1993 negociado diretamente entre ECT e FENTECT. Vigência de 01/01/1993 a 31/12/1993, contendo 40 cláusulas."
+    }
+  ]
+}

@@ -1,0 +1,424 @@
+{
+  "metadados_documento": {
+    "tipo": "ACT",
+    "ano_inicio": 1988,
+    "ano_fim": 1989,
+    "processo": "Negociação direta ECT/Sindicatos",
+    "tribunal": null,
+    "orgao": null,
+    "relator": null,
+    "data_julgamento": null,
+    "data_publicacao": null,
+    "entidade_patronal": "ECT",
+    "entidades_profissionais": [
+      "Representação Nacional dos Empregados dos Correios (Sindicatos)"
+    ],
+    "arquivo_origem": "Acordo-Coletivo-1988_red.pdf",
+    "greve": null
+  },
+  "clausulas": [
+    {
+      "id_canonico": "PRO_ABRANGENCIA",
+      "numero_clausula_original": 1,
+      "titulo_original": "ABRANGÊNCIA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "abrangencia": "empregados efetivos da ECT, lotados na Administração Central e em suas trinta Diretorias Regionais"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "1"
+    },
+    {
+      "id_canonico": "FIN_REAJUSTE_SALARIAL",
+      "numero_clausula_original": 2,
+      "titulo_original": "REMUNERAÇÃO - CORREÇÃO SALARIAL",
+      "status": "DEFERIDO",
+      "valor_atual": 94.9,
+      "unidade": "%",
+      "detalhes": {
+        "indice_aplicado": "94,90% em 01.01.89",
+        "discriminacao": {
+          "previsao_reajuste": 61.7,
+          "acrescimo_salarial": 19.6,
+          "produtividade": "a ser fixada pelo Poder Executivo para 1989",
+          "compensacao": "15% compensam reivindicações de 1987"
+        },
+        "base_legal": "Decreto-Lei 2.425/1988",
+        "ajuste_final": "após divulgação oficial do IPC de dezembro/1988 (estimado em 26,85%)"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "1-2"
+    },
+    {
+      "id_canonico": "FIN_TABELA_SALARIAL",
+      "numero_clausula_original": 3,
+      "titulo_original": "TABELA SALARIAL",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "regra": "utilização das tabelas para admitidos após a data-base, desconsiderando proporcionalidade"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "2"
+    },
+    {
+      "id_canonico": "FIN_PROTECAO_SALARIAL",
+      "numero_clausula_original": 4,
+      "titulo_original": "PROTEÇÃO SALARIAL",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "compromisso": "adotar mesmo mecanismo de proteção contra inflação autorizado pelo CISE para outras estatais"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "2"
+    },
+    {
+      "id_canonico": "FIN_HORAS_EXTRAS",
+      "numero_clausula_original": 5,
+      "titulo_original": "HORAS EXTRAS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "pagamento": "até o 10º dia útil do mês subsequente",
+        "folha": "suplementar"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "2"
+    },
+    {
+      "id_canonico": "FIN_PAGAMENTO_SALARIO",
+      "numero_clausula_original": 6,
+      "titulo_original": "PAGAMENTO DE SALÁRIOS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "data_pagamento": "até o 2º dia útil do mês subsequente ao vencido"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "2"
+    },
+    {
+      "id_canonico": "FIN_GRATIFICACAO_FERIAS",
+      "numero_clausula_original": 7,
+      "titulo_original": "GRATIFICAÇÃO DE FÉRIAS",
+      "status": "DEFERIDO",
+      "valor_atual": 60,
+      "unidade": "percentual",
+      "detalhes": {
+        "percentual": 60,
+        "base_calculo": "remuneração percebida",
+        "inclui": "vantagem do Art. 7º, XVII, CF"
+      },
+      "memoria_negociacao": null,
+      "observacao": "Percentual de 60% (posteriormente elevado para 70%).",
+      "pagina_referencia": "3"
+    },
+    {
+      "id_canonico": "FIN_VALE_ALIMENTACAO",
+      "numero_clausula_original": 8,
+      "titulo_original": "VALE-ALIMENTAÇÃO",
+      "status": "DEFERIDO",
+      "valor_atual": 1200.0,
+      "unidade": "CRUZADOS",
+      "detalhes": {
+        "valor": "Cz$ 1.200,00 a partir de 01.01.89",
+        "atualizacao": "mensal pela variação da OTN",
+        "extensao_afastados": "doença ou acidente INPS, máximo 30 dias a partir do 16º dia"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "3"
+    },
+    {
+      "id_canonico": "FIN_REEMBOLSO_CRECHE_BABA",
+      "numero_clausula_original": 9,
+      "titulo_original": "REEMBOLSO-CRECHE",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "idade_limite": "elevada de 5 para 6 anos",
+        "extensao": "homens solteiros, viúvos, separados, divorciados com guarda legal",
+        "compartilhamento": "critérios vigentes mantidos"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "3"
+    },
+    {
+      "id_canonico": "PRO_PROMOCAO_TEMPO_SERVICO",
+      "numero_clausula_original": 10,
+      "titulo_original": "PROMOÇÃO POR MERECIMENTO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "aplicacao": "1989",
+        "alternancia": "com promoção por antiguidade a cada 12 meses, a partir do 2º semestre/1989"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "3"
+    },
+    {
+      "id_canonico": "FIN_GRATIFICACAO_PRODUTIVIDADE",
+      "numero_clausula_original": 11,
+      "titulo_original": "GRATIFICAÇÃO DE PRODUTIVIDADE",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "extensao": "admitidos de 28.12.83 a 27.08.87",
+        "vantagem_pessoal": "nominalmente identificável",
+        "exclusao_futuros": "admitidos após 27.08.87 não farão jus",
+        "periodo_aquisitivo": "julho a dezembro/1988 (pagamento em março/1989)"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "3-4"
+    },
+    {
+      "id_canonico": "FIN_ANTECIPACAO_13",
+      "numero_clausula_original": 12,
+      "titulo_original": "ANTECIPAÇÃO DE 50% DO 13º SALÁRIO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "percentual": 50,
+        "condicao": "mediante requerimento justificado",
+        "independente_ferias": true
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "4"
+    },
+    {
+      "id_canonico": "FIN_TRABALHO_FINS_SEMANA",
+      "numero_clausula_original": 13,
+      "titulo_original": "FOLGA DE FIM DE SEMANA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "beneficiarios": "empregados em escala de revezamento",
+        "folga_minima": "uma completa (sábado e domingo) por mês",
+        "condicao": "unidades com mais de um empregado na atividade"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "4"
+    },
+    {
+      "id_canonico": "SOC_ASSISTENCIA_MEDICA",
+      "numero_clausula_original": 14,
+      "titulo_original": "ASSISTÊNCIA MÉDICA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "compromisso": "rever sistema com base em pesquisa de opinião",
+        "regionalizacao": true,
+        "implantacao": "com anuência do CISE se houver custo"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "4"
+    },
+    {
+      "id_canonico": "SOC_SEGURO_ACIDENTE",
+      "numero_clausula_original": 15,
+      "titulo_original": "SEGURO CONTRA ACIDENTES",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "compromisso": "estudos no 1º semestre/1989",
+        "implantacao": "após anuência do CISE"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "5"
+    },
+    {
+      "id_canonico": "FIN_ADICIONAL_PENOSIDADE",
+      "numero_clausula_original": 16,
+      "titulo_original": "ADICIONAL DE PENOSIDADE",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "condicao": "regulamentação do Art. 7º, XXIII, CF"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "5"
+    },
+    {
+      "id_canonico": "SIN_LIBERACAO_DIRIGENTES",
+      "numero_clausula_original": 17,
+      "titulo_original": "LIBERAÇÃO DE DIRIGENTES SINDICAIS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "quantidade": "Presidente e 1 Diretor por Diretoria Regional",
+        "onus": "sem prejuízo de remunerações",
+        "outros_dirigentes": "após registro no MTb, sem ônus para ECT"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "5"
+    },
+    {
+      "id_canonico": "SIN_DESCONTO_ASSISTENCIAL",
+      "numero_clausula_original": 18,
+      "titulo_original": "DESCONTO ASSISTENCIAL",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "mensalidade": "desconto do salário-base conforme Assembleia Geral",
+        "descontos_especiais": "autorização individualizada",
+        "contribuicao_assistencial": "desconto conforme Assembleia, com direito de oposição em até 20 dias",
+        "envio_atas": "imediato após realização"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "5-6"
+    },
+    {
+      "id_canonico": "TEC_INOVACOES",
+      "numero_clausula_original": 19,
+      "titulo_original": "INOVAÇÕES TECNOLÓGICAS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "compromisso": "reaproveitar prioritariamente pessoal afetado"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "6"
+    },
+    {
+      "id_canonico": "SOC_TRANSPORTE_CARTEIROS",
+      "numero_clausula_original": 20,
+      "titulo_original": "TRANSPORTE COLETIVO GRATUITO",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "beneficiarios": "Carteiros e Mensageiros em serviço",
+        "prazo": "até 31.01.89",
+        "passe": "disciplinar uso onde aceito",
+        "onus": "ECT arca onde passe não é aceito"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "6-7"
+    },
+    {
+      "id_canonico": "SIN_REVOGACAO_SUSPENSOES",
+      "numero_clausula_original": 21,
+      "titulo_original": "REVISÃO DE PUNIÇÕES",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "compromisso": "rever procedimentos em 1989"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "7"
+    },
+    {
+      "id_canonico": "SIN_LIBERACAO_CONSELHO",
+      "numero_clausula_original": 22,
+      "titulo_original": "REVISÃO DO POSTALIS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "compromisso": "gestões para revisão do Estatuto em 1989",
+        "sugestoes": "abertura para empregados"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "7"
+    },
+    {
+      "id_canonico": "SIN_READMISSAO",
+      "numero_clausula_original": 23,
+      "titulo_original": "READMISSÕES",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "compromisso": "posicionar-se junto aos Sindicatos até 31.01.89",
+        "publico": "demitidos por paralisações ou políticos"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "7"
+    },
+    {
+      "id_canonico": "PRO_CONCURSO_PUBLICO",
+      "numero_clausula_original": 24,
+      "titulo_original": "PREENCHIMENTO DE CARGOS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "politica": "priorização de pessoal interno via PSI",
+        "prerrogativa": "Presidência pode decidir em contrário",
+        "CAP": "até 50% das vagas para candidatos externos"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "7"
+    },
+    {
+      "id_canonico": "PRO_REVISAO_PCCS",
+      "numero_clausula_original": 25,
+      "titulo_original": "REVISÃO DO PCS",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "compromisso": "iniciar estudos em 1989",
+        "participacao_sindicatos": "envio de sugestões",
+        "remessa_PCS": "até 31.03.89"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "7-8"
+    },
+    {
+      "id_canonico": "PRO_RETROATIVIDADE",
+      "numero_clausula_original": 26,
+      "titulo_original": "RETROATIVIDADE",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "regra": "pagamento retroativo à data de apresentação do requerimento"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "8"
+    },
+    {
+      "id_canonico": "PRO_APROVACAO_CISE",
+      "numero_clausula_original": 27,
+      "titulo_original": "APROVAÇÃO PELO CISE",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "condicao": "sujeito à prévia aprovação do CISE"
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "8"
+    },
+    {
+      "id_canonico": "PRO_VIGENCIA",
+      "numero_clausula_original": 28,
+      "titulo_original": "VIGÊNCIA",
+      "status": "DEFERIDO",
+      "detalhes": {
+        "data_inicio": "1989-01-01",
+        "data_fim": "1989-12-31",
+        "duracao_meses": 12
+      },
+      "memoria_negociacao": null,
+      "observacao": null,
+      "pagina_referencia": "8"
+    }
+  ],
+  "temas_nao_mapeados": [],
+  "retorno_ao_trabalho": null,
+  "dispositivo_final": {
+    "data_base": "1989-01-01",
+    "vigencia": "1989-01-01 a 1989-12-31",
+    "data_assinatura": "1988-12-20",
+    "local": "Brasília/DF",
+    "reajuste": "94,90% (provisório) em 01.01.89",
+    "vale_alimentacao": "Cz$ 1.200,00",
+    "gratificacao_ferias": "60%",
+    "observacoes": "Primeiro acordo da série com dados estruturados. Reajuste de 94,90% com previsão de ajuste pelo IPC real de dezembro/1988 (estimado em 26,85%)."
+  },
+  "notas_metodologicas": [
+    {
+      "tipo": "ACT_NEGOCIADO",
+      "tema": "GERAL",
+      "descricao": "ACT 1988 foi negociado diretamente entre ECT e a Representação Nacional dos Empregados dos Correios (Sindicatos). Vigência de 01/01/1989 a 31/12/1989, contendo 28 cláusulas."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "SIN_LIBERACAO_CONSELHO_POSTALIS",
+    "numero_clausula_original": 37,
+    "titulo_original": "LIBERAÇÃO DE CONSELHEIRO DO POSTALIS",
+    "status": "MANTIDO",
+    "texto": "ECT libera membros do Conselho Deliberativo e Fiscal do POSTALIS, eleitos pelos empregados ou indicados pela Empresa, para exercício das atribuições.",
+    "observacao": "Idêntica ao DC 2013-2014.",
+    "pagina_referencia": 11
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "SIN_LIBERACAO_CONSELHO_POSTALIS",
+    "numero_clausula_original": 37,
+    "titulo_original": "LIBERAÇÃO DE CONSELHEIRO DO POSTALIS",
+    "status": "MANTIDO",
+    "texto": "ECT libera membros do Conselho Deliberativo e Fiscal do POSTALIS, eleitos pelos empregados ou indicados pela Empresa, para exercício das atribuições.",
+    "observacao": "Idêntica ao DC 2012-2013.",
+    "pagina_referencia": 91
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "PRO_CONDICAO_EFICACIA_RETORNO",
+    "numero_clausula_original": 3,
+    "titulo_original": "CONDIÇÃO DE EFICÁCIA - RETORNO AO TRABALHO",
+    "status": "DEFERIDO",
+    "texto": "A eficácia do presente Acordo está condicionada à finalização do movimento de greve e ao retorno da categoria ao trabalho a partir das 22h do dia 13 de setembro de 2013.",
+    "detalhes": {
+      "condicao": "retorno da categoria ao trabalho",
+      "data_limite": "2013-09-13 às 22h",
+      "consequencia_descumprimento": "perda de eficácia do ACT"
+    },
+    "pagina_referencia": 1
+  }
+]

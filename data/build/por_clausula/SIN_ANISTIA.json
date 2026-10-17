@@ -1,0 +1,456 @@
+[
+  {
+    "ano_inicio": 1997,
+    "ano_fim": 1998,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ANISTIA",
+    "numero_clausula_original": 7,
+    "titulo_original": "ANISTIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "base_legal": [
+        "Lei 8.632/93",
+        "Lei 8.878/94",
+        "Lei 10.559/2002",
+        "Lei 11.282/2006"
+      ],
+      "comissao": "Gestão Relações Sindicais + Comissão de Anistia"
+    }
+  },
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ANISTIA",
+    "numero_clausula_original": 7,
+    "titulo_original": "ANISTIA",
+    "status": "DEFERIDO"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ANISTIA",
+    "numero_clausula_original": 7,
+    "titulo_original": "ANISTIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "adotar procedimentos para cumprimento da decisão",
+      "acesso_documentos": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "4"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ANISTIA",
+    "numero_clausula_original": 7,
+    "titulo_original": "ANISTIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "adotar procedimentos para cumprimento da decisão",
+      "acesso_documentos": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "4"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ANISTIA",
+    "numero_clausula_original": 7,
+    "titulo_original": "ANISTIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "comissao": "Gestão Relações Sindicais + Comissão de Anistia FENTECT"
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ANISTIA",
+    "numero_clausula_original": 7,
+    "titulo_original": "ANISTIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "adotar procedimentos para cumprimento da decisão",
+      "acesso_documentos": true,
+      "comissao": "Departamento de Gestão das Relações Sindicais e do Trabalho e Comissão de Anistia da FENTECT"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "4-5"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ANISTIA",
+    "numero_clausula_original": 7,
+    "titulo_original": "ANISTIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "compromisso": "adotar procedimentos para cumprimento da decisão",
+      "comissao": "Comitê Permanente de Relações de Trabalho e Comissão de Anistia da FENTECT"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 4
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ANISTIA",
+    "numero_clausula_original": 7,
+    "titulo_original": "ANISTIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "comissao": "Comitê Permanente de Relações de Trabalho e Comissão de Anistia da FENTECT"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "4"
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ANISTIA",
+    "numero_clausula_original": 7,
+    "titulo_original": "ANISTIA",
+    "status": "ALTERADO",
+    "texto": "Quando atos de anistia legal determinarem retorno do anistiado, a ECT adotará imediatamente os procedimentos. Assuntos não decididos judicialmente serão tratados entre GNEG e a Comissão de Anistia da Federação ao qual o Sindicato dos Empregados dos Correios estiver filiado.",
+    "observacao": "Substituição 'FENTECT' por 'Federação ao qual o Sindicato estiver filiado'.",
+    "pagina_referencia": 3
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "SIN_ANISTIA",
+    "numero_clausula_original": 7,
+    "titulo_original": "ANISTIA",
+    "status": "MANTIDO",
+    "texto": "Quando atos de anistia legal determinarem retorno do anistiado, a ECT adotará imediatamente os procedimentos, permitindo acesso a documentos. Assuntos não decididos judicialmente serão tratados entre GNEG e Comissão de Anistia da FENTECT.",
+    "observacao": "Idêntica ao DC 2012-2013.",
+    "pagina_referencia": 67
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ANISTIA",
+    "numero_clausula_original": 1,
+    "titulo_original": "ANISTIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "leis": [
+        "8.632/93",
+        "8.878/94",
+        "10.559/2002",
+        "11.282/2006"
+      ],
+      "grupo_trabalho": "5 representantes ECT + 3 trabalhadores"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "2"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ANISTIA",
+    "numero_clausula_original": 1,
+    "titulo_original": "ANISTIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "leis_aplicaveis": [
+        "8.632/93",
+        "8.878/94",
+        "10.559/2002",
+        "11.282/2006"
+      ],
+      "grupo_trabalho": true,
+      "composicao_gt": "6 representantes dos Correios + 5 membros indicados pelas Federações",
+      "prazo_gt": "30 dias após assinatura do ACT"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 1
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ANISTIA",
+    "numero_clausula_original": 1,
+    "titulo_original": "ANISTIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "leis": [
+        "8.632/93",
+        "8.878/94",
+        "10.559/2002",
+        "11.282/2006"
+      ],
+      "grupo_trabalho": "6 representantes ECT + 5 trabalhadores"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "2"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ANISTIA",
+    "numero_clausula_original": 1,
+    "titulo_original": "ANISTIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "base_legal": [
+        "Lei 8.632/93",
+        "Lei 8.878/94",
+        "Lei 10.559/2002",
+        "Lei 11.282/2006"
+      ],
+      "grupo_trabalho": "6 Correios + 5 Federações",
+      "compromissos": [
+        "adotar procedimentos para cumprimento de decisão de anistia",
+        "analisar e julgar pedidos de anistia",
+        "avaliar impactos para adequação salarial dos anistiados",
+        "examinar encaminhamentos de demissões sem justa causa em período de estabilidade"
+      ]
+    },
+    "pagina_referencia": "13-14"
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ANISTIA",
+    "numero_clausula_original": 1,
+    "titulo_original": "ANISTIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "leis_aplicaveis": [
+        "8.632/93",
+        "8.878/94",
+        "10.559/2002",
+        "11.282/2006"
+      ],
+      "grupo_trabalho": true,
+      "composicao_gt": "6 representantes dos Correios + 5 membros indicados pelas Federações",
+      "prazo_gt": "30 dias após assinatura do ACT"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 1
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "SIN_ANISTIA",
+    "numero_clausula_original": 1,
+    "titulo_original": "ANISTIA",
+    "status": "MANTIDO",
+    "texto": "e 11.282/2006, comprometem-se a: §1º Adotar, de imediato, os procedimentos para o cumprimento da decisão, quando os atos de anistia previstos em lei determinar o retorno do anistiado aos quadros da Empresa, permitindo o acesso às informações de documentos aos interessados. §2º Analisar e julgar os pedidos de anistia de empregados(as) dos Correios, com fundamento nas Leis nº 8.632, de 4 de março de 1993 e nº 11.282 de 23 de fevereiro de 2006, conforme Portaria MC Nº 349 de 12 de dezembro de 2013. I – Os pedidos de anistia referenciados no §2º serão conduzidos por Grupo de Trabalho constituído pelos Correios, com a participação de 6 (seis) representantes dos Correios e 5 (cinco) membros indicados pelas Federações dos Trabalhadores, legalmente constituídas. II – Aplica-se o disposto no §2º aos processos com pedidos de anistia de empregados(as) dos Correios pendentes de decisão ou em que houver decisão recorrível. §3º Avaliar e discutir os impactos e condições de viabilização para adequação salarial dos(as) empregados(as) anistiados (as) pela Lei 8.878/94, com referência salarial abaixo do piso inicial dos Correios, para enquadramento na referência de Nível Médio – NM 01. I – O previsto no §3º será conduzido pelo Grupo de Trabalho, conforme item I do §2º. §4º Avaliar e examinar encaminhamentos de demissões sem justa causa ocorridas durante o período de estabilidade previstas em lei, quando não se tratar de anistia por força das leis referenciadas no caput. 5 --- PAGINA 6 --CLÁUSULA 02",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2020,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "SIN_ANISTIA",
+    "numero_clausula_original": 6,
+    "titulo_original": "ANISTIA",
+    "status": "MANTIDO",
+    "texto": "10.559/2002 e 11.282/2006, comprometem-se a: §1º Adotar, de imediato, os procedimentos para o cumprimento da decisão, quando os atos de anistia previstos em lei determinar o retorno do anistiado aos quadros da Empresa, permitindo o acesso às informações de documentos aos interessados. §2º Analisar e julgar os pedidos de anistia de empregados (as) dos Correios, com fundamento nas Leis nº 8.632, de 4 de março de 1993 e nº 11.282 de 23 de fevereiro de 2006, conforme Portaria MC Nº 349 de 12 de dezembro de 2013. I – Os pedidos de anistia referenciados no §2º serão conduzidos por Grupo de Trabalho constituído pelos Correios, com a participação de 6 (seis) representantes dos Correios e 5 (cinco) membros indicados pelas Federações dos Trabalhadores, legalmente constituídas. II – Aplica-se o disposto no §2º aos processos com pedidos de anistia de empregados (as) dos Correios pendentes de decisão ou em que houver decisão recorrível. §3º Avaliar e discutir os impactos e condições de viabilização para adequação salarial dos (as) empregados (as) anistiados (as) pela Lei 8.878/94, com referência salarial abaixo do piso inicial dos Correios, para enquadramento na referência de Nível Médio – NM 01. I – O previsto no §3º será conduzido pelo Grupo de Trabalho, conforme item I do §2º. §4º Avaliar e examinar encaminhamentos de demissões sem justa causa ocorridas durante o período de estabilidade previstas em lei, quando não se tratar de anistia por força das leis referenciadas no caput. OPERACIONALIZAÇÃO DA CLÁUSULA Os Correios por meio do Grupo de Trabalho de Anistia (GTA) conduzirá as análises e julgamentos dos processos com pedidos de anistia em conformidade com o previsto na Portaria MC nº. 349/2013, fundamentando-se nos artigos das Leis nº. 8.632, de 4 de março de 1993 e 11.282, de 23 de fevereiro de 2006, de acordo com o Regimento Interno do Grupo, com a participação de 6 (seis) representantes dos Correios e 5 (cinco) membros indicados pelas Federações dos Trabalhadores, legalmente constituídas representantes dos empregados. As solicitações de informações a respeito de anistia devem ser encaminhadas à CS-DIGEP-DEREO-GERT-GT Anistia – Caixa Postal – gtanistia@correios.com.br. 12 --- PAGINA 13 --CLÁUSULA 07",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "SIN_ANISTIA",
+    "numero_clausula_original": 6,
+    "titulo_original": "ANISTIA (1ª do DCG 2019/2020)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "redacao": "Os Correios, respeitando e seguindo os ditames previstos nas Leis 8.632/93, 8.878/94, 10.559/2002 e 11.282/2006, comprometem-se a: §1º adotar, de imediato, os procedimentos para o cumprimento da decisão, quando os atos de anistia previstos em lei determinar o retorno do anistiado aos quadros da Empresa, permitindo o acesso às informações de documentos aos interessados. §2º analisar e julgar os pedidos de anistia... §3º avaliar e discutir os impactos e condições de viabilização para adequação salarial... §4º avaliar e examinar encaminhamentos de demissões sem justa causa ocorridas durante o período de estabilidade previstas em lei...",
+      "grupo_trabalho": "6 representantes Correios + 5 Federações"
+    },
+    "memoria_negociacao": "Manutenção anuída pelas entidades sindicais",
+    "observacao": null,
+    "pagina_referencia": "60-61"
+  },
+  {
+    "ano_inicio": 2022,
+    "ano_fim": 2023,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ANISTIA",
+    "numero_clausula_original": 6,
+    "titulo_original": "ANISTIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "base_legal": [
+        "Lei 8.632/93",
+        "Lei 8.878/94",
+        "Lei 10.559/2002",
+        "Lei 11.282/2006"
+      ],
+      "grupo_trabalho": "6 Correios + 5 Federações",
+      "compromissos": [
+        "adotar procedimentos para cumprimento de decisão de anistia",
+        "analisar e julgar pedidos de anistia",
+        "avaliar impactos para adequação salarial dos anistiados",
+        "examinar encaminhamentos de demissões sem justa causa em período de estabilidade"
+      ]
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "1-2"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ANISTIA",
+    "numero_clausula_original": 1,
+    "titulo_original": "ANISTIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "grupo_trabalho": "5 + 5",
+      "prazo_grupo": "60 dias"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "1"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ANISTIA",
+    "numero_clausula_original": 1,
+    "titulo_original": "ANISTIA",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "leis_aplicaveis": [
+        "8.632/93",
+        "8.878/94",
+        "10.559/2002",
+        "11.282/2006"
+      ],
+      "grupo_trabalho": true,
+      "prazo_gt": "30 dias após assinatura do ACT",
+      "composicao_gt": "5 representantes dos Correios + 5 membros indicados pelas Federações",
+      "paridade_genero": true
+    },
+    "observacao": null,
+    "pagina_referencia": 1
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "SIN_ANISTIA",
+    "numero_clausula_original": 1,
+    "titulo_original": "ANISTIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "leis_aplicaveis": [
+        "8.632/93",
+        "8.878/94",
+        "10.559/2002",
+        "11.282/2006"
+      ],
+      "grupo_trabalho": true,
+      "composicao_gt": "6 representantes dos Correios + 5 membros indicados pelas Federações",
+      "prazo_gt": "30 dias após assinatura do ACT"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção com acréscimos",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 1
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "SIN_ANISTIA",
+    "numero_clausula_original": 1,
+    "titulo_original": "ANISTIA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "leis_aplicaveis": [
+        "8.632/93",
+        "8.878/94",
+        "10.559/2002",
+        "11.282/2006"
+      ],
+      "grupo_trabalho": "5 representantes dos Correios + 5 membros indicados pelas Federações",
+      "prazo_gt": "30 dias após publicação da sentença normativa",
+      "paridade_genero": true,
+      "fornecimento_documentos_anistiados": true
+    },
+    "memoria_negociacao": "As partes convergiram quanto à exclusão do §5º do ACT 2024/2025 (perda de objeto)",
+    "pagina_referencia": "14"
+  }
+]

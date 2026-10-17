@@ -1,0 +1,246 @@
+[
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "CON_REDIMENSIONAMENTO_CARGA",
+    "numero_clausula_original": 46,
+    "titulo_original": "REDIMENSIONAMENTO DE CARGA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "participacao_representante_sindical": true,
+      "implantacao": "120 dias"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "22"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "CON_REDIMENSIONAMENTO_CARGA",
+    "numero_clausula_original": 46,
+    "titulo_original": "REDIMENSIONAMENTO DE CARGA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "representante_sindical": "1 por levantamento",
+      "implantacao": "120 dias após liberação de recursos"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 27
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "CON_REDIMENSIONAMENTO_CARGA",
+    "numero_clausula_original": 46,
+    "titulo_original": "REDIMENSIONAMENTO DE CARGA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "participacao_representante": true,
+      "implantacao": "120 dias"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "29"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "CON_REDIMENSIONAMENTO_CARGA",
+    "numero_clausula_original": 46,
+    "titulo_original": "REDIMENSIONAMENTO DE CARGA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "participacao_representante_sindical": 1,
+      "locais": [
+        "CTC",
+        "CTE",
+        "CTCE",
+        "CDD",
+        "CEE",
+        "TECA",
+        "CTCI"
+      ],
+      "prazo_implantacao": "120 dias após liberação de recursos"
+    },
+    "pagina_referencia": "67-68"
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "CON_REDIMENSIONAMENTO_CARGA",
+    "numero_clausula_original": 46,
+    "titulo_original": "REDIMENSIONAMENTO DE CARGA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "representante_sindical": "1 por levantamento",
+      "implantacao": "120 dias após liberação de recursos"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 27
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "CON_REDIMENSIONAMENTO_CARGA",
+    "numero_clausula_original": 46,
+    "titulo_original": "REDIMENSIONAMENTO DE CARGA",
+    "status": "MANTIDO",
+    "texto": "empregados(as) que serão abrangidos(as) com o redimensionamento, os Correios viabilizarão a participação de 1 (um) representante sindical regularmente eleito, quando solicitado pelo sindicato, para participar do momento de realização dos levantamentos de carga específicos para dimensionamento de efetivo de CTC, CTE, CTCE, CDD, CEE, TECA e CTCI, de acordo com o cronograma previamente estabelecido pelas áreas funcionais. Parágrafo Único: Após a conclusão, o novo dimensionamento será implantado integralmente em até 120 (cento e vinte) dias após a liberação dos recursos necessários pelos órgãos competentes. 57 --- PAGINA 58 --CLÁUSULA 47",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2020,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "CON_REDIMENSIONAMENTO_CARGA",
+    "numero_clausula_original": 18,
+    "titulo_original": "REDIMENSIONAMENTO DE CARGA",
+    "status": "MANTIDO",
+    "texto": "participação dos (as) empregados (as) que serão abrangidos (as) com o redimensionamento, os Correios viabilizarão a participação de 1 (um) representante sindical regularmente eleito, quando solicitado pelo sindicato, para participar do momento de realização dos levantamentos de carga específicos para dimensionamento de efetivo de CTC, CTE, CTCE, CDD, CEE, TECA e CTCI, de acordo com o cronograma previamente estabelecido pelas áreas funcionais. Parágrafo Único: Após a conclusão, o novo dimensionamento será implantado integralmente em até 120 (cento e vinte) dias após a liberação dos recursos necessários pelos órgãos competentes. OPERACIONALIZAÇÃO DA CLÁUSULA As gerências, coordenações ou órgãos vinculados deverão solicitar o planejamento do redimensionamento de carga às áreas operacionais, de modo a comunicar os respectivos sindicatos com a devida antecedência. As solicitações de informações referentes a esta cláusula devem ser encaminhadas ao Departamento de Coleta e Distribuição da Diretoria de Operações – DEDIS/DIOPE - dedis-viope@correios.com.br 28 --- PAGINA 29 --CLÁUSULA 19",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "CON_REDIMENSIONAMENTO_CARGA",
+    "numero_clausula_original": 23,
+    "titulo_original": "REDIMENSIONAMENTO DE CARGA (46ª do DCG 2019/2020)",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "redacao": "No caso de redimensionamento de carga, além da participação dos (as) empregados (as) que serão abrangidos (as) com o redimensionamento, os Correios viabilizarão a participação de 1 representante sindical regularmente eleito, quando solicitado pelo sindicato... Parágrafo Único: Após a conclusão, o novo dimensionamento será implantado integralmente em até 120 dias após a liberação dos recursos necessários pelos órgãos competentes"
+    },
+    "memoria_negociacao": "Manutenção anuída pelas entidades sindicais",
+    "observacao": null,
+    "pagina_referencia": "65"
+  },
+  {
+    "ano_inicio": 2022,
+    "ano_fim": 2023,
+    "tipo": "ACT",
+    "id_canonico": "CON_REDIMENSIONAMENTO_CARGA",
+    "numero_clausula_original": 24,
+    "titulo_original": "REDIMENSIONAMENTO DE CARGA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "participacao_representante_sindical": 1,
+      "locais": [
+        "CTC",
+        "CTE",
+        "CTCE",
+        "CDD",
+        "CEE",
+        "TECA",
+        "CTCI"
+      ],
+      "prazo_implantacao": "120 dias após liberação de recursos"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "5"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "CON_REDIMENSIONAMENTO_CARGA",
+    "numero_clausula_original": 47,
+    "titulo_original": "REDIMENSIONAMENTO DE CARGA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "cronograma": "30 dias",
+      "participacao_representante": true,
+      "resposta_questionamentos": "30 dias"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "10"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "CON_REDIMENSIONAMENTO_CARGA",
+    "numero_clausula_original": 49,
+    "titulo_original": "REDIMENSIONAMENTO DE CARGA",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "cronograma_regional": "30 dias de antecedência",
+      "representante_sindical": "1 por levantamento",
+      "implantacao": "120 dias após liberação de recursos",
+      "retorno_questionamentos": "30 dias",
+      "GT_supressao_DDA": true,
+      "suspensao_SD": "retomada após concurso público"
+    },
+    "observacao": "No DC 2025/2026, os §§ 3º em diante (GT, supressão da DDA, suspensão do SD) foram EXCLUÍDOS pelo TST, a pedido da ECT.",
+    "pagina_referencia": 18
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "CON_REDIMENSIONAMENTO_CARGA",
+    "numero_clausula_original": 42,
+    "titulo_original": "REDIMENSIONAMENTO DE CARGA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "cronograma_regional": "30 dias de antecedência",
+      "representante_sindical": "1 por levantamento",
+      "implantacao": "120 dias após liberação de recursos",
+      "retorno_questionamentos": "20 dias"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 19
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "CON_REDIMENSIONAMENTO_CARGA",
+    "numero_clausula_original": 42,
+    "titulo_original": "REDIMENSIONAMENTO DE CARGA",
+    "status": "DEFERIDO_PARCIALMENTE",
+    "detalhes": {
+      "cronograma_regional": "30 dias de antecedência",
+      "representante_sindical": 1,
+      "implantacao": "120 dias após liberação de recursos",
+      "retorno_questionamentos": "20 dias",
+      "exclusao": "§§ 3º e 4º"
+    },
+    "pagina_referencia": "53-54"
+  }
+]

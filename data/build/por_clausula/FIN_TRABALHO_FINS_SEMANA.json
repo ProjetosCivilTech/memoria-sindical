@@ -1,0 +1,563 @@
+[
+  {
+    "ano_inicio": 1988,
+    "ano_fim": 1989,
+    "tipo": "ACT",
+    "id_canonico": "FIN_TRABALHO_FINS_SEMANA",
+    "numero_clausula_original": 13,
+    "titulo_original": "FOLGA DE FIM DE SEMANA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "beneficiarios": "empregados em escala de revezamento",
+      "folga_minima": "uma completa (sábado e domingo) por mês",
+      "condicao": "unidades com mais de um empregado na atividade"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "4"
+  },
+  {
+    "ano_inicio": 1995,
+    "ano_fim": 1996,
+    "tipo": "ACT",
+    "id_canonico": "FIN_TRABALHO_FINS_SEMANA",
+    "numero_clausula_original": 46,
+    "titulo_original": "TRABALHO NOS FINS DE SEMANA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "publico": "Área Operacional 44h",
+      "calculo": "1,5x hora normal",
+      "limite": "15% do salário-base"
+    }
+  },
+  {
+    "ano_inicio": 1997,
+    "ano_fim": 1998,
+    "tipo": "ACT",
+    "id_canonico": "FIN_TRABALHO_FINS_SEMANA",
+    "numero_clausula_original": 46,
+    "titulo_original": "TRABALHO NOS FINS DE SEMANA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "calculo": "1,5x hora normal",
+      "limite": "15% do salário-base"
+    }
+  },
+  {
+    "ano_inicio": 1998,
+    "ano_fim": 1999,
+    "tipo": "ACT",
+    "id_canonico": "FIN_TRABALHO_FINS_SEMANA",
+    "numero_clausula_original": 51,
+    "titulo_original": "TRABALHO NOS FINS DE SEMANA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "calculo": "1,5x hora normal",
+      "limite": "15% do salário-base"
+    }
+  },
+  {
+    "ano_inicio": 1999,
+    "ano_fim": 2000,
+    "tipo": "ACT",
+    "id_canonico": "FIN_TRABALHO_FINS_SEMANA",
+    "numero_clausula_original": 52,
+    "titulo_original": "TRABALHO NOS FINS DE SEMANA",
+    "status": "DEFERIDO",
+    "detalhes": {
+      "publico": "Área Operacional com jornada de 44 horas",
+      "calculo": "1,5x hora normal, limitado a 15% do salário-base"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "17"
+  },
+  {
+    "ano_inicio": 2000,
+    "ano_fim": 2001,
+    "tipo": "DC",
+    "id_canonico": "FIN_TRABALHO_FINS_SEMANA",
+    "numero_clausula_original": 47,
+    "titulo_original": "TRABALHO NOS FINS DE SEMANA",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": null,
+    "unidade": null,
+    "detalhes": {
+      "publico": "Área Operacional com jornada de 44 horas semanais",
+      "calculo": "1,5x hora normal, limitado a 15% do salário-base"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": "Cláusula incontroversa.",
+    "pagina_referencia": "10-11"
+  },
+  {
+    "ano_inicio": 2001,
+    "ano_fim": 2002,
+    "tipo": "ACT",
+    "id_canonico": "FIN_TRABALHO_FINS_SEMANA",
+    "numero_clausula_original": 46,
+    "titulo_original": "TRABALHO NOS FINS DE SEMANA",
+    "status": "DEFERIDO",
+    "valor_anterior": 15,
+    "valor_atual": 15,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 15,
+      "publico": "Área Operacional com jornada de 44 horas semanais",
+      "calculo": "1,5x hora normal, limitado a 15% do salário-base"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "12"
+  },
+  {
+    "ano_inicio": 2002,
+    "ano_fim": 2003,
+    "tipo": "ACT",
+    "id_canonico": "FIN_TRABALHO_FINS_SEMANA",
+    "numero_clausula_original": 57,
+    "titulo_original": "TRABALHO NOS FINS DE SEMANA",
+    "status": "DEFERIDO",
+    "valor_anterior": 15,
+    "valor_atual": 15,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 15,
+      "publico": "Área Operacional com jornada de 44 horas semanais",
+      "calculo": "1,5x hora normal, limitado a 15% do salário-base"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "28"
+  },
+  {
+    "ano_inicio": 2003,
+    "ano_fim": 2004,
+    "tipo": "ACT",
+    "id_canonico": "FIN_TRABALHO_FINS_SEMANA",
+    "numero_clausula_original": 59,
+    "titulo_original": "TRABALHO NOS FINS DE SEMANA",
+    "status": "DEFERIDO",
+    "valor_anterior": 15,
+    "valor_atual": 15,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 15,
+      "publico": "Área Operacional com jornada de 44 horas semanais"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "28"
+  },
+  {
+    "ano_inicio": 2004,
+    "ano_fim": 2005,
+    "tipo": "ACT",
+    "id_canonico": "FIN_TRABALHO_FINS_SEMANA",
+    "numero_clausula_original": 58,
+    "titulo_original": "TRABALHO NOS FINS DE SEMANA",
+    "status": "DEFERIDO",
+    "valor_anterior": 15,
+    "valor_atual": 15,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 15,
+      "publico": "Área Operacional com jornada de 44 horas semanais"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "18"
+  },
+  {
+    "ano_inicio": 2005,
+    "ano_fim": 2006,
+    "tipo": "ACT",
+    "id_canonico": "FIN_TRABALHO_FINS_SEMANA",
+    "numero_clausula_original": 58,
+    "titulo_original": "TRABALHO NOS FINS DE SEMANA",
+    "status": "DEFERIDO",
+    "valor_atual": 15,
+    "unidade": "%",
+    "detalhes": {
+      "percentual": 15,
+      "vale_alimentacao": true
+    }
+  },
+  {
+    "ano_inicio": 2007,
+    "ano_fim": 2008,
+    "tipo": "ACT",
+    "id_canonico": "FIN_TRABALHO_FINS_SEMANA",
+    "numero_clausula_original": 58,
+    "titulo_original": "TRABALHO NOS FINS DE SEMANA",
+    "status": "DEFERIDO",
+    "valor_anterior": 15,
+    "valor_atual": 15,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 15,
+      "publico": "Área Operacional com jornada de 44 horas semanais",
+      "vale_alimentacao": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": "24"
+  },
+  {
+    "ano_inicio": 2008,
+    "ano_fim": 2009,
+    "tipo": "ACT",
+    "id_canonico": "FIN_TRABALHO_FINS_SEMANA",
+    "numero_clausula_original": 58,
+    "titulo_original": "TRABALHO NOS FINS DE SEMANA",
+    "status": "DEFERIDO",
+    "valor_anterior": 15,
+    "valor_atual": 15,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 15,
+      "publico": "Área Operacional com jornada de 44 horas semanais",
+      "vale_alimentacao": true
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 19
+  },
+  {
+    "ano_inicio": 2009,
+    "ano_fim": 2011,
+    "tipo": "ACT",
+    "id_canonico": "FIN_TRABALHO_FINS_SEMANA",
+    "numero_clausula_original": 59,
+    "titulo_original": "TRABALHO NOS FINS DE SEMANA",
+    "status": "DEFERIDO",
+    "valor_atual": 15,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 15,
+      "antecedencia_convocacao": "48 horas"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "17"
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "ACT",
+    "id_canonico": "FIN_TRABALHO_FINS_SEMANA",
+    "numero_clausula_original": 59,
+    "titulo_original": "TRABALHO NOS FINS DE SEMANA",
+    "status": "MANTIDO",
+    "texto": "Empregados de área operacional com 44h semanais que trabalham regularmente fins de semana recebem 15% adicional do salário-base pelas horas trabalhadas. Convocação eventual: 1/4 de 15% por fim de semana, limitado a 15% ao mês + vale.",
+    "observacao": "Idêntica ao DC 2013-2014.",
+    "pagina_referencia": 16
+  },
+  {
+    "ano_inicio": 2013,
+    "ano_fim": 2014,
+    "tipo": "DC",
+    "id_canonico": "FIN_TRABALHO_FINS_SEMANA",
+    "numero_clausula_original": 59,
+    "titulo_original": "TRABALHO NOS FINS DE SEMANA",
+    "status": "MANTIDO",
+    "texto": "Empregados de área operacional com 44h semanais que trabalham regularmente fins de semana recebem 15% adicional do salário-base pelas horas trabalhadas. Convocação eventual: 1/4 de 15% por fim de semana, limitado a 15% ao mês + vale alimentação/refeição.",
+    "observacao": "Idêntica ao DC 2012-2013.",
+    "pagina_referencia": 101
+  },
+  {
+    "ano_inicio": 2014,
+    "ano_fim": 2015,
+    "tipo": "ACT",
+    "id_canonico": "FIN_TRABALHO_FINS_SEMANA",
+    "numero_clausula_original": 65,
+    "titulo_original": "TRABALHO NOS FINS DE SEMANA",
+    "status": "DEFERIDO",
+    "valor_atual": 15,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 15,
+      "antecedencia": "48 horas"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "27-28"
+  },
+  {
+    "ano_inicio": 2015,
+    "ano_fim": 2016,
+    "tipo": "ACT",
+    "id_canonico": "FIN_TRABALHO_FINS_SEMANA",
+    "numero_clausula_original": 66,
+    "titulo_original": "TRABALHO NOS FINS DE SEMANA",
+    "status": "DEFERIDO",
+    "valor_anterior": 15,
+    "valor_atual": 15,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 15,
+      "publico": "Área Operacional com jornada de 44 horas semanais",
+      "vale_alimentacao": true,
+      "antecedencia": "48 horas"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 36
+  },
+  {
+    "ano_inicio": 2016,
+    "ano_fim": 2017,
+    "tipo": "ACT",
+    "id_canonico": "FIN_TRABALHO_FINS_SEMANA",
+    "numero_clausula_original": 67,
+    "titulo_original": "TRABALHO NOS FINS DE SEMANA",
+    "status": "DEFERIDO",
+    "valor_atual": 15,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 15,
+      "antecedencia": "48 horas"
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "38"
+  },
+  {
+    "ano_inicio": 2017,
+    "ano_fim": 2018,
+    "tipo": "ACT",
+    "id_canonico": "FIN_TRABALHO_FINS_SEMANA",
+    "numero_clausula_original": 65,
+    "titulo_original": "TRABALHO NOS FINS DE SEMANA",
+    "status": "DEFERIDO",
+    "valor_atual": 15,
+    "unidade": "%",
+    "detalhes": {
+      "percentual": 15,
+      "publico": "Área Operacional com jornada de 44 horas semanais",
+      "convocacao_eventual": "1/4 de 15% limitado a 15%/mês",
+      "vale_alimentacao": "jornada mínima de 4 horas",
+      "antecedencia": "48 horas"
+    },
+    "pagina_referencia": "86-87"
+  },
+  {
+    "ano_inicio": 2018,
+    "ano_fim": 2019,
+    "tipo": "ACT",
+    "id_canonico": "FIN_TRABALHO_FINS_SEMANA",
+    "numero_clausula_original": 65,
+    "titulo_original": "TRABALHO NOS FINS DE SEMANA",
+    "status": "DEFERIDO",
+    "valor_anterior": 15,
+    "valor_atual": 15,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 15,
+      "publico": "Área Operacional com jornada de 44 horas semanais",
+      "vale_alimentacao": true,
+      "antecedencia": "48 horas"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 36
+  },
+  {
+    "ano_inicio": 2019,
+    "ano_fim": 2021,
+    "tipo": "DC",
+    "id_canonico": "FIN_TRABALHO_FINS_SEMANA",
+    "numero_clausula_original": 65,
+    "titulo_original": "TRABALHO NOS FINS DE SEMANA",
+    "status": "MANTIDO",
+    "texto": "trabalho normal de 44 (quarenta e quatro) horas semanais, que trabalham regularmente nos fins de semana, receberão pelo trabalho excedente, em relação ao pessoal com jornada de 40 (quarenta) horas semanais, um valor complementar de 15% (quinze por cento) do salário-base pelas horas trabalhadas. §1º Para os efeitos desta cláusula, consideram-se como atividades operacionais as de atendimento, transporte, tratamento, encaminhamento e distribuição de objetos postais e as de suporte imprescindível à realização dessas atividades. §2° Qualquer empregado(a), independentemente de sua área de lotação, convocado(a) eventualmente pela autoridade competente, devidamente justificado, terá direito a um quarto de 15% (quinze por cento) por fim de semana trabalhado, limitado a 15% (quinze por cento) ao mês. §3º O(a) empregado(a) convocado(a) na forma prevista no parágrafo anterior, com jornada mínima de trabalho de 4 (quatro) horas, fará jus também a um Vale Alimentação ou Refeição (de acordo com a modalidade na qual está cadastrado), pelo dia trabalhado. §4º A Empresa se compromete, salvo em casos excepcionais, a realizar a convocação dos(as) empregados(as) nas situações previstas nesta cláusula com, no mínimo, 48 (quarenta e oito) horas de antecedência. 78 --- PAGINA 79 --DAS DISPOSIÇÕES GERAIS 79 --- PAGINA 80 --CLÁUSULA 66 TÍTULO VII DAS DISPOSIÇÕES GERAIS",
+    "novo_id": false
+  },
+  {
+    "ano_inicio": 2021,
+    "ano_fim": 2022,
+    "tipo": "DCG",
+    "id_canonico": "FIN_TRABALHO_FINS_SEMANA",
+    "numero_clausula_original": 24,
+    "titulo_original": "TRABALHO NOS FINS DE SEMANA (66ª do DCG 2019/2020)",
+    "status": "DEFERIDO",
+    "valor_atual": 15,
+    "unidade": "%",
+    "detalhes": {
+      "redacao": "Os (as) empregados (as) lotados (as) na Área Operacional com carga de trabalho normal de 44 horas semanais, que trabalham regularmente nos fins de semana, receberão pelo trabalho excedente, em relação ao pessoal com jornada de 40 horas semanais, um valor complementar de 15% (quinze por cento) do salário-base pelas horas trabalhadas. §1° Para os efeitos desta cláusula, consideram-se como atividades operacionais as de atendimento, transporte, tratamento, encaminhamento e distribuição de objetos postais... §2° Qualquer empregado (a)... convocado (a) eventualmente... terá direito a um quarto de 15% por fim de semana trabalhado, limitado a 15% ao mês. §3º O (a) empregado (a) convocado (a)... com jornada mínima de 4 horas, fará jus também a um vale alimentação ou refeição... §4º A Empresa se compromete a realizar a convocação... com, no mínimo, 48 horas de antecedência. §5º O trabalho nos finais de semana... não constitui jornada extraordinária dos empregados convocados para realizá-lo, uma vez que a jornada contratual dos empregados da ECT é de 44 horas",
+      "percentual": 15,
+      "base_calculo": "salário-base"
+    },
+    "memoria_negociacao": "Cláusula com quase 3 décadas, suprimida na sentença normativa anterior; restabelecida por ser cláusula social sedimentada no tempo, visando corrigir distorção entre empregados de 44h e 40h",
+    "observacao": "Acrescido §5º conforme sugestão do Ministro Ives Gandra Martins Filho",
+    "pagina_referencia": "25-28, 109-110"
+  },
+  {
+    "ano_inicio": 2022,
+    "ano_fim": 2023,
+    "tipo": "ACT",
+    "id_canonico": "FIN_TRABALHO_FINS_SEMANA",
+    "numero_clausula_original": 25,
+    "titulo_original": "TRABALHO NOS FINS DE SEMANA",
+    "status": "DEFERIDO",
+    "valor_atual": 15,
+    "unidade": "%",
+    "detalhes": {
+      "percentual": 15,
+      "base_calculo": "salário-base",
+      "publico_alvo": "área operacional com 44h semanais",
+      "convocacao_eventual": "1/4 de 15% por fim de semana, limitado a 15%/mês",
+      "vale_alimentacao": "jornada mínima de 4 horas",
+      "antecedencia_convocacao": "48 horas",
+      "nao_constitui_hora_extra": true
+    },
+    "memoria_negociacao": null,
+    "observacao": null,
+    "pagina_referencia": "5-6"
+  },
+  {
+    "ano_inicio": 2023,
+    "ano_fim": 2024,
+    "tipo": "ACT",
+    "id_canonico": "FIN_TRABALHO_FINS_SEMANA",
+    "numero_clausula_original": 59,
+    "titulo_original": "TRABALHO NOS FINS DE SEMANA",
+    "status": "DEFERIDO",
+    "valor_atual": 15,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 15,
+      "antecedencia": "48 horas",
+      "nao_extraordinaria": true
+    },
+    "memoria_negociacao": null,
+    "observacao": "Incluído §5º esclarecendo que não é hora extra.",
+    "pagina_referencia": "12"
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "FIN_TRABALHO_FINS_SEMANA",
+    "numero_clausula_original": 62,
+    "titulo_original": "TRABALHO NOS FINS DE SEMANA",
+    "status": "DEFERIDO",
+    "valor_anterior": null,
+    "valor_atual": 15,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 15,
+      "publico": "Área Operacional com jornada de 44 horas semanais",
+      "convocacao_eventual": "um quarto de 15% por fim de semana trabalhado, limitado a 15% ao mês",
+      "vale_alimentacao": true,
+      "antecedencia": "48 horas",
+      "nao_constitui_jornada_extraordinaria": true
+    },
+    "observacao": "No DC 2025/2026, a cláusula foi mantida.",
+    "pagina_referencia": 22
+  },
+  {
+    "ano_inicio": 2024,
+    "ano_fim": 2025,
+    "tipo": "ACT",
+    "id_canonico": "FIN_TRABALHO_FINS_SEMANA",
+    "numero_clausula_original": 76,
+    "titulo_original": "TRABALHO NOS FINS DE SEMANA",
+    "status": "DEFERIDO",
+    "valor_anterior": 15,
+    "valor_atual": 15,
+    "unidade": "percentual",
+    "detalhes": {
+      "percentual": 15,
+      "publico": "Área Operacional com jornada de 44 horas semanais",
+      "vale_alimentacao": true,
+      "antecedencia": "48 horas"
+    },
+    "memoria_negociacao": {
+      "proposta_ect": "Manutenção da cláusula",
+      "pedido_fentect": "Manutenção",
+      "pedido_findect": "Manutenção",
+      "decisao_tst": "DEFERE nos termos propostos",
+      "fundamento_juridico": "Cláusula preexistente",
+      "votos_divergentes": null
+    },
+    "observacao": null,
+    "pagina_referencia": 31
+  },
+  {
+    "ano_inicio": 2025,
+    "ano_fim": 2026,
+    "tipo": "DCG",
+    "id_canonico": "FIN_TRABALHO_FINS_SEMANA",
+    "numero_clausula_original": 76,
+    "titulo_original": "TRABALHO NOS FINS DE SEMANA",
+    "status": "DEFERIDO",
+    "valor_atual": 15,
+    "unidade": "%",
+    "detalhes": {
+      "percentual": 15,
+      "publico": "Área Operacional com jornada de 44 horas semanais",
+      "vale_alimentacao": true,
+      "antecedencia": "48 horas",
+      "nao_extraordinaria": true
+    },
+    "pagina_referencia": "86-87"
+  }
+]
