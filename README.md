@@ -3,7 +3,7 @@
 Site de memória sindical dos trabalhadores dos Correios: 38 anos de
 Acordos Coletivos (ACTs), Dissídios Coletivos (DCs) e conquistas.
 
-**No ar em:** https://obs-sorocaba.github.io/Memoria_sindical/
+**No ar em:** https://github.com/projetosciviltech/Memoria_sindical/
 
 ## Estrutura
 
