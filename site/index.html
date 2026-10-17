@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Memória Sindical | Raio-X da Luta dos Correios</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/identidade.css">
+  <link rel="stylesheet" href="assets/style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+</head>
+<body>
+
+  <header class="hero">
+    <span class="punho" aria-hidden="true">✊</span>
+    <h1>Raio-X da Luta</h1>
+    <p class="subtitulo">A memória sindical dos trabalhadores dos Correios.<br>
+      <strong>38 anos</strong> de Acordos, Dissídios, greves e conquistas.<br>Sem maquiagem. Sem meias verdades.</p>
+  </header>
+
+  <nav class="nav">
+    <ul>
+      <li><a href="index.html" class="ativo">Início</a></li>
+      <li><a href="financeiro.html">Financeiro</a></li>
+      <li><a href="direitos.html">Direitos</a></li>
+    </ul>
+  </nav>
+
+  <main class="container">
+    <section class="secao">
+      <div class="secao-titulo"><span class="icone">📖</span><h2>Sobre o projeto</h2></div>
+      <p class="descricao">O <strong>Raio-X da Luta</strong> reúne, organiza e visualiza tudo o que foi negociado em Acordos Coletivos e Dissídios dos Correios (1988–2026). Uma ferramenta de memória sindical.</p>
+    </section>
+
+    <section class="secao" id="pessoal">
+      <div class="secao-titulo"><span class="icone">👥</span><h2>Quadro de Pessoal</h2></div>
+      <p class="descricao">O quadro cresceu de <strong>~70 mil</strong> nos anos 80, atingiu o pico de <strong>~135 mil em 2014</strong> e hoje se estabiliza em <strong>~90 mil</strong>. A análise abaixo combina <strong>dados reais</strong> (1989-2025) com <strong>projeções</strong> (2026-2035) baseadas em tendências históricas e cenários de PDV.</p>
+
+      <div class="kpis">
+        <div class="kpi"><div class="rotulo">Efetivo atual (2025)</div><div class="valor">~90.000</div><div class="variacao negativa">▼ 33% desde o pico de 2014</div></div>
+        <div class="kpi"><div class="rotulo">Pico histórico</div><div class="valor">~135.000</div><div class="variacao">atingido em 2014</div></div>
+        <div class="kpi"><div class="rotulo">Cenário projetado 2035</div><div class="valor" id="kpi-2035">~65.000</div><div class="variacao negativa" id="kpi-queda">▼ calculando...</div></div>
+        <div class="kpi"><div class="rotulo">PDV 2026 (realizado)</div><div class="valor">~10.100</div><div class="variacao negativa">3.100 (PDV1) + 7.000 (PDV-E)</div></div>
+      </div>
+
+      <!-- GRÁFICO 1: EVOLUÇÃO DO EFETIVO -->
+      <div class="grafico-card">
+        <h3>Evolução do Efetivo dos Correios (1989–2035)</h3>
+        <p class="descricao">
+          <strong>Linha contínua preta:</strong> dados reais de admissões e desligamentos (1989-2025).<br>
+          <strong>Linha tracejada vermelha:</strong> <em>projeção</em> considerando aposentadorias naturais + PDV voluntário (2026-2035).<br>
+          <em>⚠️ A linha tracejada representa um cenário projetado, não dados reais. A realidade pode divergir significativamente.</em>
+        </p>
+        <div class="painel-animacao">
+          <div class="indicador-tempo"><span class="rotulo">Ano:</span><span class="ano-destaque" id="ano-efetivo">1989</span><span class="status-governo" id="fase-efetivo">Expansão inicial</span></div>
+        </div>
+        <div class="grafico-wrapper alto"><canvas id="grafico-efetivo"></canvas></div>
+      </div>
+
+      <!-- GRÁFICO 2: ONDAS DE APOSENTADORIA -->
+      <div class="grafico-card">
+        <h3>Ondas de Aposentadoria por Era Legal (1989–2026)</h3>
+        <p class="descricao">Cada pico corresponde a uma corrida previdenciária antes das mudanças legislativas. <strong>Dados reais</strong> de desligamentos com 25+ anos de casa.</p>
+        <div class="painel-animacao">
+          <div class="indicador-tempo"><span class="rotulo">Ano:</span><span class="ano-destaque" id="ano-ondas">1989</span><span class="status-governo" id="era-ondas">Era Clássica</span></div>
+        </div>
+        <div class="grafico-wrapper alto"><canvas id="grafico-ondas"></canvas></div>
+      </div>
+
+      <!-- GRÁFICO 3: PROJEÇÃO COM PDV -->
+      <div class="grafico-card">
+        <h3>Cenário Projetado de Saídas (2026–2035)</h3>
+        <p class="descricao">
+          <strong>️ ATENÇÃO: Este gráfico mostra PROJEÇÕES, não dados reais.</strong><br>
+          Barras empilhadas: estimativa de aposentadorias naturais + PDV voluntário.<br>
+          Linha tracejada: efetivo projetado.<br><br>
+          <strong>Base da projeção:</strong> PDV 2026 registrou ~10.100 adesões (3.100 do PDV1 + 7.000 do PDV-E). 
+          Ritmo contínuo de ~3.000/ano de 2027 a 2035.<br><br>
+          <em>Por que projeções podem falhar? Mudanças legislativas, novos PDVs, concursos públicos, 
+          variações econômicas e decisões individuais podem alterar significativamente esses números.</em>
+        </p>
+        <div class="grafico-wrapper alto"><canvas id="grafico-projecao"></canvas></div>
+      </div>
+
+      <!-- GRÁFICO 4: RAIO-X -->
+      <div class="grafico-card">
+        <h3>Raio-X: Quem Já Pode Se Aposentar Hoje?</h3>
+        <p class="descricao">Retrato do quadro ativo classificado por tempo de serviço. <strong>Dados reais</strong> da base atual.</p>
+        <div class="grafico-wrapper"><canvas id="grafico-raiox"></canvas></div>
+      </div>
+
+      <div class="nota-explicativa">
+        <h3>⚠️ Nota Metodológica: Dados Reais vs. Projeções</h3>
+        
+        <p><strong>📊 Dados Reais (1989-2025):</strong> Todos os gráficos de evolução histórica e ondas de aposentadoria utilizam dados reais de admissões e desligamentos extraídos da base de pessoal dos Correios.</p>
+        
+        <p><strong>🔮 Projeções (2026-2035):</strong> Os números futuros são <strong>cenários projetados</strong>, não previsões certeiras. São baseados em:</p>
+        <ul style="margin-left: 1.5rem; margin-bottom: 1rem;">
+          <li>Tendências históricas de aposentadorias naturais</li>
+          <li>Dados reais de PDV de 2026 (~10.100 adesões)</li>
+          <li>Estimativa de ~3.000 PDVs/ano de 2027-2035 (ritmo conservador)</li>
+        </ul>
+        
+        <p><strong>⚠️ Por que as projeções podem divergir da realidade?</strong></p>
+        <ul style="margin-left: 1.5rem; margin-bottom: 1rem;">
+          <li><strong>Mudanças legislativas:</strong> Novas reformas da previdência podem acelerar ou retardar aposentadorias</li>
+          <li><strong>Novos PDVs:</strong> A empresa pode lançar novos planos com metas diferentes</li>
+          <li><strong>Concursos públicos:</strong> Contratações em massa podem recompor o quadro</li>
+          <li><strong>Variações econômicas:</strong> Crises ou crescimento afetam decisões individuais</li>
+          <li><strong>Tempo de contribuição anterior:</strong> Muitos funcionários têm tempo em outros empregos que antecipa a aposentadoria</li>
+        </ul>
+        
+        <p><strong>🎯 Como usar estas projeções:</strong> Tratá-las como <strong>ferramenta de planejamento sindical</strong>, não como fato consumado. Servem para dimensionar riscos, planejar campanhas e pressionar por concursos, mas devem ser constantemente atualizadas com dados reais à medida que os anos avançam.</p>
+        
+        <p><strong>📝 Limitação adicional:</strong> A análise considera exclusivamente tempo de serviço nos Correios. Funcionários com tempo anterior em outras empresas podem se aposentar 3-5 anos antes do projetado.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p><strong>Memória Sindical</strong> — Raio-X da Luta dos Trabalhadores dos Correios</p>
+    <p style="margin-top: 0.5rem; font-size: 0.85rem;">
+      Dados reais (1989-2025) extraídos da base de pessoal. Projeções (2026-2035) baseadas em tendências e cenários de PDV.
+    </p>
+  </footer>
+
+  <script src="assets/lazy-charts.js"></script>
+  <script>
+  'use strict';
+  const PALETA = { 
+    vermelho: '#C8102E', vermelhoEscuro: '#8B0000', preto: '#1A1A1A', 
+    especial: '#FF5733', tempoContrib: '#003366', idade: '#28A745', 
+    pdv: '#9B59B6',
+    eraClassica: '#81C784', eraTransicao: '#FFB74D', eraPosReforma: '#E57373' 
+  };
+  let DADOS_EFETIVO, DADOS_PROJ, DADOS_ONDAS, DADOS_RAIOX;
+
+    async function carregarDados() {
+    if (DADOS_EFETIVO) return;
+    const [res1, res2, res3, res4] = await Promise.all([
+      fetch('dados/efetivo_historico_projecao.json'),
+      fetch('dados/projecao_2026_2035.json'),
+      fetch('dados/ondas_aposentadoria.json'),
+      fetch('dados/raiox_aposentados.json')
+    ]);
+    if (!res1.ok || !res2.ok || !res3.ok || !res4.ok) throw new Error('Falha ao carregar JSONs');
+    
+    DADOS_EFETIVO = await res1.json();
+    DADOS_PROJ = await res2.json();
+    DADOS_ONDAS = await res3.json();
+    DADOS_RAIOX = await res4.json();
+
+    // DEBUG: Verificar no console do navegador se os dados estão limpos
+    console.log("✅ DADOS CARREGADOS:");
+    console.log("Efetivo 2025 (Real):", DADOS_EFETIVO.efetivo_real[DADOS_EFETIVO.anos.indexOf(2025)]);
+    console.log("Efetivo 2026 (Projeção):", DADOS_EFETIVO.efetivo_projecao[DADOS_EFETIVO.anos.indexOf(2026)]);
+  }
+
+  class AnimacaoTemporal {
+    constructor({ anoId, statusId, dados, renderFn, intervaloMs = 120, tipo = 'efetivo' }) {
+      this.anoEl = document.getElementById(anoId);
+      this.statusEl = document.getElementById(statusId);
+      this.dados = dados;
+      this.renderFn = renderFn;
+      this.intervaloMs = intervaloMs;
+      this.tipo = tipo;
+      this.indiceAtual = 0;
+      this.timer = null;
+      this.rodando = false;
+      this.renderFn(0);
+      this.atualizarIndicador(0);
+      this.play();
+    }
+    play() {
+      if (this.rodando) return;
+      this.rodando = true;
+      this.tick();
+    }
+    pause() { this.rodando = false; clearTimeout(this.timer); }
+    tick() {
+      if (!this.rodando) return;
+      this.indiceAtual++;
+      if (this.indiceAtual >= this.dados.anos.length) {
+        this.pause();
+        setTimeout(() => {
+          this.indiceAtual = 0;
+          this.renderFn(0);
+          this.atualizarIndicador(0);
+          this.play();
+        }, 3000);
+        return;
+      }
+      this.renderFn(this.indiceAtual);
+      this.atualizarIndicador(this.indiceAtual);
+      this.timer = setTimeout(() => this.tick(), this.intervaloMs);
+    }
+    atualizarIndicador(i) {
+      if (this.anoEl && this.dados.anos[i]) this.anoEl.textContent = this.dados.anos[i];
+      if (this.statusEl) {
+        const ano = this.dados.anos[i];
+        if (this.tipo === 'efetivo') {
+          if (ano < 1995) this.statusEl.textContent = 'Expansão inicial';
+          else if (ano < 2012) this.statusEl.textContent = 'Crescimento acelerado';
+          else if (ano < 2015) this.statusEl.textContent = 'Pico histórico';
+          else if (ano < 2020) this.statusEl.textContent = 'Declínio pós-pico';
+          else if (ano < 2026) this.statusEl.textContent = 'Redução acelerada';
+          else this.statusEl.textContent = 'Projeção (cenário)';
+        } else if (this.tipo === 'ondas') {
+          if (ano <= 1994) this.statusEl.textContent = 'Era Clássica';
+          else if (ano <= 2019) this.statusEl.textContent = 'Transição Pré-Reforma';
+          else this.statusEl.textContent = 'Pós-Reforma (EC 103)';
+        }
+      }
+    }
+  }
+
+  lazyChart('grafico-efetivo', async () => {
+    await carregarDados();
+    const ctx = document.getElementById('grafico-efetivo').getContext('2d');
+    window.chartEfetivo = new Chart(ctx, {
+      type: 'line',
+      data: {
+        labels: DADOS_EFETIVO.anos,
+        datasets: [
+          { label: 'Efetivo Real (1989-2025)', data: [], borderColor: PALETA.preto, backgroundColor: 'rgba(26,26,26,0.08)', borderWidth: 3, fill: true, tension: 0.3, pointRadius: 0 },
+          { label: 'Projeção (2026-2035)', data: [], borderColor: PALETA.vermelho, backgroundColor: 'rgba(200,16,46,0.08)', borderWidth: 3, borderDash: [8, 4], fill: true, tension: 0.3, pointRadius: 0 }
+        ]
+      },
+      options: {
+        responsive: true, maintainAspectRatio: false, animation: false,
+        plugins: { 
+          legend: { position: 'top' },
+          tooltip: {
+            callbacks: {
+              label: function(context) {
+                const ano = DADOS_EFETIVO.anos[context.dataIndex];
+                const label = context.dataset.label;
+                const valor = context.parsed.y;
+                if (ano >= 2026 && label.includes('Projeção')) {
+                  return `${label}: ~${Math.round(valor/1000)}k (cenário projetado)`;
+                }
+                return `${label}: ${Math.round(valor/1000)}k`;
+              }
+            }
+          }
+        },
+        scales: {
+          y: { 
+            ticks: { callback: v => (v/1000) + 'k' },
+            title: { display: true, text: 'Efetivo' }
+          }
+        }
+      }
+    });
+    const idxInicioProj = DADOS_EFETIVO.anos.indexOf(2025);
+    window.animEfetivo = new AnimacaoTemporal({
+      anoId: 'ano-efetivo', statusId: 'fase-efetivo', dados: DADOS_EFETIVO, tipo: 'efetivo', intervaloMs: 120,
+      renderFn: (i) => {
+        window.chartEfetivo.data.datasets[0].data = DADOS_EFETIVO.efetivo_real.map((v, idx) => idx <= i ? v : null);
+        window.chartEfetivo.data.datasets[1].data = DADOS_EFETIVO.efetivo_projecao.map((v, idx) => {
+          if (idx > i) return null;
+          return idx >= idxInicioProj ? v : null;
+        });
+        window.chartEfetivo.update('none');
+      }
+    });
+  });
+
+  lazyChart('grafico-ondas', async () => {
+    await carregarDados();
+    const ctx = document.getElementById('grafico-ondas').getContext('2d');
+    window.chartOndas = new Chart(ctx, {
+      type: 'bar',
+      data: {
+        labels: DADOS_ONDAS.anos,
+        datasets: [
+          { label: 'Era Clássica (até 1994)', data: [], backgroundColor: PALETA.eraClassica },
+          { label: 'Transição (1995-2019)', data: [], backgroundColor: PALETA.eraTransicao },
+          { label: 'Pós-Reforma (2020+)', data: [], backgroundColor: PALETA.eraPosReforma }
+        ]
+      },
+      options: {
+        responsive: true, maintainAspectRatio: false, animation: false,
+        scales: { x: { stacked: true }, y: { stacked: true, ticks: { callback: v => (v/1000) + 'k' } } }
+      }
+    });
+    window.animOndas = new AnimacaoTemporal({
+      anoId: 'ano-ondas', statusId: 'era-ondas', dados: DADOS_ONDAS, tipo: 'ondas', intervaloMs: 120,
+      renderFn: (i) => {
+        window.chartOndas.data.datasets[0].data = DADOS_ONDAS.classica.map((v, idx) => idx <= i ? v : null);
+        window.chartOndas.data.datasets[1].data = DADOS_ONDAS.transicao.map((v, idx) => idx <= i ? v : null);
+        window.chartOndas.data.datasets[2].data = DADOS_ONDAS.posReforma.map((v, idx) => idx <= i ? v : null);
+        window.chartOndas.update('none');
+      }
+    });
+  });
+
+  lazyChart('grafico-projecao', async () => {
+    await carregarDados();
+    const ctx = document.getElementById('grafico-projecao').getContext('2d');
+    new Chart(ctx, {
+      type: 'bar',
+      data: {
+        labels: DADOS_PROJ.anos,
+        datasets: [
+          { type: 'bar', label: 'Especial (25 anos)', data: DADOS_PROJ.especial, backgroundColor: PALETA.especial, yAxisID: 'y', order: 3 },
+          { type: 'bar', label: 'Tempo de Contribuição', data: DADOS_PROJ.tempoContrib, backgroundColor: PALETA.tempoContrib, yAxisID: 'y', order: 3 },
+          { type: 'bar', label: 'Aposentadoria por Idade', data: DADOS_PROJ.idade, backgroundColor: PALETA.idade, yAxisID: 'y', order: 3 },
+          { type: 'bar', label: 'PDV Voluntário', data: DADOS_PROJ.pdv, backgroundColor: PALETA.pdv, yAxisID: 'y', order: 2 },
+          { type: 'line', label: 'Efetivo Projetado', data: DADOS_PROJ.efetivo, borderColor: PALETA.vermelhoEscuro, backgroundColor: 'rgba(139,0,0,0.08)', borderWidth: 3, borderDash: [8, 4], pointRadius: 4, yAxisID: 'y1', order: 1 }
+        ]
+      },
+      options: {
+        responsive: true, maintainAspectRatio: false, animation: false,
+        plugins: { 
+          legend: { position: 'top' },
+          tooltip: {
+            callbacks: {
+              label: function(context) {
+                const ano = DADOS_PROJ.anos[context.dataIndex];
+                const label = context.dataset.label;
+                const valor = context.parsed.y;
+                if (ano >= 2026) {
+                  return `${label}: ~${Math.round(valor/1000)}k (projeção)`;
+                }
+                return `${label}: ${Math.round(valor/1000)}k`;
+              }
+            }
+          }
+        },
+        scales: {
+          x: { grid: { display: false } },
+          y: { type: 'linear', position: 'left', ticks: { callback: v => (v/1000) + 'k' }, title: { display: true, text: 'Saídas projetadas/ano' } },
+          y1: { type: 'linear', position: 'right', grid: { drawOnChartArea: false }, ticks: { callback: v => (v/1000) + 'k' }, title: { display: true, text: 'Efetivo projetado' } }
+        }
+      }
+    });
+    // Atualizar KPIs com dados reais
+    const efetivo2035 = DADOS_PROJ.efetivo[DADOS_PROJ.efetivo.length - 1];
+    const queda = DADOS_PROJ.efetivo[0] - efetivo2035;
+    const pctQueda = (queda / DADOS_PROJ.efetivo[0] * 100).toFixed(0);
+    document.getElementById('kpi-2035').textContent = '~' + Math.round(efetivo2035/1000) + '.000';
+    document.getElementById('kpi-queda').textContent = '▼ ' + pctQueda + '% em 10 anos (cenário projetado)';
+  });
+
+  lazyChart('grafico-raiox', async () => {
+    await carregarDados();
+    const ctx = document.getElementById('grafico-raiox').getContext('2d');
+    new Chart(ctx, {
+      type: 'bar',
+      data: {
+        labels: DADOS_RAIOX.labels,
+        datasets: [
+          { label: 'Quadro Geral', data: DADOS_RAIOX.geral, backgroundColor: [PALETA.vermelhoEscuro, PALETA.especial, PALETA.eraTransicao, PALETA.eraClassica, '#CCCCCC'] },
+          { label: 'Apenas Carteiros', data: DADOS_RAIOX.carteiros, backgroundColor: ['rgba(139,0,0,0.4)', 'rgba(255,87,51,0.4)', 'rgba(255,183,77,0.4)', 'rgba(129,199,132,0.4)', 'rgba(204,204,204,0.4)'], borderDash: [4, 2] }
+        ]
+      },
+      options: { indexAxis: 'y', responsive: true, maintainAspectRatio: false, animation: { duration: 800 }, scales: { x: { ticks: { callback: v => (v/1000) + 'k' } } } }
+    });
+  });
+  </script>
+</body>
+</html>
