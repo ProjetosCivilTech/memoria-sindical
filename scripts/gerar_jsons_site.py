@@ -1,12 +1,9 @@
 """
 ================================================================
-CONVERSOR EXCEL → JSON (Memória Sindical)
+CONVERSOR EXCEL → JSON (Memória Sindical v2.0)
 ================================================================
 Lê o arquivo 'pessoal_tratado.xlsx' e gera os 4 arquivos JSON 
-otimizados para o frontend do site, aplicando as transformações 
-necessárias (como o overlap de 2025 para gráficos contínuos).
-
-Requisitos: pip install pandas
+otimizados para o frontend, incluindo dados de PDV voluntário.
 ================================================================
 """
 
@@ -25,10 +22,9 @@ CAMINHO_XLSX = os.path.join(BASE_DIR, "dados", "pessoal_tratado.xlsx")
 PASTA_JSON_SITE = os.path.join(BASE_DIR, "site", "dados")
 
 print("=" * 70)
-print("🔄 CONVERTENDO DADOS DO EXCEL PARA JSON DO SITE")
+print("🔄 CONVERTENDO EXCEL → JSON (v2.0 com PDV)")
 print("=" * 70)
 
-# Garantir que a pasta de destino existe
 os.makedirs(PASTA_JSON_SITE, exist_ok=True)
 
 # ============================================================
@@ -41,35 +37,28 @@ df_proj = pd.read_excel(CAMINHO_XLSX, sheet_name='Projecao_2026_2035')
 df_raiox = pd.read_excel(CAMINHO_XLSX, sheet_name='RaioX_Aposentados')
 
 # ============================================================
-# 3. PREPARAR JSON 1: EFETIVO HISTÓRICO + PROJEÇÃO (COM OVERLAP)
+# 3. JSON 1: EFETIVO HISTÓRICO + PROJEÇÃO (COM OVERLAP 2025)
 # ============================================================
 print("\n📊 Processando: efetivo_historico_projecao.json")
 
-# Anos totais do gráfico (1989 a 2035)
 anos_totais = list(range(1989, 2036))
-
-# Mapear dados históricos
 hist_dict = dict(zip(df_efetivo['Ano'], df_efetivo['Efetivo']))
-
-# Mapear dados de projeção
 proj_dict = dict(zip(df_proj['Ano'], df_proj['Efetivo_Projetado']))
-val_2025 = hist_dict.get(2025, 90000) # Fallback de segurança
+val_2025 = hist_dict.get(2025, 90000)
 
 efetivo_real = []
 efetivo_projecao = []
 
 for ano in anos_totais:
-    # Linha preta: mostra até 2025, depois null
     if ano <= 2025:
         efetivo_real.append(hist_dict.get(ano, None))
     else:
         efetivo_real.append(None)
     
-    # Linha vermelha: null até 2024, valor em 2025 (overlap!), depois projeção
     if ano < 2025:
         efetivo_projecao.append(None)
     elif ano == 2025:
-        efetivo_projecao.append(val_2025) # O SEGREDO DA CONEXÃO PERFEITA
+        efetivo_projecao.append(val_2025)
     else:
         efetivo_projecao.append(proj_dict.get(ano, None))
 
@@ -80,15 +69,15 @@ dados_efetivo = {
 }
 
 # ============================================================
-# 4. PREPARAR JSON 2: PROJEÇÃO DETALHADA (2025-2035)
+# 4. JSON 2: PROJEÇÃO DETALHADA (2025-2035) COM PDV
 # ============================================================
 print("📊 Processando: projecao_2026_2035.json")
 
-# Adicionamos 2025 com valor 0 nas saídas para o gráfico estático começar suavemente
 anos_proj_grafico = [2025] + df_proj['Ano'].tolist()
 especial = [0] + df_proj['Especial_25_anos'].tolist()
 tempo_c = [0] + df_proj['Tempo_Contribuicao'].tolist()
 idade = [0] + df_proj['Aposentadoria_Idade'].tolist()
+pdv = [0] + df_proj['PDV_Voluntario'].tolist()
 efetivo_proj_grafico = [val_2025] + df_proj['Efetivo_Projetado'].tolist()
 
 dados_projecao = {
@@ -96,15 +85,15 @@ dados_projecao = {
     "especial": especial,
     "tempoContrib": tempo_c,
     "idade": idade,
+    "pdv": pdv,
     "efetivo": efetivo_proj_grafico
 }
 
 # ============================================================
-# 5. PREPARAR JSON 3: ONDAS DE APOSENTADORIA
+# 5. JSON 3: ONDAS DE APOSENTADORIA
 # ============================================================
-print("📊 Processando: ondas_aposentadoria.json")
+print(" Processando: ondas_aposentadoria.json")
 
-# Renomear colunas para corresponder ao frontend
 df_ondas_renamed = df_ondas.rename(columns={
     'Era Classica (ate 1994)': 'classica',
     'Transicao Pre-Reforma (1995-2019)': 'transicao',
@@ -119,11 +108,10 @@ dados_ondas = {
 }
 
 # ============================================================
-# 6. PREPARAR JSON 4: RAIO-X DE APOSENTADOS
+# 6. JSON 4: RAIO-X DE APOSENTADOS
 # ============================================================
 print("📊 Processando: raiox_aposentados.json")
 
-# Limpar nomes das categorias para o frontend
 labels_limpos = [
     'Já Elegível (35+ anos)',
     'Já Elegível (Especial 25+)',
@@ -141,7 +129,7 @@ dados_raiox = {
 # ============================================================
 # 7. EXPORTAR JSONs
 # ============================================================
-print("\n💾 Salvando arquivos JSON na pasta do site...")
+print("\n💾 Salvando arquivos JSON...")
 
 arquivos = {
     "efetivo_historico_projecao.json": dados_efetivo,
@@ -153,11 +141,9 @@ arquivos = {
 for nome_arquivo, dados in arquivos.items():
     caminho_saida = os.path.join(PASTA_JSON_SITE, nome_arquivo)
     with open(caminho_saida, 'w', encoding='utf-8') as f:
-        # ensure_ascii=False preserva acentos, indent=2 deixa legível
         json.dump(dados, f, ensure_ascii=False, indent=2)
     print(f"  ✅ {nome_arquivo}")
 
 print("\n" + "=" * 70)
-print("🎉 SUCESSO! O site está pronto para ser atualizado.")
-print("   Basta fazer o git add, commit e push dos arquivos JSON.")
+print("🎉 SUCESSO! JSONs gerados com dados de PDV incorporados.")
 print("=" * 70)
