@@ -1,0 +1,14 @@
+# OCR abaixo de 80.0% — revisar manualmente
+
+ 47.4%   19p OCR  Acordo-Coletivo-2000-2001.pdf
+ 68.8%    8p OCR  Acordo-Coletivo-1989.pdf
+ 71.3%    4p OCR  Acordo-Coletivo-1995-1996-Aditamento.pdf
+ 72.0%    7p OCR  Acordo-Coletivo-1990-Suplementar.pdf
+ 73.6%   15p OCR  Acordo-coletivo-1994-1995.pdf
+ 74.7%   11p OCR  Acordo-Coletivo-1991-parcial.pdf
+ 76.9%   16p OCR  Acordo-Coletivo-1998-1999.pdf
+ 77.6%   13p OCR  Acordo-Coletivo-2002-2003.pdf
+ 78.3%   18p OCR  Acordo-Coletivo-1999-2000.pdf
+ 79.3%    9p OCR  Acordo-Coletivo-1992_red.pdf
+ 79.4%   15p OCR  Acordo-Coletivo-1990_red.pdf
+
